@@ -41,12 +41,13 @@ def fetch_listings():
     }
 
     # RentCast listings/sale endpoint
-    # Docs: https://developers.rentcast.io/reference/listings
+    # Docs: https://developers.rentcast.io/reference/sale-listings
     params = {
         'city': CITY,
         'state': STATE,
         'status': 'Active',
-        'limit': 50  # Adjust based on your API quota
+        'daysOld': 7,  # Only listings from the last 7 days
+        'limit': 50    # Adjust based on your API quota
     }
 
     print(f'Fetching listings for {CITY}, {STATE}...')
@@ -76,6 +77,9 @@ def fetch_listings():
 
 def transform_listing(listing):
     """Transform RentCast listing to our frontend format."""
+    agent = listing.get('listingAgent') or {}
+    office = listing.get('listingOffice') or {}
+
     return {
         'id': listing.get('id'),
         'addressLine1': listing.get('addressLine1') or listing.get('formattedAddress'),
@@ -88,8 +92,18 @@ def transform_listing(listing):
         'squareFootage': listing.get('squareFootage'),
         'propertyType': listing.get('propertyType'),
         'listedDate': listing.get('listedDate'),
+        'daysOnMarket': listing.get('daysOnMarket'),
         'latitude': listing.get('latitude'),
         'longitude': listing.get('longitude'),
+        'agent': {
+            'name': agent.get('name'),
+            'phone': agent.get('phone'),
+            'email': agent.get('email'),
+        },
+        'office': {
+            'name': office.get('name'),
+            'phone': office.get('phone'),
+        },
     }
 
 

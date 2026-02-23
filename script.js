@@ -104,6 +104,10 @@ function createPropertyCard(property) {
         ? new Date(property.listedDate).toLocaleDateString()
         : 'N/A';
 
+    const agent = property.agent || {};
+    const office = property.office || {};
+    const agentInfo = formatAgentInfo(agent, office);
+
     return `
         <article class="property-card">
             <div class="property-image">
@@ -117,6 +121,7 @@ function createPropertyCard(property) {
                     <span class="feature"><strong>${property.bathrooms || '--'}</strong> baths</span>
                     <span class="feature"><strong>${formatSqft(property.squareFootage)}</strong> sqft</span>
                 </div>
+                ${agentInfo}
                 <div class="property-meta">
                     <span class="property-type">${property.propertyType || 'Residential'}</span>
                     <span>Listed: ${listedDate}</span>
@@ -124,6 +129,26 @@ function createPropertyCard(property) {
             </div>
         </article>
     `;
+}
+
+function formatAgentInfo(agent, office) {
+    const parts = [];
+
+    if (agent.name) {
+        let agentLine = `<strong>${agent.name}</strong>`;
+        if (agent.phone) {
+            agentLine += ` <a href="tel:${agent.phone}">${agent.phone}</a>`;
+        }
+        parts.push(agentLine);
+    }
+
+    if (office.name) {
+        parts.push(`<span class="office-name">${office.name}</span>`);
+    }
+
+    if (parts.length === 0) return '';
+
+    return `<div class="agent-info">${parts.join('<br>')}</div>`;
 }
 
 function updateStats(properties) {

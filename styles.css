@@ -199,6 +199,34 @@ header h1 {
     text-transform: capitalize;
 }
 
+/* Agent Info */
+.agent-info {
+    margin-top: 1rem;
+    padding: 0.75rem;
+    background: var(--bg);
+    border-radius: 0.375rem;
+    font-size: 0.85rem;
+    line-height: 1.5;
+}
+
+.agent-info strong {
+    color: var(--text);
+}
+
+.agent-info a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.agent-info a:hover {
+    text-decoration: underline;
+}
+
+.agent-info .office-name {
+    color: var(--text-light);
+    font-size: 0.8rem;
+}
+
 /* Loading State */
 .loading {
     grid-column: 1 / -1;
