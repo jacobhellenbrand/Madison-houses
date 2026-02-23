@@ -21,9 +21,12 @@ import requests
 RENTCAST_API_KEY = os.environ.get('RENTCAST_API_KEY')
 BASE_URL = 'https://api.rentcast.io/v1'
 
-# Madison, WI area
+# Madison, WI area (center point for radius search)
 CITY = 'Madison'
 STATE = 'WI'
+MADISON_LAT = 43.0731
+MADISON_LNG = -89.4012
+SEARCH_RADIUS_MILES = 15  # Includes Middleton, Sun Prairie, Fitchburg, Verona, etc.
 
 # Output path (relative to repo root)
 OUTPUT_PATH = Path(__file__).parent.parent / 'data' / 'properties.json'
@@ -42,16 +45,18 @@ def fetch_listings():
 
     # RentCast listings/sale endpoint
     # Docs: https://developers.rentcast.io/reference/sale-listings
+    # Using radius search to include Madison suburbs
     params = {
-        'city': CITY,
-        'state': STATE,
+        'latitude': MADISON_LAT,
+        'longitude': MADISON_LNG,
+        'radius': SEARCH_RADIUS_MILES,
         'status': 'Active',
         'daysOld': 7,       # Only listings from the last 7 days
-        'priceMin': 300000, # Minimum $300k to filter out land/lots
+        'priceMin': 200000, # Minimum $200k to filter out land/lots
         'limit': 50         # Adjust based on your API quota
     }
 
-    print(f'Fetching listings for {CITY}, {STATE}...')
+    print(f'Fetching listings within {SEARCH_RADIUS_MILES} miles of {CITY}, {STATE}...')
 
     try:
         response = requests.get(

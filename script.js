@@ -137,9 +137,13 @@ function formatAgentInfo(agent, office) {
     if (agent.name) {
         let agentLine = `<strong>${agent.name}</strong>`;
         if (agent.phone) {
-            agentLine += ` <a href="tel:${agent.phone}">${agent.phone}</a>`;
+            agentLine += ` <a href="tel:${agent.phone}">${formatPhone(agent.phone)}</a>`;
         }
         parts.push(agentLine);
+    }
+
+    if (agent.email) {
+        parts.push(`<a href="mailto:${agent.email}">${agent.email}</a>`);
     }
 
     if (office.name) {
@@ -149,6 +153,15 @@ function formatAgentInfo(agent, office) {
     if (parts.length === 0) return '';
 
     return `<div class="agent-info">${parts.join('<br>')}</div>`;
+}
+
+function formatPhone(phone) {
+    if (!phone) return '';
+    const cleaned = phone.replace(/\D/g, '');
+    if (cleaned.length === 10) {
+        return `(${cleaned.slice(0,3)}) ${cleaned.slice(3,6)}-${cleaned.slice(6)}`;
+    }
+    return phone;
 }
 
 function updateStats(properties) {
