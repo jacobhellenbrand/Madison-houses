@@ -28,6 +28,9 @@ MADISON_LAT = 43.0731
 MADISON_LNG = -89.4012
 SEARCH_RADIUS_MILES = 15  # Includes Middleton, Sun Prairie, Fitchburg, Verona, etc.
 
+# Property types to exclude
+EXCLUDED_TYPES = ['Manufactured', 'Land']
+
 # Output path (relative to repo root)
 OUTPUT_PATH = Path(__file__).parent.parent / 'data' / 'properties.json'
 
@@ -117,7 +120,11 @@ def save_data(listings):
     """Save listings to JSON file for frontend consumption."""
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
-    transformed = [transform_listing(l) for l in listings]
+    # Filter out excluded property types (Manufactured, Land)
+    filtered = [l for l in listings if l.get('propertyType') not in EXCLUDED_TYPES]
+    print(f'Filtered out {len(listings) - len(filtered)} Manufactured/Land listings')
+
+    transformed = [transform_listing(l) for l in filtered]
 
     data = {
         'lastUpdated': datetime.utcnow().isoformat() + 'Z',
