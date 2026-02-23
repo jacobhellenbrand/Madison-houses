@@ -1,0 +1,73 @@
+{
+  "lastUpdated": "2025-02-23T00:00:00Z",
+  "city": "Madison",
+  "state": "WI",
+  "totalCount": 5,
+  "properties": [
+    {
+      "id": "sample-1",
+      "addressLine1": "123 State Street",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 425000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1850,
+      "propertyType": "Single Family",
+      "listedDate": "2025-02-20"
+    },
+    {
+      "id": "sample-2",
+      "addressLine1": "456 Monroe Street",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 375000,
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "squareFootage": 1400,
+      "propertyType": "Condo",
+      "listedDate": "2025-02-18"
+    },
+    {
+      "id": "sample-3",
+      "addressLine1": "789 Williamson Street",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 550000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2200,
+      "propertyType": "Single Family",
+      "listedDate": "2025-02-15"
+    },
+    {
+      "id": "sample-4",
+      "addressLine1": "321 University Avenue",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53715",
+      "price": 289000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 950,
+      "propertyType": "Condo",
+      "listedDate": "2025-02-21"
+    },
+    {
+      "id": "sample-5",
+      "addressLine1": "654 Atwood Avenue",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 485000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1650,
+      "propertyType": "Single Family",
+      "listedDate": "2025-02-19"
+    }
+  ]
+}

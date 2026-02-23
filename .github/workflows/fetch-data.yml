@@ -1,0 +1,48 @@
+name: Fetch Property Data
+
+on:
+  # Run manually from GitHub Actions tab
+  workflow_dispatch:
+
+  # Run on schedule (daily at 8 AM UTC)
+  schedule:
+    - cron: '0 8 * * *'
+
+  # Run on push to main (for testing)
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/fetch_properties.py'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch property data
+        env:
+          RENTCAST_API_KEY: ${{ secrets.MADISON }}
+        run: python scripts/fetch_properties.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/properties.json
+          git diff --staged --quiet || git commit -m "Update property data [skip ci]"
+          git push

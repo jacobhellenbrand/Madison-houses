@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Madison Properties | Recent Listings</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Madison Properties</h1>
+            <p class="subtitle">Recently Listed Homes in Madison, WI</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="filters">
+            <div class="filter-group">
+                <label for="price-filter">Max Price</label>
+                <select id="price-filter">
+                    <option value="">Any Price</option>
+                    <option value="200000">$200,000</option>
+                    <option value="300000">$300,000</option>
+                    <option value="400000">$400,000</option>
+                    <option value="500000">$500,000</option>
+                    <option value="750000">$750,000</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="beds-filter">Min Beds</label>
+                <select id="beds-filter">
+                    <option value="">Any</option>
+                    <option value="1">1+</option>
+                    <option value="2">2+</option>
+                    <option value="3">3+</option>
+                    <option value="4">4+</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="sort-filter">Sort By</label>
+                <select id="sort-filter">
+                    <option value="date-desc">Newest First</option>
+                    <option value="date-asc">Oldest First</option>
+                    <option value="price-asc">Price: Low to High</option>
+                    <option value="price-desc">Price: High to Low</option>
+                </select>
+            </div>
+        </section>
+
+        <section class="stats">
+            <div class="stat-card">
+                <span class="stat-value" id="total-listings">--</span>
+                <span class="stat-label">Total Listings</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-value" id="avg-price">--</span>
+                <span class="stat-label">Avg. Price</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-value" id="last-updated">--</span>
+                <span class="stat-label">Last Updated</span>
+            </div>
+        </section>
+
+        <section id="properties" class="properties-grid">
+            <div class="loading">Loading properties...</div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Data provided by <a href="https://www.rentcast.io/" target="_blank" rel="noopener">RentCast API</a></p>
+            <p class="disclaimer">For educational purposes only. Listings may not reflect current availability.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
