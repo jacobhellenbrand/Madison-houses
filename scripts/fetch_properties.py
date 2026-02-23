@@ -46,8 +46,9 @@ def fetch_listings():
         'city': CITY,
         'state': STATE,
         'status': 'Active',
-        'daysOld': 7,  # Only listings from the last 7 days
-        'limit': 50    # Adjust based on your API quota
+        'daysOld': 7,       # Only listings from the last 7 days
+        'priceMin': 300000, # Minimum $300k to filter out land/lots
+        'limit': 50         # Adjust based on your API quota
     }
 
     print(f'Fetching listings for {CITY}, {STATE}...')
