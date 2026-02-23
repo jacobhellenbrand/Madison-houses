@@ -9,6 +9,7 @@ const propertiesContainer = document.getElementById('properties');
 const priceFilter = document.getElementById('price-filter');
 const bedsFilter = document.getElementById('beds-filter');
 const sortFilter = document.getElementById('sort-filter');
+const exportBtn = document.getElementById('export-btn');
 const totalListingsEl = document.getElementById('total-listings');
 const avgPriceEl = document.getElementById('avg-price');
 const lastUpdatedEl = document.getElementById('last-updated');
@@ -36,6 +37,7 @@ async function init() {
         priceFilter.addEventListener('change', renderProperties);
         bedsFilter.addEventListener('change', renderProperties);
         sortFilter.addEventListener('change', renderProperties);
+        exportBtn.addEventListener('click', exportToCSV);
 
         renderProperties();
     } catch (error) {
@@ -199,4 +201,74 @@ function formatAddress(property) {
 function formatSqft(sqft) {
     if (!sqft) return '--';
     return new Intl.NumberFormat('en-US').format(sqft);
+}
+
+function exportToCSV() {
+    if (allProperties.length === 0) {
+        alert('No properties to export');
+        return;
+    }
+
+    const headers = [
+        'Address',
+        'City',
+        'State',
+        'Zip Code',
+        'Price',
+        'Bedrooms',
+        'Bathrooms',
+        'Square Footage',
+        'Property Type',
+        'Listed Date',
+        'Days on Market',
+        'Agent Name',
+        'Agent Phone',
+        'Agent Email',
+        'Office Name',
+        'Office Phone',
+        'Latitude',
+        'Longitude'
+    ];
+
+    const rows = allProperties.map(p => {
+        const agent = p.agent || {};
+        const office = p.office || {};
+        return [
+            p.addressLine1 || '',
+            p.city || '',
+            p.state || '',
+            p.zipCode || '',
+            p.price || '',
+            p.bedrooms || '',
+            p.bathrooms || '',
+            p.squareFootage || '',
+            p.propertyType || '',
+            p.listedDate ? new Date(p.listedDate).toLocaleDateString() : '',
+            p.daysOnMarket || '',
+            agent.name || '',
+            agent.phone || '',
+            agent.email || '',
+            office.name || '',
+            office.phone || '',
+            p.latitude || '',
+            p.longitude || ''
+        ];
+    });
+
+    const csvContent = [
+        headers.join(','),
+        ...rows.map(row => row.map(cell => `"${String(cell).replace(/"/g, '""')}"`).join(','))
+    ].join('\n');
+
+    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement('a');
+    const url = URL.createObjectURL(blob);
+
+    link.setAttribute('href', url);
+    link.setAttribute('download', `madison-properties-${new Date().toISOString().split('T')[0]}.csv`);
+    link.style.visibility = 'hidden';
+
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
 }
