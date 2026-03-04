@@ -221,6 +221,8 @@ function exportToCSV() {
         'Property Type',
         'Listed Date',
         'Days on Market',
+        'Owner 1',
+        'Owner 2',
         'Agent Name',
         'Agent Phone',
         'Agent Email',
@@ -233,6 +235,7 @@ function exportToCSV() {
     const rows = allProperties.map(p => {
         const agent = p.agent || {};
         const office = p.office || {};
+        const owner = p.owner || {};
         return [
             p.addressLine1 || '',
             p.city || '',
@@ -245,6 +248,8 @@ function exportToCSV() {
             p.propertyType || '',
             p.listedDate ? new Date(p.listedDate).toLocaleDateString() : '',
             p.daysOnMarket || '',
+            owner.owner1 || '',
+            owner.owner2 || '',
             agent.name || '',
             agent.phone || '',
             agent.email || '',

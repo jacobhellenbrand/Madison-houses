@@ -55,7 +55,7 @@ def fetch_listings():
         'radius': SEARCH_RADIUS_MILES,
         'status': 'Active',
         'daysOld': 7,       # Only listings from the last 7 days
-        'priceMin': 200000, # Minimum $200k to filter out land/lots
+        'priceMin': 400000, # Minimum $400k
         'limit': 50         # Adjust based on your API quota
     }
 
@@ -143,6 +143,17 @@ def save_data(listings):
 def main():
     listings = fetch_listings()
     save_data(listings)
+
+    # Try to add owner information from parcel data
+    try:
+        from lookup_owners import update_properties_with_owners
+        print('\nLooking up property owners...')
+        update_properties_with_owners()
+    except ImportError:
+        print('\nSkipping owner lookup (missing dependencies: geopandas)')
+    except Exception as e:
+        print(f'\nOwner lookup failed: {e}')
+
     print('Done!')
 
 
