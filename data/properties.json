@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-04T16:42:09.871933Z",
+  "lastUpdated": "2026-03-04T16:55:43.824188Z",
   "city": "Madison",
   "state": "WI",
-  "totalCount": 43,
+  "totalCount": 31,
   "properties": [
     {
       "id": "410-Orion-Trl,-Madison,-WI-53718",
@@ -30,35 +30,6 @@
       },
       "owner": {
         "owner1": "MREC VH GRANDVIEW COMMONS LLC",
-        "owner2": null
-      }
-    },
-    {
-      "id": "6402-Milwaukee-St,-Unit-107,-Madison,-WI-53718",
-      "addressLine1": "6402 Milwaukee St",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53718",
-      "price": 199500,
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "squareFootage": 850,
-      "propertyType": "Condo",
-      "listedDate": "2026-02-26T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.100438,
-      "longitude": -89.269058,
-      "agent": {
-        "name": "Deanna Prochaska",
-        "phone": "6085757565",
-        "email": "deanna@moveyourdream.com"
-      },
-      "office": {
-        "name": "eXp Realty, LLC- WI",
-        "phone": "7157472480"
-      },
-      "owner": {
-        "owner1": "JOANNE M RAUSCH",
         "owner2": null
       }
     },
@@ -353,35 +324,6 @@
       }
     },
     {
-      "id": "33-Sherman-Ter,-Unit-3,-Madison,-WI-53704",
-      "addressLine1": "33 Sherman Ter",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53704",
-      "price": 170000,
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "squareFootage": 852,
-      "propertyType": "Condo",
-      "listedDate": "2026-02-26T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.096101,
-      "longitude": -89.367643,
-      "agent": {
-        "name": "Ryan Parkos",
-        "phone": "6086205918",
-        "email": "rparkos@coldwellhomes.com"
-      },
-      "office": {
-        "name": "Fitchburg Office",
-        "phone": "8002361550"
-      },
-      "owner": {
-        "owner1": "ROBYN BENNIS",
-        "owner2": null
-      }
-    },
-    {
       "id": "2901-Grandview-Blvd,-Madison,-WI-53713",
       "addressLine1": "2901 Grandview Blvd",
       "city": "Madison",
@@ -440,93 +382,6 @@
       }
     },
     {
-      "id": "2964-Kentville-Dr,-Sun-Prairie,-WI-53590",
-      "addressLine1": "2964 Kentville Dr",
-      "city": "Sun Prairie",
-      "state": "WI",
-      "zipCode": "53590",
-      "price": 305000,
-      "bedrooms": 4,
-      "bathrooms": 3.5,
-      "squareFootage": 1842,
-      "propertyType": "Condo",
-      "listedDate": "2026-02-26T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.181416,
-      "longitude": -89.276635,
-      "agent": {
-        "name": "Ashley Jacobs Real Estate & Design",
-        "phone": "6082170537",
-        "email": "ashley@ashleyjacobsrealestate.com"
-      },
-      "office": {
-        "name": "Real Broker LLC",
-        "phone": "6082680831"
-      },
-      "owner": {
-        "owner1": "VERONICA RUIZ",
-        "owner2": null
-      }
-    },
-    {
-      "id": "608-N-Midvale-Blvd,-Unit-302,-Madison,-WI-53705",
-      "addressLine1": "608 N Midvale Blvd",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53705",
-      "price": 339900,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "squareFootage": 910,
-      "propertyType": "Condo",
-      "listedDate": "2026-02-26T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.073334,
-      "longitude": -89.451505,
-      "agent": {
-        "name": "Ellen Meier",
-        "phone": "6084451609",
-        "email": "ellen@trmckenzie.com"
-      },
-      "office": {
-        "name": "T R Mckenzie Inc.",
-        "phone": "6088480111"
-      },
-      "owner": {
-        "owner1": "WILLIAM R KLEMUNDT",
-        "owner2": "SUSAN A KLEMUNDT"
-      }
-    },
-    {
-      "id": "102-Prairie-Heights-Dr,-Apt-406,-Verona,-WI-53593",
-      "addressLine1": "102 Prairie Heights Dr",
-      "city": "Verona",
-      "state": "WI",
-      "zipCode": "53593",
-      "price": 264900,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "squareFootage": 1185,
-      "propertyType": "Condo",
-      "listedDate": "2026-02-26T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 42.974863,
-      "longitude": -89.532697,
-      "agent": {
-        "name": "Joe Weber",
-        "phone": "6087125590",
-        "email": "weberj@firstweber.com"
-      },
-      "office": {
-        "name": "First Weber Realtors",
-        "phone": "6088341722"
-      },
-      "owner": {
-        "owner1": "CATHERINE A RODGERS",
-        "owner2": null
-      }
-    },
-    {
       "id": "309-W-Washington-Ave,-Unit-310,-Madison,-WI-53703",
       "addressLine1": "309 W Washington Ave",
       "city": "Madison",
@@ -581,35 +436,6 @@
       },
       "owner": {
         "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "5542-Century-Ave,-Apt-4,-Middleton,-WI-53562",
-      "addressLine1": "5542 Century Ave",
-      "city": "Middleton",
-      "state": "WI",
-      "zipCode": "53562",
-      "price": 249900,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "squareFootage": 1060,
-      "propertyType": "Condo",
-      "listedDate": "2026-03-02T00:00:00.000Z",
-      "daysOnMarket": 3,
-      "latitude": 43.110749,
-      "longitude": -89.475909,
-      "agent": {
-        "name": "Matt Kornstedt",
-        "phone": "6088397137",
-        "email": "askus@hometeam4u.com"
-      },
-      "office": {
-        "name": "Stark Company, REALTORS",
-        "phone": "6088397137"
-      },
-      "owner": {
-        "owner1": "VICTOR G SCHWAHN",
         "owner2": null
       }
     },
@@ -759,35 +585,6 @@
       }
     },
     {
-      "id": "4910-Innovation-Dr,-Apt-306,-Deforest,-WI-53532",
-      "addressLine1": "4910 Innovation Dr",
-      "city": "Deforest",
-      "state": "WI",
-      "zipCode": "53532",
-      "price": 265000,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "squareFootage": 1008,
-      "propertyType": "Condo",
-      "listedDate": "2026-02-26T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.222206,
-      "longitude": -89.358619,
-      "agent": {
-        "name": "Mike Brennan",
-        "phone": "8448841500",
-        "email": "mbrennan@c21affiliated.com"
-      },
-      "office": {
-        "name": "First Weber Realtors",
-        "phone": "6082747500"
-      },
-      "owner": {
-        "owner1": "SUE DESTEFANO",
-        "owner2": null
-      }
-    },
-    {
       "id": "1501-Beechwood-Cir,-Middleton,-WI-53562",
       "addressLine1": "1501 Beechwood Cir",
       "city": "Middleton",
@@ -846,35 +643,6 @@
       }
     },
     {
-      "id": "1971-N-Windsor-Ave,-Cottage-Grove,-WI-53527",
-      "addressLine1": "1971 N Windsor Ave",
-      "city": "Cottage Grove",
-      "state": "WI",
-      "zipCode": "53527",
-      "price": 300000,
-      "bedrooms": 2,
-      "bathrooms": 2.5,
-      "squareFootage": 1530,
-      "propertyType": "Condo",
-      "listedDate": "2026-02-26T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.104043,
-      "longitude": -89.201778,
-      "agent": {
-        "name": "Erin Swenson",
-        "phone": "6086924684",
-        "email": "erin@erinswensonhomes.com"
-      },
-      "office": {
-        "name": "Realty Executives Cooper Spransy, Inc",
-        "phone": "6086617900"
-      },
-      "owner": {
-        "owner1": "JACKSON R VANDERWERKEN",
-        "owner2": "OLIVIA D SWASEY"
-      }
-    },
-    {
       "id": "211-Breunig-Blvd,-Waunakee,-WI-53597",
       "addressLine1": "211 Breunig Blvd",
       "city": "Waunakee",
@@ -900,35 +668,6 @@
       },
       "owner": {
         "owner1": "VH HERITAGE HILLS LLC",
-        "owner2": null
-      }
-    },
-    {
-      "id": "635-Cardinal-Way,-Sun-Prairie,-WI-53590",
-      "addressLine1": "635 Cardinal Way",
-      "city": "Sun Prairie",
-      "state": "WI",
-      "zipCode": "53590",
-      "price": 374900,
-      "bedrooms": 2,
-      "bathrooms": 3,
-      "squareFootage": 1972,
-      "propertyType": "Condo",
-      "listedDate": "2026-02-27T00:00:00.000Z",
-      "daysOnMarket": 6,
-      "latitude": 43.195736,
-      "longitude": -89.224276,
-      "agent": {
-        "name": "Steve Kasimatis",
-        "phone": "4146405773",
-        "email": "steve@cb-elite.com"
-      },
-      "office": {
-        "name": "Coldwell Banker Elite",
-        "phone": "18555690588"
-      },
-      "owner": {
-        "owner1": "DAVID R CAPPEL",
         "owner2": null
       }
     },
@@ -959,35 +698,6 @@
       "owner": {
         "owner1": "ROBYN SHEPARD",
         "owner2": "NICHOLAS VLOTHO"
-      }
-    },
-    {
-      "id": "8206-Starr-Grass-Dr,-Apt-204,-Madison,-WI-53719",
-      "addressLine1": "8206 Starr Grass Dr",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53719",
-      "price": 285000,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "squareFootage": 1235,
-      "propertyType": "Condo",
-      "listedDate": "2026-02-27T00:00:00.000Z",
-      "daysOnMarket": 6,
-      "latitude": 43.035507,
-      "longitude": -89.527683,
-      "agent": {
-        "name": "Tonya Thomsen",
-        "phone": "2624243138",
-        "email": "tonya@modernrpwi.com"
-      },
-      "office": {
-        "name": "Modern Realty Partners LLC",
-        "phone": "4145261110"
-      },
-      "owner": {
-        "owner1": "COLE MCCLOSKEY",
-        "owner2": null
       }
     },
     {
@@ -1107,35 +817,6 @@
       }
     },
     {
-      "id": "8253-Mayo-Dr,-Unit-210,-Madison,-WI-53719",
-      "addressLine1": "8253 Mayo Dr",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53719",
-      "price": 319000,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "squareFootage": 1331,
-      "propertyType": "Condo",
-      "listedDate": "2026-02-27T00:00:00.000Z",
-      "daysOnMarket": 6,
-      "latitude": 43.033125,
-      "longitude": -89.527936,
-      "agent": {
-        "name": "Heidi Kopras",
-        "phone": "6083479828",
-        "email": "heidi@homelobster.com"
-      },
-      "office": {
-        "name": "Restaino & Associates Realtors - Fitchburg",
-        "phone": "6088337777"
-      },
-      "owner": {
-        "owner1": "R J LINDNER TRUST",
-        "owner2": null
-      }
-    },
-    {
       "id": "3281-Burke-Rd,-Sun-Prairie,-WI-53590",
       "addressLine1": "3281 Burke Rd",
       "city": "Sun Prairie",
@@ -1162,35 +843,6 @@
       "owner": {
         "owner1": "TIMOTHY STEVENS",
         "owner2": "KELLY STEVENS"
-      }
-    },
-    {
-      "id": "7102-Flagship-Dr,-Unit-7,-Madison,-WI-53719",
-      "addressLine1": "7102 Flagship Dr",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53719",
-      "price": 220000,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "squareFootage": 1005,
-      "propertyType": "Condo",
-      "listedDate": "2026-02-27T00:00:00.000Z",
-      "daysOnMarket": 6,
-      "latitude": 43.048921,
-      "longitude": -89.507899,
-      "agent": {
-        "name": "Morgan Barthen",
-        "phone": "6086160449",
-        "email": "mbarthen@starkhomes.com"
-      },
-      "office": {
-        "name": "First Weber Realtors",
-        "phone": "6088367433"
-      },
-      "owner": {
-        "owner1": "JEFFREY A HABERMAN",
-        "owner2": null
       }
     },
     {
