@@ -7,7 +7,6 @@ const COMMERCIAL_URL = 'data/commercial.json';
 let allProperties = [];
 let historicalProperties = [];
 let commercialProposals = [];
-let currentCommercialCategory = '';
 
 // DOM Elements
 const propertiesContainer = document.getElementById('properties');
@@ -67,8 +66,6 @@ async function init() {
         // Setup tab navigation
         setupTabs();
 
-        // Setup commercial category filters
-        setupCommercialFilters();
 
         renderProperties();
         renderHistoricalTable();
@@ -182,56 +179,29 @@ function renderHistoricalTable() {
     }).join('');
 }
 
-function setupCommercialFilters() {
-    const categoryBtns = document.querySelectorAll('.category-btn');
-    categoryBtns.forEach(btn => {
-        btn.addEventListener('click', () => {
-            categoryBtns.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            currentCommercialCategory = btn.dataset.category;
-            renderCommercialTable();
-        });
-    });
-}
 
 function renderCommercialTable() {
     if (commercialProposals.length === 0) {
-        commercialBody.innerHTML = '<tr><td colspan="5" class="no-results">No commercial proposals found.</td></tr>';
+        commercialBody.innerHTML = '<tr><td colspan="7" class="no-results">No permits found.</td></tr>';
         return;
     }
 
-    // Filter by category if selected
-    let filtered = [...commercialProposals];
-    if (currentCommercialCategory) {
-        filtered = filtered.filter(p => p.category === currentCommercialCategory);
-    }
-
-    // Sort by submitted date descending (newest first)
-    filtered.sort((a, b) => {
-        return new Date(b.submittedDate || 0) - new Date(a.submittedDate || 0);
+    // Sort by issuance date descending (newest first)
+    const sorted = [...commercialProposals].sort((a, b) => {
+        return new Date(b.issuanceDate || 0) - new Date(a.issuanceDate || 0);
     });
 
-    if (filtered.length === 0) {
-        commercialBody.innerHTML = '<tr><td colspan="5" class="no-results">No proposals in this category.</td></tr>';
-        return;
-    }
-
-    commercialBody.innerHTML = filtered.map(p => {
-        const submitted = p.submittedText || 'N/A';
-        const detailsShort = (p.details || '').substring(0, 150) + (p.details && p.details.length > 150 ? '...' : '');
-        const meetingsShort = (p.meetings || '').substring(0, 80) + (p.meetings && p.meetings.length > 80 ? '...' : '');
-
-        const addressLink = p.detailUrl
-            ? `<a href="${p.detailUrl}" target="_blank" rel="noopener">${p.address}</a>`
-            : p.address;
-
+    commercialBody.innerHTML = sorted.map(p => {
+        const descShort = (p.description || '').substring(0, 120) + (p.description && p.description.length > 120 ? '...' : '');
         return `
             <tr>
-                <td class="address-cell">${addressLink}</td>
-                <td><span class="category-badge category-${p.category?.toLowerCase().replace('-', '')}">${p.category || 'Commercial'}</span></td>
-                <td class="details-cell">${detailsShort}</td>
-                <td>${submitted}</td>
-                <td class="meetings-cell">${meetingsShort}</td>
+                <td class="permit-number-cell">${p.permitNumber || 'N/A'}</td>
+                <td class="address-cell">${p.address || 'N/A'}</td>
+                <td class="details-cell">${descShort}</td>
+                <td>${p.owner || 'N/A'}</td>
+                <td class="owner-address-cell">${p.ownerAddress || 'N/A'}</td>
+                <td>${p.estimatedCost || 'N/A'}</td>
+                <td>${p.issuanceDate || 'N/A'}</td>
             </tr>
         `;
     }).join('');
@@ -433,34 +403,31 @@ function exportToCSV() {
 }
 
 function exportCommercialCSV() {
-    let dataToExport = [...commercialProposals];
-
-    // Apply current filter
-    if (currentCommercialCategory) {
-        dataToExport = dataToExport.filter(p => p.category === currentCommercialCategory);
-    }
+    const dataToExport = [...commercialProposals];
 
     if (dataToExport.length === 0) {
-        alert('No commercial proposals to export');
+        alert('No permits to export');
         return;
     }
 
     const headers = [
+        'Permit #',
         'Address',
-        'Category',
-        'Project Details',
-        'Submitted Date',
-        'Meetings & Review',
-        'Detail URL'
+        'Description',
+        'Owner',
+        'Owner Address',
+        'Est. Cost',
+        'Issuance Date'
     ];
 
     const rows = dataToExport.map(p => [
+        p.permitNumber || '',
         p.address || '',
-        p.category || '',
-        p.details || '',
-        p.submittedText || '',
-        p.meetings || '',
-        p.detailUrl || ''
+        p.description || '',
+        p.owner || '',
+        p.ownerAddress || '',
+        p.estimatedCost || '',
+        p.issuanceDate || ''
     ]);
 
     const csvContent = [

@@ -105,32 +105,25 @@
         <section id="commercial-tab" class="tab-content">
             <div class="commercial-header">
                 <p class="commercial-description">
-                    Development proposals for office, retail, hospitality, and mixed-use projects in Madison.
-                    Data from <a href="https://www.cityofmadison.com/dpced/planning/current-development-proposals-/1599/" target="_blank">City of Madison Planning Division</a>.
+                    Commercial building permits issued in the last 30 days.
+                    Data from <a href="https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary" target="_blank">City of Madison Building Inspection</a>.
                 </p>
-                <div class="category-filters">
-                    <button class="category-btn active" data-category="">All</button>
-                    <button class="category-btn" data-category="Office">Office</button>
-                    <button class="category-btn" data-category="Hospitality">Hospitality</button>
-                    <button class="category-btn" data-category="Retail">Retail</button>
-                    <button class="category-btn" data-category="Medical">Medical</button>
-                    <button class="category-btn" data-category="Mixed-Use">Mixed-Use</button>
-                    <button class="category-btn" data-category="Industrial">Industrial</button>
-                </div>
             </div>
             <div class="table-container">
                 <table id="commercial-table" class="properties-table commercial-table">
                     <thead>
                         <tr>
+                            <th>Permit #</th>
                             <th>Address</th>
-                            <th>Category</th>
-                            <th>Project Details</th>
-                            <th>Submitted</th>
-                            <th>Meetings</th>
+                            <th>Description</th>
+                            <th>Owner</th>
+                            <th>Owner Address</th>
+                            <th>Est. Cost</th>
+                            <th>Issued</th>
                         </tr>
                     </thead>
                     <tbody id="commercial-body">
-                        <tr><td colspan="5" class="loading">Loading...</td></tr>
+                        <tr><td colspan="7" class="loading">Loading...</td></tr>
                     </tbody>
                 </table>
             </div>
