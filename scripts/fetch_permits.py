@@ -269,7 +269,7 @@ def save_data(permits):
         'source': 'City of Madison Building Inspection',
         'sourceUrl': REPORT_URL,
         'totalCount': len(commercial),
-        'permits': commercial
+        'proposals': commercial
     }
 
     with open(OUTPUT_PATH, 'w') as f:
@@ -286,20 +286,20 @@ def update_historical(new_permits, timestamp):
         with open(HISTORICAL_PATH) as f:
             historical = json.load(f)
     else:
-        historical = {'lastUpdated': timestamp, 'totalCount': 0, 'permits': []}
+        historical = {'lastUpdated': timestamp, 'totalCount': 0, 'proposals': []}
 
-    existing_ids = {p['id'] for p in historical.get('permits', [])}
+    existing_ids = {p['id'] for p in historical.get('proposals', [])}
 
     new_count = 0
     for permit in new_permits:
         if permit['id'] not in existing_ids:
             permit['dateAdded'] = timestamp
-            historical.setdefault('permits', []).append(permit)
+            historical.setdefault('proposals', []).append(permit)
             existing_ids.add(permit['id'])
             new_count += 1
 
     historical['lastUpdated'] = timestamp
-    historical['totalCount'] = len(historical.get('permits', []))
+    historical['totalCount'] = len(historical.get('proposals', []))
 
     with open(HISTORICAL_PATH, 'w') as f:
         json.dump(historical, f, indent=2)

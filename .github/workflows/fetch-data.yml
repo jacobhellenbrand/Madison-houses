@@ -14,7 +14,7 @@ on:
       - main
     paths:
       - 'scripts/fetch_properties.py'
-      - 'scripts/fetch_commercial.py'
+      - 'scripts/fetch_permits.py'
 
 jobs:
   fetch:
@@ -40,8 +40,13 @@ jobs:
           RENTCAST_API_KEY: ${{ secrets.MADISON }}
         run: python scripts/fetch_properties.py
 
-      - name: Fetch commercial development data
-        run: python scripts/fetch_commercial.py
+      - name: Install Chrome for Selenium
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Fetch building permits data
+        run: python scripts/fetch_permits.py
 
       - name: Commit and push if changed
         run: |
