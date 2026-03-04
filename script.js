@@ -1,8 +1,10 @@
 // Madison Properties - Frontend Logic
 
 const DATA_URL = 'data/properties.json';
+const HISTORICAL_URL = 'data/all_properties.json';
 
 let allProperties = [];
+let historicalProperties = [];
 
 // DOM Elements
 const propertiesContainer = document.getElementById('properties');
@@ -13,23 +15,35 @@ const exportBtn = document.getElementById('export-btn');
 const totalListingsEl = document.getElementById('total-listings');
 const avgPriceEl = document.getElementById('avg-price');
 const lastUpdatedEl = document.getElementById('last-updated');
+const allPropertiesBody = document.getElementById('all-properties-body');
 
 // Initialize
 document.addEventListener('DOMContentLoaded', init);
 
 async function init() {
     try {
-        const response = await fetch(DATA_URL);
-        if (!response.ok) {
+        // Load both data files in parallel
+        const [todayResponse, historicalResponse] = await Promise.all([
+            fetch(DATA_URL),
+            fetch(HISTORICAL_URL)
+        ]);
+
+        if (!todayResponse.ok) {
             throw new Error('Failed to load property data');
         }
 
-        const data = await response.json();
-        allProperties = data.properties || [];
+        const todayData = await todayResponse.json();
+        allProperties = todayData.properties || [];
+
+        // Load historical data (may not exist yet)
+        if (historicalResponse.ok) {
+            const historicalData = await historicalResponse.json();
+            historicalProperties = historicalData.properties || [];
+        }
 
         // Update last updated timestamp
-        if (data.lastUpdated) {
-            const date = new Date(data.lastUpdated);
+        if (todayData.lastUpdated) {
+            const date = new Date(todayData.lastUpdated);
             lastUpdatedEl.textContent = date.toLocaleDateString();
         }
 
@@ -39,7 +53,11 @@ async function init() {
         sortFilter.addEventListener('change', renderProperties);
         exportBtn.addEventListener('click', exportToCSV);
 
+        // Setup tab navigation
+        setupTabs();
+
         renderProperties();
+        renderHistoricalTable();
     } catch (error) {
         console.error('Error loading properties:', error);
         propertiesContainer.innerHTML = `
@@ -49,6 +67,24 @@ async function init() {
             </div>
         `;
     }
+}
+
+function setupTabs() {
+    const tabButtons = document.querySelectorAll('.tab-btn');
+    tabButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+            // Update active tab button
+            tabButtons.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            // Show corresponding content
+            const tabId = btn.dataset.tab;
+            document.querySelectorAll('.tab-content').forEach(content => {
+                content.classList.remove('active');
+            });
+            document.getElementById(`${tabId}-tab`).classList.add('active');
+        });
+    });
 }
 
 function renderProperties() {
@@ -97,6 +133,38 @@ function renderProperties() {
     }
 
     propertiesContainer.innerHTML = filtered.map(property => createPropertyCard(property)).join('');
+}
+
+function renderHistoricalTable() {
+    if (historicalProperties.length === 0) {
+        allPropertiesBody.innerHTML = '<tr><td colspan="9" class="no-results">No historical data yet.</td></tr>';
+        return;
+    }
+
+    // Sort by dateAdded descending (newest first)
+    const sorted = [...historicalProperties].sort((a, b) => {
+        return new Date(b.dateAdded || b.listedDate) - new Date(a.dateAdded || a.listedDate);
+    });
+
+    allPropertiesBody.innerHTML = sorted.map(p => {
+        const owner = p.owner || {};
+        const agent = p.agent || {};
+        const dateAdded = p.dateAdded ? new Date(p.dateAdded).toLocaleDateString() : 'N/A';
+
+        return `
+            <tr>
+                <td>${p.addressLine1 || 'N/A'}</td>
+                <td>${p.city || 'N/A'}</td>
+                <td>${formatPrice(p.price)}</td>
+                <td>${p.bedrooms || '--'}</td>
+                <td>${p.bathrooms || '--'}</td>
+                <td>${formatSqft(p.squareFootage)}</td>
+                <td>${owner.owner1 || '--'}</td>
+                <td>${agent.name || '--'}</td>
+                <td>${dateAdded}</td>
+            </tr>
+        `;
+    }).join('');
 }
 
 function createPropertyCard(property) {
@@ -204,7 +272,11 @@ function formatSqft(sqft) {
 }
 
 function exportToCSV() {
-    if (allProperties.length === 0) {
+    // Export from whichever tab is active
+    const activeTab = document.querySelector('.tab-btn.active').dataset.tab;
+    const dataToExport = activeTab === 'all' ? historicalProperties : allProperties;
+
+    if (dataToExport.length === 0) {
         alert('No properties to export');
         return;
     }
@@ -229,10 +301,11 @@ function exportToCSV() {
         'Office Name',
         'Office Phone',
         'Latitude',
-        'Longitude'
+        'Longitude',
+        'Date Added'
     ];
 
-    const rows = allProperties.map(p => {
+    const rows = dataToExport.map(p => {
         const agent = p.agent || {};
         const office = p.office || {};
         const owner = p.owner || {};
@@ -256,7 +329,8 @@ function exportToCSV() {
             office.name || '',
             office.phone || '',
             p.latitude || '',
-            p.longitude || ''
+            p.longitude || '',
+            p.dateAdded ? new Date(p.dateAdded).toLocaleDateString() : ''
         ];
     });
 
@@ -269,8 +343,12 @@ function exportToCSV() {
     const link = document.createElement('a');
     const url = URL.createObjectURL(blob);
 
+    const filename = activeTab === 'all'
+        ? `madison-all-properties-${new Date().toISOString().split('T')[0]}.csv`
+        : `madison-properties-${new Date().toISOString().split('T')[0]}.csv`;
+
     link.setAttribute('href', url);
-    link.setAttribute('download', `madison-properties-${new Date().toISOString().split('T')[0]}.csv`);
+    link.setAttribute('download', filename);
     link.style.visibility = 'hidden';
 
     document.body.appendChild(link);

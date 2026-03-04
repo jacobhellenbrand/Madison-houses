@@ -297,6 +297,106 @@ footer a:hover {
     font-size: 0.75rem;
 }
 
+/* Tabs */
+.tabs {
+    display: flex;
+    gap: 0.5rem;
+    padding: 1rem 0;
+    border-bottom: 2px solid var(--border);
+    margin-bottom: 1.5rem;
+}
+
+.tab-btn {
+    padding: 0.75rem 1.5rem;
+    background: transparent;
+    border: none;
+    border-radius: 0.5rem 0.5rem 0 0;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--text-light);
+    cursor: pointer;
+    transition: all 0.2s;
+    position: relative;
+}
+
+.tab-btn:hover {
+    color: var(--text);
+    background: var(--bg);
+}
+
+.tab-btn.active {
+    color: var(--primary);
+    background: var(--white);
+    box-shadow: var(--shadow);
+}
+
+.tab-btn.active::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--primary);
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+/* Table Styles */
+.table-container {
+    overflow-x: auto;
+    background: var(--white);
+    border-radius: 0.75rem;
+    box-shadow: var(--shadow);
+    margin-bottom: 2rem;
+}
+
+.properties-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+.properties-table th,
+.properties-table td {
+    padding: 0.875rem 1rem;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+}
+
+.properties-table th {
+    background: var(--bg);
+    font-weight: 600;
+    color: var(--text);
+    white-space: nowrap;
+    position: sticky;
+    top: 0;
+}
+
+.properties-table tbody tr:hover {
+    background: var(--bg);
+}
+
+.properties-table td {
+    color: var(--text-light);
+}
+
+.properties-table td:first-child {
+    color: var(--text);
+    font-weight: 500;
+}
+
+.properties-table td:nth-child(3) {
+    color: var(--text);
+    font-weight: 600;
+}
+
 /* Responsive */
 @media (max-width: 640px) {
     header h1 {
@@ -313,5 +413,24 @@ footer a:hover {
 
     .properties-grid {
         grid-template-columns: 1fr;
+    }
+
+    .tabs {
+        overflow-x: auto;
+    }
+
+    .tab-btn {
+        white-space: nowrap;
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
+    }
+
+    .properties-table {
+        font-size: 0.8rem;
+    }
+
+    .properties-table th,
+    .properties-table td {
+        padding: 0.5rem;
     }
 }

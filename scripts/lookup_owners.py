@@ -72,14 +72,16 @@ def lookup_owner_by_point(lat, lng):
         return {'owner1': None, 'owner2': None}
 
 
-def update_properties_with_owners():
-    """Main function to update properties.json with owner information."""
+def update_properties_with_owners(properties_path=None):
+    """Main function to update properties file with owner information."""
+    path = Path(properties_path) if properties_path else PROPERTIES_PATH
+
     # Load properties
-    if not PROPERTIES_PATH.exists():
-        print(f'Properties file not found at {PROPERTIES_PATH}')
+    if not path.exists():
+        print(f'Properties file not found at {path}')
         return
 
-    with open(PROPERTIES_PATH) as f:
+    with open(path) as f:
         data = json.load(f)
 
     properties = data.get('properties', [])
@@ -111,10 +113,10 @@ def update_properties_with_owners():
     print(f'\nFound owners for {found_count}/{len(properties)} properties')
 
     # Save updated properties
-    with open(PROPERTIES_PATH, 'w') as f:
+    with open(path, 'w') as f:
         json.dump(data, f, indent=2)
 
-    print(f'Updated {PROPERTIES_PATH}')
+    print(f'Updated {path}')
 
 
 if __name__ == '__main__':

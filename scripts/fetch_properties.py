@@ -31,8 +31,9 @@ SEARCH_RADIUS_MILES = 15  # Includes Middleton, Sun Prairie, Fitchburg, Verona, 
 # Property types to exclude
 EXCLUDED_TYPES = ['Manufactured', 'Land']
 
-# Output path (relative to repo root)
+# Output paths (relative to repo root)
 OUTPUT_PATH = Path(__file__).parent.parent / 'data' / 'properties.json'
+HISTORICAL_PATH = Path(__file__).parent.parent / 'data' / 'all_properties.json'
 
 
 def fetch_listings():
@@ -139,18 +140,58 @@ def save_data(listings):
 
     print(f'Saved {len(transformed)} properties to {OUTPUT_PATH}')
 
+    # Return transformed data for historical update
+    return transformed, data['lastUpdated']
+
+
+def update_historical(new_properties, timestamp):
+    """Append new properties to historical list, avoiding duplicates."""
+    # Load existing historical data
+    if HISTORICAL_PATH.exists():
+        with open(HISTORICAL_PATH) as f:
+            historical = json.load(f)
+    else:
+        historical = {'lastUpdated': timestamp, 'totalCount': 0, 'properties': []}
+
+    # Build set of existing IDs for deduplication
+    existing_ids = {p['id'] for p in historical['properties']}
+
+    # Add dateAdded to new properties and append non-duplicates
+    new_count = 0
+    for prop in new_properties:
+        if prop['id'] not in existing_ids:
+            prop['dateAdded'] = timestamp
+            historical['properties'].append(prop)
+            existing_ids.add(prop['id'])
+            new_count += 1
+
+    # Update metadata
+    historical['lastUpdated'] = timestamp
+    historical['totalCount'] = len(historical['properties'])
+
+    # Save updated historical data
+    with open(HISTORICAL_PATH, 'w') as f:
+        json.dump(historical, f, indent=2)
+
+    print(f'Added {new_count} new properties to historical list (total: {historical["totalCount"]})')
+
 
 def main():
     listings = fetch_listings()
-    save_data(listings)
+    transformed, timestamp = save_data(listings)
+
+    # Update historical list with new properties
+    update_historical(transformed, timestamp)
 
     # Try to add owner information from parcel data
     try:
         from lookup_owners import update_properties_with_owners
         print('\nLooking up property owners...')
         update_properties_with_owners()
+        # Also update historical data with owners
+        update_properties_with_owners(HISTORICAL_PATH)
     except ImportError:
-        print('\nSkipping owner lookup (missing dependencies: geopandas)')
+        print('\nSkipping owner lookup (missing dependencies)')
     except Exception as e:
         print(f'\nOwner lookup failed: {e}')
 

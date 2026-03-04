@@ -67,8 +67,38 @@
             </div>
         </section>
 
-        <section id="properties" class="properties-grid">
-            <div class="loading">Loading properties...</div>
+        <section class="tabs">
+            <button class="tab-btn active" data-tab="today">Today's Listings</button>
+            <button class="tab-btn" data-tab="all">All Properties</button>
+        </section>
+
+        <section id="today-tab" class="tab-content active">
+            <div id="properties" class="properties-grid">
+                <div class="loading">Loading properties...</div>
+            </div>
+        </section>
+
+        <section id="all-tab" class="tab-content">
+            <div class="table-container">
+                <table id="all-properties-table" class="properties-table">
+                    <thead>
+                        <tr>
+                            <th>Address</th>
+                            <th>City</th>
+                            <th>Price</th>
+                            <th>Beds</th>
+                            <th>Baths</th>
+                            <th>Sqft</th>
+                            <th>Owner</th>
+                            <th>Agent</th>
+                            <th>Date Added</th>
+                        </tr>
+                    </thead>
+                    <tbody id="all-properties-body">
+                        <tr><td colspan="9" class="loading">Loading...</td></tr>
+                    </tbody>
+                </table>
+            </div>
         </section>
     </main>
 
