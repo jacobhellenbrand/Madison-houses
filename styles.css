@@ -397,6 +397,124 @@ footer a:hover {
     font-weight: 600;
 }
 
+/* Commercial Tab Styles */
+.commercial-header {
+    margin-bottom: 1.5rem;
+}
+
+.commercial-description {
+    color: var(--text-light);
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+}
+
+.commercial-description a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.commercial-description a:hover {
+    text-decoration: underline;
+}
+
+.category-filters {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.category-btn {
+    padding: 0.5rem 1rem;
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 2rem;
+    font-size: 0.85rem;
+    color: var(--text-light);
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.category-btn:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.category-btn.active {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: var(--white);
+}
+
+.commercial-table .address-cell {
+    min-width: 180px;
+}
+
+.commercial-table .address-cell a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.commercial-table .address-cell a:hover {
+    text-decoration: underline;
+}
+
+.commercial-table .details-cell {
+    max-width: 350px;
+    font-size: 0.85rem;
+    line-height: 1.4;
+}
+
+.commercial-table .meetings-cell {
+    max-width: 200px;
+    font-size: 0.8rem;
+}
+
+.category-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 1rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
+}
+
+.category-office {
+    background: #dbeafe;
+    color: #1e40af;
+}
+
+.category-hospitality {
+    background: #fce7f3;
+    color: #9d174d;
+}
+
+.category-retail {
+    background: #d1fae5;
+    color: #065f46;
+}
+
+.category-medical {
+    background: #fee2e2;
+    color: #991b1b;
+}
+
+.category-mixeduse {
+    background: #e0e7ff;
+    color: #3730a3;
+}
+
+.category-industrial {
+    background: #fef3c7;
+    color: #92400e;
+}
+
+.category-commercial {
+    background: #f3f4f6;
+    color: #374151;
+}
+
 /* Responsive */
 @media (max-width: 640px) {
     header h1 {
@@ -432,5 +550,25 @@ footer a:hover {
     .properties-table th,
     .properties-table td {
         padding: 0.5rem;
+    }
+
+    .category-filters {
+        overflow-x: auto;
+        flex-wrap: nowrap;
+        padding-bottom: 0.5rem;
+    }
+
+    .category-btn {
+        flex-shrink: 0;
+        padding: 0.4rem 0.75rem;
+        font-size: 0.8rem;
+    }
+
+    .commercial-table .details-cell {
+        max-width: 200px;
+    }
+
+    .commercial-table .meetings-cell {
+        max-width: 120px;
     }
 }

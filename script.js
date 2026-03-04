@@ -2,9 +2,12 @@
 
 const DATA_URL = 'data/properties.json';
 const HISTORICAL_URL = 'data/all_properties.json';
+const COMMERCIAL_URL = 'data/commercial.json';
 
 let allProperties = [];
 let historicalProperties = [];
+let commercialProposals = [];
+let currentCommercialCategory = '';
 
 // DOM Elements
 const propertiesContainer = document.getElementById('properties');
@@ -16,16 +19,18 @@ const totalListingsEl = document.getElementById('total-listings');
 const avgPriceEl = document.getElementById('avg-price');
 const lastUpdatedEl = document.getElementById('last-updated');
 const allPropertiesBody = document.getElementById('all-properties-body');
+const commercialBody = document.getElementById('commercial-body');
 
 // Initialize
 document.addEventListener('DOMContentLoaded', init);
 
 async function init() {
     try {
-        // Load both data files in parallel
-        const [todayResponse, historicalResponse] = await Promise.all([
+        // Load all data files in parallel
+        const [todayResponse, historicalResponse, commercialResponse] = await Promise.all([
             fetch(DATA_URL),
-            fetch(HISTORICAL_URL)
+            fetch(HISTORICAL_URL),
+            fetch(COMMERCIAL_URL)
         ]);
 
         if (!todayResponse.ok) {
@@ -39,6 +44,12 @@ async function init() {
         if (historicalResponse.ok) {
             const historicalData = await historicalResponse.json();
             historicalProperties = historicalData.properties || [];
+        }
+
+        // Load commercial data (may not exist yet)
+        if (commercialResponse.ok) {
+            const commercialData = await commercialResponse.json();
+            commercialProposals = commercialData.proposals || [];
         }
 
         // Update last updated timestamp
@@ -56,8 +67,12 @@ async function init() {
         // Setup tab navigation
         setupTabs();
 
+        // Setup commercial category filters
+        setupCommercialFilters();
+
         renderProperties();
         renderHistoricalTable();
+        renderCommercialTable();
     } catch (error) {
         console.error('Error loading properties:', error);
         propertiesContainer.innerHTML = `
@@ -162,6 +177,61 @@ function renderHistoricalTable() {
                 <td>${owner.owner1 || '--'}</td>
                 <td>${agent.name || '--'}</td>
                 <td>${dateAdded}</td>
+            </tr>
+        `;
+    }).join('');
+}
+
+function setupCommercialFilters() {
+    const categoryBtns = document.querySelectorAll('.category-btn');
+    categoryBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            categoryBtns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentCommercialCategory = btn.dataset.category;
+            renderCommercialTable();
+        });
+    });
+}
+
+function renderCommercialTable() {
+    if (commercialProposals.length === 0) {
+        commercialBody.innerHTML = '<tr><td colspan="5" class="no-results">No commercial proposals found.</td></tr>';
+        return;
+    }
+
+    // Filter by category if selected
+    let filtered = [...commercialProposals];
+    if (currentCommercialCategory) {
+        filtered = filtered.filter(p => p.category === currentCommercialCategory);
+    }
+
+    // Sort by submitted date descending (newest first)
+    filtered.sort((a, b) => {
+        return new Date(b.submittedDate || 0) - new Date(a.submittedDate || 0);
+    });
+
+    if (filtered.length === 0) {
+        commercialBody.innerHTML = '<tr><td colspan="5" class="no-results">No proposals in this category.</td></tr>';
+        return;
+    }
+
+    commercialBody.innerHTML = filtered.map(p => {
+        const submitted = p.submittedText || 'N/A';
+        const detailsShort = (p.details || '').substring(0, 150) + (p.details && p.details.length > 150 ? '...' : '');
+        const meetingsShort = (p.meetings || '').substring(0, 80) + (p.meetings && p.meetings.length > 80 ? '...' : '');
+
+        const addressLink = p.detailUrl
+            ? `<a href="${p.detailUrl}" target="_blank" rel="noopener">${p.address}</a>`
+            : p.address;
+
+        return `
+            <tr>
+                <td class="address-cell">${addressLink}</td>
+                <td><span class="category-badge category-${p.category?.toLowerCase().replace('-', '')}">${p.category || 'Commercial'}</span></td>
+                <td class="details-cell">${detailsShort}</td>
+                <td>${submitted}</td>
+                <td class="meetings-cell">${meetingsShort}</td>
             </tr>
         `;
     }).join('');
@@ -274,6 +344,12 @@ function formatSqft(sqft) {
 function exportToCSV() {
     // Export from whichever tab is active
     const activeTab = document.querySelector('.tab-btn.active').dataset.tab;
+
+    if (activeTab === 'commercial') {
+        exportCommercialCSV();
+        return;
+    }
+
     const dataToExport = activeTab === 'all' ? historicalProperties : allProperties;
 
     if (dataToExport.length === 0) {
@@ -349,6 +425,55 @@ function exportToCSV() {
 
     link.setAttribute('href', url);
     link.setAttribute('download', filename);
+    link.style.visibility = 'hidden';
+
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+}
+
+function exportCommercialCSV() {
+    let dataToExport = [...commercialProposals];
+
+    // Apply current filter
+    if (currentCommercialCategory) {
+        dataToExport = dataToExport.filter(p => p.category === currentCommercialCategory);
+    }
+
+    if (dataToExport.length === 0) {
+        alert('No commercial proposals to export');
+        return;
+    }
+
+    const headers = [
+        'Address',
+        'Category',
+        'Project Details',
+        'Submitted Date',
+        'Meetings & Review',
+        'Detail URL'
+    ];
+
+    const rows = dataToExport.map(p => [
+        p.address || '',
+        p.category || '',
+        p.details || '',
+        p.submittedText || '',
+        p.meetings || '',
+        p.detailUrl || ''
+    ]);
+
+    const csvContent = [
+        headers.join(','),
+        ...rows.map(row => row.map(cell => `"${String(cell).replace(/"/g, '""')}"`).join(','))
+    ].join('\n');
+
+    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement('a');
+    const url = URL.createObjectURL(blob);
+
+    link.setAttribute('href', url);
+    link.setAttribute('download', `madison-commercial-${new Date().toISOString().split('T')[0]}.csv`);
     link.style.visibility = 'hidden';
 
     document.body.appendChild(link);

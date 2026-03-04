@@ -14,6 +14,7 @@ on:
       - main
     paths:
       - 'scripts/fetch_properties.py'
+      - 'scripts/fetch_commercial.py'
 
 jobs:
   fetch:
@@ -34,15 +35,18 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch property data
+      - name: Fetch residential property data
         env:
           RENTCAST_API_KEY: ${{ secrets.MADISON }}
         run: python scripts/fetch_properties.py
+
+      - name: Fetch commercial development data
+        run: python scripts/fetch_commercial.py
 
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/properties.json
+          git add data/properties.json data/all_properties.json data/commercial.json data/all_commercial.json
           git diff --staged --quiet || git commit -m "Update property data [skip ci]"
           git push

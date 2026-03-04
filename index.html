@@ -70,6 +70,7 @@
         <section class="tabs">
             <button class="tab-btn active" data-tab="today">Today's Listings</button>
             <button class="tab-btn" data-tab="all">All Properties</button>
+            <button class="tab-btn" data-tab="commercial">Commercial Development</button>
         </section>
 
         <section id="today-tab" class="tab-content active">
@@ -100,11 +101,45 @@
                 </table>
             </div>
         </section>
+
+        <section id="commercial-tab" class="tab-content">
+            <div class="commercial-header">
+                <p class="commercial-description">
+                    Development proposals for office, retail, hospitality, and mixed-use projects in Madison.
+                    Data from <a href="https://www.cityofmadison.com/dpced/planning/current-development-proposals-/1599/" target="_blank">City of Madison Planning Division</a>.
+                </p>
+                <div class="category-filters">
+                    <button class="category-btn active" data-category="">All</button>
+                    <button class="category-btn" data-category="Office">Office</button>
+                    <button class="category-btn" data-category="Hospitality">Hospitality</button>
+                    <button class="category-btn" data-category="Retail">Retail</button>
+                    <button class="category-btn" data-category="Medical">Medical</button>
+                    <button class="category-btn" data-category="Mixed-Use">Mixed-Use</button>
+                    <button class="category-btn" data-category="Industrial">Industrial</button>
+                </div>
+            </div>
+            <div class="table-container">
+                <table id="commercial-table" class="properties-table commercial-table">
+                    <thead>
+                        <tr>
+                            <th>Address</th>
+                            <th>Category</th>
+                            <th>Project Details</th>
+                            <th>Submitted</th>
+                            <th>Meetings</th>
+                        </tr>
+                    </thead>
+                    <tbody id="commercial-body">
+                        <tr><td colspan="5" class="loading">Loading...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
     </main>
 
     <footer>
         <div class="container">
-            <p>Data provided by <a href="https://www.rentcast.io/" target="_blank" rel="noopener">RentCast API</a></p>
+            <p>Residential data: <a href="https://www.rentcast.io/" target="_blank" rel="noopener">RentCast API</a> | Commercial data: <a href="https://www.cityofmadison.com/dpced/planning/current-development-proposals-/1599/" target="_blank" rel="noopener">City of Madison</a></p>
             <p class="disclaimer">For educational purposes only. Listings may not reflect current availability.</p>
         </div>
     </footer>
