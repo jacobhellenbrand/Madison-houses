@@ -91,9 +91,21 @@ def fetch_permits():
         end_date_input.clear()
         end_date_input.send_keys(end_date.strftime('%m/%d/%Y'))
 
-        # Select permit type (if needed - leaving as default for all types)
-        # permit_type_select = Select(driver.find_element(By.ID, 'ctl00_MainContent_rvSiteMapping_ctl08_ctl07_ddValue'))
-        # permit_type_select.select_by_visible_text('All')
+        # Select permit type - required field
+        print('Selecting permit type...')
+        permit_type_select = wait.until(
+            EC.element_to_be_clickable((By.ID, 'ctl00_MainContent_rvSiteMapping_ctl08_ctl07_ddValue'))
+        )
+        select = Select(permit_type_select)
+        # Print available options for debugging
+        options = [o.text for o in select.options]
+        print(f'Available permit types: {options}')
+        # Select first non-empty option (or 'All' if available)
+        for opt in select.options:
+            if opt.text.strip() and opt.text.strip() not in ['<Select a Value>', 'Select a Value']:
+                select.select_by_visible_text(opt.text)
+                print(f'Selected permit type: {opt.text}')
+                break
 
         # Click View Report button
         print('Submitting report request...')
@@ -112,15 +124,34 @@ def fetch_permits():
         # Give additional time for full render
         time.sleep(5)
 
-        # Get the page source and parse the report
-        print('Extracting permit data...')
-        page_source = driver.page_source
+        # Get total page count
+        total_pages_el = driver.find_element(By.ID, 'ctl00_MainContent_rvSiteMapping_ctl09_ctl00_TotalPages')
+        total_pages_text = total_pages_el.text.strip().replace('?', '').strip()
+        try:
+            total_pages = int(total_pages_text)
+        except ValueError:
+            total_pages = 1
+        print(f'Report has {total_pages} page(s)')
 
-        # Parse the report data from HTML
-        permits = parse_report_html(page_source)
+        # Parse all pages
+        all_permits = []
+        for page_num in range(1, total_pages + 1):
+            print(f'Extracting page {page_num}/{total_pages}...')
+            page_source = driver.page_source
+            page_permits = parse_report_html(page_source)
+            all_permits.extend(page_permits)
+            print(f'  Found {len(page_permits)} permits on page {page_num}')
 
-        print(f'Found {len(permits)} permits')
-        return permits
+            if page_num < total_pages:
+                # Click next page button
+                next_btn = driver.find_element(By.CSS_SELECTOR, '#ctl00_MainContent_rvSiteMapping_ctl09_ctl00_Next_ctl00_ctl00')
+                next_btn.find_element(By.XPATH, '..').click()
+                time.sleep(4)
+                wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'table')))
+                time.sleep(2)
+
+        print(f'Found {len(all_permits)} permits total')
+        return all_permits
 
     except Exception as e:
         print(f'Error fetching permits: {e}')
@@ -142,53 +173,39 @@ def parse_report_html(html):
 
     soup = BeautifulSoup(html, 'html.parser')
     permits = []
+    permit_pattern = re.compile(r'^BLD\w+-\d{4}-\d+$')
 
-    # Find all table rows in the report
-    # SSRS reports typically render data in nested tables
-    tables = soup.find_all('table')
+    # Each permit is a <tr valign="top"> with 13 <td> cells:
+    # Permit#, Use, Location, Sqft, EstCost, FeesPaid, Dwell,
+    # Owner, OwnerAddr, Description, IssuanceDate, Contractor, ContractorAddr
+    for row in soup.find_all('tr', valign='top'):
+        cells = row.find_all('td')
+        if len(cells) < 11:
+            continue
 
-    for table in tables:
-        rows = table.find_all('tr')
-        for row in rows:
-            cells = row.find_all(['td', 'div'])
-            if len(cells) >= 3:
-                # Try to extract permit data
-                text_content = ' '.join(cell.get_text(strip=True) for cell in cells)
+        texts = [c.get_text(strip=True) for c in cells]
+        permit_number = texts[0]
 
-                # Look for permit number pattern (e.g., BP-2026-xxxxx)
-                permit_match = re.search(r'(BP-\d{4}-\d+)', text_content)
-                if permit_match:
-                    permit_number = permit_match.group(1)
+        if not permit_pattern.match(permit_number):
+            continue
 
-                    # Extract address (usually follows permit number)
-                    address_match = re.search(r'\d+\s+[A-Z][A-Za-z\s]+(?:ST|AVE|RD|DR|LN|CT|WAY|BLVD|PL)', text_content)
-                    address = address_match.group(0) if address_match else ''
+        permits.append({
+            'id': permit_number,
+            'permitNumber': permit_number,
+            'use': texts[1] if len(texts) > 1 else '',
+            'address': texts[2] if len(texts) > 2 else '',
+            'buildingSqft': texts[3] if len(texts) > 3 else '',
+            'estimatedCost': texts[4] if len(texts) > 4 else '',
+            'feesPaid': texts[5] if len(texts) > 5 else '',
+            'owner': texts[7] if len(texts) > 7 else '',
+            'ownerAddress': texts[8] if len(texts) > 8 else '',
+            'description': texts[9] if len(texts) > 9 else '',
+            'issuanceDate': texts[10] if len(texts) > 10 else '',
+            'contractor': texts[11] if len(texts) > 11 else '',
+            'contractorAddress': texts[12] if len(texts) > 12 else '',
+        })
 
-                    # Extract description
-                    description = text_content
-
-                    # Extract cost if present
-                    cost_match = re.search(r'\$[\d,]+(?:\.\d{2})?', text_content)
-                    cost = cost_match.group(0) if cost_match else None
-
-                    permits.append({
-                        'id': permit_number,
-                        'permitNumber': permit_number,
-                        'address': address,
-                        'description': description,
-                        'estimatedCost': cost,
-                        'rawText': text_content[:500]
-                    })
-
-    # Deduplicate by permit number
-    seen = set()
-    unique_permits = []
-    for p in permits:
-        if p['id'] not in seen:
-            seen.add(p['id'])
-            unique_permits.append(p)
-
-    return unique_permits
+    return permits
 
 
 def is_commercial_permit(permit):
