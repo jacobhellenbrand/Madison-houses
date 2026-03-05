@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-04T21:10:22.359712Z",
+  "lastUpdated": "2026-03-05T08:40:20.398357Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 29,
+  "totalCount": 28,
   "proposals": [
     {
       "id": "BLDNCC-2025-19764",
@@ -211,22 +211,6 @@
       "contractor": "OWNER",
       "contractorAddress": "",
       "category": "Commercial"
-    },
-    {
-      "id": "BLDNCC-2025-16213",
-      "permitNumber": "BLDNCC-2025-16213",
-      "use": "OFFICE, BANK, PROFESSIONAL",
-      "address": "700 N MIDVALE BLVD",
-      "buildingSqft": "1,553",
-      "estimatedCost": "$215,000",
-      "feesPaid": "$2,522",
-      "owner": "HILLDALE SHOPPING CENTER",
-      "ownerAddress": "LLC, 33 BOYLSTON ST STE 3000, CHESTNUT HILL, MA 02467",
-      "description": "REFORMATION - NEW TENANT ALTERATION",
-      "issuanceDate": "02/02/2026",
-      "contractor": "ELDER-JONES",
-      "contractorAddress": "1120 E 80TH ST, BLOOMINGTON, MN 55420",
-      "category": "Tenant Buildout"
     },
     {
       "id": "BLDNCC-2025-21909",
