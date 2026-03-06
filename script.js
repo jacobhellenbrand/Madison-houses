@@ -19,6 +19,9 @@ const avgPriceEl = document.getElementById('avg-price');
 const lastUpdatedEl = document.getElementById('last-updated');
 const allPropertiesBody = document.getElementById('all-properties-body');
 const commercialBody = document.getElementById('commercial-body');
+const histPriceFilter = document.getElementById('hist-price-filter');
+const histBedsFilter = document.getElementById('hist-beds-filter');
+const histSortFilter = document.getElementById('hist-sort-filter');
 
 // Initialize
 document.addEventListener('DOMContentLoaded', init);
@@ -66,6 +69,9 @@ async function init() {
         // Setup tab navigation
         setupTabs();
 
+        histPriceFilter.addEventListener('change', renderHistoricalTable);
+        histBedsFilter.addEventListener('change', renderHistoricalTable);
+        histSortFilter.addEventListener('change', renderHistoricalTable);
 
         renderProperties();
         renderHistoricalTable();
@@ -153,19 +159,39 @@ function renderHistoricalTable() {
         return;
     }
 
-    // Sort by dateAdded descending (newest first)
-    const sorted = [...historicalProperties].sort((a, b) => {
-        return new Date(b.dateAdded || b.listedDate) - new Date(a.dateAdded || a.listedDate);
+    let filtered = [...historicalProperties];
+
+    const maxPrice = histPriceFilter.value;
+    if (maxPrice) filtered = filtered.filter(p => p.price <= parseInt(maxPrice));
+
+    const minBeds = histBedsFilter.value;
+    if (minBeds) filtered = filtered.filter(p => p.bedrooms >= parseInt(minBeds));
+
+    const sortBy = histSortFilter.value;
+    filtered.sort((a, b) => {
+        switch (sortBy) {
+            case 'price-asc': return a.price - b.price;
+            case 'price-desc': return b.price - a.price;
+            case 'date-asc': return new Date(a.dateAdded || a.listedDate) - new Date(b.dateAdded || b.listedDate);
+            case 'date-desc':
+            default: return new Date(b.dateAdded || b.listedDate) - new Date(a.dateAdded || a.listedDate);
+        }
     });
 
-    allPropertiesBody.innerHTML = sorted.map(p => {
+    if (filtered.length === 0) {
+        allPropertiesBody.innerHTML = '<tr><td colspan="9" class="no-results">No properties match your filters.</td></tr>';
+        return;
+    }
+
+    allPropertiesBody.innerHTML = filtered.map(p => {
         const owner = p.owner || {};
         const agent = p.agent || {};
         const dateAdded = p.dateAdded ? new Date(p.dateAdded).toLocaleDateString() : 'N/A';
+        const mapsUrl = buildMapsUrl([p.addressLine1, p.city, p.state, p.zipCode]);
 
         return `
             <tr>
-                <td>${p.addressLine1 || 'N/A'}</td>
+                <td><a href="${mapsUrl}" target="_blank" rel="noopener">${p.addressLine1 || 'N/A'}</a></td>
                 <td>${p.city || 'N/A'}</td>
                 <td>${formatPrice(p.price)}</td>
                 <td>${p.bedrooms || '--'}</td>
@@ -193,10 +219,11 @@ function renderCommercialTable() {
 
     commercialBody.innerHTML = sorted.map(p => {
         const descShort = (p.description || '').substring(0, 120) + (p.description && p.description.length > 120 ? '...' : '');
+        const mapsUrl = buildMapsUrl([p.address, 'Madison', 'WI']);
         return `
             <tr>
                 <td class="permit-number-cell">${p.permitNumber || 'N/A'}</td>
-                <td class="address-cell">${p.address || 'N/A'}</td>
+                <td class="address-cell"><a href="${mapsUrl}" target="_blank" rel="noopener">${p.address || 'N/A'}</a></td>
                 <td class="details-cell">${descShort}</td>
                 <td>${p.owner || 'N/A'}</td>
                 <td class="owner-address-cell">${p.ownerAddress || 'N/A'}</td>
@@ -207,9 +234,15 @@ function renderCommercialTable() {
     }).join('');
 }
 
+function buildMapsUrl(parts) {
+    const query = parts.filter(Boolean).join(', ');
+    return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
+}
+
 function createPropertyCard(property) {
     const formattedPrice = formatPrice(property.price);
     const address = formatAddress(property);
+    const mapsUrl = buildMapsUrl([property.addressLine1, property.city, property.state, property.zipCode]);
     const listedDate = property.listedDate
         ? new Date(property.listedDate).toLocaleDateString()
         : 'N/A';
@@ -225,7 +258,7 @@ function createPropertyCard(property) {
             </div>
             <div class="property-details">
                 <div class="property-price">${formattedPrice}</div>
-                <div class="property-address">${address}</div>
+                <div class="property-address"><a href="${mapsUrl}" target="_blank" rel="noopener">${address}</a></div>
                 <div class="property-features">
                     <span class="feature"><strong>${property.bedrooms || '--'}</strong> beds</span>
                     <span class="feature"><strong>${property.bathrooms || '--'}</strong> baths</span>

@@ -69,7 +69,7 @@
 
         <section class="tabs">
             <button class="tab-btn active" data-tab="today">Today's Listings</button>
-            <button class="tab-btn" data-tab="all">All Properties</button>
+            <button class="tab-btn" data-tab="all">All Residential Properties</button>
             <button class="tab-btn" data-tab="commercial">Commercial Development</button>
         </section>
 
@@ -80,6 +80,38 @@
         </section>
 
         <section id="all-tab" class="tab-content">
+            <div class="filters historical-filters">
+                <div class="filter-group">
+                    <label for="hist-price-filter">Max Price</label>
+                    <select id="hist-price-filter">
+                        <option value="">Any Price</option>
+                        <option value="200000">$200,000</option>
+                        <option value="300000">$300,000</option>
+                        <option value="400000">$400,000</option>
+                        <option value="500000">$500,000</option>
+                        <option value="750000">$750,000</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="hist-beds-filter">Min Beds</label>
+                    <select id="hist-beds-filter">
+                        <option value="">Any</option>
+                        <option value="1">1+</option>
+                        <option value="2">2+</option>
+                        <option value="3">3+</option>
+                        <option value="4">4+</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="hist-sort-filter">Sort By</label>
+                    <select id="hist-sort-filter">
+                        <option value="date-desc">Newest First</option>
+                        <option value="date-asc">Oldest First</option>
+                        <option value="price-asc">Price: Low to High</option>
+                        <option value="price-desc">Price: High to Low</option>
+                    </select>
+                </div>
+            </div>
             <div class="table-container">
                 <table id="all-properties-table" class="properties-table">
                     <thead>
