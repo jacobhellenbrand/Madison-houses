@@ -33,7 +33,8 @@
         <section class="tabs">
             <button class="tab-btn active" data-tab="today">Today's Listings</button>
             <button class="tab-btn" data-tab="all">All Residential Properties</button>
-            <button class="tab-btn" data-tab="commercial">Commercial Development</button>
+            <button class="tab-btn" data-tab="commercial">Commercial Permits</button>
+            <button class="tab-btn" data-tab="developments">New Developments</button>
         </section>
 
         <section id="today-tab" class="tab-content active">
@@ -175,6 +176,31 @@
             </div>
         </section>
     </main>
+
+        <section id="developments-tab" class="tab-content">
+            <div class="commercial-header">
+                <p class="commercial-description">
+                    New development proposals submitted to the City of Madison since November 2025.
+                    Data from <a href="https://www.cityofmadison.com/dpced/planning/current-development-proposals-/1599/" target="_blank">City of Madison Planning Division</a>.
+                </p>
+            </div>
+            <div class="table-container">
+                <table id="developments-table" class="properties-table commercial-table">
+                    <thead>
+                        <tr>
+                            <th>Address</th>
+                            <th>Category</th>
+                            <th>Details</th>
+                            <th>Submitted</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody id="developments-body">
+                        <tr><td colspan="5" class="loading">Loading...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
 
     <footer>
         <div class="container">

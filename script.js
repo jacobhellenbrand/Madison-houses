@@ -3,10 +3,12 @@
 const DATA_URL = 'data/properties.json';
 const HISTORICAL_URL = 'data/all_properties.json';
 const COMMERCIAL_URL = 'data/commercial.json';
+const DEVELOPMENTS_URL = 'data/developments.json';
 
 let allProperties = [];
 let historicalProperties = [];
 let commercialProposals = [];
+let developments = [];
 
 // DOM Elements
 const propertiesContainer = document.getElementById('properties');
@@ -19,6 +21,7 @@ const avgPriceEl = document.getElementById('avg-price');
 const lastUpdatedEl = document.getElementById('last-updated');
 const allPropertiesBody = document.getElementById('all-properties-body');
 const commercialBody = document.getElementById('commercial-body');
+const developmentsBody = document.getElementById('developments-body');
 const histPriceFilter = document.getElementById('hist-price-filter');
 const histBedsFilter = document.getElementById('hist-beds-filter');
 const histSortFilter = document.getElementById('hist-sort-filter');
@@ -46,10 +49,11 @@ document.addEventListener('DOMContentLoaded', init);
 async function init() {
     try {
         // Load all data files in parallel
-        const [todayResponse, historicalResponse, commercialResponse] = await Promise.all([
+        const [todayResponse, historicalResponse, commercialResponse, developmentsResponse] = await Promise.all([
             fetch(DATA_URL),
             fetch(HISTORICAL_URL),
-            fetch(COMMERCIAL_URL)
+            fetch(COMMERCIAL_URL),
+            fetch(DEVELOPMENTS_URL)
         ]);
 
         if (!todayResponse.ok) {
@@ -69,6 +73,11 @@ async function init() {
         if (commercialResponse.ok) {
             const commercialData = await commercialResponse.json();
             commercialProposals = commercialData.proposals || [];
+        }
+
+        if (developmentsResponse.ok) {
+            const developmentsData = await developmentsResponse.json();
+            developments = developmentsData.proposals || [];
         }
 
         // Update last updated timestamp
@@ -96,6 +105,7 @@ async function init() {
         renderProperties();
         renderHistoricalTable();
         renderCommercialTable();
+        renderDevelopmentsTable();
     } catch (error) {
         console.error('Error loading properties:', error);
         propertiesContainer.innerHTML = `
@@ -264,6 +274,37 @@ function renderCommercialTable() {
                 <td class="owner-address-cell">${p.ownerAddress || 'N/A'}</td>
                 <td>${p.estimatedCost || 'N/A'}</td>
                 <td>${p.issuanceDate || 'N/A'}</td>
+            </tr>
+        `;
+    }).join('');
+}
+
+function renderDevelopmentsTable() {
+    if (developments.length === 0) {
+        developmentsBody.innerHTML = '<tr><td colspan="5" class="no-results">No developments found.</td></tr>';
+        return;
+    }
+
+    const sorted = [...developments].sort((a, b) =>
+        new Date(b.submittedDate || 0) - new Date(a.submittedDate || 0)
+    );
+
+    developmentsBody.innerHTML = sorted.map(p => {
+        const mapsUrl = buildMapsUrl([p.address, 'Madison', 'WI']);
+        const detailsShort = (p.details || '').substring(0, 150) + (p.details && p.details.length > 150 ? '...' : '');
+        const statusMatch = p.details && p.details.match(/Status:(.*?)(?:$)/);
+        const status = statusMatch ? statusMatch[1].trim() : 'Under Review';
+        const detailLink = p.detailUrl
+            ? `<a href="${p.detailUrl}" target="_blank" rel="noopener">${p.address || 'N/A'}</a>`
+            : `<a href="${mapsUrl}" target="_blank" rel="noopener">${p.address || 'N/A'}</a>`;
+
+        return `
+            <tr>
+                <td class="address-cell">${detailLink}</td>
+                <td><span class="category-badge">${p.category || 'Commercial'}</span></td>
+                <td class="details-cell">${detailsShort}</td>
+                <td>${p.submittedText || 'N/A'}</td>
+                <td>${status}</td>
             </tr>
         `;
     }).join('');

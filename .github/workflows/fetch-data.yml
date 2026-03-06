@@ -48,10 +48,13 @@ jobs:
       - name: Fetch building permits data
         run: python scripts/fetch_permits.py
 
+      - name: Fetch new development proposals
+        run: python scripts/fetch_commercial.py
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/properties.json data/all_properties.json data/commercial.json data/all_commercial.json
+          git add data/properties.json data/all_properties.json data/commercial.json data/all_commercial.json data/developments.json
           git diff --staged --quiet || git commit -m "Update property data [skip ci]"
           git push

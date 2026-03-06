@@ -39,9 +39,11 @@ RESIDENTIAL_ONLY_KEYWORDS = [
     'townhouse', 'townhome', 'subdivision lot',
 ]
 
-# Output paths
-OUTPUT_PATH = Path(__file__).parent.parent / 'data' / 'commercial.json'
-HISTORICAL_PATH = Path(__file__).parent.parent / 'data' / 'all_commercial.json'
+# Only include proposals submitted on or after this date
+CUTOFF_DATE = datetime(2025, 11, 1)
+
+# Output path
+OUTPUT_PATH = Path(__file__).parent.parent / 'data' / 'developments.json'
 
 
 def fetch_proposals():
@@ -187,14 +189,22 @@ def save_data(proposals):
     """Save proposals to JSON file."""
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
-    # Filter for commercial projects
-    commercial = [p for p in proposals if is_commercial_project(p)]
-
-    # Add category to each project
-    for p in commercial:
+    # Filter for commercial projects submitted since cutoff date
+    commercial = []
+    for p in proposals:
+        if not is_commercial_project(p):
+            continue
+        submitted = p.get('submittedDate')
+        if submitted:
+            try:
+                if datetime.fromisoformat(submitted.replace('Z', '')) < CUTOFF_DATE:
+                    continue
+            except ValueError:
+                pass
         p['category'] = categorize_project(p)
+        commercial.append(p)
 
-    print(f'Filtered to {len(commercial)} commercial/office/hospitality projects')
+    print(f'Filtered to {len(commercial)} proposals from Nov 2025+')
 
     data = {
         'lastUpdated': datetime.utcnow().isoformat() + 'Z',
@@ -209,34 +219,7 @@ def save_data(proposals):
 
     print(f'Saved {len(commercial)} proposals to {OUTPUT_PATH}')
 
-    return commercial, data['lastUpdated']
-
-
-def update_historical(new_proposals, timestamp):
-    """Append new proposals to historical list, avoiding duplicates."""
-    if HISTORICAL_PATH.exists():
-        with open(HISTORICAL_PATH) as f:
-            historical = json.load(f)
-    else:
-        historical = {'lastUpdated': timestamp, 'totalCount': 0, 'proposals': []}
-
-    existing_ids = {p['id'] for p in historical['proposals']}
-
-    new_count = 0
-    for prop in new_proposals:
-        if prop['id'] not in existing_ids:
-            prop['dateAdded'] = timestamp
-            historical['proposals'].append(prop)
-            existing_ids.add(prop['id'])
-            new_count += 1
-
-    historical['lastUpdated'] = timestamp
-    historical['totalCount'] = len(historical['proposals'])
-
-    with open(HISTORICAL_PATH, 'w') as f:
-        json.dump(historical, f, indent=2)
-
-    print(f'Added {new_count} new proposals to historical list (total: {historical["totalCount"]})')
+    return commercial
 
 
 def main():
@@ -246,8 +229,7 @@ def main():
         print('No proposals fetched')
         return
 
-    commercial, timestamp = save_data(proposals)
-    update_historical(commercial, timestamp)
+    commercial = save_data(proposals)
 
     # Print summary by category
     categories = {}
