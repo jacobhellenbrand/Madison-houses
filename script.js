@@ -49,11 +49,10 @@ document.addEventListener('DOMContentLoaded', init);
 async function init() {
     try {
         // Load all data files in parallel
-        const [todayResponse, historicalResponse, commercialResponse, developmentsResponse] = await Promise.all([
+        const [todayResponse, historicalResponse, commercialResponse] = await Promise.all([
             fetch(DATA_URL),
             fetch(HISTORICAL_URL),
-            fetch(COMMERCIAL_URL),
-            fetch(DEVELOPMENTS_URL)
+            fetch(COMMERCIAL_URL)
         ]);
 
         if (!todayResponse.ok) {
@@ -73,11 +72,6 @@ async function init() {
         if (commercialResponse.ok) {
             const commercialData = await commercialResponse.json();
             commercialProposals = commercialData.proposals || [];
-        }
-
-        if (developmentsResponse.ok) {
-            const developmentsData = await developmentsResponse.json();
-            developments = developmentsData.proposals || [];
         }
 
         // Update last updated timestamp
@@ -105,6 +99,17 @@ async function init() {
         renderProperties();
         renderHistoricalTable();
         renderCommercialTable();
+
+        // Load developments independently so a fetch failure doesn't break the rest
+        try {
+            const devResponse = await fetch(DEVELOPMENTS_URL);
+            if (devResponse.ok) {
+                const devData = await devResponse.json();
+                developments = devData.proposals || [];
+            }
+        } catch (devError) {
+            console.warn('Could not load developments data:', devError);
+        }
         renderDevelopmentsTable();
     } catch (error) {
         console.error('Error loading properties:', error);
