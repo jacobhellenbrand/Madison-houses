@@ -22,6 +22,20 @@ const commercialBody = document.getElementById('commercial-body');
 const histPriceFilter = document.getElementById('hist-price-filter');
 const histBedsFilter = document.getElementById('hist-beds-filter');
 const histSortFilter = document.getElementById('hist-sort-filter');
+const individualsFilter = document.getElementById('individuals-filter');
+
+const BUSINESS_KEYWORDS = [
+    'llc', 'inc', 'corp', 'trust', 'properties', 'holdings', 'realty',
+    'investments', 'partners', 'group', 'association', 'assoc', 'enterprises',
+    'company', 'co.', 'fund', 'estate', 'management', 'mgmt', 'services',
+    'development', 'ventures', 'limited', 'ltd'
+];
+
+function isIndividualOwner(ownerName) {
+    if (!ownerName) return false;
+    const lower = ownerName.toLowerCase();
+    return !BUSINESS_KEYWORDS.some(kw => lower.includes(kw));
+}
 
 // Initialize
 document.addEventListener('DOMContentLoaded', init);
@@ -73,6 +87,7 @@ async function init() {
         histPriceFilter.addEventListener('change', renderHistoricalTable);
         histBedsFilter.addEventListener('change', renderHistoricalTable);
         histSortFilter.addEventListener('change', renderHistoricalTable);
+        individualsFilter.addEventListener('change', renderHistoricalTable);
 
         renderProperties();
         renderHistoricalTable();
@@ -167,6 +182,10 @@ function renderHistoricalTable() {
 
     const minBeds = histBedsFilter.value;
     if (minBeds) filtered = filtered.filter(p => p.bedrooms >= parseInt(minBeds));
+
+    if (individualsFilter.value === 'individuals') {
+        filtered = filtered.filter(p => isIndividualOwner((p.owner || {}).owner1));
+    }
 
     const sortBy = histSortFilter.value;
     filtered.sort((a, b) => {
@@ -432,6 +451,9 @@ function exportHistoricalCSV() {
     if (minPrice) dataToExport = dataToExport.filter(p => p.price >= parseInt(minPrice));
     const minBeds = histBedsFilter.value;
     if (minBeds) dataToExport = dataToExport.filter(p => p.bedrooms >= parseInt(minBeds));
+    if (individualsFilter.value === 'individuals') {
+        dataToExport = dataToExport.filter(p => isIndividualOwner((p.owner || {}).owner1));
+    }
 
     if (dataToExport.length === 0) {
         alert('No properties to export');
