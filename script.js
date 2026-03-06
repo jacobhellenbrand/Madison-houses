@@ -248,9 +248,8 @@ function createPropertyCard(property) {
         ? new Date(property.listedDate).toLocaleDateString()
         : 'N/A';
 
-    const agent = property.agent || {};
-    const office = property.office || {};
-    const agentInfo = formatAgentInfo(agent, office);
+    const owner = property.owner || {};
+    const ownerInfo = owner.owner1 ? `<div class="agent-info"><strong>${owner.owner1}</strong>${owner.owner2 ? '<br>' + owner.owner2 : ''}</div>` : '';
 
     return `
         <article class="property-card">
@@ -265,7 +264,7 @@ function createPropertyCard(property) {
                     <span class="feature"><strong>${property.bathrooms || '--'}</strong> baths</span>
                     <span class="feature"><strong>${formatSqft(property.squareFootage)}</strong> sqft</span>
                 </div>
-                ${agentInfo}
+                ${ownerInfo}
                 <div class="property-meta">
                     <span class="property-type">${property.propertyType || 'Residential'}</span>
                     <span>Listed: ${listedDate}</span>
