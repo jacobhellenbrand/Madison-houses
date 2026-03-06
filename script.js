@@ -22,6 +22,7 @@ const commercialBody = document.getElementById('commercial-body');
 const histPriceFilter = document.getElementById('hist-price-filter');
 const histBedsFilter = document.getElementById('hist-beds-filter');
 const histSortFilter = document.getElementById('hist-sort-filter');
+const histDateFilter = document.getElementById('hist-date-filter');
 const individualsFilter = document.getElementById('individuals-filter');
 
 const BUSINESS_KEYWORDS = [
@@ -89,6 +90,7 @@ async function init() {
         histPriceFilter.addEventListener('change', renderHistoricalTable);
         histBedsFilter.addEventListener('change', renderHistoricalTable);
         histSortFilter.addEventListener('change', renderHistoricalTable);
+        histDateFilter.addEventListener('change', renderHistoricalTable);
         individualsFilter.addEventListener('change', renderHistoricalTable);
 
         renderProperties();
@@ -187,6 +189,14 @@ function renderHistoricalTable() {
 
     const minBeds = histBedsFilter.value;
     if (minBeds) filtered = filtered.filter(p => p.bedrooms >= parseInt(minBeds));
+
+    const fromDate = histDateFilter.value;
+    if (fromDate) {
+        filtered = filtered.filter(p => {
+            const d = p.dateAdded || p.listedDate;
+            return d && new Date(d) >= new Date(fromDate);
+        });
+    }
 
     if (individualsFilter.value === 'individuals') {
         filtered = filtered.filter(p => isIndividualOwner((p.owner || {}).owner1));
@@ -456,6 +466,11 @@ function exportHistoricalCSV() {
     if (minPrice) dataToExport = dataToExport.filter(p => p.price >= parseInt(minPrice));
     const minBeds = histBedsFilter.value;
     if (minBeds) dataToExport = dataToExport.filter(p => p.bedrooms >= parseInt(minBeds));
+    const fromDate = histDateFilter.value;
+    if (fromDate) dataToExport = dataToExport.filter(p => {
+        const d = p.dateAdded || p.listedDate;
+        return d && new Date(d) >= new Date(fromDate);
+    });
     if (individualsFilter.value === 'individuals') {
         dataToExport = dataToExport.filter(p => isIndividualOwner((p.owner || {}).owner1));
     }
