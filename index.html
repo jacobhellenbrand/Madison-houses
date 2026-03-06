@@ -15,43 +15,6 @@
     </header>
 
     <main class="container">
-        <section class="filters">
-            <div class="filter-group">
-                <label for="price-filter">Max Price</label>
-                <select id="price-filter">
-                    <option value="">Any Price</option>
-                    <option value="200000">$200,000</option>
-                    <option value="300000">$300,000</option>
-                    <option value="400000">$400,000</option>
-                    <option value="500000">$500,000</option>
-                    <option value="750000">$750,000</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <label for="beds-filter">Min Beds</label>
-                <select id="beds-filter">
-                    <option value="">Any</option>
-                    <option value="1">1+</option>
-                    <option value="2">2+</option>
-                    <option value="3">3+</option>
-                    <option value="4">4+</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <label for="sort-filter">Sort By</label>
-                <select id="sort-filter">
-                    <option value="date-desc">Newest First</option>
-                    <option value="date-asc">Oldest First</option>
-                    <option value="price-asc">Price: Low to High</option>
-                    <option value="price-desc">Price: High to Low</option>
-                </select>
-            </div>
-            <div class="filter-group export-group">
-                <label>&nbsp;</label>
-                <button id="export-btn" class="export-btn">Export CSV</button>
-            </div>
-        </section>
-
         <section class="stats">
             <div class="stat-card">
                 <span class="stat-value" id="total-listings">--</span>
@@ -74,15 +37,51 @@
         </section>
 
         <section id="today-tab" class="tab-content active">
+            <div class="filters">
+                <div class="filter-group">
+                    <label for="price-filter">Min Price</label>
+                    <select id="price-filter">
+                        <option value="">Any Price</option>
+                        <option value="200000">$200,000</option>
+                        <option value="300000">$300,000</option>
+                        <option value="400000">$400,000</option>
+                        <option value="500000">$500,000</option>
+                        <option value="750000">$750,000</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="beds-filter">Min Beds</label>
+                    <select id="beds-filter">
+                        <option value="">Any</option>
+                        <option value="1">1+</option>
+                        <option value="2">2+</option>
+                        <option value="3">3+</option>
+                        <option value="4">4+</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="sort-filter">Sort By</label>
+                    <select id="sort-filter">
+                        <option value="date-desc">Newest First</option>
+                        <option value="date-asc">Oldest First</option>
+                        <option value="price-asc">Price: Low to High</option>
+                        <option value="price-desc">Price: High to Low</option>
+                    </select>
+                </div>
+                <div class="filter-group export-group">
+                    <label>&nbsp;</label>
+                    <button id="export-btn" class="export-btn">Export CSV</button>
+                </div>
+            </div>
             <div id="properties" class="properties-grid">
                 <div class="loading">Loading properties...</div>
             </div>
         </section>
 
         <section id="all-tab" class="tab-content">
-            <div class="filters historical-filters">
+            <div class="filters">
                 <div class="filter-group">
-                    <label for="hist-price-filter">Max Price</label>
+                    <label for="hist-price-filter">Min Price</label>
                     <select id="hist-price-filter">
                         <option value="">Any Price</option>
                         <option value="200000">$200,000</option>
@@ -110,6 +109,10 @@
                         <option value="price-asc">Price: Low to High</option>
                         <option value="price-desc">Price: High to Low</option>
                     </select>
+                </div>
+                <div class="filter-group export-group">
+                    <label>&nbsp;</label>
+                    <button id="hist-export-btn" class="export-btn">Export CSV</button>
                 </div>
             </div>
             <div class="table-container">

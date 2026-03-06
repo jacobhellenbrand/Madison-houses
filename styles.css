@@ -182,6 +182,24 @@ header h1 {
     margin-bottom: 1rem;
 }
 
+.property-address a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.property-address a:hover {
+    text-decoration: underline;
+}
+
+.properties-table a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.properties-table a:hover {
+    text-decoration: underline;
+}
+
 .property-features {
     display: flex;
     gap: 1rem;

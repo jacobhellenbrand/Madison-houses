@@ -65,6 +65,7 @@ async function init() {
         bedsFilter.addEventListener('change', renderProperties);
         sortFilter.addEventListener('change', renderProperties);
         exportBtn.addEventListener('click', exportToCSV);
+        document.getElementById('hist-export-btn').addEventListener('click', exportHistoricalCSV);
 
         // Setup tab navigation
         setupTabs();
@@ -109,9 +110,9 @@ function renderProperties() {
     let filtered = [...allProperties];
 
     // Apply price filter
-    const maxPrice = priceFilter.value;
-    if (maxPrice) {
-        filtered = filtered.filter(p => p.price <= parseInt(maxPrice));
+    const minPrice = priceFilter.value;
+    if (minPrice) {
+        filtered = filtered.filter(p => p.price >= parseInt(minPrice));
     }
 
     // Apply beds filter
@@ -161,8 +162,8 @@ function renderHistoricalTable() {
 
     let filtered = [...historicalProperties];
 
-    const maxPrice = histPriceFilter.value;
-    if (maxPrice) filtered = filtered.filter(p => p.price <= parseInt(maxPrice));
+    const minPrice = histPriceFilter.value;
+    if (minPrice) filtered = filtered.filter(p => p.price >= parseInt(minPrice));
 
     const minBeds = histBedsFilter.value;
     if (minBeds) filtered = filtered.filter(p => p.bedrooms >= parseInt(minBeds));
@@ -345,15 +346,7 @@ function formatSqft(sqft) {
 }
 
 function exportToCSV() {
-    // Export from whichever tab is active
-    const activeTab = document.querySelector('.tab-btn.active').dataset.tab;
-
-    if (activeTab === 'commercial') {
-        exportCommercialCSV();
-        return;
-    }
-
-    const dataToExport = activeTab === 'all' ? historicalProperties : allProperties;
+    const dataToExport = allProperties;
 
     if (dataToExport.length === 0) {
         alert('No properties to export');
@@ -422,14 +415,64 @@ function exportToCSV() {
     const link = document.createElement('a');
     const url = URL.createObjectURL(blob);
 
-    const filename = activeTab === 'all'
-        ? `madison-all-properties-${new Date().toISOString().split('T')[0]}.csv`
-        : `madison-properties-${new Date().toISOString().split('T')[0]}.csv`;
+    const filename = `madison-properties-${new Date().toISOString().split('T')[0]}.csv`;
 
     link.setAttribute('href', url);
     link.setAttribute('download', filename);
     link.style.visibility = 'hidden';
 
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+}
+
+function exportHistoricalCSV() {
+    // Export with current filters applied
+    let dataToExport = [...historicalProperties];
+    const minPrice = histPriceFilter.value;
+    if (minPrice) dataToExport = dataToExport.filter(p => p.price >= parseInt(minPrice));
+    const minBeds = histBedsFilter.value;
+    if (minBeds) dataToExport = dataToExport.filter(p => p.bedrooms >= parseInt(minBeds));
+
+    if (dataToExport.length === 0) {
+        alert('No properties to export');
+        return;
+    }
+
+    const headers = [
+        'Address', 'City', 'State', 'Zip Code', 'Price', 'Bedrooms', 'Bathrooms',
+        'Square Footage', 'Property Type', 'Listed Date', 'Days on Market',
+        'Owner 1', 'Owner 2', 'Agent Name', 'Agent Phone', 'Agent Email',
+        'Office Name', 'Office Phone', 'Latitude', 'Longitude', 'Date Added'
+    ];
+
+    const rows = dataToExport.map(p => {
+        const agent = p.agent || {};
+        const office = p.office || {};
+        const owner = p.owner || {};
+        return [
+            p.addressLine1 || '', p.city || '', p.state || '', p.zipCode || '',
+            p.price || '', p.bedrooms || '', p.bathrooms || '', p.squareFootage || '',
+            p.propertyType || '',
+            p.listedDate ? new Date(p.listedDate).toLocaleDateString() : '',
+            p.daysOnMarket || '', owner.owner1 || '', owner.owner2 || '',
+            agent.name || '', agent.phone || '', agent.email || '',
+            office.name || '', office.phone || '',
+            p.latitude || '', p.longitude || '',
+            p.dateAdded ? new Date(p.dateAdded).toLocaleDateString() : ''
+        ];
+    });
+
+    const csvContent = [
+        headers.join(','),
+        ...rows.map(row => row.map(cell => `"${String(cell).replace(/"/g, '""')}"`).join(','))
+    ].join('\n');
+
+    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement('a');
+    link.setAttribute('href', URL.createObjectURL(blob));
+    link.setAttribute('download', `madison-all-residential-${new Date().toISOString().split('T')[0]}.csv`);
+    link.style.visibility = 'hidden';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
