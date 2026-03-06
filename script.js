@@ -25,10 +25,12 @@ const histSortFilter = document.getElementById('hist-sort-filter');
 const individualsFilter = document.getElementById('individuals-filter');
 
 const BUSINESS_KEYWORDS = [
-    'llc', 'inc', 'corp', 'trust', 'properties', 'holdings', 'realty',
-    'investments', 'partners', 'group', 'association', 'assoc', 'enterprises',
-    'company', 'co.', 'fund', 'estate', 'management', 'mgmt', 'services',
-    'development', 'ventures', 'limited', 'ltd'
+    'llc', 'inc', 'corp', 'trust', 'tr ', ' tr', 'properties', 'holdings',
+    'realty', 'investments', 'partners', 'group', 'association', 'assoc',
+    'enterprises', 'company', 'co.', 'fund', 'estate', 'management', 'mgmt',
+    'services', 'development', 'ventures', 'limited', 'ltd', 'city of',
+    'county of', 'state of', 'village of', 'town of', 'university', 'church',
+    'school', 'foundation', 'nonprofit', 'authority'
 ];
 
 function isIndividualOwner(ownerName) {
@@ -105,18 +107,21 @@ async function init() {
 
 function setupTabs() {
     const tabButtons = document.querySelectorAll('.tab-btn');
+    const statsSection = document.querySelector('.stats');
+
     tabButtons.forEach(btn => {
         btn.addEventListener('click', () => {
-            // Update active tab button
             tabButtons.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
 
-            // Show corresponding content
             const tabId = btn.dataset.tab;
             document.querySelectorAll('.tab-content').forEach(content => {
                 content.classList.remove('active');
             });
             document.getElementById(`${tabId}-tab`).classList.add('active');
+
+            // Only show stats on Today's Listings
+            statsSection.style.display = tabId === 'today' ? '' : 'none';
         });
     });
 }
