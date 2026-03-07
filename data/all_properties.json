@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-06T08:36:07.718634Z",
-  "totalCount": 113,
+  "lastUpdated": "2026-03-07T08:29:13.266033Z",
+  "totalCount": 125,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -3390,6 +3390,366 @@
       "owner": {
         "owner1": null,
         "owner2": null
+      }
+    },
+    {
+      "id": "6401-6403-Raymond-Rd,-Madison,-WI-53711",
+      "addressLine1": "6401-6403 Raymond Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 525000,
+      "bedrooms": 6,
+      "bathrooms": 3,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.031479,
+      "longitude": -89.49218,
+      "agent": {
+        "name": "Joffre Pedretti",
+        "phone": "6086988503",
+        "email": "jpedretti@kw.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-03-07T08:29:13.266033Z",
+      "owner": {
+        "owner1": "HAPPY RAYMOND ROAD LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "4205-Monarch-Ct,-Middleton,-WI-53562",
+      "addressLine1": "4205 Monarch Ct",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 749800,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3415,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.12216,
+      "longitude": -89.472324,
+      "agent": {
+        "name": "Yishu Jiang",
+        "phone": "6083478302",
+        "email": "realtor.suejiang@gmail.com"
+      },
+      "office": {
+        "name": "Tri-River Realty",
+        "phone": "6082839335"
+      },
+      "dateAdded": "2026-03-07T08:29:13.266033Z",
+      "owner": {
+        "owner1": "LEE & GUO REV TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "5915-Running-Deer-Trl,-Mcfarland,-WI-53558",
+      "addressLine1": "5915 Running Deer Trl",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 535000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2151,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.012387,
+      "longitude": -89.282078,
+      "agent": {
+        "name": "Hansen Home Team",
+        "phone": "6082196506",
+        "email": "hansenhometeam@starkhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-03-07T08:29:13.266033Z",
+      "owner": {
+        "owner1": "HOWERY REV TR, JEFFREY & SHANNON",
+        "owner2": null
+      }
+    },
+    {
+      "id": "7910-Starr-Grass-Dr,-Madison,-WI-53719",
+      "addressLine1": "7910 Starr Grass Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 500000,
+      "bedrooms": 2,
+      "bathrooms": 2.5,
+      "squareFootage": 2417,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-03T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.037399,
+      "longitude": -89.523349,
+      "agent": {
+        "name": "Amy Sherman-kortbein",
+        "phone": "6086955026",
+        "email": "akortbein@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Monroe St.",
+        "phone": "6082327777"
+      },
+      "dateAdded": "2026-03-07T08:29:13.266033Z",
+      "owner": {
+        "owner1": "LYNN M NELSON",
+        "owner2": null
+      }
+    },
+    {
+      "id": "6972-Belle-Fontaine-Blvd,-Middleton,-WI-53562",
+      "addressLine1": "6972 Belle Fontaine Blvd",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 429900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1435,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.124192,
+      "longitude": -89.498694,
+      "agent": {
+        "name": "Wendy Jones Hill",
+        "phone": "6084434880",
+        "email": "whill@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-03-07T08:29:13.266033Z",
+      "owner": {
+        "owner1": "REDTAIL RIDGE TOWNHOMES LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1807-Dewberry-Dr,-Madison,-WI-53719",
+      "addressLine1": "1807 Dewberry Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 650000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 3374,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.033237,
+      "longitude": -89.521742,
+      "agent": {
+        "name": "Paul Haviland",
+        "phone": "6088434442",
+        "email": "phaviland@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-03-07T08:29:13.266033Z",
+      "owner": {
+        "owner1": "DOWNS LIVING TRUST",
+        "owner2": "JOSEPH & ELIZABETH"
+      }
+    },
+    {
+      "id": "639-N-Woods-Edge-Dr,-Oregon,-WI-53575",
+      "addressLine1": "639 N Woods Edge Dr",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 484900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2150,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.925309,
+      "longitude": -89.396139,
+      "agent": {
+        "name": "Hansen Home Team",
+        "phone": "6082196506",
+        "email": "hansenhometeam@starkhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-03-07T08:29:13.266033Z",
+      "owner": {
+        "owner1": "MARK KENDALL",
+        "owner2": "SOPHIA ERB"
+      }
+    },
+    {
+      "id": "457-Savannah-Dr,-Oregon,-WI-53575",
+      "addressLine1": "457 Savannah Dr",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 439900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1528,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.941949,
+      "longitude": -89.377539,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-07T08:29:13.266033Z",
+      "owner": {
+        "owner1": "V&O INVESTORS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2008-S-High-Point-Rd,-Madison,-WI-53719",
+      "addressLine1": "2008 S High Point Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 419900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1656,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.0329909,
+      "longitude": -89.5183081,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-07T08:29:13.266033Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "8226-Mill-Creek-Dr,-Madison,-WI-53719",
+      "addressLine1": "8226 Mill Creek Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 798000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2809,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-03T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.024554,
+      "longitude": -89.52755,
+      "agent": {
+        "name": "Maria Antoinette",
+        "phone": "6086925177",
+        "email": "mariaantoinette1@gmail.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Downtown Madison",
+        "phone": "6082947777"
+      },
+      "dateAdded": "2026-03-07T08:29:13.266033Z",
+      "owner": {
+        "owner1": "B&J ANDERSON REV LIV TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "532-Goldenrod-Cir,-Verona,-WI-53593",
+      "addressLine1": "532 Goldenrod Cir",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 465000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2086,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-03T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.981902,
+      "longitude": -89.51541,
+      "agent": {
+        "name": "Jason R Geiger",
+        "phone": "6082772167",
+        "email": "jgeiger@geigerrealtors.com"
+      },
+      "office": {
+        "name": "Geiger, Realtors",
+        "phone": "6082771333"
+      },
+      "dateAdded": "2026-03-07T08:29:13.266033Z",
+      "owner": {
+        "owner1": "ADAM D ALLISON",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1824-1826-N-Van-Buren-St,-Stoughton,-WI-53589",
+      "addressLine1": "1824-1826 N Van Buren St",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 459900,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-03T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.935426,
+      "longitude": -89.232035,
+      "agent": {
+        "name": "Kendra Halverson",
+        "phone": null,
+        "email": "khalverson@coldwellhomes.com"
+      },
+      "office": {
+        "name": "Fitchburg Office",
+        "phone": "8002361550"
+      },
+      "dateAdded": "2026-03-07T08:29:13.266033Z",
+      "owner": {
+        "owner1": "MAXWELL C FULLER",
+        "owner2": "GABRIELLE R SURGES"
       }
     }
   ]

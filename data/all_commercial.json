@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-06T08:37:32.947158Z",
-  "totalCount": 68,
+  "lastUpdated": "2026-03-07T08:31:26.035130Z",
+  "totalCount": 71,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -997,6 +997,57 @@
       "contractorAddress": "1218 GILSON ST, MADISON, WI 53715",
       "category": "Renovation",
       "dateAdded": "2026-03-06T08:37:32.947158Z"
+    },
+    {
+      "id": "BLDNCC-2026-02169",
+      "permitNumber": "BLDNCC-2026-02169",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "313 BLETTNER BLVD 200",
+      "buildingSqft": "85",
+      "estimatedCost": "$17,000",
+      "feesPaid": "$287",
+      "owner": "F STREET 313 LLC",
+      "ownerAddress": "ATTN: ACCOUNTING DEPT, 1134 N 9TH ST STE 200, MILWAUKEE, WI 53233-7607",
+      "description": "GAINWELL TECHNOLOGIES - CONVERT VENDING ROOM TO OFFICE",
+      "issuanceDate": "03/06/2026",
+      "contractor": "LAKE COUNTRY CONSTRUCTION GROUP LLC",
+      "contractorAddress": "161 HORIZON DR, VERONA, WI 53593",
+      "category": "Office",
+      "dateAdded": "2026-03-07T08:31:26.035130Z"
+    },
+    {
+      "id": "BLDNCC-2026-01028",
+      "permitNumber": "BLDNCC-2026-01028",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "5152 TRADEWINDS PKWY",
+      "buildingSqft": "3,364",
+      "estimatedCost": "$142,515",
+      "feesPaid": "$549",
+      "owner": "MMI LLC",
+      "ownerAddress": "5301 VOGES RD, MADISON, WI 53718",
+      "description": "AUTOMATED LOGIC CORPORATION - SHELL BUILDOUT",
+      "issuanceDate": "03/06/2026",
+      "contractor": "AIR TEMPERATURE SERVICES INC",
+      "contractorAddress": "5301 VOGES RD, MCFARLAND, WI 53718",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-03-07T08:31:26.035130Z"
+    },
+    {
+      "id": "BLDRPR-2026-03359",
+      "permitNumber": "BLDRPR-2026-03359",
+      "use": "CONDOMINIUMS",
+      "address": "25 SHERMAN TER 2",
+      "buildingSqft": "0",
+      "estimatedCost": "$800",
+      "feesPaid": "$25",
+      "owner": "STACEY LYNN WEBER",
+      "ownerAddress": "25 SHERMAN TER, UNIT 2, MADISON, WI 53704",
+      "description": "KITCHEN REMODEL (NO STRUCTURAL ALT), NEW TILE BACKSPLASH, REMOVAL OF SMALL COUNTERTOP PENINSULA.",
+      "issuanceDate": "03/06/2026",
+      "contractor": "",
+      "contractorAddress": "25 Sherman Ter, Madison, WI 53704",
+      "category": "Renovation",
+      "dateAdded": "2026-03-07T08:31:26.035130Z"
     }
   ]
 }
