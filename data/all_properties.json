@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-07T08:29:13.266033Z",
-  "totalCount": 125,
+  "lastUpdated": "2026-03-08T08:29:14.185274Z",
+  "totalCount": 133,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -3750,6 +3750,246 @@
       "owner": {
         "owner1": "MAXWELL C FULLER",
         "owner2": "GABRIELLE R SURGES"
+      }
+    },
+    {
+      "id": "4914-Ralph-Cir,-Madison,-WI-53714",
+      "addressLine1": "4914 Ralph Cir",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53714",
+      "price": 434900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1995,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.096562,
+      "longitude": -89.297025,
+      "agent": {
+        "name": "Michael Weiss",
+        "phone": "6087099023",
+        "email": "michael@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-03-08T08:29:14.185274Z",
+      "owner": {
+        "owner1": "MARGARET T BONGARD",
+        "owner2": null
+      }
+    },
+    {
+      "id": "625-Schewe-Rd,-Middleton,-WI-53562",
+      "addressLine1": "625 Schewe Rd",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 432900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1667,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.0719784,
+      "longitude": -89.5630578,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-08T08:29:14.185274Z",
+      "owner": {
+        "owner1": "EGGERT LIVING TRUST",
+        "owner2": null
+      }
+    },
+    {
+      "id": "5526-Englewood-Rd,-Madison,-WI-53705",
+      "addressLine1": "5526 Englewood Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 540000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1950,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-03T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.077601,
+      "longitude": -89.47916,
+      "agent": {
+        "name": "Renee Heine",
+        "phone": "6088369300",
+        "email": "rheine@starkhomes.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "dateAdded": "2026-03-08T08:29:14.185274Z",
+      "owner": {
+        "owner1": "MARY N BEALL",
+        "owner2": "TIAIRA PORTER"
+      }
+    },
+    {
+      "id": "12-Oak-Creek-Trl,-Madison,-WI-53717",
+      "addressLine1": "12 Oak Creek Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 599000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 3289,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.067724,
+      "longitude": -89.50936,
+      "agent": {
+        "name": "Kaitlin Solomon",
+        "phone": "6087099889",
+        "email": "kaitlin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-03-08T08:29:14.185274Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1129-Kamperschroer-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1129 Kamperschroer Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 500000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2122,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-03T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.18299,
+      "longitude": -89.189715,
+      "agent": {
+        "name": "Swain, Jenny",
+        "phone": "6082198989",
+        "email": "jenny@jennyswain.com"
+      },
+      "office": {
+        "name": "Jenny Swain and Associates",
+        "phone": "6082198989"
+      },
+      "dateAdded": "2026-03-08T08:29:14.185274Z",
+      "owner": {
+        "owner1": "MUSHTAQUE LIVING TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3837-Monona-Dr,-Unit-2,-Monona,-WI-53714",
+      "addressLine1": "3837 Monona Dr",
+      "city": "Monona",
+      "state": "WI",
+      "zipCode": "53714",
+      "price": 750000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 1818,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.084288,
+      "longitude": -89.326026,
+      "agent": {
+        "name": "Lori Schilling",
+        "phone": "6082794313",
+        "email": "lorisells@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-03-08T08:29:14.185274Z",
+      "owner": {
+        "owner1": "JARED MOORE",
+        "owner2": "KYLE WILSON"
+      }
+    },
+    {
+      "id": "10110-Mosaic-Way,-Middleton,-WI-53562",
+      "addressLine1": "10110 Mosaic Way",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 447900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1765,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.0726968,
+      "longitude": -89.5627105,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-08T08:29:14.185274Z",
+      "owner": {
+        "owner1": "EGGERT LIVING TRUST",
+        "owner2": null
+      }
+    },
+    {
+      "id": "616-Tabby-Turn-Dr,-Middleton,-WI-53562",
+      "addressLine1": "616 Tabby Turn Dr",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 499900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1528,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.0718814,
+      "longitude": -89.562652,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-08T08:29:14.185274Z",
+      "owner": {
+        "owner1": "EGGERT LIVING TRUST",
+        "owner2": null
       }
     }
   ]

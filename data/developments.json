@@ -1,9 +1,42 @@
 {
-  "lastUpdated": "2026-03-07T08:31:26.653109Z",
+  "lastUpdated": "2026-03-08T08:30:55.407655Z",
   "source": "City of Madison Planning Division",
   "sourceUrl": "https://www.cityofmadison.com/dpced/planning/current-development-proposals-/1599/",
-  "totalCount": 11,
+  "totalCount": 13,
   "proposals": [
+    {
+      "id": "1051-S-Pleasant-View-Rd",
+      "address": "1051 S Pleasant View Rd",
+      "submittedDate": "2026-03-06T00:00:00Z",
+      "submittedText": "03/06/2026",
+      "details": "Construct five-story, 226-unit multi-family dwelling with outdoor poolRequest/Application Type:Conditional UseLegislative Files:92234Status:Application Under Review",
+      "meetings": "Plan Commission:04/13/2026",
+      "legistarLinks": [],
+      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development.cfm?record=LNDUSE-2026-00012",
+      "category": "Commercial"
+    },
+    {
+      "id": "1111-Regent-St",
+      "address": "1111 Regent St",
+      "submittedDate": "2026-03-06T00:00:00Z",
+      "submittedText": "03/06/2026",
+      "details": "Create one lot for mixed-use developmentRequest/Application Type:Certified Survey MapLegislative Files:92238Status:Application Under Review",
+      "meetings": "Common Council:04/21/2026",
+      "legistarLinks": [],
+      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development.cfm?record=LNDCSM-2026-00009",
+      "category": "Mixed-Use"
+    },
+    {
+      "id": "1602-Gilson-St",
+      "address": "1602 Gilson St",
+      "submittedDate": "2026-03-06T00:00:00Z",
+      "submittedText": "03/06/2026",
+      "details": "Allow amplified sound in outdoor eating area of restaurantRequest/Application Type:Conditional UseLegislative Files:92235Status:Application Under Review",
+      "meetings": "Plan Commission:04/13/2026",
+      "legistarLinks": [],
+      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development.cfm?record=LNDUSE-2026-00013",
+      "category": "Retail"
+    },
     {
       "id": "2066-Helena-St",
       "address": "2066 Helena St",
@@ -36,17 +69,6 @@
       "legistarLinks": [],
       "detailUrl": "https://www.cityofmadison.com/dpced/planning/development.cfm?record=LNDUSE-2026-00007",
       "category": "Medical"
-    },
-    {
-      "id": "6004-Commercial-Ave",
-      "address": "6004 Commercial Ave",
-      "submittedDate": "2026-01-21T00:00:00Z",
-      "submittedText": "01/21/2026",
-      "details": "Create three outlots for future developmentRequest/Application Type:Certified Survey MapLegislative Files:91596Status:In Process",
-      "meetings": "Common Council:02/24/2026",
-      "legistarLinks": [],
-      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development.cfm?record=LNDCSM-2026-00003",
-      "category": "Commercial"
     },
     {
       "id": "2030-Pennsylvania-Ave",
@@ -119,11 +141,11 @@
       "address": "7401 Mineral Point Rd",
       "submittedDate": "2025-11-07T00:00:00Z",
       "submittedText": "11/07/2025",
-      "details": "Construct restaurant (Raising Canes Chicken Fingers) with drive-thru window in planned multi-use site. ------ STATUS: REFERRED to the 4/27/2016 PC mtg by the PC on 2/2/2016.Request/Application Type:Conditional UseLegislative Files:9080390918Status:Application Under Review",
+      "details": "Construct two-story multi-tenant commercial building with drive-thru window in planned multi-use site (Revised plans)Request/Application Type:Conditional UseLegislative Files:9080390918Status:Application Under Review",
       "meetings": "Urban Design Commission:04/15/2026Plan Commission:04/27/2026",
       "legistarLinks": [],
       "detailUrl": "https://www.cityofmadison.com/dpced/planning/development.cfm?record=LNDUSE-2025-00087",
-      "category": "Retail"
+      "category": "Commercial"
     }
   ]
 }
