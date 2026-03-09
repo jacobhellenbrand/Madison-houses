@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-07T08:31:26.035130Z",
-  "totalCount": 71,
+  "lastUpdated": "2026-03-09T08:44:41.695143Z",
+  "totalCount": 72,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1048,6 +1048,23 @@
       "contractorAddress": "25 Sherman Ter, Madison, WI 53704",
       "category": "Renovation",
       "dateAdded": "2026-03-07T08:31:26.035130Z"
+    },
+    {
+      "id": "BLDRPR-2026-02017",
+      "permitNumber": "BLDRPR-2026-02017",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1105 MEADOW MIST RD",
+      "buildingSqft": "0",
+      "estimatedCost": "$75,000",
+      "feesPaid": "$850",
+      "owner": "MEGAN RYAN AND CARLOS TUCKER",
+      "ownerAddress": "1105 MEADOW MIST RD, MIDDLETON, WI 53562",
+      "description": "REMODEL KITCHEN - EXPAND PANTRY, NEW CABINETS AND COUNTERTOP. REPLACE BATHROOM VANITY, TOILET, REMOVE SHOWER STALL TO EXPAND LAUNDRY ROOM",
+      "issuanceDate": "02/13/2026",
+      "contractor": "JAK & TIMBER LLC",
+      "contractorAddress": "6617 S OAK LN, Windsor, WI 53598",
+      "category": "Renovation",
+      "dateAdded": "2026-03-09T08:44:41.695143Z"
     }
   ]
 }

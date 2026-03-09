@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-08T08:29:14.185274Z",
-  "totalCount": 133,
+  "lastUpdated": "2026-03-09T08:41:58.874475Z",
+  "totalCount": 144,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -3989,6 +3989,336 @@
       "dateAdded": "2026-03-08T08:29:14.185274Z",
       "owner": {
         "owner1": "EGGERT LIVING TRUST",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2529-Gregory-St,-Madison,-WI-53711",
+      "addressLine1": "2529 Gregory St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 775000,
+      "bedrooms": 4,
+      "bathrooms": 1.5,
+      "squareFootage": 2127,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.05936,
+      "longitude": -89.429277,
+      "agent": {
+        "name": "Carlos Alvarado",
+        "phone": "6082516600",
+        "email": "carlos@thealvaradogroup.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-03-09T08:41:58.874475Z",
+      "owner": {
+        "owner1": "DAVID J DEVEREAUX-WEBER",
+        "owner2": "D L DEVEREAUX-WEBER"
+      }
+    },
+    {
+      "id": "7530-East-Pass,-Madison,-WI-53719",
+      "addressLine1": "7530 East Pass",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 445000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1781,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.004283,
+      "longitude": -89.512267,
+      "agent": {
+        "name": "Felisa Corona Forte",
+        "phone": "6083334167",
+        "email": "felisaforte@gmail.com"
+      },
+      "office": {
+        "name": "eXp Realty, LLC- WI",
+        "phone": "7157472480"
+      },
+      "dateAdded": "2026-03-09T08:41:58.874475Z",
+      "owner": {
+        "owner1": "ARMANDO CARLOCK ACOSTA",
+        "owner2": "HILDA V H GUTIERREZ"
+      }
+    },
+    {
+      "id": "7705-Maas-Dr,-Verona,-WI-53593",
+      "addressLine1": "7705 Maas Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 1349900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 3647,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.049281,
+      "longitude": -89.585156,
+      "agent": {
+        "name": "Charlie Wills",
+        "phone": "6084009075",
+        "email": "charlie@thewillsagency.com"
+      },
+      "office": {
+        "name": "The Wills Agency",
+        "phone": "6082203282"
+      },
+      "dateAdded": "2026-03-09T08:41:58.874475Z",
+      "owner": {
+        "owner1": "STUTZ HEUER LIVING TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "185-Ohio-Ave,-Madison,-WI-53704",
+      "addressLine1": "185 Ohio Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 550000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.09528,
+      "longitude": -89.347024,
+      "agent": {
+        "name": "Liz Lauer",
+        "phone": "6084445725",
+        "email": "liz@lauerrealtygroup.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "dateAdded": "2026-03-09T08:41:58.874475Z",
+      "owner": {
+        "owner1": "MICHAEL A SUTER",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2000-Buckingham-Rd,-Stoughton,-WI-53589",
+      "addressLine1": "2000 Buckingham Rd",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 468000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2302,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.925115,
+      "longitude": -89.244657,
+      "agent": {
+        "name": "Kaitlin Solomon",
+        "phone": "6087099889",
+        "email": "kaitlin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-03-09T08:41:58.874475Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7005-Farmington-Way,-Madison,-WI-53717",
+      "addressLine1": "7005 Farmington Way",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 632000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2735,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-05T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.071338,
+      "longitude": -89.503261,
+      "agent": {
+        "name": "Lou Elson",
+        "phone": "6082168730",
+        "email": "lou@louelsonrealestate.com"
+      },
+      "office": {
+        "name": "EXIT REALTY HGM",
+        "phone": "6088384457"
+      },
+      "dateAdded": "2026-03-09T08:41:58.874475Z",
+      "owner": {
+        "owner1": "KENTON POTTS",
+        "owner2": null
+      }
+    },
+    {
+      "id": "5316-Groveland-Ter,-Madison,-WI-53716",
+      "addressLine1": "5316 Groveland Ter",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53716",
+      "price": 434900,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1696,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-05T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.061098,
+      "longitude": -89.31948,
+      "agent": {
+        "name": "Andy Kramer",
+        "phone": "6084699192",
+        "email": "akramer@starkhomes.com"
+      },
+      "office": {
+        "name": "Redfin Corporation",
+        "phone": "4149821336"
+      },
+      "dateAdded": "2026-03-09T08:41:58.874475Z",
+      "owner": {
+        "owner1": "ADEVALDO MICHELL CORREIA",
+        "owner2": "GREGORY SEAN SUPERTY"
+      }
+    },
+    {
+      "id": "3545-Orvold-Park-Dr,-Mcfarland,-WI-53558",
+      "addressLine1": "3545 Orvold Park Dr",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 900000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 4870,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.977841,
+      "longitude": -89.27674,
+      "agent": {
+        "name": "The Lavik Home Team",
+        "phone": "6084408491",
+        "email": "info@lavikhometeam.com"
+      },
+      "office": {
+        "name": "EXP Realty, LLC",
+        "phone": "6084409607"
+      },
+      "dateAdded": "2026-03-09T08:41:58.874475Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7777-Elmwood-Ave,-Apt-201,-Middleton,-WI-53562",
+      "addressLine1": "7777 Elmwood Ave",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 490000,
+      "bedrooms": 1,
+      "bathrooms": 1.5,
+      "squareFootage": 1486,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.095467,
+      "longitude": -89.514986,
+      "agent": {
+        "name": "Spencer Schumacher",
+        "phone": "6088412221",
+        "email": "team@spencerreg.com"
+      },
+      "office": {
+        "name": "Spencer Real Estate Group",
+        "phone": "6088412221"
+      },
+      "dateAdded": "2026-03-09T08:41:58.874475Z",
+      "owner": {
+        "owner1": "BRIAN LETHLEAN",
+        "owner2": null
+      }
+    },
+    {
+      "id": "521-Military-Ridge-Dr,-Verona,-WI-53593",
+      "addressLine1": "521 Military Ridge Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 545000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2829,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.982581,
+      "longitude": -89.516157,
+      "agent": {
+        "name": "Paul Haviland",
+        "phone": "6088434442",
+        "email": "phaviland@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-03-09T08:41:58.874475Z",
+      "owner": {
+        "owner1": "POWER LIVING TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "436-Galileo-Dr,-Madison,-WI-53718",
+      "addressLine1": "436 Galileo Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 415000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1520,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-04T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.092798,
+      "longitude": -89.27358,
+      "agent": {
+        "name": "Alejandra Torres",
+        "phone": "6086227016",
+        "email": "alejandra@lauerrealtygroup.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "dateAdded": "2026-03-09T08:41:58.874475Z",
+      "owner": {
+        "owner1": "NICK CARDARELLA",
         "owner2": null
       }
     }
