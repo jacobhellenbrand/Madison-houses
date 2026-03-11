@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-10T08:40:59.553757Z",
-  "totalCount": 72,
+  "lastUpdated": "2026-03-11T08:40:35.229684Z",
+  "totalCount": 76,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1065,6 +1065,74 @@
       "contractorAddress": "6617 S OAK LN, Windsor, WI 53598",
       "category": "Renovation",
       "dateAdded": "2026-03-09T08:44:41.695143Z"
+    },
+    {
+      "id": "BLDNCC-2025-21553",
+      "permitNumber": "BLDNCC-2025-21553",
+      "use": "STORES/MERCANTILE",
+      "address": "2201 ZEIER RD",
+      "buildingSqft": "3,750",
+      "estimatedCost": "$120,000",
+      "feesPaid": "$1,583",
+      "owner": "FLINTLOCK CAPITAL LLC",
+      "ownerAddress": "PO BOX 45, MCFARLAND, WI 53558",
+      "description": "SPLIT ONE VACANT TENANT SPACE INTO TWO VACANT TENANT SPACES. ALTER FACADE",
+      "issuanceDate": "03/10/2026",
+      "contractor": "MANSTRONG CONSTRUCTION",
+      "contractorAddress": "234 MERRYTURN RD, MADISON, WI 53714",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-03-11T08:40:35.229684Z"
+    },
+    {
+      "id": "BLDNCC-2026-00504",
+      "permitNumber": "BLDNCC-2026-00504",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "515 ATLAS AVE",
+      "buildingSqft": "7,100",
+      "estimatedCost": "$60,000",
+      "feesPaid": "$1,167",
+      "owner": "LCG PROPERTIES II LLL",
+      "ownerAddress": "3501 E WASHINGTON AVE, MADISON, WI 53704",
+      "description": "THE TAILORED CLOSET AND PREMIER GARAGE - NEW TENANT ALTERATION",
+      "issuanceDate": "03/10/2026",
+      "contractor": "MANSTRONG CONSTRUCTION",
+      "contractorAddress": "234 MERRYTURN RD, MADISON, WI 53714",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-03-11T08:40:35.229684Z"
+    },
+    {
+      "id": "BLDNCC-2026-02153",
+      "permitNumber": "BLDNCC-2026-02153",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "6466 RONALD REAGAN AVE",
+      "buildingSqft": "8,350",
+      "estimatedCost": "$0",
+      "feesPaid": "$160",
+      "owner": "HOEPKER CENTER LLC",
+      "ownerAddress": "2560 LORD BALTIMORE DR, BALTIMORE, MD 21244",
+      "description": "MADISON SIGN STUDIOS - NEW TENANT",
+      "issuanceDate": "03/10/2026",
+      "contractor": "ST JOHN PROPERTIES",
+      "contractorAddress": "2000 PEWAUKEE RD STE A, WAUKESHA, WI 53188",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-03-11T08:40:35.229684Z"
+    },
+    {
+      "id": "BLDNCC-2025-20519",
+      "permitNumber": "BLDNCC-2025-20519",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "910 W WINGRA DR",
+      "buildingSqft": "52,514",
+      "estimatedCost": "$11,554,890",
+      "feesPaid": "$13,381",
+      "owner": "STRAND ASSOCIATES, INC.",
+      "ownerAddress": "910 WEST WINGRA DR, MADISON, WI 53715",
+      "description": "STRAND ASSOCIATES - TWO 2 STORY ADDITIONS",
+      "issuanceDate": "03/10/2026",
+      "contractor": "FINDORFF, J.H.",
+      "contractorAddress": "300 S BEDFORD ST, MADISON, WI 53703",
+      "category": "Commercial",
+      "dateAdded": "2026-03-11T08:40:35.229684Z"
     }
   ]
 }
