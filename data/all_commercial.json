@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-11T08:40:35.229684Z",
-  "totalCount": 76,
+  "lastUpdated": "2026-03-12T08:41:13.502936Z",
+  "totalCount": 77,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1133,6 +1133,23 @@
       "contractorAddress": "300 S BEDFORD ST, MADISON, WI 53703",
       "category": "Commercial",
       "dateAdded": "2026-03-11T08:40:35.229684Z"
+    },
+    {
+      "id": "BLDNCC-2025-18873",
+      "permitNumber": "BLDNCC-2025-18873",
+      "use": "HOTELS/MOTELS",
+      "address": "320 E WILSON ST",
+      "buildingSqft": "29,445",
+      "estimatedCost": "$475,000",
+      "feesPaid": "$7,417",
+      "owner": "WILSON HANCOCK, LLC,",
+      "ownerAddress": "324 E. WILSON STREET, MADISON, WI 53703",
+      "description": "CONVERT APARTMENT BUILDING TO HOTEL",
+      "issuanceDate": "03/11/2026",
+      "contractor": "STEVENS CONSTRUCTION CORP",
+      "contractorAddress": "2 BUTTONWOOD CT, MADISON, WI 53718",
+      "category": "Hospitality",
+      "dateAdded": "2026-03-12T08:41:13.502936Z"
     }
   ]
 }
