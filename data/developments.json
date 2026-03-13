@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-12T08:41:14.177581Z",
+  "lastUpdated": "2026-03-13T08:39:46.910949Z",
   "source": "City of Madison Planning Division",
   "sourceUrl": "https://www.cityofmadison.com/dpced/planning/current-development-proposals-/1599/",
-  "totalCount": 13,
+  "totalCount": 12,
   "proposals": [
     {
       "id": "1051-S-Pleasant-View-Rd",
@@ -53,7 +53,7 @@
       "address": "2066 Helena St",
       "submittedDate": "2026-02-06T00:00:00Z",
       "submittedText": "02/06/2026",
-      "details": "Construct three-story, 61-unit multi-family dwelling on one lot following demolition of existing industrial buildingsRequest/Application Type:Rezoning (TE to TSS), Conditional UseLegislative Files:91908Status:Application Under Review",
+      "details": "Construct three-story, 61-unit multi-family dwelling on one lot following demolition of existing industrial buildingsRequest/Application Type:Rezoning (TE to TSS), Conditional UseLegislative Files:9220991908Status:Application Under Review",
       "meetings": "Plan Commission:04/13/2026Common Council:04/21/2026",
       "legistarLinks": [],
       "detailUrl": "https://www.cityofmadison.com/dpced/planning/development.cfm?record=LNDUSE-2026-00011",
@@ -64,8 +64,8 @@
       "address": "1010 Ann St",
       "submittedDate": "2026-01-23T00:00:00Z",
       "submittedText": "01/23/2026",
-      "details": "Construct private parking facility for adjacent auto sales businessRequest/Application Type:Conditional UseLegislative Files:91647Status:In Process",
-      "meetings": "Plan Commission:03/02/2026",
+      "details": "Construct private parking facility for adjacent auto sales business (Kunes Mitsubishi of Madison). ------ STATUS: REFERRED to the 4/13/2026 PC mtg by the PC on 3/2/2026 at the request of the applicant.Request/Application Type:Conditional UseLegislative Files:91647Status:Application Under Review",
+      "meetings": "Plan Commission:04/13/2026",
       "legistarLinks": [],
       "detailUrl": "https://www.cityofmadison.com/dpced/planning/development.cfm?record=LNDUSE-2026-00008",
       "category": "Commercial"
@@ -75,8 +75,8 @@
       "address": "750 University Row",
       "submittedDate": "2026-01-23T00:00:00Z",
       "submittedText": "01/23/2026",
-      "details": "Approve revised plans for parking structure to serve medical clinicRequest/Application Type:Status:In Process",
-      "meetings": "Plan Commission:03/02/2026Common Council:03/10/2026",
+      "details": "Approve revised plans for parking structure to serve medical clinic. The alteration proposes to eliminate a solar collection system approved on the top level of the parking structure.Request/Application Type:Legislative Files:91646Status:In Process",
+      "meetings": "Plan Commission:03/02/2026",
       "legistarLinks": [],
       "detailUrl": "https://www.cityofmadison.com/dpced/planning/development.cfm?record=LNDUSE-2026-00007",
       "category": "Medical"
@@ -86,33 +86,22 @@
       "address": "2030 Pennsylvania Ave",
       "submittedDate": "2026-01-12T00:00:00Z",
       "submittedText": "01/12/2026",
-      "details": "Allow outdoor recreation for a proposed six-story, 493-unit multi-family dwelling in Urban Design Dist. 4, with CSM to create one lot for buildingRequest/Application Type:Conditional UseLegislative Files:91511Status:Application Under Review",
-      "meetings": "Urban Design Commission:02/18/2026Plan Commission:03/02/2026",
+      "details": "New 6-story mixed-use development with 493 units in Urban Design District (UDD) 4. The conditional use request is for outdoor recreation. ------ STATUS: REFERRED to the 4/13/2026 PC mtg by the PC on 3/2/2026 at the request of the applicant and pending a recommendation by the Urban Design Commission on the proposed development.Request/Application Type:Conditional UseLegislative Files:91511Status:Application Under Review",
+      "meetings": "Urban Design Commission:03/25/2026Plan Commission:04/13/2026",
       "legistarLinks": [],
       "detailUrl": "https://www.cityofmadison.com/dpced/planning/development.cfm?record=LNDUSE-2026-00004",
-      "category": "Commercial"
+      "category": "Mixed-Use"
     },
     {
       "id": "5555-Odana-Rd",
       "address": "5555 Odana Rd",
       "submittedDate": "2026-01-12T00:00:00Z",
       "submittedText": "01/12/2026",
-      "details": "Construct a 6-story mixed-use bldg. w/ 1,300 sq. ft. of commercial space and 154 dwelling units on Odana Rd and a 5-story mixed-use bldg. w/ 6,450 sq. ft. of commercial and 73 dwelling units on Medical Cir. in Urban Design Dist. 3Request/Application Type:Conditional UseLegislative Files:9151289886Status:In Process",
+      "details": "Construct a 6-story mixed-use bldg. w/ 1,300 sq. ft. of commercial space and 154 dwelling units on Odana Rd and a 5-story mixed-use bldg. w/ 6,450 sq. ft. of commercial and 73 dwelling units on Medical Cir. in Urban Design Dist. 3. ------ STATUS: REFERRED to the 3/16/2026 PC mtg by the PC on 3/2/2026 pending a recommendation by the Urban Design Commission.Request/Application Type:Conditional Use, Demolition PermitLegislative Files:914599151289886Status:Application Under Review",
       "meetings": "Urban Design Commission:03/04/2026Plan Commission:03/16/2026",
       "legistarLinks": [],
       "detailUrl": "https://www.cityofmadison.com/dpced/planning/development.cfm?record=LNDUSE-2026-00005",
       "category": "Medical"
-    },
-    {
-      "id": "5555-Odana-Rd",
-      "address": "5555 Odana Rd",
-      "submittedDate": "2026-01-12T00:00:00Z",
-      "submittedText": "01/12/2026",
-      "details": "Create one lot to construct two mixed-use buildingsRequest/Application Type:Certified Survey MapLegislative Files:91514Status:In Process",
-      "meetings": "Common Council:03/10/2026",
-      "legistarLinks": [],
-      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development.cfm?record=LNDCSM-2026-00002",
-      "category": "Mixed-Use"
     },
     {
       "id": "1936-Tennyson-Ln",

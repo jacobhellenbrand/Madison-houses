@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-12T08:41:13.502936Z",
+  "lastUpdated": "2026-03-13T08:39:46.277376Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 27,
+  "totalCount": 26,
   "proposals": [
     {
       "id": "BLDNCC-2026-01252",
@@ -258,22 +258,6 @@
       "issuanceDate": "03/10/2026",
       "contractor": "ST JOHN PROPERTIES",
       "contractorAddress": "2000 PEWAUKEE RD STE A, WAUKESHA, WI 53188",
-      "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDNCC-2025-21909",
-      "permitNumber": "BLDNCC-2025-21909",
-      "use": "OFFICE, BANK, PROFESSIONAL",
-      "address": "700 REGENT ST 301",
-      "buildingSqft": "3,143",
-      "estimatedCost": "$95,000",
-      "feesPaid": "$1,276",
-      "owner": "700 REGENT STREET ASSOC",
-      "ownerAddress": "2450 RIMROCK RD # 100, MADISON, WI 53713",
-      "description": "FIDUCIARY PARTNERS - NEW TENANT ALTERATION",
-      "issuanceDate": "02/10/2026",
-      "contractor": "WEYER CONSTRUCTION, LLC",
-      "contractorAddress": "P.O. BOX 35, CROSS PLAINS, WI 53528",
       "category": "Tenant Buildout"
     },
     {
