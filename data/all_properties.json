@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-13T08:37:33.409613Z",
-  "totalCount": 227,
+  "lastUpdated": "2026-03-14T08:33:33.709676Z",
+  "totalCount": 228,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -6810,6 +6810,36 @@
       "owner": {
         "owner1": "DAVID MCKEE",
         "owner2": "ALISON MCKEE"
+      }
+    },
+    {
+      "id": "102-Kensington-Ln,-Waunakee,-WI-53597",
+      "addressLine1": "102 Kensington Ln",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 599900,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 3167,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-11T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.182615,
+      "longitude": -89.454771,
+      "agent": {
+        "name": "Jenny Bunbury Johnson & Todd Johnson",
+        "phone": "6082793777",
+        "email": "jbunbury@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "BUNBURY & ASSOCIATES REALTORS",
+        "phone": "6084417777"
+      },
+      "dateAdded": "2026-03-14T08:33:33.709676Z",
+      "owner": {
+        "owner1": "TIMOTHY FRYE",
+        "owner2": "LISA SWEET"
       }
     }
   ]
