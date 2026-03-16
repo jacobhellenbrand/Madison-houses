@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-15T08:35:04.199108Z",
-  "totalCount": 234,
+  "lastUpdated": "2026-03-16T08:54:42.783785Z",
+  "totalCount": 243,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -7020,6 +7020,276 @@
       "owner": {
         "owner1": "DAVID S PABST",
         "owner2": "TERESA M PABST"
+      }
+    },
+    {
+      "id": "1512-Eagle-Eye-St,-Verona,-WI-53593",
+      "addressLine1": "1512 Eagle Eye St",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 804500,
+      "bedrooms": 4,
+      "bathrooms": null,
+      "squareFootage": 3044,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-10T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.0155523,
+      "longitude": -89.5723965,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-16T08:54:42.783785Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "901-County-Rd,-MM,-Oregon,-WI-53575",
+      "addressLine1": "901 County Rd",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 849900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 3068,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.902001,
+      "longitude": -89.375999,
+      "agent": {
+        "name": "Cuta, Brenda",
+        "phone": "6082784199",
+        "email": "cutab@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Realtors",
+        "phone": "6082747500"
+      },
+      "dateAdded": "2026-03-16T08:54:42.783785Z",
+      "owner": {
+        "owner1": "MARTIN TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "156-Hickory-Ct,-Oregon,-WI-53575",
+      "addressLine1": "156 Hickory Ct",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 495000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2194,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.923272,
+      "longitude": -89.392121,
+      "agent": {
+        "name": "Paul Haviland",
+        "phone": "6088434442",
+        "email": "phaviland@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-03-16T08:54:42.783785Z",
+      "owner": {
+        "owner1": "DUSTIN LAATSCH",
+        "owner2": "MELISSA LAATSCH"
+      }
+    },
+    {
+      "id": "504-Pine-St,-Madison,-WI-53715",
+      "addressLine1": "504 Pine St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53715",
+      "price": 525000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1632,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.051148,
+      "longitude": -89.39165,
+      "agent": {
+        "name": "Stephanie Kohl",
+        "phone": "6083451461",
+        "email": "hello@kohlrealtyteam.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-03-16T08:54:42.783785Z",
+      "owner": {
+        "owner1": "JARED L DUBEY",
+        "owner2": "KATHERINE A MCCREARY"
+      }
+    },
+    {
+      "id": "4117-Bear-Tree-Pkwy,-Deforest,-WI-53532",
+      "addressLine1": "4117 Bear Tree Pkwy",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 549900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1498,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.202725,
+      "longitude": -89.314373,
+      "agent": {
+        "name": "John Reuter | Integrity Homes",
+        "phone": "6086694226",
+        "email": "john@integrityhomeswi.com"
+      },
+      "office": {
+        "name": "Integrity Homes - Real Broker LLC",
+        "phone": "6088343341"
+      },
+      "dateAdded": "2026-03-16T08:54:42.783785Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5801-Taft-St,-Middleton,-WI-53562",
+      "addressLine1": "5801 Taft St",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 425000,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "squareFootage": 1668,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.106581,
+      "longitude": -89.47987,
+      "agent": {
+        "name": "Bob Winding",
+        "phone": "6086929400",
+        "email": "windingb@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Realtors",
+        "phone": "6088333711"
+      },
+      "dateAdded": "2026-03-16T08:54:42.783785Z",
+      "owner": {
+        "owner1": "PACHA WAGNER REV LIVING TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "6286-Stone-Gate-Dr,-Madison,-WI-53719",
+      "addressLine1": "6286 Stone Gate Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 485000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1847,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.000903,
+      "longitude": -89.481313,
+      "agent": {
+        "name": "April Johnson",
+        "phone": "6083587481",
+        "email": "april@rootedrealestatewi.com"
+      },
+      "office": {
+        "name": "Rooted Real Estate",
+        "phone": "6083587481"
+      },
+      "dateAdded": "2026-03-16T08:54:42.783785Z",
+      "owner": {
+        "owner1": "MICHAEL SCHOLZ",
+        "owner2": "KELLY SCHOLZ"
+      }
+    },
+    {
+      "id": "2832-Riva-Ridge-Cir,-Cottage-Grove,-WI-53527",
+      "addressLine1": "2832 Riva Ridge Cir",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 525000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2734,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.086024,
+      "longitude": -89.223069,
+      "agent": {
+        "name": "Kelly S Bennett",
+        "phone": "6088259553",
+        "email": "kelly@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Realtors",
+        "phone": "6088341722"
+      },
+      "dateAdded": "2026-03-16T08:54:42.783785Z",
+      "owner": {
+        "owner1": "DAVID LEE MAUEL",
+        "owner2": "SUSAN A MAUEL"
+      }
+    },
+    {
+      "id": "1133-Kamperschroer-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1133 Kamperschroer Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 490000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1412,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.183239,
+      "longitude": -89.1897,
+      "agent": {
+        "name": "Mark Pawlowsky",
+        "phone": "6082355454",
+        "email": "mpawlows@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-03-16T08:54:42.783785Z",
+      "owner": {
+        "owner1": "HABITAT FOR HUMANITY OF DANE COUNTY INC",
+        "owner2": null
       }
     }
   ]

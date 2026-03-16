@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-14T08:35:41.310226Z",
-  "totalCount": 77,
+  "lastUpdated": "2026-03-16T08:57:29.153434Z",
+  "totalCount": 79,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1150,6 +1150,40 @@
       "contractorAddress": "2 BUTTONWOOD CT, MADISON, WI 53718",
       "category": "Hospitality",
       "dateAdded": "2026-03-12T08:41:13.502936Z"
+    },
+    {
+      "id": "BLDRPR-2026-02628",
+      "permitNumber": "BLDRPR-2026-02628",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "115 N ALLEN ST",
+      "buildingSqft": "1",
+      "estimatedCost": "$40,000",
+      "feesPaid": "$465",
+      "owner": "TOP OF THE HILL TRUST",
+      "ownerAddress": "115 N ALLEN ST, MADISON, WI 53726",
+      "description": "BASEMENT ALTERATION - ADD STORAGE/GYM AND LAUNDRY. VARIANCE BLDVAR-2020-12665 ISSUED FOR STAIR HEADROOM",
+      "issuanceDate": "02/23/2026",
+      "contractor": "W E DAVIES SONS REMODELING INC",
+      "contractorAddress": "4811 VOGES RD, MADISON, WI 53718",
+      "category": "Renovation",
+      "dateAdded": "2026-03-16T08:57:29.153434Z"
+    },
+    {
+      "id": "BLDRPR-2026-02727",
+      "permitNumber": "BLDRPR-2026-02727",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "121 WALKER DR",
+      "buildingSqft": "0",
+      "estimatedCost": "$6,000",
+      "feesPaid": "$91",
+      "owner": "TADYCH TRUST",
+      "ownerAddress": "121 WALKER DR, MADISON, WI 53714-2641",
+      "description": "REMODEL EXISTING SCREEN PORCH WITH NEW SCREEN SYSTEM.",
+      "issuanceDate": "03/09/2026",
+      "contractor": "3RD GEN PAINTING & REMODELING CO",
+      "contractorAddress": "2858 AGRICULTURE DR, MADISON, WI 53718",
+      "category": "Renovation",
+      "dateAdded": "2026-03-16T08:57:29.153434Z"
     }
   ]
 }
