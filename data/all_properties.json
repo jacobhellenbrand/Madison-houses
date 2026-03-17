@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-16T08:54:42.783785Z",
-  "totalCount": 243,
+  "lastUpdated": "2026-03-17T08:52:06.547696Z",
+  "totalCount": 255,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -7290,6 +7290,366 @@
       "owner": {
         "owner1": "HABITAT FOR HUMANITY OF DANE COUNTY INC",
         "owner2": null
+      }
+    },
+    {
+      "id": "547-Oak-Opening-Dr,-Stoughton,-WI-53589",
+      "addressLine1": "547 Oak Opening Dr",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 409990,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1754,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.923694,
+      "longitude": -89.255073,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-17T08:52:06.547696Z",
+      "owner": {
+        "owner1": "D R HORTON INC - MIDWEST",
+        "owner2": null
+      }
+    },
+    {
+      "id": "9706-Sandhill-Rd,-Middleton,-WI-53562",
+      "addressLine1": "9706 Sandhill Rd",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 1350000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3850,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.081808,
+      "longitude": -89.555419,
+      "agent": {
+        "name": "Tommy Van Ess",
+        "phone": "6083957375",
+        "email": "vanesst@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Realtors",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-03-17T08:52:06.547696Z",
+      "owner": {
+        "owner1": "DANIEL M KAEGEBEIN",
+        "owner2": "CARRIE A KAEGEBEIN"
+      }
+    },
+    {
+      "id": "5937-Rosewood-Dr,-Mcfarland,-WI-53558",
+      "addressLine1": "5937 Rosewood Dr",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 649900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2391,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.010626,
+      "longitude": -89.269853,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-17T08:52:06.547696Z",
+      "owner": {
+        "owner1": "INVESTMENT 468 LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3168-Castleton-Xing,-Sun-Prairie,-WI-53590",
+      "addressLine1": "3168 Castleton Xing",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 885000,
+      "bedrooms": 6,
+      "bathrooms": 3.5,
+      "squareFootage": 3560,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.243698,
+      "longitude": -89.243858,
+      "agent": {
+        "name": "Adam Davenport",
+        "phone": "2526268052",
+        "email": "adamdavenport@realtyexecutives.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-03-17T08:52:06.547696Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2557-Chamberlain-Ave,-Madison,-WI-53705",
+      "addressLine1": "2557 Chamberlain Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 739900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1602,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.070448,
+      "longitude": -89.431172,
+      "agent": {
+        "name": "Ryan Koch",
+        "phone": "6082199766",
+        "email": "ryankoch@kw.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-03-17T08:52:06.547696Z",
+      "owner": {
+        "owner1": "RUTHANNA S SEIDEL",
+        "owner2": null
+      }
+    },
+    {
+      "id": "611-Clear-Pond-Way,-Middleton,-WI-53593",
+      "addressLine1": "611 Clear Pond Way",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 979900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3019,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.07096,
+      "longitude": -89.570058,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-17T08:52:06.547696Z",
+      "owner": {
+        "owner1": "INVESTMENT 468 LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "673-Prairie-Grass-Rd,-Oregon,-WI-53575",
+      "addressLine1": "673 Prairie Grass Rd",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 849900,
+      "bedrooms": 4,
+      "bathrooms": 5.5,
+      "squareFootage": 4884,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.922522,
+      "longitude": -89.400363,
+      "agent": {
+        "name": "Kayleigh Chrostowski",
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": "Rock Realty",
+        "phone": "8777747625"
+      },
+      "dateAdded": "2026-03-17T08:52:06.547696Z",
+      "owner": {
+        "owner1": "SCHNEIDER LIVING TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1925-Kendall-Ave,-Madison,-WI-53726",
+      "addressLine1": "1925 Kendall Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53726",
+      "price": 650000,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 1771,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.072095,
+      "longitude": -89.41914,
+      "agent": {
+        "name": "Katie Jo Schmitz",
+        "phone": "6085564400",
+        "email": "katiejo@thehubrealty.com"
+      },
+      "office": {
+        "name": "The Hub Realty",
+        "phone": "6085564400"
+      },
+      "dateAdded": "2026-03-17T08:52:06.547696Z",
+      "owner": {
+        "owner1": "ERIK JACOBSON",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1718-Onsgard-Rd,-Madison,-WI-53704",
+      "addressLine1": "1718 Onsgard Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 1250000,
+      "bedrooms": null,
+      "bathrooms": null,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.122272,
+      "longitude": -89.322787,
+      "agent": {
+        "name": "Danica Rademacher",
+        "phone": "6087452559",
+        "email": "drademacher@kw.com"
+      },
+      "office": {
+        "name": "Patriot Properties",
+        "phone": "6088496500"
+      },
+      "dateAdded": "2026-03-17T08:52:06.547696Z",
+      "owner": {
+        "owner1": "PATRIOT FREEDOM FUND LLC LEO HOLDINGS LLC  STE M",
+        "owner2": null
+      }
+    },
+    {
+      "id": "L164-Eileen-Ct,-Waunakee,-WI-53597",
+      "addressLine1": "L164 Eileen Ct",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 620000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1893,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.172097147,
+      "longitude": -89.46439606,
+      "agent": {
+        "name": "Perry Sanoy",
+        "phone": "6087645657",
+        "email": "psanoy@aol.com"
+      },
+      "office": {
+        "name": "Sanoy Realty",
+        "phone": "6087645656"
+      },
+      "dateAdded": "2026-03-17T08:52:06.547696Z",
+      "owner": {
+        "owner1": "KILKENNY FARMS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "L154-Schreiner-Ln,-Waunakee,-WI-53597",
+      "addressLine1": "L154 Schreiner Ln",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 640000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1836,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.170835424,
+      "longitude": -89.46613413,
+      "agent": {
+        "name": "Perry Sanoy",
+        "phone": "6087645657",
+        "email": "psanoy@aol.com"
+      },
+      "office": {
+        "name": "Sanoy Realty",
+        "phone": "6087645656"
+      },
+      "dateAdded": "2026-03-17T08:52:06.547696Z",
+      "owner": {
+        "owner1": "KILKENNY FARMS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "5796-Ivanhoe-Cir,-Fitchburg,-WI-53711",
+      "addressLine1": "5796 Ivanhoe Cir",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 775000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3626,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.01514,
+      "longitude": -89.445263,
+      "agent": {
+        "name": "Paul Haviland",
+        "phone": "6088434442",
+        "email": "phaviland@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-03-17T08:52:06.547696Z",
+      "owner": {
+        "owner1": "STEPHANIE GELMAN",
+        "owner2": "ROMAN GELMAN"
       }
     }
   ]
