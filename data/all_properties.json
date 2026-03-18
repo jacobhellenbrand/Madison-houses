@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-17T08:52:06.547696Z",
-  "totalCount": 255,
+  "lastUpdated": "2026-03-18T08:46:49.813406Z",
+  "totalCount": 277,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -7650,6 +7650,666 @@
       "owner": {
         "owner1": "STEPHANIE GELMAN",
         "owner2": "ROMAN GELMAN"
+      }
+    },
+    {
+      "id": "6136-Ragan-St,-Madison,-WI-53718",
+      "addressLine1": "6136 Ragan St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 434900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1653,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.098116,
+      "longitude": -89.274582,
+      "agent": {
+        "name": "Brian Callahan",
+        "phone": "6084223488",
+        "email": "brian@madisonabodes.com"
+      },
+      "office": {
+        "name": "Brian Callahan, Broker",
+        "phone": "6084223488"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "ANDREW SMITHBACK",
+        "owner2": "FAITH SMITHBACK"
+      }
+    },
+    {
+      "id": "1127-N-Parkview-St,-Cottage-Grove,-WI-53527",
+      "addressLine1": "1127 N Parkview St",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 509900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2040,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.100418,
+      "longitude": -89.208996,
+      "agent": {
+        "name": "Stuart Meland",
+        "phone": "6084383150",
+        "email": "stuart@madcityhomes.com"
+      },
+      "office": {
+        "name": "MADCITYHOMES.COM",
+        "phone": "6082716856"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "488-New-Hampton-Dr,-Oregon,-WI-53575",
+      "addressLine1": "488 New Hampton Dr",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 434900,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1206,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.942295,
+      "longitude": -89.377413,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "V&O INVESTORS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "601-Seminole-Way,-Deforest,-WI-53532",
+      "addressLine1": "601 Seminole Way",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 837500,
+      "bedrooms": 8,
+      "bathrooms": 4,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.251644,
+      "longitude": -89.357002,
+      "agent": {
+        "name": "Adam Burkhalter",
+        "phone": "6087325378",
+        "email": "adam@wibrokers.com"
+      },
+      "office": {
+        "name": "Wisconsin Real Estate Brokers, LLC",
+        "phone": "6087325378"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "RICK S SCHOENEMANN",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1-Settler-Hill-Cir,-Madison,-WI-53717",
+      "addressLine1": "1 Settler Hill Cir",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 850000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 3440,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.076112,
+      "longitude": -89.538293,
+      "agent": {
+        "name": "Todd Mulhern",
+        "phone": "6082194929",
+        "email": "mulhernhomes@gmail.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "KAHTLEEN M MILLER REV TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "5700-Frusher-Ln,-Fitchburg,-WI-53711",
+      "addressLine1": "5700 Frusher Ln",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 675000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3724,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.004822,
+      "longitude": -89.437336,
+      "agent": {
+        "name": "Dan Chin Homes Team",
+        "phone": "6086204177",
+        "email": "clientcare@danchinhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "PETER J CONLON",
+        "owner2": "DEBRA S BORQUIST CONLON"
+      }
+    },
+    {
+      "id": "607-Greenway-Rd,-Monona,-WI-53716",
+      "addressLine1": "607 Greenway Rd",
+      "city": "Monona",
+      "state": "WI",
+      "zipCode": "53716",
+      "price": 750000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 3135,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.065974,
+      "longitude": -89.334309,
+      "agent": {
+        "name": "Kellie Unke Real Estate",
+        "phone": "6082252930",
+        "email": "kunke@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "JAMES D HOELZEL",
+        "owner2": "LINDA M HOELZEL"
+      }
+    },
+    {
+      "id": "475-Savannah-Dr,-Oregon,-WI-53575",
+      "addressLine1": "475 Savannah Dr",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 469900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1670,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.941949,
+      "longitude": -89.377412,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "V&O INVESTORS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "521-Orchard-Dr,-Madison,-WI-53711",
+      "addressLine1": "521 Orchard Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 534900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1578,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.05495,
+      "longitude": -89.455776,
+      "agent": {
+        "name": "Mary Lockyer Browning",
+        "phone": "6082395631",
+        "email": "mbrowning@starkhomes.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "GRACE HAWKINS",
+        "owner2": "MICHAEL FRANKLIN"
+      }
+    },
+    {
+      "id": "1125-N-Parkview-St,-Cottage-Grove,-WI-53527",
+      "addressLine1": "1125 N Parkview St",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 509900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2040,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-12T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.099174,
+      "longitude": -89.208971,
+      "agent": {
+        "name": "Stuart Meland",
+        "phone": "6084383150",
+        "email": "stuart@madcityhomes.com"
+      },
+      "office": {
+        "name": "MADCITYHOMES.COM",
+        "phone": "6082716856"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "ZACHARY KLEIN",
+        "owner2": "AMANDA KLEIN"
+      }
+    },
+    {
+      "id": "1406-Thoreau-Dr,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1406 Thoreau Dr",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 414900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1566,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.163258,
+      "longitude": -89.257775,
+      "agent": {
+        "name": "Matt Deadman",
+        "phone": "6087703333",
+        "email": "matt@mattdeadmanhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "STEPHEN TIMM",
+        "owner2": "NIKKI TIMM"
+      }
+    },
+    {
+      "id": "3117-Todd-Dr,-Madison,-WI-53713",
+      "addressLine1": "3117 Todd Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53713",
+      "price": 650000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3490,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.028781,
+      "longitude": -89.42516,
+      "agent": {
+        "name": "Ali Hassani Katehsari",
+        "phone": "6083338900",
+        "email": "katehsari@kw.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "MILTON POZO",
+        "owner2": "MERCEDES POZO"
+      }
+    },
+    {
+      "id": "2886-Turnip-Way,-Fitchburg,-WI-53711",
+      "addressLine1": "2886 Turnip Way",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 538900,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1491,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.0136,
+      "longitude": -89.36765,
+      "agent": {
+        "name": "Aeryn Barry",
+        "phone": "6089993972",
+        "email": "aerynbarry@yahoo.com"
+      },
+      "office": {
+        "name": "Tim O'brien Homes Inc-Hcb",
+        "phone": "6086611100"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "TIM OBRIEN HOMES OF MADISON LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "4706-Starker-Ave,-Madison,-WI-53716",
+      "addressLine1": "4706 Starker Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53716",
+      "price": 449500,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2132,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.077187,
+      "longitude": -89.301051,
+      "agent": {
+        "name": "Jason Berning",
+        "phone": "6085713906",
+        "email": "jason@wihomeexpert.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "LORELLI J KIDD",
+        "owner2": null
+      }
+    },
+    {
+      "id": "220-Red-Birch-Run,-Madison,-WI-53718",
+      "addressLine1": "220 Red Birch Run",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 450000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1811,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.098739,
+      "longitude": -89.256536,
+      "agent": {
+        "name": "April Johnson",
+        "phone": "6083587481",
+        "email": "april@rootedrealestatewi.com"
+      },
+      "office": {
+        "name": "Rooted Real Estate",
+        "phone": "6083587481"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "ERIC J NELSON",
+        "owner2": null
+      }
+    },
+    {
+      "id": "9240-Gentle-Feather-Rd,-Madison,-WI-53593",
+      "addressLine1": "9240 Gentle Feather Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 452900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1525,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.052206327726,
+      "longitude": -89.543433217105,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "LANDBANC VENTURES LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2609-Smithfield-Dr,-Fitchburg,-WI-53719",
+      "addressLine1": "2609 Smithfield Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 560000,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.023829,
+      "longitude": -89.474884,
+      "agent": {
+        "name": "Carlos Alvarado",
+        "phone": "6082516600",
+        "email": "carlos@thealvaradogroup.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "DEEP WELL LANE LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "4036-Whistle-Rock-Cir,-Deforest,-WI-53532",
+      "addressLine1": "4036 Whistle Rock Cir",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 685900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2652,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.206502479,
+      "longitude": -89.31014472,
+      "agent": {
+        "name": "Aeryn Barry",
+        "phone": "6089993972",
+        "email": "aerynbarry@yahoo.com"
+      },
+      "office": {
+        "name": "Tim O'brien Homes Inc-Hcb",
+        "phone": "6086611100"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "BEAR TREE FARMS INC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "305-S-Mills-St,-Madison,-WI-53715",
+      "addressLine1": "305 S Mills St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53715",
+      "price": 950000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 3050,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.06391,
+      "longitude": -89.403785,
+      "agent": {
+        "name": "Chas Martin",
+        "phone": "6083349042",
+        "email": "chas@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "SCOTT G LESLIE",
+        "owner2": "KRIZIA K VILLANUEVA"
+      }
+    },
+    {
+      "id": "4871-Arugula-Rd,-Fitchburg,-WI-53711",
+      "addressLine1": "4871 Arugula Rd",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 500000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1798,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.009059,
+      "longitude": -89.371501,
+      "agent": {
+        "name": "Chanell Abing",
+        "phone": "6083321605",
+        "email": "cabing@coldwellhomes.com"
+      },
+      "office": {
+        "name": "Fitchburg Office",
+        "phone": "8002361550"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4002-Manitou-Way,-Madison,-WI-53711",
+      "addressLine1": "4002 Manitou Way",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 1500000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 3109,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.044784,
+      "longitude": -89.440443,
+      "agent": {
+        "name": "Amy Sherman-kortbein",
+        "phone": "6086955026",
+        "email": "akortbein@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Monroe St.",
+        "phone": "6082327777"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "GORDON RIDLEY",
+        "owner2": "SUSAN RIDLEY"
+      }
+    },
+    {
+      "id": "6702-Inner-Dr,-Madison,-WI-53705",
+      "addressLine1": "6702 Inner Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 549900,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2607,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.067837,
+      "longitude": -89.497458,
+      "agent": {
+        "name": "Chris Alexander",
+        "phone": "6083814799",
+        "email": "chris@soldinwi.com"
+      },
+      "office": {
+        "name": "NextHome Midwest",
+        "phone": "6083814799"
+      },
+      "dateAdded": "2026-03-18T08:46:49.813406Z",
+      "owner": {
+        "owner1": "GARY B JOHNSON",
+        "owner2": "KRISTA JOHNSON"
       }
     }
   ]
