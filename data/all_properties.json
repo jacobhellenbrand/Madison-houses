@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-18T08:46:49.813406Z",
-  "totalCount": 277,
+  "lastUpdated": "2026-03-19T08:40:15.188927Z",
+  "totalCount": 288,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -8310,6 +8310,336 @@
       "owner": {
         "owner1": "GARY B JOHNSON",
         "owner2": "KRISTA JOHNSON"
+      }
+    },
+    {
+      "id": "7731-Starnova-Dr,-Madison,-WI-53719",
+      "addressLine1": "7731 Starnova Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 447900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1533,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.0295587,
+      "longitude": -89.5201184,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-19T08:40:15.188927Z",
+      "owner": {
+        "owner1": "MARTY CENTURY FARM FAMILY LTD PARTNERSHIP",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2914-Mizuna-Dr,-Fitchburg,-WI-53711",
+      "addressLine1": "2914 Mizuna Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 487000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2008,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.012833,
+      "longitude": -89.37012,
+      "agent": {
+        "name": "Evan Pohlkamp",
+        "phone": "6085754968",
+        "email": "evan.pohlkamp@gmail.com"
+      },
+      "office": {
+        "name": "Assist 2 Sell Homes 4 You Realty",
+        "phone": "6088363441"
+      },
+      "dateAdded": "2026-03-19T08:40:15.188927Z",
+      "owner": {
+        "owner1": "CORRINA WIECHMAN",
+        "owner2": "ROBERT WIECHMAN"
+      }
+    },
+    {
+      "id": "4378-S-Jordan-Dr,-Apt-4,-Mcfarland,-WI-53558",
+      "addressLine1": "4378 S Jordan Dr",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 520000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1420,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.989657,
+      "longitude": -89.338986,
+      "agent": {
+        "name": "Jeff Olson",
+        "phone": "6085757522",
+        "email": "jolson46@charter.net"
+      },
+      "office": {
+        "name": "RE MAX Preferred",
+        "phone": "6082768110"
+      },
+      "dateAdded": "2026-03-19T08:40:15.188927Z",
+      "owner": {
+        "owner1": "KANE REV TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "534-Goldenrod-Cir,-Verona,-WI-53593",
+      "addressLine1": "534 Goldenrod Cir",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 479900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2288,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-13T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 42.9819,
+      "longitude": -89.515205,
+      "agent": {
+        "name": "Jeff Olson",
+        "phone": "6085757522",
+        "email": "jolson46@charter.net"
+      },
+      "office": {
+        "name": "RE MAX Preferred",
+        "phone": "6082768110"
+      },
+      "dateAdded": "2026-03-19T08:40:15.188927Z",
+      "owner": {
+        "owner1": "JOEL SEDDON",
+        "owner2": "AMBER SEDDON"
+      }
+    },
+    {
+      "id": "1672-Star-Light-Dr,-Verona,-WI-53593",
+      "addressLine1": "1672 Star Light Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 474900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1541,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.016052,
+      "longitude": -89.570036,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-19T08:40:15.188927Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1248-S-High-Point-Rd,-Madison,-WI-53719",
+      "addressLine1": "1248 S High Point Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 499900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1690,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.039775738024,
+      "longitude": -89.520490273776,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-19T08:40:15.188927Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "738-Cozy-Farm-Rd,-Waunakee,-WI-53597",
+      "addressLine1": "738 Cozy Farm Rd",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 499900,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1548,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.1939269,
+      "longitude": -89.4390075,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-19T08:40:15.188927Z",
+      "owner": {
+        "owner1": "VH HERITAGE HILLS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1808-August-Moon-Dr,-Madison,-WI-53718",
+      "addressLine1": "1808 August Moon Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 549900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1575,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.1235189,
+      "longitude": -89.2742909,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-19T08:40:15.188927Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7705-Stones-Throw-Dr,-Madison,-WI-53719",
+      "addressLine1": "7705 Stones Throw Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 529900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1516,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.0288079,
+      "longitude": -89.5194379,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-19T08:40:15.188927Z",
+      "owner": {
+        "owner1": "MARTY CENTURY FARM FAMILY LTD PARTNERSHIP",
+        "owner2": null
+      }
+    },
+    {
+      "id": "404-S-Blount-St,-Unit-303,-Madison,-WI-53703",
+      "addressLine1": "404 S Blount St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 559000,
+      "bedrooms": 1,
+      "bathrooms": 1.5,
+      "squareFootage": 1038,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.076313,
+      "longitude": -89.373299,
+      "agent": {
+        "name": "Seth Pfaehler",
+        "phone": "6083384812",
+        "email": "seth@themcgradygroup.com"
+      },
+      "office": {
+        "name": "The Mcgrady Group, Llc",
+        "phone": "6087723640"
+      },
+      "dateAdded": "2026-03-19T08:40:15.188927Z",
+      "owner": {
+        "owner1": "THOMAS ERICKSON",
+        "owner2": null
+      }
+    },
+    {
+      "id": "137-E-Wilson-St,-Unit-510-511,-Madison,-WI-53703",
+      "addressLine1": "137 E Wilson St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 2215000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 4252,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.074046,
+      "longitude": -89.378587,
+      "agent": {
+        "name": "Maria Antoinette",
+        "phone": "6086925177",
+        "email": "mariaantoinette1@gmail.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Downtown Madison",
+        "phone": "6082947777"
+      },
+      "dateAdded": "2026-03-19T08:40:15.188927Z",
+      "owner": {
+        "owner1": "KAREN A SUHRE TRUST",
+        "owner2": null
       }
     }
   ]
