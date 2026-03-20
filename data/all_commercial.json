@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-19T08:42:03.024676Z",
-  "totalCount": 86,
+  "lastUpdated": "2026-03-20T08:40:35.172082Z",
+  "totalCount": 87,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1303,6 +1303,23 @@
       "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
       "category": "Commercial",
       "dateAdded": "2026-03-19T08:42:03.024676Z"
+    },
+    {
+      "id": "BLDRPR-2026-03992",
+      "permitNumber": "BLDRPR-2026-03992",
+      "use": "THREE AND FOUR FAMILY",
+      "address": "1007 WILLIAMSON ST 1",
+      "buildingSqft": "0",
+      "estimatedCost": "$5,260",
+      "feesPaid": "$66",
+      "owner": "COMMON WEALTH DEVELOPMENT",
+      "ownerAddress": "INC, 1501 WILLIAMSON ST, MADISON, WI 53703",
+      "description": "KITCHEN AND BATHROOM REMODEL (NO LAYOUT ALT, NO STRUCTURAL ALT): INSTALL NEW CABINETS TO EXISTING SPACEREPAIR DRYWALL KITCHEN, REPAIR DRYWALL BATHROOM, REPAIR TILE BATHROOM",
+      "issuanceDate": "03/19/2026",
+      "contractor": "OPERATION FRESH START INC",
+      "contractorAddress": "2670 MILWAUKEE ST, MADISON, WI 53704",
+      "category": "Renovation",
+      "dateAdded": "2026-03-20T08:40:35.172082Z"
     }
   ]
 }

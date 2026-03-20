@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-19T08:42:03.024676Z",
+  "lastUpdated": "2026-03-20T08:40:35.172082Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 26,
+  "totalCount": 28,
   "proposals": [
     {
       "id": "BLDNCC-2026-02525",
@@ -19,6 +19,22 @@
       "contractor": "BACHMANN CONSTRUCTION CO INC",
       "contractorAddress": "1201 S STOUGHTON RD, MADISON, WI 53716",
       "category": "Tenant Buildout"
+    },
+    {
+      "id": "BLDRPR-2026-03992",
+      "permitNumber": "BLDRPR-2026-03992",
+      "use": "THREE AND FOUR FAMILY",
+      "address": "1007 WILLIAMSON ST 1",
+      "buildingSqft": "0",
+      "estimatedCost": "$5,260",
+      "feesPaid": "$66",
+      "owner": "COMMON WEALTH DEVELOPMENT",
+      "ownerAddress": "INC, 1501 WILLIAMSON ST, MADISON, WI 53703",
+      "description": "KITCHEN AND BATHROOM REMODEL (NO LAYOUT ALT, NO STRUCTURAL ALT): INSTALL NEW CABINETS TO EXISTING SPACEREPAIR DRYWALL KITCHEN, REPAIR DRYWALL BATHROOM, REPAIR TILE BATHROOM",
+      "issuanceDate": "03/19/2026",
+      "contractor": "OPERATION FRESH START INC",
+      "contractorAddress": "2670 MILWAUKEE ST, MADISON, WI 53704",
+      "category": "Renovation"
     },
     {
       "id": "BLDNCC-2026-00501",
@@ -418,6 +434,22 @@
       "issuanceDate": "03/02/2026",
       "contractor": "PROPERTY REVIVAL LLC",
       "contractorAddress": "5904 LOCHINVARS TRL, MARSHALL, WI 53559",
+      "category": "Renovation"
+    },
+    {
+      "id": "BLDRPR-2026-02531",
+      "permitNumber": "BLDRPR-2026-02531",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1011 HOMER CT",
+      "buildingSqft": "0",
+      "estimatedCost": "$6,200",
+      "feesPaid": "$77",
+      "owner": "ZIMONICK, CHRISTIAN HENRY",
+      "ownerAddress": "1011 HOMER CT, MADISON, WI 53715-2013",
+      "description": "BATHROOM REMODEL - REPLACE FIXTURES IN SAME FOOTPRINT, TILE AND DRYWALL",
+      "issuanceDate": "02/19/2026",
+      "contractor": "TIME 2 REMODEL LLC",
+      "contractorAddress": "1218 GILSON ST, MADISON, WI 53715",
       "category": "Renovation"
     }
   ]

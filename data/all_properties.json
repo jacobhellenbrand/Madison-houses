@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-19T08:40:15.188927Z",
-  "totalCount": 288,
+  "lastUpdated": "2026-03-20T08:38:43.205174Z",
+  "totalCount": 292,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -8639,6 +8639,126 @@
       "dateAdded": "2026-03-19T08:40:15.188927Z",
       "owner": {
         "owner1": "KAREN A SUHRE TRUST",
+        "owner2": null
+      }
+    },
+    {
+      "id": "6660-Ramshorn-Dr,-Deforest,-WI-53532",
+      "addressLine1": "6660 Ramshorn Dr",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 579900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2580,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-15T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.212873,
+      "longitude": -89.311489,
+      "agent": {
+        "name": "Kyle Carrier",
+        "phone": "6084493630",
+        "email": "kcarrier2053@yahoo.com"
+      },
+      "office": {
+        "name": "BEST REALTY OF EDGERTON",
+        "phone": "6088843264"
+      },
+      "dateAdded": "2026-03-20T08:38:43.205174Z",
+      "owner": {
+        "owner1": "SELENE HOMES LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3122-Saddle-Brooke-Trl,-Sun-Prairie,-WI-53590",
+      "addressLine1": "3122 Saddle Brooke Trl",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 949900,
+      "bedrooms": 6,
+      "bathrooms": 3,
+      "squareFootage": 4190,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-15T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.215302,
+      "longitude": -89.242445,
+      "agent": {
+        "name": "Jason Iverson",
+        "phone": "6082763161",
+        "email": "jasoniverson@coldwellhomes.com"
+      },
+      "office": {
+        "name": "Mode Realty Network",
+        "phone": "6086653537"
+      },
+      "dateAdded": "2026-03-20T08:38:43.205174Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2743-Lyman-Ln,-Fitchburg,-WI-53711",
+      "addressLine1": "2743 Lyman Ln",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 500000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 2384,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-16T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.003733,
+      "longitude": -89.429316,
+      "agent": {
+        "name": "Becky Snorek*",
+        "phone": "6087542121",
+        "email": "snorekb@firstweber.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-03-20T08:38:43.205174Z",
+      "owner": {
+        "owner1": "IAIN RONALD",
+        "owner2": null
+      }
+    },
+    {
+      "id": "5919-Woodbine-Dr,-Madison,-WI-53718",
+      "addressLine1": "5919 Woodbine Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 514900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1482,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-16T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.122878,
+      "longitude": -89.274996,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-20T08:38:43.205174Z",
+      "owner": {
+        "owner1": "D&R INVESTMENTS III LLC",
         "owner2": null
       }
     }
