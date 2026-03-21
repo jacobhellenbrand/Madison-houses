@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-20T08:40:35.172082Z",
-  "totalCount": 87,
+  "lastUpdated": "2026-03-21T08:32:49.336982Z",
+  "totalCount": 88,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1320,6 +1320,23 @@
       "contractorAddress": "2670 MILWAUKEE ST, MADISON, WI 53704",
       "category": "Renovation",
       "dateAdded": "2026-03-20T08:40:35.172082Z"
+    },
+    {
+      "id": "BLDNCC-2026-02941",
+      "permitNumber": "BLDNCC-2026-02941",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "4402 FEMRITE DR 101",
+      "buildingSqft": "283",
+      "estimatedCost": "$3,500",
+      "feesPaid": "$144",
+      "owner": "LIFE CENTER MADISON INC",
+      "ownerAddress": "4402 FEMRITE DR, MADISON, WI 53716",
+      "description": "LIFESTYLE HAIRCARE - EXPAND TO ADDITIONAL SPACE WITHIN LIFE CENTER CHURCH. CONVERT TOILET ROOM TO SHAMPOO ROOM.",
+      "issuanceDate": "03/20/2026",
+      "contractor": "OWNER",
+      "contractorAddress": "",
+      "category": "Commercial",
+      "dateAdded": "2026-03-21T08:32:49.336982Z"
     }
   ]
 }

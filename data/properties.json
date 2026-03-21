@@ -1,61 +1,32 @@
 {
-  "lastUpdated": "2026-03-20T08:38:43.205174Z",
+  "lastUpdated": "2026-03-21T08:31:11.275252Z",
   "city": "Madison",
   "state": "WI",
-  "totalCount": 13,
+  "totalCount": 9,
   "properties": [
     {
-      "id": "7731-Starnova-Dr,-Madison,-WI-53719",
-      "addressLine1": "7731 Starnova Dr",
-      "city": "Madison",
+      "id": "3122-Saddle-Brooke-Trl,-Sun-Prairie,-WI-53590",
+      "addressLine1": "3122 Saddle Brooke Trl",
+      "city": "Sun Prairie",
       "state": "WI",
-      "zipCode": "53719",
-      "price": 447900,
-      "bedrooms": 3,
-      "bathrooms": 2.5,
-      "squareFootage": 1533,
+      "zipCode": "53590",
+      "price": 949900,
+      "bedrooms": 6,
+      "bathrooms": 3,
+      "squareFootage": 4190,
       "propertyType": "Single Family",
-      "listedDate": "2026-03-14T00:00:00.000Z",
+      "listedDate": "2026-03-15T00:00:00.000Z",
       "daysOnMarket": 7,
-      "latitude": 43.0295587,
-      "longitude": -89.5201184,
+      "latitude": 43.215302,
+      "longitude": -89.242445,
       "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
+        "name": "Jason Iverson",
+        "phone": "6082763161",
+        "email": "jasoniverson@coldwellhomes.com"
       },
       "office": {
-        "name": null,
-        "phone": null
-      },
-      "owner": {
-        "owner1": "MARTY CENTURY FARM FAMILY LTD PARTNERSHIP",
-        "owner2": null
-      }
-    },
-    {
-      "id": "1248-S-High-Point-Rd,-Madison,-WI-53719",
-      "addressLine1": "1248 S High Point Rd",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53719",
-      "price": 499900,
-      "bedrooms": 3,
-      "bathrooms": 2.5,
-      "squareFootage": 1690,
-      "propertyType": "Single Family",
-      "listedDate": "2026-03-14T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.039775738024,
-      "longitude": -89.520490273776,
-      "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
-      },
-      "office": {
-        "name": null,
-        "phone": null
+        "name": "Mode Realty Network",
+        "phone": "6086653537"
       },
       "owner": {
         "owner1": null,
@@ -74,7 +45,7 @@
       "squareFootage": 2580,
       "propertyType": "Single Family",
       "listedDate": "2026-03-15T00:00:00.000Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "latitude": 43.212873,
       "longitude": -89.311489,
       "agent": {
@@ -92,49 +63,20 @@
       }
     },
     {
-      "id": "3122-Saddle-Brooke-Trl,-Sun-Prairie,-WI-53590",
-      "addressLine1": "3122 Saddle Brooke Trl",
+      "id": "1844-Waverly-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1844 Waverly Way",
       "city": "Sun Prairie",
       "state": "WI",
       "zipCode": "53590",
-      "price": 949900,
-      "bedrooms": 6,
-      "bathrooms": 3,
-      "squareFootage": 4190,
+      "price": 679900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2722,
       "propertyType": "Single Family",
-      "listedDate": "2026-03-15T00:00:00.000Z",
+      "listedDate": "2026-03-16T00:00:00.000Z",
       "daysOnMarket": 6,
-      "latitude": 43.215302,
-      "longitude": -89.242445,
-      "agent": {
-        "name": "Jason Iverson",
-        "phone": "6082763161",
-        "email": "jasoniverson@coldwellhomes.com"
-      },
-      "office": {
-        "name": "Mode Realty Network",
-        "phone": "6086653537"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "738-Cozy-Farm-Rd,-Waunakee,-WI-53597",
-      "addressLine1": "738 Cozy Farm Rd",
-      "city": "Waunakee",
-      "state": "WI",
-      "zipCode": "53597",
-      "price": 499900,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "squareFootage": 1548,
-      "propertyType": "Multi-Family",
-      "listedDate": "2026-03-14T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.1939269,
-      "longitude": -89.4390075,
+      "latitude": 43.2030445,
+      "longitude": -89.2455232,
       "agent": {
         "name": null,
         "phone": null,
@@ -145,54 +87,25 @@
         "phone": null
       },
       "owner": {
-        "owner1": "VH HERITAGE HILLS LLC",
+        "owner1": "VH THE RESERVE LLC",
         "owner2": null
       }
     },
     {
-      "id": "404-S-Blount-St,-Unit-303,-Madison,-WI-53703",
-      "addressLine1": "404 S Blount St",
+      "id": "5919-Woodbine-Dr,-Madison,-WI-53718",
+      "addressLine1": "5919 Woodbine Dr",
       "city": "Madison",
       "state": "WI",
-      "zipCode": "53703",
-      "price": 559000,
-      "bedrooms": 1,
-      "bathrooms": 1.5,
-      "squareFootage": 1038,
-      "propertyType": "Condo",
-      "listedDate": "2026-03-14T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.076313,
-      "longitude": -89.373299,
-      "agent": {
-        "name": "Seth Pfaehler",
-        "phone": "6083384812",
-        "email": "seth@themcgradygroup.com"
-      },
-      "office": {
-        "name": "The Mcgrady Group, Llc",
-        "phone": "6087723640"
-      },
-      "owner": {
-        "owner1": "THOMAS ERICKSON",
-        "owner2": null
-      }
-    },
-    {
-      "id": "1672-Star-Light-Dr,-Verona,-WI-53593",
-      "addressLine1": "1672 Star Light Dr",
-      "city": "Verona",
-      "state": "WI",
-      "zipCode": "53593",
-      "price": 474900,
+      "zipCode": "53718",
+      "price": 514900,
       "bedrooms": 3,
-      "bathrooms": 2.5,
-      "squareFootage": 1541,
+      "bathrooms": 2,
+      "squareFootage": 1482,
       "propertyType": "Single Family",
-      "listedDate": "2026-03-14T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.016052,
-      "longitude": -89.570036,
+      "listedDate": "2026-03-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.122878,
+      "longitude": -89.274996,
       "agent": {
         "name": null,
         "phone": null,
@@ -201,6 +114,35 @@
       "office": {
         "name": null,
         "phone": null
+      },
+      "owner": {
+        "owner1": "D&R INVESTMENTS III LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2817-Frisee-Dr,-Fitchburg,-WI-53711",
+      "addressLine1": "2817 Frisee Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 429900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1740,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.008808,
+      "longitude": -89.373233,
+      "agent": {
+        "name": "Sherry Yu",
+        "phone": "6086981500",
+        "email": "sherry@yurealestategroup.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
       },
       "owner": {
         "owner1": null,
@@ -219,7 +161,7 @@
       "squareFootage": 2384,
       "propertyType": "Single Family",
       "listedDate": "2026-03-16T00:00:00.000Z",
-      "daysOnMarket": 5,
+      "daysOnMarket": 6,
       "latitude": 43.003733,
       "longitude": -89.429316,
       "agent": {
@@ -237,49 +179,20 @@
       }
     },
     {
-      "id": "4378-S-Jordan-Dr,-Apt-4,-Mcfarland,-WI-53558",
-      "addressLine1": "4378 S Jordan Dr",
-      "city": "Mcfarland",
+      "id": "1727-Innovation-Ln,-Verona,-WI-53593",
+      "addressLine1": "1727 Innovation Ln",
+      "city": "Verona",
       "state": "WI",
-      "zipCode": "53558",
-      "price": 520000,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "squareFootage": 1420,
-      "propertyType": "Condo",
-      "listedDate": "2026-03-14T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 42.989657,
-      "longitude": -89.338986,
-      "agent": {
-        "name": "Jeff Olson",
-        "phone": "6085757522",
-        "email": "jolson46@charter.net"
-      },
-      "office": {
-        "name": "RE MAX Preferred",
-        "phone": "6082768110"
-      },
-      "owner": {
-        "owner1": "KANE REV TR",
-        "owner2": null
-      }
-    },
-    {
-      "id": "1808-August-Moon-Dr,-Madison,-WI-53718",
-      "addressLine1": "1808 August Moon Dr",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53718",
-      "price": 549900,
+      "zipCode": "53593",
+      "price": 417900,
       "bedrooms": 3,
-      "bathrooms": 2,
-      "squareFootage": 1575,
-      "propertyType": "Single Family",
-      "listedDate": "2026-03-14T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.1235189,
-      "longitude": -89.2742909,
+      "bathrooms": 2.5,
+      "squareFootage": 1480,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-17T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.015623,
+      "longitude": -89.571571,
       "agent": {
         "name": null,
         "phone": null,
@@ -295,78 +208,49 @@
       }
     },
     {
-      "id": "137-E-Wilson-St,-Unit-510-511,-Madison,-WI-53703",
-      "addressLine1": "137 E Wilson St",
-      "city": "Madison",
+      "id": "702-Cozy-Farm-Rd,-Waunakee,-WI-53597",
+      "addressLine1": "702 Cozy Farm Rd",
+      "city": "Waunakee",
       "state": "WI",
-      "zipCode": "53703",
-      "price": 2215000,
+      "zipCode": "53597",
+      "price": 509900,
       "bedrooms": 3,
-      "bathrooms": 3.5,
-      "squareFootage": 4252,
-      "propertyType": "Condo",
-      "listedDate": "2026-03-14T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.074046,
-      "longitude": -89.378587,
+      "bathrooms": 2,
+      "squareFootage": 1720,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-17T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.1919373,
+      "longitude": -89.4556749,
       "agent": {
-        "name": "Maria Antoinette",
-        "phone": "6086925177",
-        "email": "mariaantoinette1@gmail.com"
+        "name": null,
+        "phone": null,
+        "email": null
       },
       "office": {
-        "name": "Restaino & Associates Realtors - Downtown Madison",
-        "phone": "6082947777"
+        "name": null,
+        "phone": null
       },
       "owner": {
-        "owner1": "KAREN A SUHRE TRUST",
+        "owner1": null,
         "owner2": null
       }
     },
     {
-      "id": "7705-Stones-Throw-Dr,-Madison,-WI-53719",
-      "addressLine1": "7705 Stones Throw Dr",
-      "city": "Madison",
+      "id": "708-Cozy-Farm-Rd,-Waunakee,-WI-53597",
+      "addressLine1": "708 Cozy Farm Rd",
+      "city": "Waunakee",
       "state": "WI",
-      "zipCode": "53719",
-      "price": 529900,
+      "zipCode": "53597",
+      "price": 484900,
       "bedrooms": 3,
       "bathrooms": 2,
       "squareFootage": 1516,
-      "propertyType": "Single Family",
-      "listedDate": "2026-03-14T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.0288079,
-      "longitude": -89.5194379,
-      "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
-      },
-      "office": {
-        "name": null,
-        "phone": null
-      },
-      "owner": {
-        "owner1": "MARTY CENTURY FARM FAMILY LTD PARTNERSHIP",
-        "owner2": null
-      }
-    },
-    {
-      "id": "5919-Woodbine-Dr,-Madison,-WI-53718",
-      "addressLine1": "5919 Woodbine Dr",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53718",
-      "price": 514900,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "squareFootage": 1482,
-      "propertyType": "Single Family",
-      "listedDate": "2026-03-16T00:00:00.000Z",
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-17T00:00:00.000Z",
       "daysOnMarket": 5,
-      "latitude": 43.122878,
-      "longitude": -89.274996,
+      "latitude": 43.1919373,
+      "longitude": -89.4556749,
       "agent": {
         "name": null,
         "phone": null,
@@ -377,7 +261,7 @@
         "phone": null
       },
       "owner": {
-        "owner1": "D&R INVESTMENTS III LLC",
+        "owner1": null,
         "owner2": null
       }
     }

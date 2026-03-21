@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-20T08:38:43.205174Z",
-  "totalCount": 292,
+  "lastUpdated": "2026-03-21T08:31:11.275252Z",
+  "totalCount": 297,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -8759,6 +8759,156 @@
       "dateAdded": "2026-03-20T08:38:43.205174Z",
       "owner": {
         "owner1": "D&R INVESTMENTS III LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1844-Waverly-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1844 Waverly Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 679900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2722,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.2030445,
+      "longitude": -89.2455232,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-21T08:31:11.275252Z",
+      "owner": {
+        "owner1": "VH THE RESERVE LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2817-Frisee-Dr,-Fitchburg,-WI-53711",
+      "addressLine1": "2817 Frisee Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 429900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1740,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.008808,
+      "longitude": -89.373233,
+      "agent": {
+        "name": "Sherry Yu",
+        "phone": "6086981500",
+        "email": "sherry@yurealestategroup.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-03-21T08:31:11.275252Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1727-Innovation-Ln,-Verona,-WI-53593",
+      "addressLine1": "1727 Innovation Ln",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 417900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1480,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-17T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.015623,
+      "longitude": -89.571571,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-21T08:31:11.275252Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "702-Cozy-Farm-Rd,-Waunakee,-WI-53597",
+      "addressLine1": "702 Cozy Farm Rd",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 509900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1720,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-17T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.1919373,
+      "longitude": -89.4556749,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-21T08:31:11.275252Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "708-Cozy-Farm-Rd,-Waunakee,-WI-53597",
+      "addressLine1": "708 Cozy Farm Rd",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 484900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1516,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-17T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.1919373,
+      "longitude": -89.4556749,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-21T08:31:11.275252Z",
+      "owner": {
+        "owner1": null,
         "owner2": null
       }
     }
