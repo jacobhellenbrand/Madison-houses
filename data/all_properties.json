@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-22T08:32:46.335961Z",
-  "totalCount": 317,
+  "lastUpdated": "2026-03-23T08:53:17.215350Z",
+  "totalCount": 329,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -9510,6 +9510,366 @@
       "owner": {
         "owner1": "ERIC W SWANSON",
         "owner2": "DACIA J SWANSON"
+      }
+    },
+    {
+      "id": "1403-Atlas-Trl,-Waunakee,-WI-53597",
+      "addressLine1": "1403 Atlas Trl",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 1269500,
+      "bedrooms": 6,
+      "bathrooms": 3.5,
+      "squareFootage": 4428,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-17T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.171158,
+      "longitude": -89.469154,
+      "agent": {
+        "name": "Chris Barreau",
+        "phone": "6087099001",
+        "email": "chris@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-03-23T08:53:17.215350Z",
+      "owner": {
+        "owner1": "KILKENNY FARMS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "5214-Inspiration-Way,-Fitchburg,-WI-53711",
+      "addressLine1": "5214 Inspiration Way",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 594900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2148,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.0281,
+      "longitude": -89.4415,
+      "agent": {
+        "name": "Jordan Bishop",
+        "phone": "6082197495",
+        "email": "jordan@hansenhometeam.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-03-23T08:53:17.215350Z",
+      "owner": {
+        "owner1": "WIS UNIVERSITY BUILDING CORP",
+        "owner2": null
+      }
+    },
+    {
+      "id": "5220-Inspiration-Way,-Fitchburg,-WI-53711",
+      "addressLine1": "5220 Inspiration Way",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 514900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1438,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.0281,
+      "longitude": -89.4415,
+      "agent": {
+        "name": "Jordan Bishop",
+        "phone": "6082197495",
+        "email": "jordan@hansenhometeam.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-03-23T08:53:17.215350Z",
+      "owner": {
+        "owner1": "WIS UNIVERSITY BUILDING CORP",
+        "owner2": null
+      }
+    },
+    {
+      "id": "317-Alton-Dr,-Madison,-WI-53718",
+      "addressLine1": "317 Alton Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 540000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2748,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.095272,
+      "longitude": -89.276679,
+      "agent": {
+        "name": "Ben Anton",
+        "phone": "6085139757",
+        "email": "benanton@benanton.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "dateAdded": "2026-03-23T08:53:17.215350Z",
+      "owner": {
+        "owner1": "MOHAMMED RAHEMTULLA",
+        "owner2": "SANIA BANGASH"
+      }
+    },
+    {
+      "id": "61-Oak-Creek-Trl,-Madison,-WI-53717",
+      "addressLine1": "61 Oak Creek Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 450000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2940,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.066244,
+      "longitude": -89.510653,
+      "agent": {
+        "name": "Peterson, Seth",
+        "phone": "6083209612",
+        "email": "sethpetersonhomes@gmail.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-03-23T08:53:17.215350Z",
+      "owner": {
+        "owner1": "WILLIAM F PROBST REV TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "321-S-Owen-Dr,-Madison,-WI-53705",
+      "addressLine1": "321 S Owen Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 550000,
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "squareFootage": 1706,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.06165,
+      "longitude": -89.447094,
+      "agent": {
+        "name": "Sue Romens",
+        "phone": "6082218666",
+        "email": "romenss@firstweber.com"
+      },
+      "office": {
+        "name": "eXp Realty, LLC- WI",
+        "phone": "7157472480"
+      },
+      "dateAdded": "2026-03-23T08:53:17.215350Z",
+      "owner": {
+        "owner1": "LAUREN MCGEE",
+        "owner2": "TREY HULBERT"
+      }
+    },
+    {
+      "id": "1300-Moll-Dr,-Waunakee,-WI-53597",
+      "addressLine1": "1300 Moll Dr",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 1278000,
+      "bedrooms": 6,
+      "bathrooms": 3,
+      "squareFootage": 3826,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.170406,
+      "longitude": -89.469109,
+      "agent": {
+        "name": "Kelly S Bennett",
+        "phone": "6088259553",
+        "email": "kelly@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Realtors",
+        "phone": "6088341722"
+      },
+      "dateAdded": "2026-03-23T08:53:17.215350Z",
+      "owner": {
+        "owner1": "KILKENNY FARMS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "29-Weir-Cir,-Madison,-WI-53719",
+      "addressLine1": "29 Weir Cir",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 549900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2470,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.007278,
+      "longitude": -89.491473,
+      "agent": {
+        "name": "Jordan Bishop",
+        "phone": "6082197495",
+        "email": "jordan@hansenhometeam.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-03-23T08:53:17.215350Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3334-Swinburne-Dr,-Mcfarland,-WI-53558",
+      "addressLine1": "3334 Swinburne Dr",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 450000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1886,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.028206,
+      "longitude": -89.279399,
+      "agent": {
+        "name": "Adrienne Sella",
+        "phone": "6088867139",
+        "email": "adrienne@sellarealty.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-03-23T08:53:17.215350Z",
+      "owner": {
+        "owner1": "SHIRLEY M FOX",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2812-Frisee-Dr,-Fitchburg,-WI-53711",
+      "addressLine1": "2812 Frisee Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 425000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 1863,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.008691,
+      "longitude": -89.372566,
+      "agent": {
+        "name": "Hansen Home Team",
+        "phone": "6082196506",
+        "email": "hansenhometeam@starkhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-03-23T08:53:17.215350Z",
+      "owner": {
+        "owner1": "STREETAR REV LIVING TR, KEVIN A & JOAN M",
+        "owner2": null
+      }
+    },
+    {
+      "id": "5821-Bridle-Way,-Madison,-WI-53718",
+      "addressLine1": "5821 Bridle Way",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 559900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2038,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.111968,
+      "longitude": -89.277103,
+      "agent": {
+        "name": "Ryan Prellwitz",
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": "Loos Custom Homes,Llc",
+        "phone": "9206993787"
+      },
+      "dateAdded": "2026-03-23T08:53:17.215350Z",
+      "owner": {
+        "owner1": "SIMPLY HOMES MADISON LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3338-Bradbury-Rd,-Madison,-WI-53719",
+      "addressLine1": "3338 Bradbury Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 599900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2679,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.010023,
+      "longitude": -89.485492,
+      "agent": {
+        "name": "Nicole Goggio",
+        "phone": "6086096868",
+        "email": "nicolegoggio@realtyexecutives.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-03-23T08:53:17.215350Z",
+      "owner": {
+        "owner1": "JAMES ALAN PRIKOSOVITS",
+        "owner2": "LOAN KIM DO"
       }
     }
   ]

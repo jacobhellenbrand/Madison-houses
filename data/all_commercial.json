@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-21T08:32:49.336982Z",
-  "totalCount": 88,
+  "lastUpdated": "2026-03-23T08:55:36.805128Z",
+  "totalCount": 89,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1337,6 +1337,23 @@
       "contractorAddress": "",
       "category": "Commercial",
       "dateAdded": "2026-03-21T08:32:49.336982Z"
+    },
+    {
+      "id": "BLDRPR-2026-03439",
+      "permitNumber": "BLDRPR-2026-03439",
+      "use": "CONDOMINIUMS",
+      "address": "1014 SPAIGHT ST 4",
+      "buildingSqft": "0",
+      "estimatedCost": "$2,000",
+      "feesPaid": "$25",
+      "owner": "FAWCETT DAVID C",
+      "ownerAddress": "1014 SPAIGHT   #4, MADISON, WI 53703",
+      "description": "REPLACING EXISTING INTERIOR FIRE DOOR WITH NEW FIRE DOOR WITH NO ALTERNATIONS.",
+      "issuanceDate": "03/09/2026",
+      "contractor": "SCOTT BROTHERS CONTRACTING RESTORATION LLC",
+      "contractorAddress": "841 KINDSCHI RD, MARSHALL, WI 53559",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-03-23T08:55:36.805128Z"
     }
   ]
 }
