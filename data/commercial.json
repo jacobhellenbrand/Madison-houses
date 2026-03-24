@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-23T08:55:36.805128Z",
+  "lastUpdated": "2026-03-24T08:54:22.275472Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 30,
+  "totalCount": 31,
   "proposals": [
     {
       "id": "BLDNCC-2026-02525",
@@ -101,6 +101,22 @@
       "category": "Renovation"
     },
     {
+      "id": "BLDNCC-2026-02731",
+      "permitNumber": "BLDNCC-2026-02731",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "1262 S PARK ST",
+      "buildingSqft": "1,200",
+      "estimatedCost": "$80,000",
+      "feesPaid": "$1,026",
+      "owner": "1224 PARK STREET LLC",
+      "ownerAddress": "1952 ATWOOD AVE, MADISON, WI 53704",
+      "description": "WHITE BUFFALO - NEW TENANT ALTERATION",
+      "issuanceDate": "03/23/2026",
+      "contractor": "THRESHOLD BUILDS LLC",
+      "contractorAddress": "2020 EASTWOOD DR, MADISON, WI 53704",
+      "category": "Tenant Buildout"
+    },
+    {
       "id": "BLDNCC-2026-00501",
       "permitNumber": "BLDNCC-2026-00501",
       "use": "OFFICE, BANK, PROFESSIONAL",
@@ -133,6 +149,22 @@
       "category": "Tenant Buildout"
     },
     {
+      "id": "BLDNCC-2026-03367",
+      "permitNumber": "BLDNCC-2026-03367",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "2501 W BELTLINE HWY 405",
+      "buildingSqft": "1,427",
+      "estimatedCost": "$115,000",
+      "feesPaid": "$1,418",
+      "owner": "ARBOR GATE DEVELOPMENT",
+      "ownerAddress": "LLC, 3001 W BELTLINE HWY # 202, MADISON, WI 53713",
+      "description": "EDELMAN FINANCIAL - NEW TENANT ALTERATION",
+      "issuanceDate": "03/23/2026",
+      "contractor": "IDEAL BUILDERS INC",
+      "contractorAddress": "1406 EMIL ST, MADISON, WI 537132312",
+      "category": "Tenant Buildout"
+    },
+    {
       "id": "BLDNCC-2026-00652",
       "permitNumber": "BLDNCC-2026-00652",
       "use": "OFFICE, BANK, PROFESSIONAL",
@@ -146,6 +178,22 @@
       "issuanceDate": "02/24/2026",
       "contractor": "HORIZON CONSTRUCTION",
       "contractorAddress": "5201 EAST TERRACE DR #300, MADISON, WI 53718",
+      "category": "Tenant Buildout"
+    },
+    {
+      "id": "BLDNCC-2026-00831",
+      "permitNumber": "BLDNCC-2026-00831",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "2810 CITY VIEW DR",
+      "buildingSqft": "33,730",
+      "estimatedCost": "$860,000",
+      "feesPaid": "$11,992",
+      "owner": "ASSOCIATED BUILDERS AND CONTRACTORS OF WISCONSIN, INC. APPRENTICESHIP AND TRAINING TRUST FUND",
+      "ownerAddress": "5330 WALL ST, MADISON, WI 53718",
+      "description": "ASSOCIATED BUILDERS AND CONTRACTORS OF WISCONSIN - NEW TENANT ALTERATION",
+      "issuanceDate": "03/23/2026",
+      "contractor": "CORPORATE CONTRACTORS INC",
+      "contractorAddress": "3800 MILWAUKEE RD STE 200, BELOIT, WI 53511",
       "category": "Tenant Buildout"
     },
     {
@@ -325,6 +373,22 @@
       "category": "Tenant Buildout"
     },
     {
+      "id": "BLDNCC-2026-02566",
+      "permitNumber": "BLDNCC-2026-02566",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "5201 EAST TERRACE DR 180",
+      "buildingSqft": "3,114",
+      "estimatedCost": "$84,600",
+      "feesPaid": "$1,164",
+      "owner": "IA TERRACE DRIVE LLC",
+      "ownerAddress": "1715 LINNERUD DR # 620, SUN PRAIRIE, WI 53590",
+      "description": "ATLAS TITLE - NEW TENANT ALTERATION",
+      "issuanceDate": "03/23/2026",
+      "contractor": "HARMONY CONST MNG LLC",
+      "contractorAddress": "299 EAST NORTH ST, POYNETTE, WI 53955",
+      "category": "Tenant Buildout"
+    },
+    {
       "id": "BLDNCC-2026-01751",
       "permitNumber": "BLDNCC-2026-01751",
       "use": "OFFICE, BANK, PROFESSIONAL",
@@ -435,54 +499,6 @@
       "contractor": "ALLEN KITCHEN & BATH",
       "contractorAddress": "2219 S STOUGHTON RD, MADISON, WI 53716",
       "category": "Renovation"
-    },
-    {
-      "id": "BLDRPR-2026-03359",
-      "permitNumber": "BLDRPR-2026-03359",
-      "use": "CONDOMINIUMS",
-      "address": "25 SHERMAN TER 2",
-      "buildingSqft": "0",
-      "estimatedCost": "$800",
-      "feesPaid": "$25",
-      "owner": "STACEY LYNN WEBER",
-      "ownerAddress": "25 SHERMAN TER, UNIT 2, MADISON, WI 53704",
-      "description": "KITCHEN REMODEL (NO STRUCTURAL ALT), NEW TILE BACKSPLASH, REMOVAL OF SMALL COUNTERTOP PENINSULA.",
-      "issuanceDate": "03/06/2026",
-      "contractor": "",
-      "contractorAddress": "25 Sherman Ter, Madison, WI 53704",
-      "category": "Renovation"
-    },
-    {
-      "id": "BLDNCC-2026-02815",
-      "permitNumber": "BLDNCC-2026-02815",
-      "use": "CONDOMINIUMS",
-      "address": "333 W MIFFLIN ST 3180",
-      "buildingSqft": "",
-      "estimatedCost": "$27,600",
-      "feesPaid": "$308",
-      "owner": "RYNES, JEAN M",
-      "ownerAddress": "333 W MIFFLIN ST # 3180, MADISON, WI 53703",
-      "description": "BATHROOM ALTERATION CONVERT TUB TO SHOWER, ADD FURRED WALL AND WING WALL. ALL WALL CONSTRUCTION TO BE NONCOMBUSTIBLE",
-      "issuanceDate": "02/26/2026",
-      "contractor": "ROCKY POINT REMODELING",
-      "contractorAddress": "2236 W BROADWAY, MADISON, WI 53713",
-      "category": "Renovation"
-    },
-    {
-      "id": "BLDRPR-2026-02710",
-      "permitNumber": "BLDRPR-2026-02710",
-      "use": "CONDOMINIUMS",
-      "address": "519 D'ONOFRIO DR 3",
-      "buildingSqft": "0",
-      "estimatedCost": "$80,000",
-      "feesPaid": "$880",
-      "owner": "DAVID M.  KIM",
-      "ownerAddress": "519 D'ONOFRIO DR, UNIT #3, MADISON, WI 53719",
-      "description": "FULL BATHROOM, KITCHEN, LIVING ROOM REMODEL: REMOVE CABINETS, FIREPLACE, OLD CLOSET DOOR TO THE FRONT DOOR CLOSET, BATHROOM DOOR, FURNACE DOOR, VANITY, SHOWER, TOILET, TILE FLOORING, MIRROR, PATIO DOORBATHROOM- INSTALL NEW 36X60 DREAMLINE SHOWER PAN, NEW FLEXSTONE SHOWER WALLS IN CALYPSO, \u00a0FOUR CORNER SHELVES IN CALYPSO FLEXSTONE MATCH, \u00a0HOROW SMART TOILET, \u00a0LIFEPROOF TILE LOOKING \u00a0LVP, MOEN HANDHELD SHOWER HEAD IN MATTE BLACK, MOEN SHOWER VALVE, MATTE BLACK DRAIN COVER, KOHLER LIVELY 57-60 IN. W X 70 IN. H FRAMELESS SLIDING SHOWER DOOR IN MATTE BLACK WITH 1/4 IN. THICK CRYSTAL CLEAR GLASS, INSTALL NEW 1 PANEL SHAKER 30 X 80\u201d INTERIOR DOOR PAINTED IN WHITE, CUSTOM MERILLAT CUSTOM VANITY AND WARDROBE JUST OUTSIDE THE BATHROOM, ARVO PULL-DOWN SPOUT SINGLE HANDLE SINGLE HOLE BATHROOM FAUCET DRAIN KIT INCLUDED IN MATTE BLACK,\u00a0PRIMEPLUS 40 IN. W X 26 IN. H LARGE RECTANGLE MIRROR WOOD FRAMED WALL MIRROR BATHROOM MIRROR VANITY MIRROR ACCENT MIRROR IN BLACKVANITY LIGHT IN MATTE BLACK,LIVING ROOM- INSTALL NEW 1 PANEL SHAKER 24 X 80\u201d INTERIOR DOOR IN WHITE, NEW 1 X 3 1/2\u201c WHITE PAINTED TRIM ON THE DOORS AND 1 X 4\u201d, INSTALL NEW ANDERSEN PERMASHIELD RIGHT SLIDE PATIO DOOR, LIFEPROOF JEKYLL HICKORY LVP FLOORING THROUGHOUT, FRAME IN AND INSTALL DRYWALL WHERE THE FIREPLACE WASH, INSTALL NEW WOOD VENEER HUB LUXURY AMERICAN WALNUT ACOUSTIC SLAT WOOD WALL PANELS ON THE ACCENT WALL WHERE THE FIREPLACE USED TO BE, DRYWALL PATCHES AND TOUCHUPS TO BE DONE AROUND THE ENTIRE APARTMENT BEFORE PRIME AND PAINTING, INSTALL 36 IN. X 78.4 IN. 1-PANEL HOLLOW CORE WHITE PRIMED MOLDED COMPOSITE MDF CLOSET BI-FOLD DOOR AT THE ENTRYWAY CLOSET.KITCHEN- INSTALL MERILLAT KITCHEN & VANITY PERPLAN IN MAPLE BOARDWALK COLTON STANDARD CONSTRUCTION DOVETAIL DRAWERS SOFT CLOSE DOORS & DRAWERS IN THE KITCHEN, INSTALL CAMBRIA QUARTZ ABBEY POLISHED COUNTERTOPS IN THE KITCHEN AND ON THE BATHROOM VANITY WITH RECTANGULAR BOWL, NEW KRAUS KORE 30 IN. UNDERMOUNT SINGLE BOWL 16 GAUGE STAINLESS STEEL KITCHEN WORKSTATION SINK W/INTEGRATED LEDGE AND ACCESSORIES, KRAUS OLETTO SINGLE HANDLE PULL DOWN SPRAYER KITCHEN FAUCET WITH QUICKDOCK TOP MOUNT INSTALLATION ASSEMBLY IN MATTE BLACK",
-      "issuanceDate": "02/26/2026",
-      "contractor": "EXCEPTIONAL EXTERIORS LLC",
-      "contractorAddress": "441 GLACIER MORAINE DR #27, STOUGHTON, WI 53589",
-      "category": "Tenant Buildout"
     }
   ]
 }

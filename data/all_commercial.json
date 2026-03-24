@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-23T08:55:36.805128Z",
-  "totalCount": 89,
+  "lastUpdated": "2026-03-24T08:54:22.275472Z",
+  "totalCount": 93,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1354,6 +1354,74 @@
       "contractorAddress": "841 KINDSCHI RD, MARSHALL, WI 53559",
       "category": "Tenant Buildout",
       "dateAdded": "2026-03-23T08:55:36.805128Z"
+    },
+    {
+      "id": "BLDNCC-2026-02731",
+      "permitNumber": "BLDNCC-2026-02731",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "1262 S PARK ST",
+      "buildingSqft": "1,200",
+      "estimatedCost": "$80,000",
+      "feesPaid": "$1,026",
+      "owner": "1224 PARK STREET LLC",
+      "ownerAddress": "1952 ATWOOD AVE, MADISON, WI 53704",
+      "description": "WHITE BUFFALO - NEW TENANT ALTERATION",
+      "issuanceDate": "03/23/2026",
+      "contractor": "THRESHOLD BUILDS LLC",
+      "contractorAddress": "2020 EASTWOOD DR, MADISON, WI 53704",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-03-24T08:54:22.275472Z"
+    },
+    {
+      "id": "BLDNCC-2026-03367",
+      "permitNumber": "BLDNCC-2026-03367",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "2501 W BELTLINE HWY 405",
+      "buildingSqft": "1,427",
+      "estimatedCost": "$115,000",
+      "feesPaid": "$1,418",
+      "owner": "ARBOR GATE DEVELOPMENT",
+      "ownerAddress": "LLC, 3001 W BELTLINE HWY # 202, MADISON, WI 53713",
+      "description": "EDELMAN FINANCIAL - NEW TENANT ALTERATION",
+      "issuanceDate": "03/23/2026",
+      "contractor": "IDEAL BUILDERS INC",
+      "contractorAddress": "1406 EMIL ST, MADISON, WI 537132312",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-03-24T08:54:22.275472Z"
+    },
+    {
+      "id": "BLDNCC-2026-00831",
+      "permitNumber": "BLDNCC-2026-00831",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "2810 CITY VIEW DR",
+      "buildingSqft": "33,730",
+      "estimatedCost": "$860,000",
+      "feesPaid": "$11,992",
+      "owner": "ASSOCIATED BUILDERS AND CONTRACTORS OF WISCONSIN, INC. APPRENTICESHIP AND TRAINING TRUST FUND",
+      "ownerAddress": "5330 WALL ST, MADISON, WI 53718",
+      "description": "ASSOCIATED BUILDERS AND CONTRACTORS OF WISCONSIN - NEW TENANT ALTERATION",
+      "issuanceDate": "03/23/2026",
+      "contractor": "CORPORATE CONTRACTORS INC",
+      "contractorAddress": "3800 MILWAUKEE RD STE 200, BELOIT, WI 53511",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-03-24T08:54:22.275472Z"
+    },
+    {
+      "id": "BLDNCC-2026-02566",
+      "permitNumber": "BLDNCC-2026-02566",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "5201 EAST TERRACE DR 180",
+      "buildingSqft": "3,114",
+      "estimatedCost": "$84,600",
+      "feesPaid": "$1,164",
+      "owner": "IA TERRACE DRIVE LLC",
+      "ownerAddress": "1715 LINNERUD DR # 620, SUN PRAIRIE, WI 53590",
+      "description": "ATLAS TITLE - NEW TENANT ALTERATION",
+      "issuanceDate": "03/23/2026",
+      "contractor": "HARMONY CONST MNG LLC",
+      "contractorAddress": "299 EAST NORTH ST, POYNETTE, WI 53955",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-03-24T08:54:22.275472Z"
     }
   ]
 }
