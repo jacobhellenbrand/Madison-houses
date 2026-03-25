@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-24T08:54:22.275472Z",
-  "totalCount": 93,
+  "lastUpdated": "2026-03-25T08:53:48.250370Z",
+  "totalCount": 96,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1422,6 +1422,57 @@
       "contractorAddress": "299 EAST NORTH ST, POYNETTE, WI 53955",
       "category": "Tenant Buildout",
       "dateAdded": "2026-03-24T08:54:22.275472Z"
+    },
+    {
+      "id": "BLDNCC-2026-02983",
+      "permitNumber": "BLDNCC-2026-02983",
+      "use": "WAREHOUSE & INDUSTRIAL",
+      "address": "724 HEARTLAND TRL",
+      "buildingSqft": "920",
+      "estimatedCost": "$875,000",
+      "feesPaid": "$9,725",
+      "owner": "CATALENT PHARMA SOLUTIONS, LLC",
+      "ownerAddress": "790 N WATER ST SUITE 2500, MILWAUKEE, WI 53202",
+      "description": "CATALENT - CREATE NONFLAMMABLE STORAGE SPACE",
+      "issuanceDate": "03/24/2026",
+      "contractor": "KRAEMER BROTHERS INC.",
+      "contractorAddress": "P.O. BOX 219, PLAIN, WI 53577",
+      "category": "Commercial",
+      "dateAdded": "2026-03-25T08:53:48.250370Z"
+    },
+    {
+      "id": "BLDNCC-2026-02992",
+      "permitNumber": "BLDNCC-2026-02992",
+      "use": "WAREHOUSE & INDUSTRIAL",
+      "address": "726 HEARTLAND TRL",
+      "buildingSqft": "15,000",
+      "estimatedCost": "$980,000",
+      "feesPaid": "$11,460",
+      "owner": "CATALENT PHARMA SOLUTIONS, LLC",
+      "ownerAddress": "790 N WATER ST SUITE 2500, MILWAUKEE, WI 53202",
+      "description": "CATALENT - PROJECT MADMAX - ALTERATIONS FIRST AND SECOND FLOORS",
+      "issuanceDate": "03/24/2026",
+      "contractor": "KRAEMER BROTHERS INC.",
+      "contractorAddress": "P.O. BOX 219, PLAIN, WI 53577",
+      "category": "Renovation",
+      "dateAdded": "2026-03-25T08:53:48.250370Z"
+    },
+    {
+      "id": "BLDNCC-2026-03344",
+      "permitNumber": "BLDNCC-2026-03344",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "2802 WALTON COMMONS LN 102",
+      "buildingSqft": "1,607",
+      "estimatedCost": "$200,000",
+      "feesPaid": "$2,359",
+      "owner": "HORIZON OFFICE, LLC",
+      "ownerAddress": "2810 WALTON COMMONS LN, MADISON, WI 53718",
+      "description": "WISF - ALTERATION FOR NEW TENANT",
+      "issuanceDate": "03/24/2026",
+      "contractor": "HORIZON CONSTRUCTION",
+      "contractorAddress": "2810 WALTON COMMONS LN, MADISON, WI 53718",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-03-25T08:53:48.250370Z"
     }
   ]
 }

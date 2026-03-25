@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-24T08:54:22.275472Z",
+  "lastUpdated": "2026-03-25T08:53:48.250370Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 31,
+  "totalCount": 33,
   "proposals": [
     {
       "id": "BLDNCC-2026-02525",
@@ -19,6 +19,38 @@
       "contractor": "BACHMANN CONSTRUCTION CO INC",
       "contractorAddress": "1201 S STOUGHTON RD, MADISON, WI 53716",
       "category": "Tenant Buildout"
+    },
+    {
+      "id": "BLDNCC-2026-02983",
+      "permitNumber": "BLDNCC-2026-02983",
+      "use": "WAREHOUSE & INDUSTRIAL",
+      "address": "724 HEARTLAND TRL",
+      "buildingSqft": "920",
+      "estimatedCost": "$875,000",
+      "feesPaid": "$9,725",
+      "owner": "CATALENT PHARMA SOLUTIONS, LLC",
+      "ownerAddress": "790 N WATER ST SUITE 2500, MILWAUKEE, WI 53202",
+      "description": "CATALENT - CREATE NONFLAMMABLE STORAGE SPACE",
+      "issuanceDate": "03/24/2026",
+      "contractor": "KRAEMER BROTHERS INC.",
+      "contractorAddress": "P.O. BOX 219, PLAIN, WI 53577",
+      "category": "Commercial"
+    },
+    {
+      "id": "BLDNCC-2026-02992",
+      "permitNumber": "BLDNCC-2026-02992",
+      "use": "WAREHOUSE & INDUSTRIAL",
+      "address": "726 HEARTLAND TRL",
+      "buildingSqft": "15,000",
+      "estimatedCost": "$980,000",
+      "feesPaid": "$11,460",
+      "owner": "CATALENT PHARMA SOLUTIONS, LLC",
+      "ownerAddress": "790 N WATER ST SUITE 2500, MILWAUKEE, WI 53202",
+      "description": "CATALENT - PROJECT MADMAX - ALTERATIONS FIRST AND SECOND FLOORS",
+      "issuanceDate": "03/24/2026",
+      "contractor": "KRAEMER BROTHERS INC.",
+      "contractorAddress": "P.O. BOX 219, PLAIN, WI 53577",
+      "category": "Renovation"
     },
     {
       "id": "BLDRPR-2026-02726",
@@ -162,6 +194,22 @@
       "issuanceDate": "03/23/2026",
       "contractor": "IDEAL BUILDERS INC",
       "contractorAddress": "1406 EMIL ST, MADISON, WI 537132312",
+      "category": "Tenant Buildout"
+    },
+    {
+      "id": "BLDNCC-2026-03344",
+      "permitNumber": "BLDNCC-2026-03344",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "2802 WALTON COMMONS LN 102",
+      "buildingSqft": "1,607",
+      "estimatedCost": "$200,000",
+      "feesPaid": "$2,359",
+      "owner": "HORIZON OFFICE, LLC",
+      "ownerAddress": "2810 WALTON COMMONS LN, MADISON, WI 53718",
+      "description": "WISF - ALTERATION FOR NEW TENANT",
+      "issuanceDate": "03/24/2026",
+      "contractor": "HORIZON CONSTRUCTION",
+      "contractorAddress": "2810 WALTON COMMONS LN, MADISON, WI 53718",
       "category": "Tenant Buildout"
     },
     {
@@ -483,22 +531,6 @@
       "contractor": "SCOTT BROTHERS CONTRACTING RESTORATION LLC",
       "contractorAddress": "841 KINDSCHI RD, MARSHALL, WI 53559",
       "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDRPR-2026-02630",
-      "permitNumber": "BLDRPR-2026-02630",
-      "use": "CONDOMINIUMS",
-      "address": "1616 S GOLF GLN D",
-      "buildingSqft": "0",
-      "estimatedCost": "$23,720",
-      "feesPaid": "$264",
-      "owner": "SUTTER REVOCABLE LIV TR",
-      "ownerAddress": "4023 STAR RIDGE RD, HAYWARD, CA 94542",
-      "description": "KITCHEN REMODEL WITH NO STRUCTURAL OR LAYOUT CHANGES, NEW CABINETS, COUNTERTOPS. UPDATING.",
-      "issuanceDate": "02/23/2026",
-      "contractor": "ALLEN KITCHEN & BATH",
-      "contractorAddress": "2219 S STOUGHTON RD, MADISON, WI 53716",
-      "category": "Renovation"
     }
   ]
 }
