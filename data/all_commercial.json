@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-25T08:53:48.250370Z",
-  "totalCount": 96,
+  "lastUpdated": "2026-03-26T08:55:40.728333Z",
+  "totalCount": 98,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1473,6 +1473,40 @@
       "contractorAddress": "2810 WALTON COMMONS LN, MADISON, WI 53718",
       "category": "Tenant Buildout",
       "dateAdded": "2026-03-25T08:53:48.250370Z"
+    },
+    {
+      "id": "BLDRPR-2026-04040",
+      "permitNumber": "BLDRPR-2026-04040",
+      "use": "CONDOMINIUMS",
+      "address": "6019 COTTONTAIL TRL",
+      "buildingSqft": "0",
+      "estimatedCost": "$13,185",
+      "feesPaid": "$154",
+      "owner": "BOWMAN, LORI",
+      "ownerAddress": "6019 COTTONTAIL TRL, MADISON, WI 53718",
+      "description": "REPLACE EXTERIOR AND INTERIOR DOORS WITH SAME SIZE UNITS, NO STRUCTURAL CHANGES",
+      "issuanceDate": "03/20/2026",
+      "contractor": "MCDERMOTT TOP SHOP LLC",
+      "contractorAddress": "420 GENERAC WAY, JEFFERSON, WI 53549",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-03-26T08:55:40.728333Z"
+    },
+    {
+      "id": "BLDRPR-2026-04124",
+      "permitNumber": "BLDRPR-2026-04124",
+      "use": "CONDOMINIUMS",
+      "address": "8213 MILL CREEK DR",
+      "buildingSqft": "0",
+      "estimatedCost": "$750",
+      "feesPaid": "$25",
+      "owner": "SAARI, LEONARD L",
+      "ownerAddress": "& BRENDA S SMYTH, 8213 MILL CREEK DR, MADISON, WI 53719",
+      "description": "KITCHEN REMODEL (NO LAYOUT OR STRUCTURAL ALT) \u2013 NEW WALL TILE BACKSPLASH",
+      "issuanceDate": "03/23/2026",
+      "contractor": "HICKMAN HOME SERVICES LLC",
+      "contractorAddress": "323 VILLAGE DR, BELLEVILLE, WI 53508",
+      "category": "Renovation",
+      "dateAdded": "2026-03-26T08:55:40.728333Z"
     }
   ]
 }
