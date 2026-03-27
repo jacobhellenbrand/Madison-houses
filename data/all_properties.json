@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-26T08:54:08.234114Z",
-  "totalCount": 385,
+  "lastUpdated": "2026-03-27T08:51:23.142453Z",
+  "totalCount": 398,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -11550,6 +11550,396 @@
       "owner": {
         "owner1": "TODD J SCHMIDT",
         "owner2": "TONYA L SCHMIDT"
+      }
+    },
+    {
+      "id": "10013-Shadow-Ridge-Trl,-Middleton,-WI-53562",
+      "addressLine1": "10013 Shadow Ridge Trl",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 1500000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 4068,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-24T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.07632,
+      "longitude": -89.560782,
+      "agent": {
+        "name": "Chris Barreau",
+        "phone": "6087099001",
+        "email": "chris@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": "BRAD LYSTAD",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3466-Nappe-Dr,-Middleton,-WI-53562",
+      "addressLine1": "3466 Nappe Dr",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 1199000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3771,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-26T00:00:00.000Z",
+      "daysOnMarket": 2,
+      "latitude": 43.115652,
+      "longitude": -89.465935,
+      "agent": {
+        "name": "Lindsay Koth",
+        "phone": "6084693609",
+        "email": "lkoth@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "Collective Real Estate Group",
+        "phone": "6086627777"
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "602-Windy-Willow-Rd,-Verona,-WI-53593",
+      "addressLine1": "602 Windy Willow Rd",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 1100000,
+      "bedrooms": 5,
+      "bathrooms": 4.5,
+      "squareFootage": 3901,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.070518,
+      "longitude": -89.569607,
+      "agent": {
+        "name": "Tommy Van Ess",
+        "phone": "6083957375",
+        "email": "vanesst@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Realtors",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": "BETH SILVER",
+        "owner2": "SPENCER INSOLIA"
+      }
+    },
+    {
+      "id": "7013-Cardinal-Dr,-Middleton,-WI-53562",
+      "addressLine1": "7013 Cardinal Dr",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 575000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2448,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-24T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.107397,
+      "longitude": -89.503452,
+      "agent": {
+        "name": "Autumn Garrigan",
+        "phone": "9208500926",
+        "email": "autumn@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": "WALI UREHAMAN",
+        "owner2": null
+      }
+    },
+    {
+      "id": "329-N-Heatherstone-Dr,-Sun-Prairie,-WI-53590",
+      "addressLine1": "329 N Heatherstone Dr",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 455000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1960,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.180525,
+      "longitude": -89.2837,
+      "agent": {
+        "name": "Peiling Fan",
+        "phone": "6089990098",
+        "email": "peiling.fan@exprealty.com"
+      },
+      "office": {
+        "name": "Starlight Realty",
+        "phone": "6089990098"
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": "YUYUAN WANG",
+        "owner2": "YITONG LI"
+      }
+    },
+    {
+      "id": "4091-Eagle-Mound-Pass,-Windsor,-WI-53532",
+      "addressLine1": "4091 Eagle Mound Pass",
+      "city": "Windsor",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 694900,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "squareFootage": 3407,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.215112,
+      "longitude": -89.313413,
+      "agent": {
+        "name": "Jennifer O'connell",
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": "Berkshire Hathaway HomeServices TRUE Realty",
+        "phone": "6088196060"
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": "BEAR TREE FARMS INC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "7116-Twin-Sunset-Rd,-Middleton,-WI-53562",
+      "addressLine1": "7116 Twin Sunset Rd",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 624900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2536,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.106009,
+      "longitude": -89.540254,
+      "agent": {
+        "name": "Dustin Laufenberg",
+        "phone": "6087099002",
+        "email": "dustin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": "KYLA J SCHOENWETTER",
+        "owner2": null
+      }
+    },
+    {
+      "id": "309-W-Washington-Ave,-Unit-606,-Madison,-WI-53703",
+      "addressLine1": "309 W Washington Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 429900,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 1055,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.071761,
+      "longitude": -89.38712,
+      "agent": {
+        "name": "Seth Pfaehler",
+        "phone": "6083384812",
+        "email": "seth@themcgradygroup.com"
+      },
+      "office": {
+        "name": "The Mcgrady Group, Llc",
+        "phone": "6087723640"
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": "MAHAFFEY REVOCABLE TRUST",
+        "owner2": "BRIAN WALTER & DIANA LEA"
+      }
+    },
+    {
+      "id": "1087-Tundra-Ave,-Oregon,-WI-53575",
+      "addressLine1": "1087 Tundra Ave",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 414900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1848,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 42.940777,
+      "longitude": -89.376264,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": "VH GREENVIEW PRESERVE LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "302-Acadia-Dr,-Madison,-WI-53717",
+      "addressLine1": "302 Acadia Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 895000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2919,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-24T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.070618,
+      "longitude": -89.500691,
+      "agent": {
+        "name": "Josh Lamp",
+        "phone": "6082392559",
+        "email": "lampj@firstweber.com"
+      },
+      "office": {
+        "name": "Berkshire Hathaway HomeServices TRUE Realty",
+        "phone": "6088196060"
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": "RICHARD J BEGAM",
+        "owner2": "CHRISTIAAN M HENDRICKSON"
+      }
+    },
+    {
+      "id": "4338-Upland-Dr,-Madison,-WI-53705",
+      "addressLine1": "4338 Upland Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 575000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1735,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-24T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.06346,
+      "longitude": -89.450299,
+      "agent": {
+        "name": "Melissa Legrand",
+        "phone": "6084382130",
+        "email": "mlegrand11@gmail.com"
+      },
+      "office": {
+        "name": "@properties-elleven | Christie's international Real Estate",
+        "phone": "6087337760"
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": "ANTHONY FENNIG",
+        "owner2": null
+      }
+    },
+    {
+      "id": "116-122---128-E-Johnson-St,-Madison,-WI-53703",
+      "addressLine1": "116 122 / 128 E Johnson St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 2500000,
+      "bedrooms": 12,
+      "bathrooms": 5,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-24T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.078197,
+      "longitude": -89.385452,
+      "agent": {
+        "name": "Dave Mays",
+        "phone": "6082765233",
+        "email": "davemays@realtor.com"
+      },
+      "office": {
+        "name": "First Weber Realtors",
+        "phone": "6082747500"
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": "LHGV PROPERTIES LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "4512-Larson-St,-Mcfarland,-WI-53558",
+      "addressLine1": "4512 Larson St",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 500000,
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "squareFootage": 1150,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-26T00:00:00.000Z",
+      "daysOnMarket": 2,
+      "latitude": 43.023019,
+      "longitude": -89.305124,
+      "agent": {
+        "name": "Jo Ferraro Real Estate Team",
+        "phone": "6088381377",
+        "email": "info@soldinmadison.com"
+      },
+      "office": {
+        "name": "eXp Realty, LLC/McFarland",
+        "phone": "6088381377"
+      },
+      "dateAdded": "2026-03-27T08:51:23.142453Z",
+      "owner": {
+        "owner1": "CIELINSKI TR, JOSEPH F",
+        "owner2": "CIELINSKI TR, JULIE M"
       }
     }
   ]
