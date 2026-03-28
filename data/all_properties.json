@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-27T08:51:23.142453Z",
-  "totalCount": 398,
+  "lastUpdated": "2026-03-28T08:36:40.311411Z",
+  "totalCount": 410,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -11940,6 +11940,366 @@
       "owner": {
         "owner1": "CIELINSKI TR, JOSEPH F",
         "owner2": "CIELINSKI TR, JULIE M"
+      }
+    },
+    {
+      "id": "6437-Tuscobia-Trl,-Mcfarland,-WI-53558",
+      "addressLine1": "6437 Tuscobia Trl",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 454900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1638,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-22T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.015080625794,
+      "longitude": -89.267191365682,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-28T08:36:40.311411Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5391-Westport-Rd,-Madison,-WI-53704",
+      "addressLine1": "5391 Westport Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 1100000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1500,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.15235,
+      "longitude": -89.407611,
+      "agent": {
+        "name": "Kelly S Bennett",
+        "phone": "6088259553",
+        "email": "kelly@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Realtors",
+        "phone": "6088341722"
+      },
+      "dateAdded": "2026-03-28T08:36:40.311411Z",
+      "owner": {
+        "owner1": "BOEHM REV TR, MYRNA R",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3630-T-Bird-Way,-Cottage-Grove,-WI-53527",
+      "addressLine1": "3630 T Bird Way",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 715000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 4458,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.049184,
+      "longitude": -89.207207,
+      "agent": {
+        "name": "Michael Leeson",
+        "phone": "6088433203",
+        "email": "michael@homecomingmadison.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-03-28T08:36:40.311411Z",
+      "owner": {
+        "owner1": "GEORGE J KOURY",
+        "owner2": "TERRI L KOURY"
+      }
+    },
+    {
+      "id": "1-3-Milo-Ln,-Madison,-WI-53714",
+      "addressLine1": "1-3 Milo Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53714",
+      "price": 500000,
+      "bedrooms": 6,
+      "bathrooms": 4,
+      "squareFootage": 2944,
+      "propertyType": "Multi-Family",
+      "listedDate": "2026-03-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.099333,
+      "longitude": -89.30446,
+      "agent": {
+        "name": "Maxwell Woods",
+        "phone": "6084981314",
+        "email": "max@madcitydreamhomes.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-03-28T08:36:40.311411Z",
+      "owner": {
+        "owner1": "DAVID JUHLIN",
+        "owner2": "ANNETTE JUHLIN"
+      }
+    },
+    {
+      "id": "4886-Tat-Soi-Rd,-Fitchburg,-WI-53711",
+      "addressLine1": "4886 Tat Soi Rd",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 500000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1692,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.008801,
+      "longitude": -89.373768,
+      "agent": {
+        "name": "Beth Brockish",
+        "phone": "6082315151",
+        "email": "beth@thekrusecompany.net"
+      },
+      "office": {
+        "name": "THE KRUSE COMPANY REALTORS",
+        "phone": "6082315151"
+      },
+      "dateAdded": "2026-03-28T08:36:40.311411Z",
+      "owner": {
+        "owner1": "DAVID ROSSI",
+        "owner2": "KAITLYN BYRNE"
+      }
+    },
+    {
+      "id": "1802-Redwood-Ln,-Madison,-WI-53711",
+      "addressLine1": "1802 Redwood Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 409900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1900,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.033479,
+      "longitude": -89.487916,
+      "agent": {
+        "name": "Kinsey Schulz",
+        "phone": "6084922272",
+        "email": "kschulz@keithandkinsey.com"
+      },
+      "office": {
+        "name": "Great Rock Realty Llc",
+        "phone": "6084922272"
+      },
+      "dateAdded": "2026-03-28T08:36:40.311411Z",
+      "owner": {
+        "owner1": "DARRON W BENNETT",
+        "owner2": "CLARA E BENNETT"
+      }
+    },
+    {
+      "id": "816-Damascus-Trl,-Cottage-Grove,-WI-53527",
+      "addressLine1": "816 Damascus Trl",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 719900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 3112,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.092016,
+      "longitude": -89.219852,
+      "agent": {
+        "name": "Tonya Nye",
+        "phone": "6087707787",
+        "email": "tnye@yournextfrontporch.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-03-28T08:36:40.311411Z",
+      "owner": {
+        "owner1": "MITAT IBRAHIM",
+        "owner2": "MUNIRA IBRAHIM"
+      }
+    },
+    {
+      "id": "7162-Belle-Fontaine-Blvd,-Middleton,-WI-53562",
+      "addressLine1": "7162 Belle Fontaine Blvd",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 589900,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "squareFootage": 2550,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.123663,
+      "longitude": -89.504107,
+      "agent": {
+        "name": "Matt Winzenried Real Estate Team",
+        "phone": "6083107346",
+        "email": "info@mattwinz.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-03-28T08:36:40.311411Z",
+      "owner": {
+        "owner1": "JARRETT E LIDDICOAT",
+        "owner2": null
+      }
+    },
+    {
+      "id": "9319-Tawny-Acorn-Dr,-Verona,-WI-53593",
+      "addressLine1": "9319 Tawny Acorn Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 525000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 2206,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.047693,
+      "longitude": -89.548109,
+      "agent": {
+        "name": "Jordan Bishop",
+        "phone": "6082197495",
+        "email": "jordan@hansenhometeam.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-03-28T08:36:40.311411Z",
+      "owner": {
+        "owner1": "EDWARD WILLIAM BLYTHE",
+        "owner2": "OLIVIA BLYTHE"
+      }
+    },
+    {
+      "id": "837-Valley-Dr,-Dane,-WI-53529",
+      "addressLine1": "837 Valley Dr",
+      "city": "Dane",
+      "state": "WI",
+      "zipCode": "53529",
+      "price": 594000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1893,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.240853,
+      "longitude": -89.488001,
+      "agent": {
+        "name": "Perry Sanoy",
+        "phone": "6087645657",
+        "email": "psanoy@aol.com"
+      },
+      "office": {
+        "name": "Sanoy Realty",
+        "phone": "6087645656"
+      },
+      "dateAdded": "2026-03-28T08:36:40.311411Z",
+      "owner": {
+        "owner1": "TANIMARAH RIDGE LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2224-Highway,-51,-Stoughton,-WI-53589",
+      "addressLine1": "2224 Highway",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 1199900,
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "squareFootage": 1946,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.967674,
+      "longitude": -89.281954,
+      "agent": {
+        "name": "Gina Marie John",
+        "phone": "6085136154",
+        "email": "ginajohn@realtyexecutives.com"
+      },
+      "office": {
+        "name": "Realty Executives Capital City",
+        "phone": "6085791173"
+      },
+      "dateAdded": "2026-03-28T08:36:40.311411Z",
+      "owner": {
+        "owner1": "MARLYS JOHNSON",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1237-Mockingbird-Ln,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1237 Mockingbird Ln",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 629900,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "squareFootage": 3851,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.188303,
+      "longitude": -89.189635,
+      "agent": {
+        "name": "Michael Leeson",
+        "phone": "6088433203",
+        "email": "michael@homecomingmadison.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-03-28T08:36:40.311411Z",
+      "owner": {
+        "owner1": "MARY S JACKSON",
+        "owner2": null
       }
     }
   ]
