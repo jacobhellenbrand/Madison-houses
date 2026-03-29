@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-28T08:39:52.643135Z",
-  "totalCount": 104,
+  "lastUpdated": "2026-03-29T08:41:10.172917Z",
+  "totalCount": 107,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1609,6 +1609,57 @@
       "contractorAddress": "2236 W BROADWAY, MADISON, WI 53713",
       "category": "Renovation",
       "dateAdded": "2026-03-27T08:54:25.571142Z"
+    },
+    {
+      "id": "BLDRPR-2026-03121",
+      "permitNumber": "BLDRPR-2026-03121",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1302 MACARTHUR RD",
+      "buildingSqft": "0",
+      "estimatedCost": "$10,000",
+      "feesPaid": "$110",
+      "owner": "RICHARDSON, GINA K",
+      "ownerAddress": "1302 MAC ARTHUR RD, MADISON, WI 53714-1018",
+      "description": "REPAIR DRYWALL.  REPAIR INTERIOR STAIR TREAD FOR CARPET.  REPLACE/REPAIR WINDOW GLASS IN THE GARAGE.  REPLACE GARAGE SERVICE DOOR. SAND AND REFINISH WOOD FLOOR.",
+      "issuanceDate": "03/04/2026",
+      "contractor": "CHAD'S DESIGN BUILD",
+      "contractorAddress": "3212 COMMERCIAL AVE, MADISON, WI 53714",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-03-29T08:41:10.172917Z"
+    },
+    {
+      "id": "BLDRPR-2026-03630",
+      "permitNumber": "BLDRPR-2026-03630",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1318 MCLEAN DR",
+      "buildingSqft": "0",
+      "estimatedCost": "$31,000",
+      "feesPaid": "$366",
+      "owner": "SEXTON, JORDAN",
+      "ownerAddress": "& AMANDA TIPTON, 1318 MCLEAN DR, MADISON, WI 53718",
+      "description": "BATHROOM REMODEL - MOVE FIXTURES, BUILD WALLS TO ENCLOSE SHOWER AND TOILET SPACE",
+      "issuanceDate": "03/23/2026",
+      "contractor": "EDGE CONSTRUCTION INC",
+      "contractorAddress": "2616 INDUSTRIAL DR, MONONA, WI 53713",
+      "category": "Renovation",
+      "dateAdded": "2026-03-29T08:41:10.172917Z"
+    },
+    {
+      "id": "BLDRPR-2026-04186",
+      "permitNumber": "BLDRPR-2026-04186",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1318 MORRISON ST",
+      "buildingSqft": "0",
+      "estimatedCost": "$49,914",
+      "feesPaid": "$575",
+      "owner": "MDW LIVING TRUST",
+      "ownerAddress": "MICHAEL D WOLFF, TRUSTEE, 1318 MORRISON ST, MADISON, WI 53703",
+      "description": "REMODEL KITCHEN AND BATHROOM - WIDEN PASSAGEWAYS TO KITCHEN, REPLACE BATHROOM FIXTURES, REMOVE BASEMENT DOOR",
+      "issuanceDate": "03/23/2026",
+      "contractor": "ALLEN KITCHEN & BATH",
+      "contractorAddress": "2219 S STOUGHTON RD, MADISON, WI 53716",
+      "category": "Renovation",
+      "dateAdded": "2026-03-29T08:41:10.172917Z"
     }
   ]
 }

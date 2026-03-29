@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-28T08:36:40.311411Z",
-  "totalCount": 410,
+  "lastUpdated": "2026-03-29T08:38:12.250375Z",
+  "totalCount": 415,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -12299,6 +12299,156 @@
       "dateAdded": "2026-03-28T08:36:40.311411Z",
       "owner": {
         "owner1": "MARY S JACKSON",
+        "owner2": null
+      }
+    },
+    {
+      "id": "712-Sugar-Maple-Ln,-Verona,-WI-53593",
+      "addressLine1": "712 Sugar Maple Ln",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 500000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 2026,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.049634,
+      "longitude": -89.564119,
+      "agent": {
+        "name": "Amy Lessing",
+        "phone": "6088285145",
+        "email": "lessinga@firstweber.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-03-29T08:38:12.250375Z",
+      "owner": {
+        "owner1": "STEPHANIE DEPAOLIS",
+        "owner2": "BRADLEY KRAEMER"
+      }
+    },
+    {
+      "id": "9607-Summer-Willow-Ln,-Verona,-WI-53593",
+      "addressLine1": "9607 Summer Willow Ln",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 655000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 2228,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.046725,
+      "longitude": -89.553621,
+      "agent": {
+        "name": "Kaitlin Solomon",
+        "phone": "6087099889",
+        "email": "kaitlin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-03-29T08:38:12.250375Z",
+      "owner": {
+        "owner1": "PEDDA RAMI ANNEKALLA",
+        "owner2": "SUNITHA KARNATI"
+      }
+    },
+    {
+      "id": "523-Tawny-Elm-Pkwy,-Verona,-WI-53593",
+      "addressLine1": "523 Tawny Elm Pkwy",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 624900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1650,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.069471,
+      "longitude": -89.566277,
+      "agent": {
+        "name": "Gordon Myers",
+        "phone": "6086652060",
+        "email": "gordon.myers@c21affiliated.com"
+      },
+      "office": {
+        "name": "CENTURY 21 Affiliated",
+        "phone": "6086652060"
+      },
+      "dateAdded": "2026-03-29T08:38:12.250375Z",
+      "owner": {
+        "owner1": "MITCHELL RASMUSSEN",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1129-Lincoln-Rd,-Oregon,-WI-53575",
+      "addressLine1": "1129 Lincoln Rd",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 450000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2381,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.914677,
+      "longitude": -89.391187,
+      "agent": {
+        "name": "Michael Leeson",
+        "phone": "6088433203",
+        "email": "michael@homecomingmadison.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-03-29T08:38:12.250375Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1321-Stratford-Ct,-Middleton,-WI-53562",
+      "addressLine1": "1321 Stratford Ct",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 875000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 3090,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.087371,
+      "longitude": -89.519696,
+      "agent": {
+        "name": "Dave Mays",
+        "phone": "6082765233",
+        "email": "davemays@realtor.com"
+      },
+      "office": {
+        "name": "First Weber Realtors",
+        "phone": "6082747500"
+      },
+      "dateAdded": "2026-03-29T08:38:12.250375Z",
+      "owner": {
+        "owner1": "VATTHAUER JT REV TR, RICHARD J & VIRGENE A",
         "owner2": null
       }
     }
