@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-29T08:38:12.250375Z",
-  "totalCount": 415,
+  "lastUpdated": "2026-03-30T09:10:09.695595Z",
+  "totalCount": 422,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -12449,6 +12449,216 @@
       "dateAdded": "2026-03-29T08:38:12.250375Z",
       "owner": {
         "owner1": "VATTHAUER JT REV TR, RICHARD J & VIRGENE A",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1214-Dayflower-Dr,-Madison,-WI-53719",
+      "addressLine1": "1214 Dayflower Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 445000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2192,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.040896,
+      "longitude": -89.516894,
+      "agent": {
+        "name": "Heidi Kelley",
+        "phone": "6085754183",
+        "email": "heidikelleyhomes@gmail.com"
+      },
+      "office": {
+        "name": "HomeWire",
+        "phone": "4149824005"
+      },
+      "dateAdded": "2026-03-30T09:10:09.695595Z",
+      "owner": {
+        "owner1": "MATTHEW J MCLAUGHLIN",
+        "owner2": "KIMBERLY M MCLAUGHLIN"
+      }
+    },
+    {
+      "id": "5484-Niesen-Rd,-Cross-Plains,-WI-53528",
+      "addressLine1": "5484 Niesen Rd",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 449900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1732,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.155971,
+      "longitude": -89.607937,
+      "agent": {
+        "name": "Tc Farber",
+        "phone": "6085761780",
+        "email": "tcfarber@remax.net"
+      },
+      "office": {
+        "name": "RE MAX Preferred",
+        "phone": "6088494663"
+      },
+      "dateAdded": "2026-03-30T09:10:09.695595Z",
+      "owner": {
+        "owner1": "DONALD G CORK",
+        "owner2": "GERRIANNE J BROCKMAN-CORK"
+      }
+    },
+    {
+      "id": "1241-Velvet-Leaf-Dr,-Madison,-WI-53719",
+      "addressLine1": "1241 Velvet Leaf Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 550000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 2619,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.039819,
+      "longitude": -89.514419,
+      "agent": {
+        "name": "Spencer Schumacher",
+        "phone": "6088412221",
+        "email": "team@spencerreg.com"
+      },
+      "office": {
+        "name": "Spencer Real Estate Group",
+        "phone": "6088412221"
+      },
+      "dateAdded": "2026-03-30T09:10:09.695595Z",
+      "owner": {
+        "owner1": "JUSTIN NOVARA",
+        "owner2": null
+      }
+    },
+    {
+      "id": "5438-Marie-Rd,-Oregon,-WI-53575",
+      "addressLine1": "5438 Marie Rd",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 749900,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2776,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.897569,
+      "longitude": -89.426392,
+      "agent": {
+        "name": "Nichole Nachreiner",
+        "phone": "6085772085",
+        "email": "judy@ackermaly.com"
+      },
+      "office": {
+        "name": "BUNBURY & ASSOCIATES REALTORS",
+        "phone": "6084417777"
+      },
+      "dateAdded": "2026-03-30T09:10:09.695595Z",
+      "owner": {
+        "owner1": "FOREST C WEBER",
+        "owner2": "CHARLI A METCALF"
+      }
+    },
+    {
+      "id": "655-Ridge-View-Ln,-Oregon,-WI-53575",
+      "addressLine1": "655 Ridge View Ln",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 800000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3064,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-25T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.905863,
+      "longitude": -89.377159,
+      "agent": {
+        "name": "Keith Mcneely",
+        "phone": "6083704020",
+        "email": "keith@keithmcneelyhomes.com"
+      },
+      "office": {
+        "name": "First Weber Realtors",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-03-30T09:10:09.695595Z",
+      "owner": {
+        "owner1": "NICOLE VICTOR",
+        "owner2": "BRANDON VICTOR"
+      }
+    },
+    {
+      "id": "7713-Stones-Throw-Dr,-Madison,-WI-53719",
+      "addressLine1": "7713 Stones Throw Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 539900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1615,
+      "propertyType": "Single Family",
+      "listedDate": "2026-03-26T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.0288079,
+      "longitude": -89.5198347,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-03-30T09:10:09.695595Z",
+      "owner": {
+        "owner1": "MARTY CENTURY FARM FAMILY LTD PARTNERSHIP",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2807-Crinkle-Root-Dr,-Fitchburg,-WI-53711",
+      "addressLine1": "2807 Crinkle Root Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 499900,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 1774,
+      "propertyType": "Condo",
+      "listedDate": "2026-03-26T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.007387,
+      "longitude": -89.400075,
+      "agent": {
+        "name": "Mitch Onken Covert",
+        "phone": "6082142522",
+        "email": "mitchellcovertrealestate@gmail.com"
+      },
+      "office": {
+        "name": "EXIT PROFESSIONAL REAL ESTATE",
+        "phone": "6084267111"
+      },
+      "dateAdded": "2026-03-30T09:10:09.695595Z",
+      "owner": {
+        "owner1": "IP HOLDINGS LLC",
         "owner2": null
       }
     }
