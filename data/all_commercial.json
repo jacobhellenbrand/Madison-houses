@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-30T09:12:57.643736Z",
-  "totalCount": 107,
+  "lastUpdated": "2026-04-01T09:03:49.041005Z",
+  "totalCount": 109,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1660,6 +1660,40 @@
       "contractorAddress": "2219 S STOUGHTON RD, MADISON, WI 53716",
       "category": "Renovation",
       "dateAdded": "2026-03-29T08:41:10.172917Z"
+    },
+    {
+      "id": "BLDNRC-2025-17359",
+      "permitNumber": "BLDNRC-2025-17359",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "418 CANTWELL CT",
+      "buildingSqft": "60",
+      "estimatedCost": "$150,000",
+      "feesPaid": "$1,800",
+      "owner": "RIVERA FAUSTO E. AND ALYSSA E.",
+      "ownerAddress": "2617 KOSHKONOG WAY, SUN PRAIRIE, WI 53590",
+      "description": "WHOLE HOUSE REMODEL AND NEW TWO STORY REAR DECK ADDITION. REPLACE WALL INSULATION, VAPOR BARRIER, AND DRYWALL THROUGHOUT HOUSE.",
+      "issuanceDate": "03/30/2026",
+      "contractor": "ALPHA BUILDING & DESIGN LLC",
+      "contractorAddress": "115 RICHARD ST, BELLEVILLE, WI 53598",
+      "category": "Renovation",
+      "dateAdded": "2026-04-01T09:03:49.041005Z"
+    },
+    {
+      "id": "BLDNCC-2026-04026",
+      "permitNumber": "BLDNCC-2026-04026",
+      "use": "SCHOOLS/EDUCATIONAL",
+      "address": "1701 WRIGHT ST",
+      "buildingSqft": "3,200",
+      "estimatedCost": "$301,000",
+      "feesPaid": "$3,439",
+      "owner": "DANE COUNTY",
+      "ownerAddress": "TRUAX AIR PARK, 210 MLK JR BLVD #114, MADISON, WI 53703-3342",
+      "description": "MADISON COLLEGE - BATHROOM REMODEL",
+      "issuanceDate": "03/31/2026",
+      "contractor": "DANIELS CONSTRUCTION",
+      "contractorAddress": "919 APPLEGATE RD, MADISON, WI 53713",
+      "category": "Renovation",
+      "dateAdded": "2026-04-01T09:03:49.041005Z"
     }
   ]
 }
