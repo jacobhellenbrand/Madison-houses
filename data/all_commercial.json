@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-01T09:03:49.041005Z",
-  "totalCount": 109,
+  "lastUpdated": "2026-04-02T08:56:22.470379Z",
+  "totalCount": 111,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1694,6 +1694,40 @@
       "contractorAddress": "919 APPLEGATE RD, MADISON, WI 53713",
       "category": "Renovation",
       "dateAdded": "2026-04-01T09:03:49.041005Z"
+    },
+    {
+      "id": "BLDNRC-2026-03811",
+      "permitNumber": "BLDNRC-2026-03811",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2113 LEGACY LN",
+      "buildingSqft": "5,846",
+      "estimatedCost": "$834,400",
+      "feesPaid": "$1,128",
+      "owner": "VH MIDPOINT MEADOWS, LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "description": "NEW TWIN HOME ZERO LOT LINE",
+      "issuanceDate": "03/24/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial",
+      "dateAdded": "2026-04-02T08:56:22.470379Z"
+    },
+    {
+      "id": "BLDNCC-2026-02403",
+      "permitNumber": "BLDNCC-2026-02403",
+      "use": "WAREHOUSE & INDUSTRIAL",
+      "address": "3113 SYENE RD",
+      "buildingSqft": "3,000",
+      "estimatedCost": "$150,000",
+      "feesPaid": "$1,970",
+      "owner": "CUBETTI 3113 LLC",
+      "ownerAddress": "3113 SYENE RD, MADISON, WI 53713",
+      "description": "STELLAS BAKERY - NEW TENANT ALTERATION. CHANGE CLASS OF CONSTRUCTION FROM IIB TO VB.",
+      "issuanceDate": "04/01/2026",
+      "contractor": "OWNER",
+      "contractorAddress": "",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-04-02T08:56:22.470379Z"
     }
   ]
 }

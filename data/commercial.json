@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-01T09:03:49.041005Z",
+  "lastUpdated": "2026-04-02T08:56:22.470379Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 14,
+  "totalCount": 17,
   "proposals": [
     {
       "id": "BLDRPR-2026-02726",
@@ -19,6 +19,22 @@
       "contractor": "SIMON, MICHAEL F BUILDERS INC",
       "contractorAddress": "817 S DIVISION ST, WAUNAKEE, WI 53597",
       "category": "Renovation"
+    },
+    {
+      "id": "BLDNRC-2026-03811",
+      "permitNumber": "BLDNRC-2026-03811",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2113 LEGACY LN",
+      "buildingSqft": "5,846",
+      "estimatedCost": "$834,400",
+      "feesPaid": "$1,128",
+      "owner": "VH MIDPOINT MEADOWS, LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "description": "NEW TWIN HOME ZERO LOT LINE",
+      "issuanceDate": "03/24/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial"
     },
     {
       "id": "BLDNRC-2025-17359",
@@ -69,6 +85,70 @@
       "category": "Commercial"
     },
     {
+      "id": "BLDNCC-2026-02525",
+      "permitNumber": "BLDNCC-2026-02525",
+      "use": "WAREHOUSE & INDUSTRIAL",
+      "address": "110 S DICKINSON ST",
+      "buildingSqft": "1,730",
+      "estimatedCost": "$105,000",
+      "feesPaid": "$1,255",
+      "owner": "B IN LLC",
+      "ownerAddress": "ATTN UNIVERSAL TECH OF WI, PO BOX 8632, MADISON, WI 53708-8632",
+      "description": "BOCK WATER HEATERS - INFILL INTERIOR LOADING DOCK",
+      "issuanceDate": "03/03/2026",
+      "contractor": "BACHMANN CONSTRUCTION CO INC",
+      "contractorAddress": "1201 S STOUGHTON RD, MADISON, WI 53716",
+      "category": "Tenant Buildout"
+    },
+    {
+      "id": "BLDNCC-2026-02403",
+      "permitNumber": "BLDNCC-2026-02403",
+      "use": "WAREHOUSE & INDUSTRIAL",
+      "address": "3113 SYENE RD",
+      "buildingSqft": "3,000",
+      "estimatedCost": "$150,000",
+      "feesPaid": "$1,970",
+      "owner": "CUBETTI 3113 LLC",
+      "ownerAddress": "3113 SYENE RD, MADISON, WI 53713",
+      "description": "STELLAS BAKERY - NEW TENANT ALTERATION. CHANGE CLASS OF CONSTRUCTION FROM IIB TO VB.",
+      "issuanceDate": "04/01/2026",
+      "contractor": "OWNER",
+      "contractorAddress": "",
+      "category": "Tenant Buildout"
+    },
+    {
+      "id": "BLDNCC-2026-02983",
+      "permitNumber": "BLDNCC-2026-02983",
+      "use": "WAREHOUSE & INDUSTRIAL",
+      "address": "724 HEARTLAND TRL",
+      "buildingSqft": "920",
+      "estimatedCost": "$875,000",
+      "feesPaid": "$9,725",
+      "owner": "CATALENT PHARMA SOLUTIONS, LLC",
+      "ownerAddress": "790 N WATER ST SUITE 2500, MILWAUKEE, WI 53202",
+      "description": "CATALENT - CREATE NONFLAMMABLE STORAGE SPACE",
+      "issuanceDate": "03/24/2026",
+      "contractor": "KRAEMER BROTHERS INC.",
+      "contractorAddress": "P.O. BOX 219, PLAIN, WI 53577",
+      "category": "Commercial"
+    },
+    {
+      "id": "BLDNCC-2026-02992",
+      "permitNumber": "BLDNCC-2026-02992",
+      "use": "WAREHOUSE & INDUSTRIAL",
+      "address": "726 HEARTLAND TRL",
+      "buildingSqft": "15,000",
+      "estimatedCost": "$980,000",
+      "feesPaid": "$11,460",
+      "owner": "CATALENT PHARMA SOLUTIONS, LLC",
+      "ownerAddress": "790 N WATER ST SUITE 2500, MILWAUKEE, WI 53202",
+      "description": "CATALENT - PROJECT MADMAX - ALTERATIONS FIRST AND SECOND FLOORS",
+      "issuanceDate": "03/24/2026",
+      "contractor": "KRAEMER BROTHERS INC.",
+      "contractorAddress": "P.O. BOX 219, PLAIN, WI 53577",
+      "category": "Renovation"
+    },
+    {
       "id": "BLDNCC-2025-18873",
       "permitNumber": "BLDNCC-2025-18873",
       "use": "HOTELS/MOTELS",
@@ -115,22 +195,6 @@
       "contractor": "",
       "contractorAddress": "1 Birchwood Circle, Madison, WI 53704",
       "category": "Office"
-    },
-    {
-      "id": "BLDRPR-2026-00370",
-      "permitNumber": "BLDRPR-2026-00370",
-      "use": "SINGLE FAMILY RESIDENCES",
-      "address": "1 ONDOSSAGON CT",
-      "buildingSqft": "0",
-      "estimatedCost": "",
-      "feesPaid": "$91",
-      "owner": "JOSEPH AND ERIN KOVACH",
-      "ownerAddress": "1 ONDOSSAGON CT, MADISON, WI 53719",
-      "description": "2ND FLOOR BATHROOM ALTERATION, REMOVE WALLS AND CHANGE FIXTURES. 1ST FLOOR KITCHEN REMODEL, REMOVE PANTRY WALLS AND EXPAND BATHROOM. FIRST FLOOR- REMODEL FAMILY ROOM, AND LAUNDRY ROOM AND BUMP OUT INTO GARAGE WITH SUSPENDED WALL SYSTEM",
-      "issuanceDate": "03/02/2026",
-      "contractor": "PROPERTY REVIVAL LLC",
-      "contractorAddress": "5904 LOCHINVARS TRL, MARSHALL, WI 53559",
-      "category": "Renovation"
     },
     {
       "id": "BLDRPR-2026-04162",
@@ -210,22 +274,6 @@
       "issuanceDate": "03/18/2026",
       "contractor": "ROCKY POINT REMODELING",
       "contractorAddress": "2236 W BROADWAY, MADISON, WI 53713",
-      "category": "Renovation"
-    },
-    {
-      "id": "BLDRPR-2026-02727",
-      "permitNumber": "BLDRPR-2026-02727",
-      "use": "SINGLE FAMILY RESIDENCES",
-      "address": "121 WALKER DR",
-      "buildingSqft": "0",
-      "estimatedCost": "$6,000",
-      "feesPaid": "$91",
-      "owner": "TADYCH TRUST",
-      "ownerAddress": "121 WALKER DR, MADISON, WI 53714-2641",
-      "description": "REMODEL EXISTING SCREEN PORCH WITH NEW SCREEN SYSTEM.",
-      "issuanceDate": "03/09/2026",
-      "contractor": "3RD GEN PAINTING & REMODELING CO",
-      "contractorAddress": "2858 AGRICULTURE DR, MADISON, WI 53718",
       "category": "Renovation"
     }
   ]
