@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-02T08:56:22.470379Z",
-  "totalCount": 111,
+  "lastUpdated": "2026-04-03T08:55:03.599535Z",
+  "totalCount": 114,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1728,6 +1728,57 @@
       "contractorAddress": "",
       "category": "Tenant Buildout",
       "dateAdded": "2026-04-02T08:56:22.470379Z"
+    },
+    {
+      "id": "BLDNCC-2026-04783",
+      "permitNumber": "BLDNCC-2026-04783",
+      "use": "HOSPITAL/MEDICAL",
+      "address": "202 S PARK ST",
+      "buildingSqft": "",
+      "estimatedCost": "$230,409",
+      "feesPaid": "$2,541",
+      "owner": "MERITER HOSPITAL INC",
+      "ownerAddress": "TREASURY SERVICES DEPT, 202 S PARK ST, MADISON, WI 53715-1596",
+      "description": "MERITER - CARDIAC CLINIC",
+      "issuanceDate": "04/02/2026",
+      "contractor": "CULLEN, J.P. & SONS",
+      "contractorAddress": "7500 CROSS COUNTRY RD, VERONA, WI 53593",
+      "category": "Medical",
+      "dateAdded": "2026-04-03T08:55:03.599535Z"
+    },
+    {
+      "id": "BLDNCC-2026-03938",
+      "permitNumber": "BLDNCC-2026-03938",
+      "use": "AMUSEMENT AND RECREATION",
+      "address": "2528 WINNEBAGO ST",
+      "buildingSqft": "1,750",
+      "estimatedCost": "$103,378",
+      "feesPaid": "$1,307",
+      "owner": "GORMAN AND COMPANY INC",
+      "ownerAddress": "200 N MAIN ST, OREGON, WI 53575",
+      "description": "ALLOY FITNESS - NEW TENANT ALTERATION",
+      "issuanceDate": "04/02/2026",
+      "contractor": "GORMAN GENERAL CONTRACTORS",
+      "contractorAddress": "200 N MAIN ST, OREGON, WI 53575",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-04-03T08:55:03.599535Z"
+    },
+    {
+      "id": "BLDNRC-2026-04182",
+      "permitNumber": "BLDNRC-2026-04182",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "601 SCHEWE RD",
+      "buildingSqft": "5,841",
+      "estimatedCost": "$507,119",
+      "feesPaid": "$1,158",
+      "owner": "VH CET, LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "description": "NEW TWIN HOME ZERO LOT LINE",
+      "issuanceDate": "04/02/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial",
+      "dateAdded": "2026-04-03T08:55:03.599535Z"
     }
   ]
 }

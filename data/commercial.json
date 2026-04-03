@@ -1,9 +1,41 @@
 {
-  "lastUpdated": "2026-04-02T08:56:22.470379Z",
+  "lastUpdated": "2026-04-03T08:55:03.599535Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 17,
+  "totalCount": 19,
   "proposals": [
+    {
+      "id": "BLDNCC-2026-04783",
+      "permitNumber": "BLDNCC-2026-04783",
+      "use": "HOSPITAL/MEDICAL",
+      "address": "202 S PARK ST",
+      "buildingSqft": "",
+      "estimatedCost": "$230,409",
+      "feesPaid": "$2,541",
+      "owner": "MERITER HOSPITAL INC",
+      "ownerAddress": "TREASURY SERVICES DEPT, 202 S PARK ST, MADISON, WI 53715-1596",
+      "description": "MERITER - CARDIAC CLINIC",
+      "issuanceDate": "04/02/2026",
+      "contractor": "CULLEN, J.P. & SONS",
+      "contractorAddress": "7500 CROSS COUNTRY RD, VERONA, WI 53593",
+      "category": "Medical"
+    },
+    {
+      "id": "BLDNCC-2026-03938",
+      "permitNumber": "BLDNCC-2026-03938",
+      "use": "AMUSEMENT AND RECREATION",
+      "address": "2528 WINNEBAGO ST",
+      "buildingSqft": "1,750",
+      "estimatedCost": "$103,378",
+      "feesPaid": "$1,307",
+      "owner": "GORMAN AND COMPANY INC",
+      "ownerAddress": "200 N MAIN ST, OREGON, WI 53575",
+      "description": "ALLOY FITNESS - NEW TENANT ALTERATION",
+      "issuanceDate": "04/02/2026",
+      "contractor": "GORMAN GENERAL CONTRACTORS",
+      "contractorAddress": "200 N MAIN ST, OREGON, WI 53575",
+      "category": "Tenant Buildout"
+    },
     {
       "id": "BLDRPR-2026-02726",
       "permitNumber": "BLDRPR-2026-02726",
@@ -53,6 +85,22 @@
       "category": "Renovation"
     },
     {
+      "id": "BLDNRC-2026-04182",
+      "permitNumber": "BLDNRC-2026-04182",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "601 SCHEWE RD",
+      "buildingSqft": "5,841",
+      "estimatedCost": "$507,119",
+      "feesPaid": "$1,158",
+      "owner": "VH CET, LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "description": "NEW TWIN HOME ZERO LOT LINE",
+      "issuanceDate": "04/02/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial"
+    },
+    {
       "id": "BLDRPR-2026-03866",
       "permitNumber": "BLDRPR-2026-03866",
       "use": "TWO FAMILY RESIDENCES",
@@ -83,22 +131,6 @@
       "contractor": "VERIDIAN HOMES LLC",
       "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
       "category": "Commercial"
-    },
-    {
-      "id": "BLDNCC-2026-02525",
-      "permitNumber": "BLDNCC-2026-02525",
-      "use": "WAREHOUSE & INDUSTRIAL",
-      "address": "110 S DICKINSON ST",
-      "buildingSqft": "1,730",
-      "estimatedCost": "$105,000",
-      "feesPaid": "$1,255",
-      "owner": "B IN LLC",
-      "ownerAddress": "ATTN UNIVERSAL TECH OF WI, PO BOX 8632, MADISON, WI 53708-8632",
-      "description": "BOCK WATER HEATERS - INFILL INTERIOR LOADING DOCK",
-      "issuanceDate": "03/03/2026",
-      "contractor": "BACHMANN CONSTRUCTION CO INC",
-      "contractorAddress": "1201 S STOUGHTON RD, MADISON, WI 53716",
-      "category": "Tenant Buildout"
     },
     {
       "id": "BLDNCC-2026-02403",
