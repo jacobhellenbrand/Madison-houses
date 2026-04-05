@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-04T08:38:23.935139Z",
-  "totalCount": 494,
+  "lastUpdated": "2026-04-05T08:40:33.645783Z",
+  "totalCount": 500,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -14819,6 +14819,186 @@
       "dateAdded": "2026-04-04T08:38:23.935139Z",
       "owner": {
         "owner1": "STATZ REV LIVING TR, VICTOR P & SHIRLEY A",
+        "owner2": null
+      }
+    },
+    {
+      "id": "9314-Highland-Gate-Way,-Verona,-WI-53593",
+      "addressLine1": "9314 Highland Gate Way",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 499900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 1920,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-01T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.05211,
+      "longitude": -89.547446,
+      "agent": {
+        "name": "Jean Pan",
+        "phone": "6082682399",
+        "email": "jeanpan@prucomrealty.com"
+      },
+      "office": {
+        "name": "American, REALTORS",
+        "phone": "6088342600"
+      },
+      "dateAdded": "2026-04-05T08:40:33.645783Z",
+      "owner": {
+        "owner1": "DOROTHY J DY",
+        "owner2": null
+      }
+    },
+    {
+      "id": "708-Narvik-Cir,-Stoughton,-WI-53589",
+      "addressLine1": "708 Narvik Cir",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 524900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2382,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-01T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.92512,
+      "longitude": -89.255236,
+      "agent": {
+        "name": "Ron Kubalanza",
+        "phone": "6084210093",
+        "email": "rkubalanza@gmail.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-04-05T08:40:33.645783Z",
+      "owner": {
+        "owner1": "JEFFREY THRALL",
+        "owner2": null
+      }
+    },
+    {
+      "id": "5753-Dawley-Dr,-Fitchburg,-WI-53711",
+      "addressLine1": "5753 Dawley Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 1275000,
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "squareFootage": 5494,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-01T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.023071,
+      "longitude": -89.440364,
+      "agent": {
+        "name": "Joffre Pedretti",
+        "phone": "6086988503",
+        "email": "jpedretti@kw.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-04-05T08:40:33.645783Z",
+      "owner": {
+        "owner1": "MOHAMMED I DODWAD",
+        "owner2": "SAYCEDA DODWAD"
+      }
+    },
+    {
+      "id": "3215-Conservancy-Estates-Ln,-Sun-Prairie,-WI-53590",
+      "addressLine1": "3215 Conservancy Estates Ln",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 649900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 3100,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-01T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.135056,
+      "longitude": -89.250965,
+      "agent": {
+        "name": "Holly Lutz",
+        "phone": "6088257552",
+        "email": "holly.lutz.c21@gmail.com"
+      },
+      "office": {
+        "name": "CENTURY 21 Affiliated",
+        "phone": "6088257552"
+      },
+      "dateAdded": "2026-04-05T08:40:33.645783Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6763-Village-Walk-Ln,-Deforest,-WI-53532",
+      "addressLine1": "6763 Village Walk Ln",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 545900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2245,
+      "propertyType": "Condo",
+      "listedDate": "2026-04-01T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.221228,
+      "longitude": -89.355916,
+      "agent": {
+        "name": "Amy Wilcox",
+        "phone": "6082135667",
+        "email": "amywilcoxrealty@icloud.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-04-05T08:40:33.645783Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5355-Hanson-Lndg-S,-Unit-104,-Madison,-WI-53704",
+      "addressLine1": "5355 Hanson Lndg S",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 750000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2336,
+      "propertyType": "Condo",
+      "listedDate": "2026-04-01T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.149578,
+      "longitude": -89.406822,
+      "agent": {
+        "name": "Jo Ferraro Real Estate Team",
+        "phone": "6088381377",
+        "email": "info@soldinmadison.com"
+      },
+      "office": {
+        "name": "eXp Realty - Ferraro Real Estate Team",
+        "phone": "6088381377"
+      },
+      "dateAdded": "2026-04-05T08:40:33.645783Z",
+      "owner": {
+        "owner1": "PENDLETON LIVING TR",
         "owner2": null
       }
     }
