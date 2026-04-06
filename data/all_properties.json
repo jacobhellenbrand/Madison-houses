@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-05T08:40:33.645783Z",
-  "totalCount": 500,
+  "lastUpdated": "2026-04-06T09:06:51.728306Z",
+  "totalCount": 503,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -14999,6 +14999,96 @@
       "dateAdded": "2026-04-05T08:40:33.645783Z",
       "owner": {
         "owner1": "PENDLETON LIVING TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2265-Innsbrooke-Dr,-Sun-Prairie,-WI-53590",
+      "addressLine1": "2265 Innsbrooke Dr",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 515000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2718,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-01T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.189172,
+      "longitude": -89.253645,
+      "agent": {
+        "name": "Heidi Uhrig",
+        "phone": "6084446831",
+        "email": "heidi@glassslipperhomes.com"
+      },
+      "office": {
+        "name": "Glass Slipper Homes, LLC",
+        "phone": "6084446831"
+      },
+      "dateAdded": "2026-04-06T09:06:51.728306Z",
+      "owner": {
+        "owner1": "JAMIE M VRBSKY",
+        "owner2": "HEATHER L BOTHELL-VRBSKY"
+      }
+    },
+    {
+      "id": "129-Dunning-St,-Madison,-WI-53704",
+      "addressLine1": "129 Dunning St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 600000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1560,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-01T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.096528,
+      "longitude": -89.349229,
+      "agent": {
+        "name": "Robin Taylor",
+        "phone": "6085766097",
+        "email": "rtaylor@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Monroe St.",
+        "phone": "6082327777"
+      },
+      "dateAdded": "2026-04-06T09:06:51.728306Z",
+      "owner": {
+        "owner1": "STEVEN J KLAPPER",
+        "owner2": "NOEL KLAPPER"
+      }
+    },
+    {
+      "id": "21-Powers-Ave,-Madison,-WI-53714",
+      "addressLine1": "21 Powers Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53714",
+      "price": 419000,
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "squareFootage": 1390,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-01T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.100498,
+      "longitude": -89.332976,
+      "agent": {
+        "name": "Michael Weiss",
+        "phone": "6087099023",
+        "email": "michael@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-04-06T09:06:51.728306Z",
+      "owner": {
+        "owner1": null,
         "owner2": null
       }
     }

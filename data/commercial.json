@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T08:41:26.579567Z",
+  "lastUpdated": "2026-04-06T09:08:13.134059Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
   "totalCount": 18,
@@ -35,22 +35,6 @@
       "contractor": "SCOTT BROTHERS CONTRACTING RESTORATION LLC",
       "contractorAddress": "841 KINDSCHI RD, MARSHALL, WI 53559",
       "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDRPR-2026-03359",
-      "permitNumber": "BLDRPR-2026-03359",
-      "use": "CONDOMINIUMS",
-      "address": "25 SHERMAN TER 2",
-      "buildingSqft": "0",
-      "estimatedCost": "$800",
-      "feesPaid": "$25",
-      "owner": "STACEY LYNN WEBER",
-      "ownerAddress": "25 SHERMAN TER, UNIT 2, MADISON, WI 53704",
-      "description": "KITCHEN REMODEL (NO STRUCTURAL ALT), NEW TILE BACKSPLASH, REMOVAL OF SMALL COUNTERTOP PENINSULA.",
-      "issuanceDate": "03/06/2026",
-      "contractor": "",
-      "contractorAddress": "25 Sherman Ter, Madison, WI 53704",
-      "category": "Renovation"
     },
     {
       "id": "BLDRPR-2026-04040",
@@ -274,6 +258,22 @@
       "issuanceDate": "03/31/2026",
       "contractor": "DANIELS CONSTRUCTION",
       "contractorAddress": "919 APPLEGATE RD, MADISON, WI 53713",
+      "category": "Renovation"
+    },
+    {
+      "id": "BLDRPR-2026-03992",
+      "permitNumber": "BLDRPR-2026-03992",
+      "use": "THREE AND FOUR FAMILY",
+      "address": "1007 WILLIAMSON ST 1",
+      "buildingSqft": "0",
+      "estimatedCost": "$5,260",
+      "feesPaid": "$66",
+      "owner": "COMMON WEALTH DEVELOPMENT",
+      "ownerAddress": "INC, 1501 WILLIAMSON ST, MADISON, WI 53703",
+      "description": "KITCHEN AND BATHROOM REMODEL (NO LAYOUT ALT, NO STRUCTURAL ALT): INSTALL NEW CABINETS TO EXISTING SPACEREPAIR DRYWALL KITCHEN, REPAIR DRYWALL BATHROOM, REPAIR TILE BATHROOM",
+      "issuanceDate": "03/19/2026",
+      "contractor": "OPERATION FRESH START INC",
+      "contractorAddress": "2670 MILWAUKEE ST, MADISON, WI 53704",
       "category": "Renovation"
     },
     {
