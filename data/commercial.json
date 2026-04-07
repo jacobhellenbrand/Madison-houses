@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-06T09:08:13.134059Z",
+  "lastUpdated": "2026-04-07T09:03:21.812902Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 18,
+  "totalCount": 17,
   "proposals": [
     {
       "id": "BLDNCC-2026-04783",
@@ -245,22 +245,6 @@
       "category": "Hospitality"
     },
     {
-      "id": "BLDNCC-2026-04026",
-      "permitNumber": "BLDNCC-2026-04026",
-      "use": "SCHOOLS/EDUCATIONAL",
-      "address": "1701 WRIGHT ST",
-      "buildingSqft": "3,200",
-      "estimatedCost": "$301,000",
-      "feesPaid": "$3,439",
-      "owner": "DANE COUNTY",
-      "ownerAddress": "TRUAX AIR PARK, 210 MLK JR BLVD #114, MADISON, WI 53703-3342",
-      "description": "MADISON COLLEGE - BATHROOM REMODEL",
-      "issuanceDate": "03/31/2026",
-      "contractor": "DANIELS CONSTRUCTION",
-      "contractorAddress": "919 APPLEGATE RD, MADISON, WI 53713",
-      "category": "Renovation"
-    },
-    {
       "id": "BLDRPR-2026-03992",
       "permitNumber": "BLDRPR-2026-03992",
       "use": "THREE AND FOUR FAMILY",
@@ -277,20 +261,20 @@
       "category": "Renovation"
     },
     {
-      "id": "BLDRPR-2026-04165",
-      "permitNumber": "BLDRPR-2026-04165",
-      "use": "SINGLE FAMILY RESIDENCES",
-      "address": "1 BIRCHWOOD CIR",
-      "buildingSqft": "0",
-      "estimatedCost": "$15,500",
-      "feesPaid": "$176",
-      "owner": "CASTRO FLORES, JOHN EDGAR",
-      "ownerAddress": "1 BIRCHWOOD CIR, MADISON, WI 53704",
-      "description": "THIS PROJECT BEGAN AFTER IDENTIFYING AN AIR LEAKAGE ISSUE IN ONE OF THE BEDROOMS. DURING INSPECTION, A SECTION OF EXTERIOR SIDING WAS REMOVED, WHICH REVEALED THAT PORTIONS OF THE HOME WERE MISSING A PROPER WEATHER-RESISTANT BARRIER, LEAVING THE WOOD SHEATHING VULNERABLE TO MOISTURE INTRUSION.TO ADDRESS THIS CONDITION, THE EXTERIOR SIDING ALONG THE FRONT AND PORTIONS OF THE SIDES OF THE HOME WAS REMOVED TO ALLOW FOR THE PROPER INSTALLATION OF A WEATHER-RESISTANT BARRIER (HOUSE WRAP/BUILDING PAPER), ENSURING ADEQUATE PROTECTION AGAINST AIR AND WATER INFILTRATION.NO STRUCTURAL COMPONENTS OF THE HOME ARE BEING ALTERED. THE SCOPE OF WORK IS LIMITED TO EXTERIOR ENVELOPE REPAIR AND CLADDING REPLACEMENT, WITH NO CHANGES TO FRAMING, WALLS, OR EXISTING OPENINGS.AS PART OF THE IMPROVEMENT, THE EXTERIOR FINISH IS BEING UPGRADED FROM TRADITIONAL SIDING TO A COMBINATION OF EIFS (EXTERIOR INSULATION AND FINISH SYSTEM) AND ADHERED STONE VENEER TO ENHANCE DURABILITY, ENERGY EFFICIENCY, AND OVERALL PERFORMANCE.THE WORK IS BEING COMPLETED BY THE HOMEOWNER WITH ASSISTANCE FROM EXPERIENCED PROFESSIONALS IN EIFS AND STUCCO INSTALLATION.PLEASE ADVISE IF ANY ADDITIONAL DOCUMENTATION, PERMITS, OR INSPECTIONS ARE REQUIRED TO ENSURE FULL COMPLIANCE WITH APPLICABLE CODES AND REGULATIONS.THANK YOU.",
-      "issuanceDate": "03/23/2026",
-      "contractor": "",
-      "contractorAddress": "1 Birchwood Circle, Madison, WI 53704",
-      "category": "Office"
+      "id": "BLDNCC-2026-04026",
+      "permitNumber": "BLDNCC-2026-04026",
+      "use": "SCHOOLS/EDUCATIONAL",
+      "address": "1701 WRIGHT ST",
+      "buildingSqft": "3,200",
+      "estimatedCost": "$301,000",
+      "feesPaid": "$3,439",
+      "owner": "DANE COUNTY",
+      "ownerAddress": "TRUAX AIR PARK, 210 MLK JR BLVD #114, MADISON, WI 53703-3342",
+      "description": "MADISON COLLEGE - BATHROOM REMODEL",
+      "issuanceDate": "03/31/2026",
+      "contractor": "DANIELS CONSTRUCTION",
+      "contractorAddress": "919 APPLEGATE RD, MADISON, WI 53713",
+      "category": "Renovation"
     }
   ]
 }

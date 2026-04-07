@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-06T09:06:51.728306Z",
-  "totalCount": 503,
+  "lastUpdated": "2026-04-07T09:00:20.872037Z",
+  "totalCount": 510,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -15089,6 +15089,216 @@
       "dateAdded": "2026-04-06T09:06:51.728306Z",
       "owner": {
         "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1206-Tivoli-Cir,-Oregon,-WI-53575",
+      "addressLine1": "1206 Tivoli Cir",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 450000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1292,
+      "propertyType": "Condo",
+      "listedDate": "2026-04-02T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.929958,
+      "longitude": -89.411156,
+      "agent": {
+        "name": "Matt Winzenried Real Estate Team",
+        "phone": "6083107346",
+        "email": "info@mattwinz.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-04-07T09:00:20.872037Z",
+      "owner": {
+        "owner1": "COOLIDGE REV TR, CATHERINE J",
+        "owner2": null
+      }
+    },
+    {
+      "id": "6137-Driscoll-Dr,-Madison,-WI-53718",
+      "addressLine1": "6137 Driscoll Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 429900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1648,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-02T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.098452,
+      "longitude": -89.274429,
+      "agent": {
+        "name": "Kathy Good",
+        "phone": "6089636412",
+        "email": "contactmanage-bunbury@virtualproperties.com;kgood@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "Bunbury & Associates, REALTORS",
+        "phone": "6089636412"
+      },
+      "dateAdded": "2026-04-07T09:00:20.872037Z",
+      "owner": {
+        "owner1": "EMELINE GOOD",
+        "owner2": null
+      }
+    },
+    {
+      "id": "623-Summit-Rd,-Madison,-WI-53704",
+      "addressLine1": "623 Summit Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 1900000,
+      "bedrooms": 4,
+      "bathrooms": 4.5,
+      "squareFootage": 3220,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-02T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.11516,
+      "longitude": -89.379038,
+      "agent": {
+        "name": "Amy Anderson",
+        "phone": "6082060470",
+        "email": "amymclendon.realtor@gmail.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-04-07T09:00:20.872037Z",
+      "owner": {
+        "owner1": "D PORT PROPERTIES LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "4505-Field-Ave,-Mcfarland,-WI-53558",
+      "addressLine1": "4505 Field Ave",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 499900,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1764,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-02T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.023264,
+      "longitude": -89.305703,
+      "agent": {
+        "name": "Luke Bruckner",
+        "phone": "6084459852",
+        "email": "lukebrealty@gmail.com"
+      },
+      "office": {
+        "name": "Collective Real Estate Group",
+        "phone": "6086627777"
+      },
+      "dateAdded": "2026-04-07T09:00:20.872037Z",
+      "owner": {
+        "owner1": "SHARON A PAYNE",
+        "owner2": null
+      }
+    },
+    {
+      "id": "304-School-Rd,-Cottage-Grove,-WI-53527",
+      "addressLine1": "304 School Rd",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 474900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2280,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-02T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.09887,
+      "longitude": -89.203507,
+      "agent": {
+        "name": "Amber Huemmer",
+        "phone": "6082795424",
+        "email": "amber@thhtrealty.com"
+      },
+      "office": {
+        "name": "LPT Realty",
+        "phone": "8773662213"
+      },
+      "dateAdded": "2026-04-07T09:00:20.872037Z",
+      "owner": {
+        "owner1": "CRAIG ERICKSON",
+        "owner2": "COLE ERICKSON"
+      }
+    },
+    {
+      "id": "32-Fuller-Ct,-Madison,-WI-53704",
+      "addressLine1": "32 Fuller Ct",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 2800000,
+      "bedrooms": 5,
+      "bathrooms": 4.5,
+      "squareFootage": 4540,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-02T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.097305,
+      "longitude": -89.369055,
+      "agent": {
+        "name": "Stuart Meland",
+        "phone": "6084383150",
+        "email": "stuart@madcityhomes.com"
+      },
+      "office": {
+        "name": "MADCITYHOMES.COM",
+        "phone": "6082716856"
+      },
+      "dateAdded": "2026-04-07T09:00:20.872037Z",
+      "owner": {
+        "owner1": "JEFFREY J OLSEN",
+        "owner2": "MOLLY T WALSH"
+      }
+    },
+    {
+      "id": "15-S-Broom-St,-Unit-401,-Madison,-WI-53703",
+      "addressLine1": "15 S Broom St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 650000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1300,
+      "propertyType": "Condo",
+      "listedDate": "2026-04-02T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.071151,
+      "longitude": -89.388304,
+      "agent": {
+        "name": "Julie Bernauer",
+        "phone": "6082196492",
+        "email": "jmbernauer@gmail.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-04-07T09:00:20.872037Z",
+      "owner": {
+        "owner1": "JOHN F BERRY",
         "owner2": null
       }
     }
