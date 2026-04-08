@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-07T09:03:21.812902Z",
+  "lastUpdated": "2026-04-08T09:01:59.102966Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 17,
+  "totalCount": 16,
   "proposals": [
     {
       "id": "BLDNCC-2026-04783",
@@ -258,22 +258,6 @@
       "issuanceDate": "03/19/2026",
       "contractor": "OPERATION FRESH START INC",
       "contractorAddress": "2670 MILWAUKEE ST, MADISON, WI 53704",
-      "category": "Renovation"
-    },
-    {
-      "id": "BLDNCC-2026-04026",
-      "permitNumber": "BLDNCC-2026-04026",
-      "use": "SCHOOLS/EDUCATIONAL",
-      "address": "1701 WRIGHT ST",
-      "buildingSqft": "3,200",
-      "estimatedCost": "$301,000",
-      "feesPaid": "$3,439",
-      "owner": "DANE COUNTY",
-      "ownerAddress": "TRUAX AIR PARK, 210 MLK JR BLVD #114, MADISON, WI 53703-3342",
-      "description": "MADISON COLLEGE - BATHROOM REMODEL",
-      "issuanceDate": "03/31/2026",
-      "contractor": "DANIELS CONSTRUCTION",
-      "contractorAddress": "919 APPLEGATE RD, MADISON, WI 53713",
       "category": "Renovation"
     }
   ]
