@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-10T09:07:10.424428Z",
-  "totalCount": 566,
+  "lastUpdated": "2026-04-11T08:40:23.364125Z",
+  "totalCount": 576,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -16980,6 +16980,306 @@
       "owner": {
         "owner1": "FUYE GAO",
         "owner2": "YUQING TIAN"
+      }
+    },
+    {
+      "id": "533-Shady-Wood-Way,-Madison,-WI-53714",
+      "addressLine1": "533 Shady Wood Way",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53714",
+      "price": 499000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2220,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.090435,
+      "longitude": -89.295132,
+      "agent": {
+        "name": "Kaitlin Solomon",
+        "phone": "6087099889",
+        "email": "kaitlin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-04-11T08:40:23.364125Z",
+      "owner": {
+        "owner1": "PETER ESDAILE",
+        "owner2": "CHRISTINE ESDAILE"
+      }
+    },
+    {
+      "id": "5309-Park-Meadow-Dr,-Madison,-WI-53704",
+      "addressLine1": "5309 Park Meadow Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 425000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 1837,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.115132,
+      "longitude": -89.288797,
+      "agent": {
+        "name": "Garret Clemment",
+        "phone": "6087098033",
+        "email": "garret@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-04-11T08:40:23.364125Z",
+      "owner": {
+        "owner1": "BRET T HIELSBERG",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2914-Grandview-Blvd,-Madison,-WI-53713",
+      "addressLine1": "2914 Grandview Blvd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53713",
+      "price": 629900,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 3209,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.031658,
+      "longitude": -89.430703,
+      "agent": {
+        "name": "Jonathan Poletti",
+        "phone": "6082138242",
+        "email": "jon.p.poletti@gmail.com"
+      },
+      "office": {
+        "name": "Haven Real Estate Partners",
+        "phone": "6082138242"
+      },
+      "dateAdded": "2026-04-11T08:40:23.364125Z",
+      "owner": {
+        "owner1": "TONI M BEIRL",
+        "owner2": "ANDREW C BUTH"
+      }
+    },
+    {
+      "id": "1089-Oregon-Parks-Ave,-Oregon,-WI-53575",
+      "addressLine1": "1089 Oregon Parks Ave",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 534900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1723,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.93232,
+      "longitude": -89.408331,
+      "agent": {
+        "name": "Landon Mrowiec",
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": "RE MAX Preferred",
+        "phone": "6082768110"
+      },
+      "dateAdded": "2026-04-11T08:40:23.364125Z",
+      "owner": {
+        "owner1": "DAVID II CROSSEN",
+        "owner2": "HILLARY CROSSEN"
+      }
+    },
+    {
+      "id": "15-S-Broom-St,-Unit-404,-Madison,-WI-53703",
+      "addressLine1": "15 S Broom St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 510000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1272,
+      "propertyType": "Condo",
+      "listedDate": "2026-04-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.071151,
+      "longitude": -89.388304,
+      "agent": {
+        "name": "Jonathan Poletti",
+        "phone": "6082138242",
+        "email": "jon.p.poletti@gmail.com"
+      },
+      "office": {
+        "name": "Haven Real Estate Partners",
+        "phone": "6082138242"
+      },
+      "dateAdded": "2026-04-11T08:40:23.364125Z",
+      "owner": {
+        "owner1": "JOHN F BERRY",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3625-Spring-Trl,-Madison,-WI-53711",
+      "addressLine1": "3625 Spring Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 650000,
+      "bedrooms": 4,
+      "bathrooms": 1.5,
+      "squareFootage": 2457,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.050123,
+      "longitude": -89.438904,
+      "agent": {
+        "name": "Michael Leeson",
+        "phone": "6088433203",
+        "email": "michael@homecomingmadison.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-04-11T08:40:23.364125Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1707-Sapphire-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1707 Sapphire Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 435000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2022,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.167855,
+      "longitude": -89.242108,
+      "agent": {
+        "name": "Anastasia Gunawan",
+        "phone": "6083580677",
+        "email": "anastasia@agrealtywi.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-04-11T08:40:23.364125Z",
+      "owner": {
+        "owner1": "SHANE FISHER",
+        "owner2": "AMANDA FISHER"
+      }
+    },
+    {
+      "id": "5207-Shore-Acres-Rd,-Monona,-WI-53716",
+      "addressLine1": "5207 Shore Acres Rd",
+      "city": "Monona",
+      "state": "WI",
+      "zipCode": "53716",
+      "price": 479900,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1947,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.063033,
+      "longitude": -89.332016,
+      "agent": {
+        "name": "Michael Weiss",
+        "phone": "6087099023",
+        "email": "michael@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-04-11T08:40:23.364125Z",
+      "owner": {
+        "owner1": "JEFFREY BOND",
+        "owner2": "KELLY BOND"
+      }
+    },
+    {
+      "id": "729-Dearholt-Rd,-Madison,-WI-53711",
+      "addressLine1": "729 Dearholt Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 769900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2075,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.04809,
+      "longitude": -89.467545,
+      "agent": {
+        "name": "Nancy Hilton",
+        "phone": "6088297128",
+        "email": "hiltonn@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Realtors",
+        "phone": "6088333711"
+      },
+      "dateAdded": "2026-04-11T08:40:23.364125Z",
+      "owner": {
+        "owner1": "DOUGLAS A WEIL",
+        "owner2": "JENNIFER A WEIL"
+      }
+    },
+    {
+      "id": "7115-Spring-Hill-Dr,-Middleton,-WI-53562",
+      "addressLine1": "7115 Spring Hill Dr",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 569000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2246,
+      "propertyType": "Single Family",
+      "listedDate": "2026-04-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.11723,
+      "longitude": -89.503692,
+      "agent": {
+        "name": "Michael Weiss",
+        "phone": "6087099023",
+        "email": "michael@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-04-11T08:40:23.364125Z",
+      "owner": {
+        "owner1": "ANNE M DURETTE",
+        "owner2": null
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-10T09:10:12.658354Z",
-  "totalCount": 126,
+  "lastUpdated": "2026-04-11T08:43:35.511656Z",
+  "totalCount": 127,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -1983,6 +1983,23 @@
       "contractorAddress": "",
       "category": "Retail",
       "dateAdded": "2026-04-10T09:10:12.658354Z"
+    },
+    {
+      "id": "BLDRPR-2026-05355",
+      "permitNumber": "BLDRPR-2026-05355",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2710 UNION ST",
+      "buildingSqft": "0",
+      "estimatedCost": "$15,000",
+      "feesPaid": "$165",
+      "owner": "SANPHILLIPPO, JOHN",
+      "ownerAddress": "KOLIN OHI, 3559 17TH ST, SAN FRANCISCO, CA 94110",
+      "description": "KITCHEN AND BATHROOM REMODEL: REMOVE REPLACE KITCHEN CABINETS IN SAME LAYOUT. NO FRAMING OR MODIFICATIONS TO EXISTING STRUCTURE IN EITHER ROOM.",
+      "issuanceDate": "04/10/2026",
+      "contractor": "ANTON HOMES LLC",
+      "contractorAddress": "1938 E MAIN ST, MADISON, WI 53704",
+      "category": "Renovation",
+      "dateAdded": "2026-04-11T08:43:35.511656Z"
     }
   ]
 }
