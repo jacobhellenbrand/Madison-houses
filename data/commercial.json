@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-14T09:17:54.947772Z",
+  "lastUpdated": "2026-04-15T09:18:50.679648Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 13,
+  "totalCount": 10,
   "proposals": [
     {
       "id": "BLDNCC-2026-04783",
@@ -163,54 +163,6 @@
       "contractor": "OWNER",
       "contractorAddress": "",
       "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDNCC-2026-02983",
-      "permitNumber": "BLDNCC-2026-02983",
-      "use": "WAREHOUSE & INDUSTRIAL",
-      "address": "724 HEARTLAND TRL",
-      "buildingSqft": "920",
-      "estimatedCost": "$875,000",
-      "feesPaid": "$9,725",
-      "owner": "CATALENT PHARMA SOLUTIONS, LLC",
-      "ownerAddress": "790 N WATER ST SUITE 2500, MILWAUKEE, WI 53202",
-      "description": "CATALENT - CREATE NONFLAMMABLE STORAGE SPACE",
-      "issuanceDate": "03/24/2026",
-      "contractor": "KRAEMER BROTHERS INC.",
-      "contractorAddress": "P.O. BOX 219, PLAIN, WI 53577",
-      "category": "Commercial"
-    },
-    {
-      "id": "BLDNCC-2026-02992",
-      "permitNumber": "BLDNCC-2026-02992",
-      "use": "WAREHOUSE & INDUSTRIAL",
-      "address": "726 HEARTLAND TRL",
-      "buildingSqft": "15,000",
-      "estimatedCost": "$980,000",
-      "feesPaid": "$11,460",
-      "owner": "CATALENT PHARMA SOLUTIONS, LLC",
-      "ownerAddress": "790 N WATER ST SUITE 2500, MILWAUKEE, WI 53202",
-      "description": "CATALENT - PROJECT MADMAX - ALTERATIONS FIRST AND SECOND FLOORS",
-      "issuanceDate": "03/24/2026",
-      "contractor": "KRAEMER BROTHERS INC.",
-      "contractorAddress": "P.O. BOX 219, PLAIN, WI 53577",
-      "category": "Renovation"
-    },
-    {
-      "id": "BLDRPR-2026-03992",
-      "permitNumber": "BLDRPR-2026-03992",
-      "use": "THREE AND FOUR FAMILY",
-      "address": "1007 WILLIAMSON ST 1",
-      "buildingSqft": "0",
-      "estimatedCost": "$5,260",
-      "feesPaid": "$66",
-      "owner": "COMMON WEALTH DEVELOPMENT",
-      "ownerAddress": "INC, 1501 WILLIAMSON ST, MADISON, WI 53703",
-      "description": "KITCHEN AND BATHROOM REMODEL (NO LAYOUT ALT, NO STRUCTURAL ALT): INSTALL NEW CABINETS TO EXISTING SPACEREPAIR DRYWALL KITCHEN, REPAIR DRYWALL BATHROOM, REPAIR TILE BATHROOM",
-      "issuanceDate": "03/19/2026",
-      "contractor": "OPERATION FRESH START INC",
-      "contractorAddress": "2670 MILWAUKEE ST, MADISON, WI 53704",
-      "category": "Renovation"
     }
   ]
 }
