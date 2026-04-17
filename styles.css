@@ -604,6 +604,24 @@ footer a:hover {
     letter-spacing: 0.05em;
 }
 
+/* New build table rows */
+.row-new-build td {
+    background: #fef2f2 !important;
+}
+
+.new-build-badge {
+    display: inline-block;
+    background: #dc2626;
+    color: white;
+    font-size: 0.65rem;
+    font-weight: 700;
+    padding: 0.1rem 0.35rem;
+    border-radius: 0.2rem;
+    letter-spacing: 0.04em;
+    vertical-align: middle;
+    margin-left: 0.25rem;
+}
+
 /* Skipped table rows */
 .row-skipped td {
     background: #fffbeb !important;

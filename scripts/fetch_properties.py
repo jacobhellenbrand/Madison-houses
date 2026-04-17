@@ -104,6 +104,7 @@ def transform_listing(listing):
         'bathrooms': listing.get('bathrooms'),
         'squareFootage': listing.get('squareFootage'),
         'propertyType': listing.get('propertyType'),
+        'yearBuilt': listing.get('yearBuilt'),
         'listedDate': listing.get('listedDate'),
         'daysOnMarket': listing.get('daysOnMarket'),
         'latitude': listing.get('latitude'),

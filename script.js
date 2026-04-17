@@ -1,24 +1,14 @@
 // Madison Properties - Frontend Logic
 
-const DATA_URL = 'data/properties.json';
 const HISTORICAL_URL = 'data/all_properties.json';
 const COMMERCIAL_URL = 'data/commercial.json';
 const DEVELOPMENTS_URL = 'data/developments.json';
 
-let allProperties = [];
 let historicalProperties = [];
 let commercialProposals = [];
 let developments = [];
 
 // DOM Elements
-const propertiesContainer = document.getElementById('properties');
-const priceFilter = document.getElementById('price-filter');
-const bedsFilter = document.getElementById('beds-filter');
-const sortFilter = document.getElementById('sort-filter');
-const exportBtn = document.getElementById('export-btn');
-const totalListingsEl = document.getElementById('total-listings');
-const avgPriceEl = document.getElementById('avg-price');
-const lastUpdatedEl = document.getElementById('last-updated');
 const allPropertiesBody = document.getElementById('all-properties-body');
 const commercialBody = document.getElementById('commercial-body');
 const developmentsBody = document.getElementById('developments-body');
@@ -27,7 +17,7 @@ const histBedsFilter = document.getElementById('hist-beds-filter');
 const histSortFilter = document.getElementById('hist-sort-filter');
 const histDateFilter = document.getElementById('hist-date-filter');
 const individualsFilter = document.getElementById('individuals-filter');
-const skipFilter = document.getElementById('skip-filter');
+const newBuildFilter = document.getElementById('new-build-filter');
 const histSkipFilter = document.getElementById('hist-skip-filter');
 
 const BUSINESS_KEYWORDS = [
@@ -80,47 +70,23 @@ document.addEventListener('DOMContentLoaded', init);
 
 async function init() {
     try {
-        // Load all data files in parallel
-        const [todayResponse, historicalResponse, commercialResponse] = await Promise.all([
-            fetch(DATA_URL),
+        const [historicalResponse, commercialResponse] = await Promise.all([
             fetch(HISTORICAL_URL),
             fetch(COMMERCIAL_URL)
         ]);
 
-        if (!todayResponse.ok) {
-            throw new Error('Failed to load property data');
-        }
-
-        const todayData = await todayResponse.json();
-        allProperties = todayData.properties || [];
-
-        // Load historical data (may not exist yet)
         if (historicalResponse.ok) {
             const historicalData = await historicalResponse.json();
             historicalProperties = historicalData.properties || [];
         }
 
-        // Load commercial data (may not exist yet)
         if (commercialResponse.ok) {
             const commercialData = await commercialResponse.json();
             commercialProposals = commercialData.proposals || [];
         }
 
-        // Update last updated timestamp
-        if (todayData.lastUpdated) {
-            const date = new Date(todayData.lastUpdated);
-            lastUpdatedEl.textContent = date.toLocaleDateString();
-        }
-
         // Setup event listeners
-        priceFilter.addEventListener('change', renderProperties);
-        bedsFilter.addEventListener('change', renderProperties);
-        sortFilter.addEventListener('change', renderProperties);
-        skipFilter.addEventListener('change', renderProperties);
-        exportBtn.addEventListener('click', exportToCSV);
         document.getElementById('hist-export-btn').addEventListener('click', exportHistoricalCSV);
-
-        // Setup tab navigation
         setupTabs();
 
         histPriceFilter.addEventListener('change', renderHistoricalTable);
@@ -128,9 +94,9 @@ async function init() {
         histSortFilter.addEventListener('change', renderHistoricalTable);
         histDateFilter.addEventListener('change', renderHistoricalTable);
         individualsFilter.addEventListener('change', renderHistoricalTable);
+        newBuildFilter.addEventListener('change', renderHistoricalTable);
         histSkipFilter.addEventListener('change', renderHistoricalTable);
 
-        renderProperties();
         renderHistoricalTable();
         renderCommercialTable();
 
@@ -146,19 +112,15 @@ async function init() {
         }
         renderDevelopmentsTable();
     } catch (error) {
-        console.error('Error loading properties:', error);
-        propertiesContainer.innerHTML = `
-            <div class="error">
-                <p>Unable to load properties.</p>
-                <p>Make sure the data file exists at ${DATA_URL}</p>
-            </div>
+        console.error('Error loading data:', error);
+        allPropertiesBody.innerHTML = `
+            <tr><td colspan="11" class="error">Unable to load data.</td></tr>
         `;
     }
 }
 
 function setupTabs() {
     const tabButtons = document.querySelectorAll('.tab-btn');
-    const statsSection = document.querySelector('.stats');
 
     tabButtons.forEach(btn => {
         btn.addEventListener('click', () => {
@@ -170,66 +132,10 @@ function setupTabs() {
                 content.classList.remove('active');
             });
             document.getElementById(`${tabId}-tab`).classList.add('active');
-
-            // Only show stats on Today's Listings
-            statsSection.style.display = tabId === 'today' ? '' : 'none';
         });
     });
 }
 
-function renderProperties() {
-    let filtered = [...allProperties];
-
-    // Apply price filter
-    const minPrice = priceFilter.value;
-    if (minPrice) {
-        filtered = filtered.filter(p => p.price >= parseInt(minPrice));
-    }
-
-    // Apply beds filter
-    const minBeds = bedsFilter.value;
-    if (minBeds) {
-        filtered = filtered.filter(p => p.bedrooms >= parseInt(minBeds));
-    }
-
-    // Apply skip filter
-    const skipped = getSkippedIds();
-    if (skipFilter.value === 'hide') {
-        filtered = filtered.filter(p => !skipped.has(p.id));
-    }
-
-    // Apply sorting
-    const sortBy = sortFilter.value;
-    filtered.sort((a, b) => {
-        switch (sortBy) {
-            case 'price-asc':
-                return a.price - b.price;
-            case 'price-desc':
-                return b.price - a.price;
-            case 'date-asc':
-                return new Date(a.listedDate) - new Date(b.listedDate);
-            case 'date-desc':
-            default:
-                return new Date(b.listedDate) - new Date(a.listedDate);
-        }
-    });
-
-    // Update stats
-    updateStats(filtered);
-
-    // Render cards
-    if (filtered.length === 0) {
-        propertiesContainer.innerHTML = `
-            <div class="no-results">
-                <p>No properties match your filters.</p>
-                <p>Try adjusting your search criteria.</p>
-            </div>
-        `;
-        return;
-    }
-
-    propertiesContainer.innerHTML = filtered.map(property => createPropertyCard(property)).join('');
-}
 
 function renderHistoricalTable() {
     if (historicalProperties.length === 0) {
@@ -257,6 +163,10 @@ function renderHistoricalTable() {
         filtered = filtered.filter(p => isIndividualOwner((p.owner || {}).owner1));
     }
 
+    if (newBuildFilter.value === 'hide') {
+        filtered = filtered.filter(p => !p.yearBuilt || p.yearBuilt < 2024);
+    }
+
     const skipped = getSkippedIds();
     if (histSkipFilter.value === 'hide') {
         filtered = filtered.filter(p => !skipped.has(p.id));
@@ -274,7 +184,7 @@ function renderHistoricalTable() {
     });
 
     if (filtered.length === 0) {
-        allPropertiesBody.innerHTML = '<tr><td colspan="10" class="no-results">No properties match your filters.</td></tr>';
+        allPropertiesBody.innerHTML = '<tr><td colspan="11" class="no-results">No properties match your filters.</td></tr>';
         return;
     }
 
@@ -286,9 +196,13 @@ function renderHistoricalTable() {
         const mapsUrl = buildMapsUrl([p.addressLine1, p.city, p.state, p.zipCode]);
         const zillowUrl = buildZillowUrl(p.addressLine1, p.city, p.state, p.zipCode);
         const isSkipped = skippedIds.has(p.id);
+        const isNewBuild = p.yearBuilt && p.yearBuilt >= 2024;
+        const yearBuiltDisplay = p.yearBuilt
+            ? `${p.yearBuilt}${isNewBuild ? ' <span class="new-build-badge">NEW</span>' : ''}`
+            : '--';
 
         return `
-            <tr class="${isSkipped ? 'row-skipped' : ''}">
+            <tr class="${isSkipped ? 'row-skipped' : ''}${isNewBuild ? ' row-new-build' : ''}">
                 <td><a href="${mapsUrl}" target="_blank" rel="noopener">${p.addressLine1 || 'N/A'}</a></td>
                 <td>${p.city || 'N/A'}</td>
                 <td>${formatPrice(p.price)}</td>
@@ -297,6 +211,7 @@ function renderHistoricalTable() {
                 <td>${formatSqft(p.squareFootage)}</td>
                 <td>${owner.owner1 || '--'}</td>
                 <td>${agent.name || '--'}</td>
+                <td>${yearBuiltDisplay}</td>
                 <td>${dateAdded}</td>
                 <td class="actions-cell">
                     <a href="${zillowUrl}" target="_blank" rel="noopener" class="action-btn zillow-btn" title="View on Zillow">Zillow</a>
@@ -374,93 +289,6 @@ function buildMapsUrl(parts) {
     return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
 }
 
-function createPropertyCard(property) {
-    const formattedPrice = formatPrice(property.price);
-    const address = formatAddress(property);
-    const mapsUrl = buildMapsUrl([property.addressLine1, property.city, property.state, property.zipCode]);
-    const zillowUrl = buildZillowUrl(property.addressLine1, property.city, property.state, property.zipCode);
-    const listedDate = property.listedDate
-        ? new Date(property.listedDate).toLocaleDateString()
-        : 'N/A';
-
-    const owner = property.owner || {};
-    const ownerInfo = owner.owner1 ? `<div class="agent-info"><strong>${owner.owner1}</strong>${owner.owner2 ? '<br>' + owner.owner2 : ''}</div>` : '';
-    const isSkipped = getSkippedIds().has(property.id);
-
-    return `
-        <article class="property-card${isSkipped ? ' card-skipped' : ''}">
-            <div class="property-image">
-                🏠
-                ${isSkipped ? '<div class="skip-banner">SKIPPED</div>' : ''}
-            </div>
-            <div class="property-details">
-                <div class="property-price">${formattedPrice}</div>
-                <div class="property-address"><a href="${mapsUrl}" target="_blank" rel="noopener">${address}</a></div>
-                <div class="property-features">
-                    <span class="feature"><strong>${property.bedrooms || '--'}</strong> beds</span>
-                    <span class="feature"><strong>${property.bathrooms || '--'}</strong> baths</span>
-                    <span class="feature"><strong>${formatSqft(property.squareFootage)}</strong> sqft</span>
-                </div>
-                ${ownerInfo}
-                <div class="property-meta">
-                    <span class="property-type">${property.propertyType || 'Residential'}</span>
-                    <span>Listed: ${listedDate}</span>
-                </div>
-                <div class="card-actions">
-                    <a href="${zillowUrl}" target="_blank" rel="noopener" class="action-btn zillow-btn">View on Zillow</a>
-                    <button onclick="toggleSkip('${property.id}')" class="action-btn skip-btn ${isSkipped ? 'skip-btn-active' : ''}">
-                        ${isSkipped ? 'Skipped ✓' : 'Skip'}
-                    </button>
-                </div>
-            </div>
-        </article>
-    `;
-}
-
-function formatAgentInfo(agent, office) {
-    const parts = [];
-
-    if (agent.name) {
-        let agentLine = `<strong>${agent.name}</strong>`;
-        if (agent.phone) {
-            agentLine += ` <a href="tel:${agent.phone}">${formatPhone(agent.phone)}</a>`;
-        }
-        parts.push(agentLine);
-    }
-
-    if (agent.email) {
-        parts.push(`<a href="mailto:${agent.email}">${agent.email}</a>`);
-    }
-
-    if (office.name) {
-        parts.push(`<span class="office-name">${office.name}</span>`);
-    }
-
-    if (parts.length === 0) return '';
-
-    return `<div class="agent-info">${parts.join('<br>')}</div>`;
-}
-
-function formatPhone(phone) {
-    if (!phone) return '';
-    const cleaned = phone.replace(/\D/g, '');
-    if (cleaned.length === 10) {
-        return `(${cleaned.slice(0,3)}) ${cleaned.slice(3,6)}-${cleaned.slice(6)}`;
-    }
-    return phone;
-}
-
-function updateStats(properties) {
-    totalListingsEl.textContent = properties.length;
-
-    if (properties.length > 0) {
-        const totalPrice = properties.reduce((sum, p) => sum + (p.price || 0), 0);
-        const avg = totalPrice / properties.length;
-        avgPriceEl.textContent = formatPrice(avg);
-    } else {
-        avgPriceEl.textContent = '--';
-    }
-}
 
 function formatPrice(price) {
     if (!price) return 'Price N/A';
@@ -487,87 +315,6 @@ function formatSqft(sqft) {
     return new Intl.NumberFormat('en-US').format(sqft);
 }
 
-function exportToCSV() {
-    const dataToExport = allProperties;
-
-    if (dataToExport.length === 0) {
-        alert('No properties to export');
-        return;
-    }
-
-    const headers = [
-        'Address',
-        'City',
-        'State',
-        'Zip Code',
-        'Price',
-        'Bedrooms',
-        'Bathrooms',
-        'Square Footage',
-        'Property Type',
-        'Listed Date',
-        'Days on Market',
-        'Owner 1',
-        'Owner 2',
-        'Agent Name',
-        'Agent Phone',
-        'Agent Email',
-        'Office Name',
-        'Office Phone',
-        'Latitude',
-        'Longitude',
-        'Date Added'
-    ];
-
-    const rows = dataToExport.map(p => {
-        const agent = p.agent || {};
-        const office = p.office || {};
-        const owner = p.owner || {};
-        return [
-            p.addressLine1 || '',
-            p.city || '',
-            p.state || '',
-            p.zipCode || '',
-            p.price || '',
-            p.bedrooms || '',
-            p.bathrooms || '',
-            p.squareFootage || '',
-            p.propertyType || '',
-            p.listedDate ? new Date(p.listedDate).toLocaleDateString() : '',
-            p.daysOnMarket || '',
-            owner.owner1 || '',
-            owner.owner2 || '',
-            agent.name || '',
-            agent.phone || '',
-            agent.email || '',
-            office.name || '',
-            office.phone || '',
-            p.latitude || '',
-            p.longitude || '',
-            p.dateAdded ? new Date(p.dateAdded).toLocaleDateString() : ''
-        ];
-    });
-
-    const csvContent = [
-        headers.join(','),
-        ...rows.map(row => row.map(cell => `"${String(cell).replace(/"/g, '""')}"`).join(','))
-    ].join('\n');
-
-    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
-    const link = document.createElement('a');
-    const url = URL.createObjectURL(blob);
-
-    const filename = `madison-properties-${new Date().toISOString().split('T')[0]}.csv`;
-
-    link.setAttribute('href', url);
-    link.setAttribute('download', filename);
-    link.style.visibility = 'hidden';
-
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-}
-
 function exportHistoricalCSV() {
     // Export with current filters applied
     let dataToExport = [...historicalProperties];
@@ -591,7 +338,7 @@ function exportHistoricalCSV() {
 
     const headers = [
         'Address', 'City', 'State', 'Zip Code', 'Price', 'Bedrooms', 'Bathrooms',
-        'Square Footage', 'Property Type', 'Listed Date', 'Days on Market',
+        'Square Footage', 'Property Type', 'Year Built', 'Listed Date', 'Days on Market',
         'Owner 1', 'Owner 2', 'Agent Name', 'Agent Phone', 'Agent Email',
         'Office Name', 'Office Phone', 'Latitude', 'Longitude', 'Date Added'
     ];
@@ -603,7 +350,7 @@ function exportHistoricalCSV() {
         return [
             p.addressLine1 || '', p.city || '', p.state || '', p.zipCode || '',
             p.price || '', p.bedrooms || '', p.bathrooms || '', p.squareFootage || '',
-            p.propertyType || '',
+            p.propertyType || '', p.yearBuilt || '',
             p.listedDate ? new Date(p.listedDate).toLocaleDateString() : '',
             p.daysOnMarket || '', owner.owner1 || '', owner.owner2 || '',
             agent.name || '', agent.phone || '', agent.email || '',

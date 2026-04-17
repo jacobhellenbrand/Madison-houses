@@ -15,78 +15,13 @@
     </header>
 
     <main class="container">
-        <section class="stats">
-            <div class="stat-card">
-                <span class="stat-value" id="total-listings">--</span>
-                <span class="stat-label">Total Listings</span>
-            </div>
-            <div class="stat-card">
-                <span class="stat-value" id="avg-price">--</span>
-                <span class="stat-label">Avg. Price</span>
-            </div>
-            <div class="stat-card">
-                <span class="stat-value" id="last-updated">--</span>
-                <span class="stat-label">Last Updated</span>
-            </div>
-        </section>
-
         <section class="tabs">
-            <button class="tab-btn active" data-tab="today">Today's Listings</button>
-            <button class="tab-btn" data-tab="all">All Residential Properties</button>
+            <button class="tab-btn active" data-tab="all">All Residential Properties</button>
             <button class="tab-btn" data-tab="commercial">Commercial Permits</button>
             <button class="tab-btn" data-tab="developments">New Developments</button>
         </section>
 
-        <section id="today-tab" class="tab-content active">
-            <div class="filters">
-                <div class="filter-group">
-                    <label for="price-filter">Min Price</label>
-                    <select id="price-filter">
-                        <option value="">Any Price</option>
-                        <option value="200000">$200,000</option>
-                        <option value="300000">$300,000</option>
-                        <option value="400000">$400,000</option>
-                        <option value="500000">$500,000</option>
-                        <option value="750000">$750,000</option>
-                    </select>
-                </div>
-                <div class="filter-group">
-                    <label for="beds-filter">Min Beds</label>
-                    <select id="beds-filter">
-                        <option value="">Any</option>
-                        <option value="1">1+</option>
-                        <option value="2">2+</option>
-                        <option value="3">3+</option>
-                        <option value="4">4+</option>
-                    </select>
-                </div>
-                <div class="filter-group">
-                    <label for="sort-filter">Sort By</label>
-                    <select id="sort-filter">
-                        <option value="date-desc">Newest First</option>
-                        <option value="date-asc">Oldest First</option>
-                        <option value="price-asc">Price: Low to High</option>
-                        <option value="price-desc">Price: High to Low</option>
-                    </select>
-                </div>
-                <div class="filter-group">
-                    <label for="skip-filter">Status</label>
-                    <select id="skip-filter">
-                        <option value="">Show All</option>
-                        <option value="hide">Hide Skipped</option>
-                    </select>
-                </div>
-                <div class="filter-group export-group">
-                    <label>&nbsp;</label>
-                    <button id="export-btn" class="export-btn">Export CSV</button>
-                </div>
-            </div>
-            <div id="properties" class="properties-grid">
-                <div class="loading">Loading properties...</div>
-            </div>
-        </section>
-
-        <section id="all-tab" class="tab-content">
+        <section id="all-tab" class="tab-content active">
             <div class="filters">
                 <div class="filter-group">
                     <label for="hist-price-filter">Min Price</label>
@@ -130,6 +65,13 @@
                     </select>
                 </div>
                 <div class="filter-group">
+                    <label for="new-build-filter">New Builds</label>
+                    <select id="new-build-filter">
+                        <option value="">Show All</option>
+                        <option value="hide">Hide New Builds (2024+)</option>
+                    </select>
+                </div>
+                <div class="filter-group">
                     <label for="hist-skip-filter">Status</label>
                     <select id="hist-skip-filter">
                         <option value="">Show All</option>
@@ -153,12 +95,13 @@
                             <th>Sqft</th>
                             <th>Owner</th>
                             <th>Agent</th>
+                            <th>Year Built</th>
                             <th>Date Added</th>
                             <th>Actions</th>
                         </tr>
                     </thead>
                     <tbody id="all-properties-body">
-                        <tr><td colspan="10" class="loading">Loading...</td></tr>
+                        <tr><td colspan="11" class="loading">Loading...</td></tr>
                     </tbody>
                 </table>
             </div>
