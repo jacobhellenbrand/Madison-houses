@@ -50,7 +50,6 @@ function toggleSkip(id) {
         skipped.add(id);
     }
     saveSkippedIds(skipped);
-    renderProperties();
     renderHistoricalTable();
 }
 
