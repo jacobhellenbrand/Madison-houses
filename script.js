@@ -133,18 +133,29 @@ async function init() {
 function setupTabs() {
     const tabButtons = document.querySelectorAll('.tab-btn');
 
+    function activateTab(tabId) {
+        tabButtons.forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+        const btn = [...tabButtons].find(b => b.dataset.tab === tabId);
+        if (btn) btn.classList.add('active');
+        const content = document.getElementById(`${tabId}-tab`);
+        if (content) content.classList.add('active');
+    }
+
     tabButtons.forEach(btn => {
         btn.addEventListener('click', () => {
-            tabButtons.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-
             const tabId = btn.dataset.tab;
-            document.querySelectorAll('.tab-content').forEach(content => {
-                content.classList.remove('active');
-            });
-            document.getElementById(`${tabId}-tab`).classList.add('active');
+            activateTab(tabId);
+            window.location.hash = tabId;
         });
     });
+
+    // Restore tab from URL hash on load
+    const hash = window.location.hash.replace('#', '');
+    const validTabs = [...tabButtons].map(b => b.dataset.tab);
+    if (hash && validTabs.includes(hash)) {
+        activateTab(hash);
+    }
 }
 
 
