@@ -114,7 +114,7 @@ async function init() {
     } catch (error) {
         console.error('Error loading data:', error);
         allPropertiesBody.innerHTML = `
-            <tr><td colspan="11" class="error">Unable to load data.</td></tr>
+            <tr><td colspan="9" class="error">Unable to load data.</td></tr>
         `;
     }
 }
@@ -184,14 +184,13 @@ function renderHistoricalTable() {
     });
 
     if (filtered.length === 0) {
-        allPropertiesBody.innerHTML = '<tr><td colspan="11" class="no-results">No properties match your filters.</td></tr>';
+        allPropertiesBody.innerHTML = '<tr><td colspan="9" class="no-results">No properties match your filters.</td></tr>';
         return;
     }
 
     const skippedIds = getSkippedIds();
     allPropertiesBody.innerHTML = filtered.map(p => {
         const owner = p.owner || {};
-        const agent = p.agent || {};
         const dateAdded = p.dateAdded ? new Date(p.dateAdded).toLocaleDateString() : 'N/A';
         const mapsUrl = buildMapsUrl([p.addressLine1, p.city, p.state, p.zipCode]);
         const zillowUrl = buildZillowUrl(p.addressLine1, p.city, p.state, p.zipCode);
@@ -206,16 +205,14 @@ function renderHistoricalTable() {
                 <td><a href="${mapsUrl}" target="_blank" rel="noopener">${p.addressLine1 || 'N/A'}</a></td>
                 <td>${p.city || 'N/A'}</td>
                 <td>${formatPrice(p.price)}</td>
-                <td>${p.bedrooms || '--'}</td>
-                <td>${p.bathrooms || '--'}</td>
+                <td>${p.bedrooms || '--'} / ${p.bathrooms || '--'}</td>
                 <td>${formatSqft(p.squareFootage)}</td>
                 <td>${owner.owner1 || '--'}</td>
-                <td>${agent.name || '--'}</td>
                 <td>${yearBuiltDisplay}</td>
                 <td>${dateAdded}</td>
                 <td class="actions-cell">
-                    <a href="${zillowUrl}" target="_blank" rel="noopener" class="action-btn zillow-btn" title="View on Zillow">Zillow</a>
-                    <button onclick="toggleSkip('${p.id}')" class="action-btn skip-btn ${isSkipped ? 'skip-btn-active' : ''}" title="${isSkipped ? 'Mark as sendable' : 'Skip (new/vacant)'}">
+                    <a href="${zillowUrl}" target="_blank" rel="noopener" class="action-btn zillow-btn">Zillow</a>
+                    <button onclick="toggleSkip('${p.id}')" class="action-btn skip-btn ${isSkipped ? 'skip-btn-active' : ''}">
                         ${isSkipped ? 'Skipped' : 'Skip'}
                     </button>
                 </td>
