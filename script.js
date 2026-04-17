@@ -42,15 +42,27 @@ function saveSkippedIds(ids) {
     localStorage.setItem('madison_skipped', JSON.stringify([...ids]));
 }
 
-function toggleSkip(id) {
+function toggleSkip(id, btn) {
     const skipped = getSkippedIds();
-    if (skipped.has(id)) {
+    const wasSkipped = skipped.has(id);
+    if (wasSkipped) {
         skipped.delete(id);
     } else {
         skipped.add(id);
     }
     saveSkippedIds(skipped);
-    renderHistoricalTable();
+
+    const isNowSkipped = !wasSkipped;
+    const row = btn.closest('tr');
+
+    btn.textContent = isNowSkipped ? 'Skipped' : 'Skip';
+    btn.classList.toggle('skip-btn-active', isNowSkipped);
+    row.classList.toggle('row-skipped', isNowSkipped);
+
+    // If "Hide Skipped" filter is on, hide the row immediately
+    if (histSkipFilter.value === 'hide' && isNowSkipped) {
+        row.style.display = 'none';
+    }
 }
 
 function buildZillowUrl(address, city, state, zip) {
@@ -211,7 +223,7 @@ function renderHistoricalTable() {
                 <td>${dateAdded}</td>
                 <td class="actions-cell">
                     <a href="${zillowUrl}" target="_blank" rel="noopener" class="action-btn zillow-btn">Zillow</a>
-                    <button onclick="toggleSkip('${p.id}')" class="action-btn skip-btn ${isSkipped ? 'skip-btn-active' : ''}">
+                    <button onclick="toggleSkip('${p.id}', this)" class="action-btn skip-btn ${isSkipped ? 'skip-btn-active' : ''}">
                         ${isSkipped ? 'Skipped' : 'Skip'}
                     </button>
                 </td>
