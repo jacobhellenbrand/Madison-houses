@@ -473,14 +473,18 @@ footer a:hover {
     color: var(--white);
 }
 
-.source-link {
-    font-size: 0.75rem;
-    color: var(--primary);
-    text-decoration: none;
+.search-btn {
+    display: inline-block;
+    margin-top: 0.3rem;
+    background: var(--bg);
+    color: var(--text) !important;
+    border: 1px solid var(--border);
+    text-decoration: none !important;
 }
 
-.source-link:hover {
-    text-decoration: underline;
+.search-btn:hover {
+    background: #e5e7eb;
+    text-decoration: none !important;
 }
 
 .commercial-table .address-cell {

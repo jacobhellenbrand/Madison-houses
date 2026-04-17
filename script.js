@@ -80,6 +80,9 @@ function isIndividualOwner(ownerName) {
 document.addEventListener('DOMContentLoaded', init);
 
 async function init() {
+    // Set up tabs immediately so hash-based restore works before data loads
+    setupTabs();
+
     try {
         const [historicalResponse, commercialResponse] = await Promise.all([
             fetch(HISTORICAL_URL),
@@ -98,7 +101,6 @@ async function init() {
 
         // Setup event listeners
         document.getElementById('hist-export-btn').addEventListener('click', exportHistoricalCSV);
-        setupTabs();
 
         histPriceFilter.addEventListener('change', renderHistoricalTable);
         histBedsFilter.addEventListener('change', renderHistoricalTable);
@@ -262,8 +264,8 @@ function renderCommercialTable() {
         return `
             <tr>
                 <td class="permit-number-cell">
-                    ${p.permitNumber || 'N/A'}<br>
-                    <a href="${searchUrl}" target="_blank" rel="noopener" class="source-link">Search</a>
+                    <div>${p.permitNumber || 'N/A'}</div>
+                    <a href="${searchUrl}" target="_blank" rel="noopener" class="action-btn search-btn">Search</a>
                 </td>
                 <td class="address-cell"><a href="${mapsUrl}" target="_blank" rel="noopener">${p.address || 'N/A'}</a></td>
                 <td class="details-cell">${descShort}</td>
