@@ -257,20 +257,21 @@ function renderCommercialTable() {
         return new Date(b.issuanceDate || 0) - new Date(a.issuanceDate || 0);
     });
 
+    const portalUrl = 'https://elam.cityofmadison.com/CitizenAccess/Cap/CapHome.aspx?module=Permitting&TabName=Home';
     commercialBody.innerHTML = sorted.map(p => {
         const descShort = (p.description || '').substring(0, 120) + (p.description && p.description.length > 120 ? '...' : '');
         const mapsUrl = buildMapsUrl([p.address, 'Madison', 'WI']);
-        const searchUrl = `https://www.google.com/search?q=${encodeURIComponent((p.permitNumber || '') + ' Madison WI building permit')}`;
+        const contractorInfo = [p.contractor, p.contractorAddress].filter(Boolean).join('<br>');
         return `
             <tr>
                 <td class="permit-number-cell">
                     <div>${p.permitNumber || 'N/A'}</div>
-                    <a href="${searchUrl}" target="_blank" rel="noopener" class="action-btn search-btn">Search</a>
+                    <a href="${portalUrl}" target="_blank" rel="noopener" class="action-btn search-btn">Permit Portal</a>
                 </td>
                 <td class="address-cell"><a href="${mapsUrl}" target="_blank" rel="noopener">${p.address || 'N/A'}</a></td>
                 <td class="details-cell">${descShort}</td>
                 <td>${p.owner || 'N/A'}</td>
-                <td class="owner-address-cell">${p.ownerAddress || 'N/A'}</td>
+                <td class="details-cell">${contractorInfo || 'N/A'}</td>
                 <td>${p.estimatedCost || 'N/A'}</td>
                 <td>${p.issuanceDate || 'N/A'}</td>
             </tr>
