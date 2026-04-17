@@ -473,6 +473,16 @@ footer a:hover {
     color: var(--white);
 }
 
+.source-link {
+    font-size: 0.75rem;
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.source-link:hover {
+    text-decoration: underline;
+}
+
 .commercial-table .address-cell {
     min-width: 180px;
 }

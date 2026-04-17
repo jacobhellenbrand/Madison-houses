@@ -247,9 +247,13 @@ function renderCommercialTable() {
     commercialBody.innerHTML = sorted.map(p => {
         const descShort = (p.description || '').substring(0, 120) + (p.description && p.description.length > 120 ? '...' : '');
         const mapsUrl = buildMapsUrl([p.address, 'Madison', 'WI']);
+        const searchUrl = `https://www.google.com/search?q=${encodeURIComponent((p.permitNumber || '') + ' Madison WI building permit')}`;
         return `
             <tr>
-                <td class="permit-number-cell">${p.permitNumber || 'N/A'}</td>
+                <td class="permit-number-cell">
+                    ${p.permitNumber || 'N/A'}<br>
+                    <a href="${searchUrl}" target="_blank" rel="noopener" class="source-link">Search</a>
+                </td>
                 <td class="address-cell"><a href="${mapsUrl}" target="_blank" rel="noopener">${p.address || 'N/A'}</a></td>
                 <td class="details-cell">${descShort}</td>
                 <td>${p.owner || 'N/A'}</td>
