@@ -27,6 +27,8 @@ const histBedsFilter = document.getElementById('hist-beds-filter');
 const histSortFilter = document.getElementById('hist-sort-filter');
 const histDateFilter = document.getElementById('hist-date-filter');
 const individualsFilter = document.getElementById('individuals-filter');
+const skipFilter = document.getElementById('skip-filter');
+const histSkipFilter = document.getElementById('hist-skip-filter');
 
 const BUSINESS_KEYWORDS = [
     'llc', 'inc', 'corp', 'trust', 'tr ', ' tr', 'properties', 'holdings',
@@ -36,6 +38,36 @@ const BUSINESS_KEYWORDS = [
     'county of', 'state of', 'village of', 'town of', 'university', 'church',
     'school', 'foundation', 'nonprofit', 'authority'
 ];
+
+// --- Skip / Vacant tracking (localStorage) ---
+function getSkippedIds() {
+    try {
+        return new Set(JSON.parse(localStorage.getItem('madison_skipped') || '[]'));
+    } catch {
+        return new Set();
+    }
+}
+
+function saveSkippedIds(ids) {
+    localStorage.setItem('madison_skipped', JSON.stringify([...ids]));
+}
+
+function toggleSkip(id) {
+    const skipped = getSkippedIds();
+    if (skipped.has(id)) {
+        skipped.delete(id);
+    } else {
+        skipped.add(id);
+    }
+    saveSkippedIds(skipped);
+    renderProperties();
+    renderHistoricalTable();
+}
+
+function buildZillowUrl(address, city, state, zip) {
+    const parts = [address, city, state, zip].filter(Boolean).join(' ');
+    return `https://www.zillow.com/homes/${encodeURIComponent(parts)}_rb/`;
+}
 
 function isIndividualOwner(ownerName) {
     if (!ownerName) return false;
@@ -84,6 +116,7 @@ async function init() {
         priceFilter.addEventListener('change', renderProperties);
         bedsFilter.addEventListener('change', renderProperties);
         sortFilter.addEventListener('change', renderProperties);
+        skipFilter.addEventListener('change', renderProperties);
         exportBtn.addEventListener('click', exportToCSV);
         document.getElementById('hist-export-btn').addEventListener('click', exportHistoricalCSV);
 
@@ -95,6 +128,7 @@ async function init() {
         histSortFilter.addEventListener('change', renderHistoricalTable);
         histDateFilter.addEventListener('change', renderHistoricalTable);
         individualsFilter.addEventListener('change', renderHistoricalTable);
+        histSkipFilter.addEventListener('change', renderHistoricalTable);
 
         renderProperties();
         renderHistoricalTable();
@@ -158,6 +192,12 @@ function renderProperties() {
         filtered = filtered.filter(p => p.bedrooms >= parseInt(minBeds));
     }
 
+    // Apply skip filter
+    const skipped = getSkippedIds();
+    if (skipFilter.value === 'hide') {
+        filtered = filtered.filter(p => !skipped.has(p.id));
+    }
+
     // Apply sorting
     const sortBy = sortFilter.value;
     filtered.sort((a, b) => {
@@ -217,6 +257,11 @@ function renderHistoricalTable() {
         filtered = filtered.filter(p => isIndividualOwner((p.owner || {}).owner1));
     }
 
+    const skipped = getSkippedIds();
+    if (histSkipFilter.value === 'hide') {
+        filtered = filtered.filter(p => !skipped.has(p.id));
+    }
+
     const sortBy = histSortFilter.value;
     filtered.sort((a, b) => {
         switch (sortBy) {
@@ -229,18 +274,21 @@ function renderHistoricalTable() {
     });
 
     if (filtered.length === 0) {
-        allPropertiesBody.innerHTML = '<tr><td colspan="9" class="no-results">No properties match your filters.</td></tr>';
+        allPropertiesBody.innerHTML = '<tr><td colspan="10" class="no-results">No properties match your filters.</td></tr>';
         return;
     }
 
+    const skippedIds = getSkippedIds();
     allPropertiesBody.innerHTML = filtered.map(p => {
         const owner = p.owner || {};
         const agent = p.agent || {};
         const dateAdded = p.dateAdded ? new Date(p.dateAdded).toLocaleDateString() : 'N/A';
         const mapsUrl = buildMapsUrl([p.addressLine1, p.city, p.state, p.zipCode]);
+        const zillowUrl = buildZillowUrl(p.addressLine1, p.city, p.state, p.zipCode);
+        const isSkipped = skippedIds.has(p.id);
 
         return `
-            <tr>
+            <tr class="${isSkipped ? 'row-skipped' : ''}">
                 <td><a href="${mapsUrl}" target="_blank" rel="noopener">${p.addressLine1 || 'N/A'}</a></td>
                 <td>${p.city || 'N/A'}</td>
                 <td>${formatPrice(p.price)}</td>
@@ -250,6 +298,12 @@ function renderHistoricalTable() {
                 <td>${owner.owner1 || '--'}</td>
                 <td>${agent.name || '--'}</td>
                 <td>${dateAdded}</td>
+                <td class="actions-cell">
+                    <a href="${zillowUrl}" target="_blank" rel="noopener" class="action-btn zillow-btn" title="View on Zillow">Zillow</a>
+                    <button onclick="toggleSkip('${p.id}')" class="action-btn skip-btn ${isSkipped ? 'skip-btn-active' : ''}" title="${isSkipped ? 'Mark as sendable' : 'Skip (new/vacant)'}">
+                        ${isSkipped ? 'Skipped' : 'Skip'}
+                    </button>
+                </td>
             </tr>
         `;
     }).join('');
@@ -324,17 +378,20 @@ function createPropertyCard(property) {
     const formattedPrice = formatPrice(property.price);
     const address = formatAddress(property);
     const mapsUrl = buildMapsUrl([property.addressLine1, property.city, property.state, property.zipCode]);
+    const zillowUrl = buildZillowUrl(property.addressLine1, property.city, property.state, property.zipCode);
     const listedDate = property.listedDate
         ? new Date(property.listedDate).toLocaleDateString()
         : 'N/A';
 
     const owner = property.owner || {};
     const ownerInfo = owner.owner1 ? `<div class="agent-info"><strong>${owner.owner1}</strong>${owner.owner2 ? '<br>' + owner.owner2 : ''}</div>` : '';
+    const isSkipped = getSkippedIds().has(property.id);
 
     return `
-        <article class="property-card">
+        <article class="property-card${isSkipped ? ' card-skipped' : ''}">
             <div class="property-image">
                 🏠
+                ${isSkipped ? '<div class="skip-banner">SKIPPED</div>' : ''}
             </div>
             <div class="property-details">
                 <div class="property-price">${formattedPrice}</div>
@@ -348,6 +405,12 @@ function createPropertyCard(property) {
                 <div class="property-meta">
                     <span class="property-type">${property.propertyType || 'Residential'}</span>
                     <span>Listed: ${listedDate}</span>
+                </div>
+                <div class="card-actions">
+                    <a href="${zillowUrl}" target="_blank" rel="noopener" class="action-btn zillow-btn">View on Zillow</a>
+                    <button onclick="toggleSkip('${property.id}')" class="action-btn skip-btn ${isSkipped ? 'skip-btn-active' : ''}">
+                        ${isSkipped ? 'Skipped ✓' : 'Skip'}
+                    </button>
                 </div>
             </div>
         </article>
