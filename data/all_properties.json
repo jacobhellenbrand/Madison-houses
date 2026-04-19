@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-18T08:47:35.336127Z",
-  "totalCount": 676,
+  "lastUpdated": "2026-04-19T08:52:11.850446Z",
+  "totalCount": 680,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -20294,6 +20294,130 @@
       "owner": {
         "owner1": "TAMARA N BROGNANO",
         "owner2": null
+      }
+    },
+    {
+      "id": "1287-Enterprise-Dr,-Verona,-WI-53593",
+      "addressLine1": "1287 Enterprise Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 874900,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3258,
+      "propertyType": "Single Family",
+      "yearBuilt": 2005,
+      "listedDate": "2026-04-15T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.007911,
+      "longitude": -89.528871,
+      "agent": {
+        "name": "Charlie Wills",
+        "phone": "6084009075",
+        "email": "charlie@thewillsagency.com"
+      },
+      "office": {
+        "name": "The Wills Agency",
+        "phone": "6082203282"
+      },
+      "dateAdded": "2026-04-19T08:52:11.850446Z",
+      "owner": {
+        "owner1": "CHRISTOPHER S ZAK",
+        "owner2": "KIMBERLY A ZAK"
+      }
+    },
+    {
+      "id": "410-East-Hill-Pkwy,-Madison,-WI-53718",
+      "addressLine1": "410 East Hill Pkwy",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 499900,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 2529,
+      "propertyType": "Single Family",
+      "yearBuilt": 2003,
+      "listedDate": "2026-04-15T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.093651,
+      "longitude": -89.260174,
+      "agent": {
+        "name": "Patrick Hilgers",
+        "phone": "6082765234",
+        "email": "hilgersp@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6082747500"
+      },
+      "dateAdded": "2026-04-19T08:52:11.850446Z",
+      "owner": {
+        "owner1": "JOEL ANDERSON",
+        "owner2": "KAREN M ANDERSON"
+      }
+    },
+    {
+      "id": "2322-Quartz-Ln,-Madison,-WI-53719",
+      "addressLine1": "2322 Quartz Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 485000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2025,
+      "propertyType": "Single Family",
+      "yearBuilt": 2003,
+      "listedDate": "2026-04-15T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.02682,
+      "longitude": -89.530468,
+      "agent": {
+        "name": "Joffre Pedretti",
+        "phone": "6086988503",
+        "email": "jpedretti@kw.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-04-19T08:52:11.850446Z",
+      "owner": {
+        "owner1": "DANIEL BARRERA",
+        "owner2": "JENNIFER TORRES BARRERA"
+      }
+    },
+    {
+      "id": "1209-Hanover-Trl,-Waunakee,-WI-53597",
+      "addressLine1": "1209 Hanover Trl",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 745000,
+      "bedrooms": 5,
+      "bathrooms": 2.5,
+      "squareFootage": 2825,
+      "propertyType": "Single Family",
+      "yearBuilt": 2003,
+      "listedDate": "2026-04-15T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.173903,
+      "longitude": -89.419386,
+      "agent": {
+        "name": "Deena Cortright",
+        "phone": "6085762456",
+        "email": "deena@propertiesbydeena.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Sun Prairie",
+        "phone": "6088373777"
+      },
+      "dateAdded": "2026-04-19T08:52:11.850446Z",
+      "owner": {
+        "owner1": "KENNETH G CARLSON",
+        "owner2": "PEGGY J CARLSON"
       }
     }
   ]
