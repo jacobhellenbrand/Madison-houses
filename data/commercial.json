@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T08:50:58.011072Z",
+  "lastUpdated": "2026-04-20T09:59:41.021407Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
   "totalCount": 13,
@@ -19,6 +19,38 @@
       "contractor": "CULLEN, J.P. & SONS",
       "contractorAddress": "7500 CROSS COUNTRY RD, VERONA, WI 53593",
       "category": "Medical"
+    },
+    {
+      "id": "BLDRPR-2026-05522",
+      "permitNumber": "BLDRPR-2026-05522",
+      "use": "CONDOMINIUMS",
+      "address": "137 E WILSON ST 710",
+      "buildingSqft": "0",
+      "estimatedCost": "$7,000",
+      "feesPaid": "$77",
+      "owner": "HOWELL TR, DAVID & DONNA",
+      "ownerAddress": "137 E WILSON ST # 710, MADISON, WI 53703",
+      "description": "BATHROOM REMODEL: DEMOLITION OF EXISTING FINISHES, INSTALL NEW DRYWALL. NO STRUCTURAL ALT, NO LAYOUT ALT.",
+      "issuanceDate": "04/15/2026",
+      "contractor": "NAVARRETE'S REMODELING LLC",
+      "contractorAddress": "8607 AIRPORT RD, MIDDLETON, WI 53562",
+      "category": "Renovation"
+    },
+    {
+      "id": "BLDRPR-2026-04124",
+      "permitNumber": "BLDRPR-2026-04124",
+      "use": "CONDOMINIUMS",
+      "address": "8213 MILL CREEK DR",
+      "buildingSqft": "0",
+      "estimatedCost": "$750",
+      "feesPaid": "$25",
+      "owner": "SAARI, LEONARD L",
+      "ownerAddress": "& BRENDA S SMYTH, 8213 MILL CREEK DR, MADISON, WI 53719",
+      "description": "KITCHEN REMODEL (NO LAYOUT OR STRUCTURAL ALT) \u2013 NEW WALL TILE BACKSPLASH",
+      "issuanceDate": "03/23/2026",
+      "contractor": "HICKMAN HOME SERVICES LLC",
+      "contractorAddress": "323 VILLAGE DR, BELLEVILLE, WI 53508",
+      "category": "Renovation"
     },
     {
       "id": "BLDNCC-2026-03938",
@@ -178,38 +210,6 @@
       "issuanceDate": "03/24/2026",
       "contractor": "KRAEMER BROTHERS INC.",
       "contractorAddress": "P.O. BOX 219, PLAIN, WI 53577",
-      "category": "Renovation"
-    },
-    {
-      "id": "BLDRPR-2026-03992",
-      "permitNumber": "BLDRPR-2026-03992",
-      "use": "THREE AND FOUR FAMILY",
-      "address": "1007 WILLIAMSON ST 1",
-      "buildingSqft": "0",
-      "estimatedCost": "$5,260",
-      "feesPaid": "$66",
-      "owner": "COMMON WEALTH DEVELOPMENT",
-      "ownerAddress": "INC, 1501 WILLIAMSON ST, MADISON, WI 53703",
-      "description": "KITCHEN AND BATHROOM REMODEL (NO LAYOUT ALT, NO STRUCTURAL ALT): INSTALL NEW CABINETS TO EXISTING SPACEREPAIR DRYWALL KITCHEN, REPAIR DRYWALL BATHROOM, REPAIR TILE BATHROOM",
-      "issuanceDate": "03/19/2026",
-      "contractor": "OPERATION FRESH START INC",
-      "contractorAddress": "2670 MILWAUKEE ST, MADISON, WI 53704",
-      "category": "Renovation"
-    },
-    {
-      "id": "BLDRPR-2026-05522",
-      "permitNumber": "BLDRPR-2026-05522",
-      "use": "CONDOMINIUMS",
-      "address": "137 E WILSON ST 710",
-      "buildingSqft": "0",
-      "estimatedCost": "$7,000",
-      "feesPaid": "$77",
-      "owner": "HOWELL TR, DAVID & DONNA",
-      "ownerAddress": "137 E WILSON ST # 710, MADISON, WI 53703",
-      "description": "BATHROOM REMODEL: DEMOLITION OF EXISTING FINISHES, INSTALL NEW DRYWALL. NO STRUCTURAL ALT, NO LAYOUT ALT.",
-      "issuanceDate": "04/15/2026",
-      "contractor": "NAVARRETE'S REMODELING LLC",
-      "contractorAddress": "8607 AIRPORT RD, MIDDLETON, WI 53562",
       "category": "Renovation"
     }
   ]
