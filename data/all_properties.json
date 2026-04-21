@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-20T09:56:15.011011Z",
-  "totalCount": 687,
+  "lastUpdated": "2026-04-21T09:24:02.535731Z",
+  "totalCount": 695,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -20635,6 +20635,254 @@
       "owner": {
         "owner1": "ROGER W PUTNAM",
         "owner2": null
+      }
+    },
+    {
+      "id": "710-Cozy-Farm-Rd,-Waunakee,-WI-53597",
+      "addressLine1": "710 Cozy Farm Rd",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 484900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1516,
+      "propertyType": "Multi-Family",
+      "yearBuilt": null,
+      "listedDate": "2026-04-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.1939156,
+      "longitude": -89.4405898,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-04-21T09:24:02.535731Z",
+      "owner": {
+        "owner1": "VH HERITAGE HILLS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "530-Lone-Oak-Ln,-Verona,-WI-53593",
+      "addressLine1": "530 Lone Oak Ln",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 450000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1765,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-04-15T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.046645,
+      "longitude": -89.543387,
+      "agent": {
+        "name": "Rachel Kvasnica",
+        "phone": "6085713583",
+        "email": "rachel@inkwellwi.com"
+      },
+      "office": {
+        "name": "Pinnacle Real Estate Group",
+        "phone": "6088293900"
+      },
+      "dateAdded": "2026-04-21T09:24:02.535731Z",
+      "owner": {
+        "owner1": "EAST SOUTH POINT LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "135-Glen-Haven-Ct,-Oregon,-WI-53575",
+      "addressLine1": "135 Glen Haven Ct",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 625000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2592,
+      "propertyType": "Single Family",
+      "yearBuilt": 1993,
+      "listedDate": "2026-04-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.908682,
+      "longitude": -89.385223,
+      "agent": {
+        "name": "Abby Byrne",
+        "phone": "8002368133",
+        "email": "byrnea@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088333711"
+      },
+      "dateAdded": "2026-04-21T09:24:02.535731Z",
+      "owner": {
+        "owner1": "PATRICK S HOLTAN",
+        "owner2": "HALLIE J HOLTAN"
+      }
+    },
+    {
+      "id": "2832-No-Oaks-Rdg,-Fitchburg,-WI-53711",
+      "addressLine1": "2832 No Oaks Rdg",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 675000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3030,
+      "propertyType": "Single Family",
+      "yearBuilt": 2015,
+      "listedDate": "2026-04-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.009422,
+      "longitude": -89.394707,
+      "agent": {
+        "name": "Nicole Ellis",
+        "phone": "6084454757",
+        "email": "nicoleellis@kw.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-04-21T09:24:02.535731Z",
+      "owner": {
+        "owner1": "MORRILL & STANTON LIVING TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "433-Orion-Trl,-Madison,-WI-53718",
+      "addressLine1": "433 Orion Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 539900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2064,
+      "propertyType": "Single Family",
+      "yearBuilt": 2019,
+      "listedDate": "2026-04-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.092533,
+      "longitude": -89.279694,
+      "agent": {
+        "name": "Kathleen Stumpf",
+        "phone": "6087564196",
+        "email": "katie.stumpf@c21affiliated.com"
+      },
+      "office": {
+        "name": "CENTURY 21 Affiliated",
+        "phone": "6087564196"
+      },
+      "dateAdded": "2026-04-21T09:24:02.535731Z",
+      "owner": {
+        "owner1": "SCOTT D WAEDEKIN",
+        "owner2": "MEGAN J WAEDEKIN"
+      }
+    },
+    {
+      "id": "3026-Woods-Edge-Way,-Fitchburg,-WI-53711",
+      "addressLine1": "3026 Woods Edge Way",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 650000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 3164,
+      "propertyType": "Condo",
+      "yearBuilt": 1993,
+      "listedDate": "2026-04-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.016843,
+      "longitude": -89.452783,
+      "agent": {
+        "name": "Megan Roth-markham",
+        "phone": "6087702777",
+        "email": "mroth@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "BUNBURY & ASSOCIATES REALTORS",
+        "phone": "6084417777"
+      },
+      "dateAdded": "2026-04-21T09:24:02.535731Z",
+      "owner": {
+        "owner1": "ALISON M DORNER",
+        "owner2": null
+      }
+    },
+    {
+      "id": "4225-Brown-Ln,-Madison,-WI-53704",
+      "addressLine1": "4225 Brown Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 449900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2205,
+      "propertyType": "Single Family",
+      "yearBuilt": 1991,
+      "listedDate": "2026-04-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.141187,
+      "longitude": -89.3985,
+      "agent": {
+        "name": "Sabra Gent",
+        "phone": "6082154589",
+        "email": "myagentsabra@gmail.com"
+      },
+      "office": {
+        "name": "@properties-elleven | Christie's international Real Estate",
+        "phone": "6087337760"
+      },
+      "dateAdded": "2026-04-21T09:24:02.535731Z",
+      "owner": {
+        "owner1": "MEECHELLE R BORDEAUX",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3468-Cottontail-Trl,-Madison,-WI-53718",
+      "addressLine1": "3468 Cottontail Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 495000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2734,
+      "propertyType": "Single Family",
+      "yearBuilt": 1975,
+      "listedDate": "2026-04-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.079659,
+      "longitude": -89.26946,
+      "agent": {
+        "name": "Matt Kornstedt",
+        "phone": "6088397137",
+        "email": "askus@hometeam4u.com"
+      },
+      "office": {
+        "name": "Stark Company, REALTORS",
+        "phone": "6088397137"
+      },
+      "dateAdded": "2026-04-21T09:24:02.535731Z",
+      "owner": {
+        "owner1": "STEVEN J TORTORICI",
+        "owner2": "HELENE TORTORICI"
       }
     }
   ]

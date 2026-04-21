@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-20T09:59:41.021407Z",
+  "lastUpdated": "2026-04-21T09:27:14.850730Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 13,
+  "totalCount": 11,
   "proposals": [
     {
       "id": "BLDNCC-2026-04783",
@@ -101,6 +101,22 @@
       "category": "Commercial"
     },
     {
+      "id": "BLDNRC-2026-04825",
+      "permitNumber": "BLDNRC-2026-04825",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2122 S HIGH POINT RD",
+      "buildingSqft": "5,802",
+      "estimatedCost": "$707,426",
+      "feesPaid": "$1,189",
+      "owner": "VH MIDPOINT MEADOWS, LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "description": "NEW TWIN HOME ZERO LOT LINE 2122-2124 S HIGH POINT",
+      "issuanceDate": "04/20/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial"
+    },
+    {
       "id": "BLDRPR-2026-05355",
       "permitNumber": "BLDRPR-2026-05355",
       "use": "TWO FAMILY RESIDENCES",
@@ -163,54 +179,6 @@
       "contractor": "OWNER",
       "contractorAddress": "",
       "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDNCC-2026-04106",
-      "permitNumber": "BLDNCC-2026-04106",
-      "use": "WAREHOUSE & INDUSTRIAL",
-      "address": "3228 OHMEDA DR",
-      "buildingSqft": "1,000",
-      "estimatedCost": "$500,000",
-      "feesPaid": "$5,600",
-      "owner": "MADISON INTERSTATE",
-      "ownerAddress": "EAST II, 100 SOUTH WACKER DR # 950, CHICAGO, IL 60606",
-      "description": "AMAZON - INTERIOR ALTERATION FOR EXISTING TENANT",
-      "issuanceDate": "04/15/2026",
-      "contractor": "MOORE CONSTRUCTION SERVICES",
-      "contractorAddress": "W146 N5650 ENTERPRISE AVE, MENOMONEE FALLS, WI 53051",
-      "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDNCC-2026-02983",
-      "permitNumber": "BLDNCC-2026-02983",
-      "use": "WAREHOUSE & INDUSTRIAL",
-      "address": "724 HEARTLAND TRL",
-      "buildingSqft": "920",
-      "estimatedCost": "$875,000",
-      "feesPaid": "$9,725",
-      "owner": "CATALENT PHARMA SOLUTIONS, LLC",
-      "ownerAddress": "790 N WATER ST SUITE 2500, MILWAUKEE, WI 53202",
-      "description": "CATALENT - CREATE NONFLAMMABLE STORAGE SPACE",
-      "issuanceDate": "03/24/2026",
-      "contractor": "KRAEMER BROTHERS INC.",
-      "contractorAddress": "P.O. BOX 219, PLAIN, WI 53577",
-      "category": "Commercial"
-    },
-    {
-      "id": "BLDNCC-2026-02992",
-      "permitNumber": "BLDNCC-2026-02992",
-      "use": "WAREHOUSE & INDUSTRIAL",
-      "address": "726 HEARTLAND TRL",
-      "buildingSqft": "15,000",
-      "estimatedCost": "$980,000",
-      "feesPaid": "$11,460",
-      "owner": "CATALENT PHARMA SOLUTIONS, LLC",
-      "ownerAddress": "790 N WATER ST SUITE 2500, MILWAUKEE, WI 53202",
-      "description": "CATALENT - PROJECT MADMAX - ALTERATIONS FIRST AND SECOND FLOORS",
-      "issuanceDate": "03/24/2026",
-      "contractor": "KRAEMER BROTHERS INC.",
-      "contractorAddress": "P.O. BOX 219, PLAIN, WI 53577",
-      "category": "Renovation"
     }
   ]
 }
