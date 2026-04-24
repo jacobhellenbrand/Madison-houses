@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-21T09:27:14.850730Z",
-  "totalCount": 131,
+  "lastUpdated": "2026-04-24T09:50:16.012002Z",
+  "totalCount": 133,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2068,6 +2068,40 @@
       "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
       "category": "Commercial",
       "dateAdded": "2026-04-21T09:27:14.850730Z"
+    },
+    {
+      "id": "BLDNCC-2026-04469",
+      "permitNumber": "BLDNCC-2026-04469",
+      "use": "LODGING ROOMS",
+      "address": "220 E LAKELAWN PL",
+      "buildingSqft": "387",
+      "estimatedCost": "$132,800",
+      "feesPaid": "$1,563",
+      "owner": "SIG CHAP HOUSE CORP",
+      "ownerAddress": "% GREGORY G AHERN, CPAPC, 21030-G FREDERICK RD 404, GERMANTOWN, MD 20876",
+      "description": "ALPHA EPSILON PHI - REMODEL KITCHEN, DINING ROOM, POWDER ROOM",
+      "issuanceDate": "04/21/2026",
+      "contractor": "SWEENEY CONSTRUCTION CORPORATION",
+      "contractorAddress": "1008 FISH HATCHERY RD, MADISON, WI 53715",
+      "category": "Renovation",
+      "dateAdded": "2026-04-24T09:50:16.012002Z"
+    },
+    {
+      "id": "BLDNCC-2025-19077",
+      "permitNumber": "BLDNCC-2025-19077",
+      "use": "SERVICE & REPAIR GARAGES",
+      "address": "7869 BIG SKY DR",
+      "buildingSqft": "7,453",
+      "estimatedCost": "$1,250,000",
+      "feesPaid": "$14,283",
+      "owner": "7869 BIG SKY DR LLC",
+      "ownerAddress": "410 MEADOW CREST TRL, COTTAGE GROVE, WI 53527",
+      "description": "GERBER COLLISION - NEW TENANT ALTERATION",
+      "issuanceDate": "04/21/2026",
+      "contractor": "ATLAS BUILDING GROUP LLC",
+      "contractorAddress": "914 HEMSATH RD, ST CHARLES, MO 63303",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-04-24T09:50:16.012002Z"
     }
   ]
 }
