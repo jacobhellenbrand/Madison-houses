@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-24T09:43:24.638489Z",
-  "totalCount": 761,
+  "lastUpdated": "2026-04-25T08:50:47.653572Z",
+  "totalCount": 770,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -22929,6 +22929,285 @@
       "owner": {
         "owner1": "MIA HICKS",
         "owner2": "CONNOR RUPPERT"
+      }
+    },
+    {
+      "id": "9801-Hawks-Nest-Dr,-Verona,-WI-53593",
+      "addressLine1": "9801 Hawks Nest Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 499900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2149,
+      "propertyType": "Condo",
+      "yearBuilt": 2016,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.040726,
+      "longitude": -89.55787,
+      "agent": {
+        "name": "Stacy Mrowiec",
+        "phone": "6085167253",
+        "email": "stacy@stacymhomes.com"
+      },
+      "office": {
+        "name": "RE MAX Preferred",
+        "phone": "6082768110"
+      },
+      "dateAdded": "2026-04-25T08:50:47.653572Z",
+      "owner": {
+        "owner1": "DREWEK LIVING TRUST",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2502-2504-Greenway-Vw,-Madison,-WI-53713",
+      "addressLine1": "2502-2504 Greenway Vw",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53713",
+      "price": 545000,
+      "bedrooms": 6,
+      "bathrooms": 3.5,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1977,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.031817,
+      "longitude": -89.419946,
+      "agent": {
+        "name": "Jessica Osiecki",
+        "phone": "2623663798",
+        "email": "osieckij@firstweber.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-04-25T08:50:47.653572Z",
+      "owner": {
+        "owner1": "MICHAEL HORECKI",
+        "owner2": "MARY JANE GIESEY ET AL"
+      }
+    },
+    {
+      "id": "1802-Grafton-Rd,-Madison,-WI-53716",
+      "addressLine1": "1802 Grafton Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53716",
+      "price": 475000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1640,
+      "propertyType": "Single Family",
+      "yearBuilt": 1999,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.073261,
+      "longitude": -89.285412,
+      "agent": {
+        "name": "Suzanna Cecchin",
+        "phone": "6082177797",
+        "email": "suzanna@weichert-lakepoint.com"
+      },
+      "office": {
+        "name": "Weichert, Realtors- Lakepoint",
+        "phone": "6083581760"
+      },
+      "dateAdded": "2026-04-25T08:50:47.653572Z",
+      "owner": {
+        "owner1": "KEVIN BOSSENBROEK",
+        "owner2": null
+      }
+    },
+    {
+      "id": "4779-Lacy-Rd,-Fitchburg,-WI-53711",
+      "addressLine1": "4779 Lacy Rd",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 624900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2340,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.015507,
+      "longitude": -89.366547,
+      "agent": {
+        "name": "Aeryn Barry",
+        "phone": "6089993972",
+        "email": "aerynbarry@yahoo.com"
+      },
+      "office": {
+        "name": "Tim O'brien Homes Inc-Hcb",
+        "phone": "6086611100"
+      },
+      "dateAdded": "2026-04-25T08:50:47.653572Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4732-Romaine-Rd,-Fitchburg,-WI-53711",
+      "addressLine1": "4732 Romaine Rd",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 609900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2028,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.015434,
+      "longitude": -89.366081,
+      "agent": {
+        "name": "Aeryn Barry",
+        "phone": "6089993972",
+        "email": "aerynbarry@yahoo.com"
+      },
+      "office": {
+        "name": "Tim O'brien Homes Inc-Hcb",
+        "phone": "6086611100"
+      },
+      "dateAdded": "2026-04-25T08:50:47.653572Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3609-Ice-Age-Dr,-Madison,-WI-53719",
+      "addressLine1": "3609 Ice Age Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 650000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3368,
+      "propertyType": "Single Family",
+      "yearBuilt": 2000,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.01041,
+      "longitude": -89.515011,
+      "agent": {
+        "name": "Andrew Genin",
+        "phone": "6088867269",
+        "email": "andrew@mattwinz.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-04-25T08:50:47.653572Z",
+      "owner": {
+        "owner1": "SCOTT M DEWERD",
+        "owner2": "LOUISE C DEWERD"
+      }
+    },
+    {
+      "id": "1910-La-Sierra-Way,-Madison,-WI-53716",
+      "addressLine1": "1910 La Sierra Way",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53716",
+      "price": 439900,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 1475,
+      "propertyType": "Single Family",
+      "yearBuilt": 1977,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.071473,
+      "longitude": -89.288851,
+      "agent": {
+        "name": "Amber Huemmer",
+        "phone": "6082795424",
+        "email": "amber@thhtrealty.com"
+      },
+      "office": {
+        "name": "LPT Realty",
+        "phone": "8773662213"
+      },
+      "dateAdded": "2026-04-25T08:50:47.653572Z",
+      "owner": {
+        "owner1": "DANIEL JACKSON",
+        "owner2": "JAYNE JACKSON"
+      }
+    },
+    {
+      "id": "506-Seven-Nations-Dr,-Madison,-WI-53713",
+      "addressLine1": "506 Seven Nations Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53713",
+      "price": 415000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1576,
+      "propertyType": "Single Family",
+      "yearBuilt": 1988,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.032629,
+      "longitude": -89.377214,
+      "agent": {
+        "name": "Laura Fuhrmann",
+        "phone": "6089210641",
+        "email": "laura@rockrealtywi.com"
+      },
+      "office": {
+        "name": "Rock Realty",
+        "phone": "8777747625"
+      },
+      "dateAdded": "2026-04-25T08:50:47.653572Z",
+      "owner": {
+        "owner1": "ERLIEN JACOB ELSBERRY HALEY",
+        "owner2": null
+      }
+    },
+    {
+      "id": "209-N-Shuman-St,-Verona,-WI-53593",
+      "addressLine1": "209 N Shuman St",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 400000,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 1399,
+      "propertyType": "Single Family",
+      "yearBuilt": 1940,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.99178,
+      "longitude": -89.534575,
+      "agent": {
+        "name": "Andrew Genin",
+        "phone": "6088867269",
+        "email": "andrew@mattwinz.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-04-25T08:50:47.653572Z",
+      "owner": {
+        "owner1": "BRIDGET PERRY",
+        "owner2": null
       }
     }
   ]

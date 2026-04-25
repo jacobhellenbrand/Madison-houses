@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-24T09:50:16.012002Z",
+  "lastUpdated": "2026-04-25T08:54:30.040839Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 10,
+  "totalCount": 9,
   "proposals": [
     {
       "id": "BLDNCC-2026-04469",
@@ -19,22 +19,6 @@
       "contractor": "SWEENEY CONSTRUCTION CORPORATION",
       "contractorAddress": "1008 FISH HATCHERY RD, MADISON, WI 53715",
       "category": "Renovation"
-    },
-    {
-      "id": "BLDNCC-2026-04783",
-      "permitNumber": "BLDNCC-2026-04783",
-      "use": "HOSPITAL/MEDICAL",
-      "address": "202 S PARK ST",
-      "buildingSqft": "",
-      "estimatedCost": "$230,409",
-      "feesPaid": "$2,541",
-      "owner": "MERITER HOSPITAL INC",
-      "ownerAddress": "TREASURY SERVICES DEPT, 202 S PARK ST, MADISON, WI 53715-1596",
-      "description": "MERITER - CARDIAC CLINIC",
-      "issuanceDate": "04/02/2026",
-      "contractor": "CULLEN, J.P. & SONS",
-      "contractorAddress": "7500 CROSS COUNTRY RD, VERONA, WI 53593",
-      "category": "Medical"
     },
     {
       "id": "BLDNCC-2026-03938",
