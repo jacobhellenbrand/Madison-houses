@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-25T08:50:47.653572Z",
-  "totalCount": 770,
+  "lastUpdated": "2026-04-26T08:58:33.658526Z",
+  "totalCount": 775,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -23208,6 +23208,161 @@
       "owner": {
         "owner1": "BRIDGET PERRY",
         "owner2": null
+      }
+    },
+    {
+      "id": "625-N-Segoe-Rd,-Unit-1004,-Madison,-WI-53705",
+      "addressLine1": "625 N Segoe Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 469900,
+      "bedrooms": 1,
+      "bathrooms": 1.5,
+      "squareFootage": 1192,
+      "propertyType": "Condo",
+      "yearBuilt": 2006,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.073518,
+      "longitude": -89.45594,
+      "agent": {
+        "name": "Dominic Colosimo",
+        "phone": "6082948448",
+        "email": "dominic@remax.net"
+      },
+      "office": {
+        "name": "EXP Realty, LLC",
+        "phone": "6082948448"
+      },
+      "dateAdded": "2026-04-26T08:58:33.658526Z",
+      "owner": {
+        "owner1": "CARL K YORITA",
+        "owner2": "PATRICIA J YORITA"
+      }
+    },
+    {
+      "id": "2422-Chamberlain-Ave,-Madison,-WI-53726",
+      "addressLine1": "2422 Chamberlain Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53726",
+      "price": 775000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2553,
+      "propertyType": "Single Family",
+      "yearBuilt": 1925,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.070804,
+      "longitude": -89.42823,
+      "agent": {
+        "name": "Chas Martin",
+        "phone": "6083349042",
+        "email": "chas@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-04-26T08:58:33.658526Z",
+      "owner": {
+        "owner1": "SHARON BESSER",
+        "owner2": null
+      }
+    },
+    {
+      "id": "313-S-Jefferson-St,-Verona,-WI-53593",
+      "addressLine1": "313 S Jefferson St",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 540000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2275,
+      "propertyType": "Single Family",
+      "yearBuilt": 1955,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.986504,
+      "longitude": -89.530342,
+      "agent": {
+        "name": "Joe Shipley",
+        "phone": "6085013322",
+        "email": "joe@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-04-26T08:58:33.658526Z",
+      "owner": {
+        "owner1": "KLASSY REV LIVING TR, JAMES N & BARBRA J",
+        "owner2": null
+      }
+    },
+    {
+      "id": "4781-Lacy-Rd,-Fitchburg,-WI-53711",
+      "addressLine1": "4781 Lacy Rd",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 614900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2301,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.015385,
+      "longitude": -89.366577,
+      "agent": {
+        "name": "Aeryn Barry",
+        "phone": "6089993972",
+        "email": "aerynbarry@yahoo.com"
+      },
+      "office": {
+        "name": "Tim O'brien Homes Inc-Hcb",
+        "phone": "6086611100"
+      },
+      "dateAdded": "2026-04-26T08:58:33.658526Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "518-Hilton-Dr,-Madison,-WI-53711",
+      "addressLine1": "518 Hilton Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 574900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2247,
+      "propertyType": "Single Family",
+      "yearBuilt": 1956,
+      "listedDate": "2026-04-22T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.055486,
+      "longitude": -89.463269,
+      "agent": {
+        "name": "Rachel Whaley",
+        "phone": "6083452313",
+        "email": "rachel@lauerrealtygroup.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "dateAdded": "2026-04-26T08:58:33.658526Z",
+      "owner": {
+        "owner1": "RICHARD M REICHARDT",
+        "owner2": "SHERI L REICHARDT"
       }
     }
   ]
