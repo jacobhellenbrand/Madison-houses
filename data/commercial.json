@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-27T10:14:18.218859Z",
+  "lastUpdated": "2026-04-28T10:15:01.150258Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 9,
+  "totalCount": 8,
   "proposals": [
     {
       "id": "BLDNCC-2026-04469",
@@ -131,22 +131,6 @@
       "contractor": "ATLAS BUILDING GROUP LLC",
       "contractorAddress": "914 HEMSATH RD, ST CHARLES, MO 63303",
       "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDRPR-2026-05522",
-      "permitNumber": "BLDRPR-2026-05522",
-      "use": "CONDOMINIUMS",
-      "address": "137 E WILSON ST 710",
-      "buildingSqft": "0",
-      "estimatedCost": "$7,000",
-      "feesPaid": "$77",
-      "owner": "HOWELL TR, DAVID & DONNA",
-      "ownerAddress": "137 E WILSON ST # 710, MADISON, WI 53703",
-      "description": "BATHROOM REMODEL: DEMOLITION OF EXISTING FINISHES, INSTALL NEW DRYWALL. NO STRUCTURAL ALT, NO LAYOUT ALT.",
-      "issuanceDate": "04/15/2026",
-      "contractor": "NAVARRETE'S REMODELING LLC",
-      "contractorAddress": "8607 AIRPORT RD, MIDDLETON, WI 53562",
-      "category": "Renovation"
     }
   ]
 }
