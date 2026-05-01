@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-30T10:08:10.238759Z",
+  "lastUpdated": "2026-05-01T09:47:41.271487Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 7,
+  "totalCount": 8,
   "proposals": [
     {
       "id": "BLDNCC-2026-04469",
@@ -67,6 +67,22 @@
       "contractor": "VERIDIAN HOMES LLC",
       "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
       "category": "Commercial"
+    },
+    {
+      "id": "BLDRPR-2026-05927",
+      "permitNumber": "BLDRPR-2026-05927",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "937 WILLIAMSON ST 2",
+      "buildingSqft": "0",
+      "estimatedCost": "$5,000",
+      "feesPaid": "$80",
+      "owner": "DILLON ALEXANDER NOVAK",
+      "ownerAddress": "937 WILLIAMSON ST, MADISON, WI 53703",
+      "description": "INTERIOR ALTERATION - CHANGE LAYOUT OF ENTRY, KITCHEN, LIVING ROOM, BEDROOM, AND DINING ROOM, CONVERT CLOSET TO BATHROOM",
+      "issuanceDate": "04/30/2026",
+      "contractor": "OWNER",
+      "contractorAddress": "",
+      "category": "Tenant Buildout"
     },
     {
       "id": "BLDNCC-2026-03938",

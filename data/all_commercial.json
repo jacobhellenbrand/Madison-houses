@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-30T10:08:10.238759Z",
-  "totalCount": 133,
+  "lastUpdated": "2026-05-01T09:47:41.271487Z",
+  "totalCount": 134,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2102,6 +2102,23 @@
       "contractorAddress": "914 HEMSATH RD, ST CHARLES, MO 63303",
       "category": "Tenant Buildout",
       "dateAdded": "2026-04-24T09:50:16.012002Z"
+    },
+    {
+      "id": "BLDRPR-2026-05927",
+      "permitNumber": "BLDRPR-2026-05927",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "937 WILLIAMSON ST 2",
+      "buildingSqft": "0",
+      "estimatedCost": "$5,000",
+      "feesPaid": "$80",
+      "owner": "DILLON ALEXANDER NOVAK",
+      "ownerAddress": "937 WILLIAMSON ST, MADISON, WI 53703",
+      "description": "INTERIOR ALTERATION - CHANGE LAYOUT OF ENTRY, KITCHEN, LIVING ROOM, BEDROOM, AND DINING ROOM, CONVERT CLOSET TO BATHROOM",
+      "issuanceDate": "04/30/2026",
+      "contractor": "OWNER",
+      "contractorAddress": "",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-05-01T09:47:41.271487Z"
     }
   ]
 }
