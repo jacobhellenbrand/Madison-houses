@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-01T09:47:41.271487Z",
-  "totalCount": 134,
+  "lastUpdated": "2026-05-02T09:07:43.592880Z",
+  "totalCount": 135,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2119,6 +2119,23 @@
       "contractorAddress": "",
       "category": "Tenant Buildout",
       "dateAdded": "2026-05-01T09:47:41.271487Z"
+    },
+    {
+      "id": "BLDCRZ-2026-06561",
+      "permitNumber": "BLDCRZ-2026-06561",
+      "use": "SERVICE & REPAIR GARAGES",
+      "address": "4514 VERONA RD",
+      "buildingSqft": "",
+      "estimatedCost": "",
+      "feesPaid": "$250",
+      "owner": "TIMBERLINE TERRACE LLC",
+      "ownerAddress": "401 WILSHIRE BLVD, FL 11, SANTA MONICA, CA 90401-1496",
+      "description": "DEMOLISH 38,061 CF COMMERCIAL BUILDING",
+      "issuanceDate": "05/01/2026",
+      "contractor": "MCSHANE CONSTRUCTION COMPANY",
+      "contractorAddress": "834 E WASHINGTON STE 229, MADISON, WI 53073",
+      "category": "Commercial",
+      "dateAdded": "2026-05-02T09:07:43.592880Z"
     }
   ]
 }

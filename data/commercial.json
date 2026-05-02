@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-01T09:47:41.271487Z",
+  "lastUpdated": "2026-05-02T09:07:43.592880Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 8,
+  "totalCount": 9,
   "proposals": [
     {
       "id": "BLDNCC-2026-04469",
@@ -114,6 +114,22 @@
       "issuanceDate": "04/15/2026",
       "contractor": "MILLEN ROOFING COMPANY",
       "contractorAddress": "N114w19380 CLINTON DR STE 4, GERMANTOWN, WI 53022",
+      "category": "Commercial"
+    },
+    {
+      "id": "BLDCRZ-2026-06561",
+      "permitNumber": "BLDCRZ-2026-06561",
+      "use": "SERVICE & REPAIR GARAGES",
+      "address": "4514 VERONA RD",
+      "buildingSqft": "",
+      "estimatedCost": "",
+      "feesPaid": "$250",
+      "owner": "TIMBERLINE TERRACE LLC",
+      "ownerAddress": "401 WILSHIRE BLVD, FL 11, SANTA MONICA, CA 90401-1496",
+      "description": "DEMOLISH 38,061 CF COMMERCIAL BUILDING",
+      "issuanceDate": "05/01/2026",
+      "contractor": "MCSHANE CONSTRUCTION COMPANY",
+      "contractorAddress": "834 E WASHINGTON STE 229, MADISON, WI 53073",
       "category": "Commercial"
     },
     {
