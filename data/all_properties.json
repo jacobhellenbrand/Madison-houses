@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-02T09:04:17.605535Z",
-  "totalCount": 886,
+  "lastUpdated": "2026-05-03T09:20:29.044005Z",
+  "totalCount": 893,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -26804,6 +26804,223 @@
       "owner": {
         "owner1": null,
         "owner2": null
+      }
+    },
+    {
+      "id": "6625-Boulder-Ln,-Middleton,-WI-53562",
+      "addressLine1": "6625 Boulder Ln",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 689900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1904,
+      "propertyType": "Single Family",
+      "yearBuilt": 1961,
+      "listedDate": "2026-04-29T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.101061,
+      "longitude": -89.495506,
+      "agent": {
+        "name": "Preston Sigmon",
+        "phone": "6084453329",
+        "email": "psigmon3@gmail.com"
+      },
+      "office": {
+        "name": "Assist 2 Sell Homes 4 You Realty",
+        "phone": "6088363441"
+      },
+      "dateAdded": "2026-05-03T09:20:29.044005Z",
+      "owner": {
+        "owner1": "SUSAN J CUNNINGHAM",
+        "owner2": null
+      }
+    },
+    {
+      "id": "350-S-Hamilton-St,-Unit-1001,-Madison,-WI-53703",
+      "addressLine1": "350 S Hamilton St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 2750000,
+      "bedrooms": 2,
+      "bathrooms": 2.5,
+      "squareFootage": 3292,
+      "propertyType": "Condo",
+      "yearBuilt": 2006,
+      "listedDate": "2026-04-30T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.06934,
+      "longitude": -89.384905,
+      "agent": {
+        "name": "Shelly Sprinkman",
+        "phone": "6082201453",
+        "email": "shelly@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-05-03T09:20:29.044005Z",
+      "owner": {
+        "owner1": "AZAM NIROOMAND-RAD",
+        "owner2": "GHOLAMHOSSEIN G HAMEDANI"
+      }
+    },
+    {
+      "id": "4789-Lacy-Rd,-Fitchburg,-WI-53711",
+      "addressLine1": "4789 Lacy Rd",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 599900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2220,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-04-30T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.014893,
+      "longitude": -89.36676,
+      "agent": {
+        "name": "Sherry Yu",
+        "phone": "6086981500",
+        "email": "sherry@yurealestategroup.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-05-03T09:20:29.044005Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1109-Reese-Trl,-Waunakee,-WI-53597",
+      "addressLine1": "1109 Reese Trl",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 985000,
+      "bedrooms": 6,
+      "bathrooms": 3,
+      "squareFootage": 3222,
+      "propertyType": "Single Family",
+      "yearBuilt": 2023,
+      "listedDate": "2026-04-29T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.182207,
+      "longitude": -89.423097,
+      "agent": {
+        "name": "Joyce Felicijan",
+        "phone": "6086355209",
+        "email": "joyce.felicijan@remax.net"
+      },
+      "office": {
+        "name": "RE MAX Preferred",
+        "phone": "6082768110"
+      },
+      "dateAdded": "2026-05-03T09:20:29.044005Z",
+      "owner": {
+        "owner1": "ALBERT JAMES CECCHINI",
+        "owner2": "PATRICIA KELLY CECCHINI"
+      }
+    },
+    {
+      "id": "6421-Woodland-Trl,-Dane,-WI-53529",
+      "addressLine1": "6421 Woodland Trl",
+      "city": "Dane",
+      "state": "WI",
+      "zipCode": "53529",
+      "price": 525000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2520,
+      "propertyType": "Single Family",
+      "yearBuilt": 1981,
+      "listedDate": "2026-04-29T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.207871,
+      "longitude": -89.604059,
+      "agent": {
+        "name": "Laura Lynch",
+        "phone": "6082133452",
+        "email": "lauralynchhomes@gmail.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-05-03T09:20:29.044005Z",
+      "owner": {
+        "owner1": "THKAT TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "307-N-Halsor-St,-Deforest,-WI-53532",
+      "addressLine1": "307 N Halsor St",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 410000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1760,
+      "propertyType": "Single Family",
+      "yearBuilt": 1992,
+      "listedDate": "2026-04-29T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.250505,
+      "longitude": -89.328665,
+      "agent": {
+        "name": "Kathy Jasper",
+        "phone": "6084458275",
+        "email": "kathyjasper1@gmail.com"
+      },
+      "office": {
+        "name": "Home Connection Realty",
+        "phone": "6084458275"
+      },
+      "dateAdded": "2026-05-03T09:20:29.044005Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7910-Black-River-Rd,-Verona,-WI-53593",
+      "addressLine1": "7910 Black River Rd",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 949900,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3881,
+      "propertyType": "Single Family",
+      "yearBuilt": 1993,
+      "listedDate": "2026-04-29T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.069585,
+      "longitude": -89.599257,
+      "agent": {
+        "name": "Ellie Feldman",
+        "phone": "6082126356",
+        "email": "elliefeldman@remax.net"
+      },
+      "office": {
+        "name": "EXP Realty, LLC",
+        "phone": "6082948448"
+      },
+      "dateAdded": "2026-05-03T09:20:29.044005Z",
+      "owner": {
+        "owner1": "ROMULO ANDRE FAJARDO",
+        "owner2": "OLGA FAJARDO"
       }
     }
   ]
