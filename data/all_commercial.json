@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-04T10:13:34.627347Z",
-  "totalCount": 146,
+  "lastUpdated": "2026-05-06T10:18:51.950555Z",
+  "totalCount": 148,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2323,6 +2323,40 @@
       "contractorAddress": "512 Dorn Dr, WAUNAKEE, WI 53597",
       "category": "Commercial",
       "dateAdded": "2026-05-04T10:13:34.627347Z"
+    },
+    {
+      "id": "BLDNCC-2026-05223",
+      "permitNumber": "BLDNCC-2026-05223",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "4703 MADISON YARDS WAY 202",
+      "buildingSqft": "14,303",
+      "estimatedCost": "$2,052,608",
+      "feesPaid": "$11,873",
+      "owner": "CDS MY BLOCK 1 OFFICE LLC",
+      "ownerAddress": "C/O MICHAEL KROLCZYK, 125 CAMELOT DR, FOND DU LAC, WI 54935-8038",
+      "description": "MURPHY DESMOND SC - NEW TENANT ALTERATION",
+      "issuanceDate": "05/04/2026",
+      "contractor": "SMITH, CD",
+      "contractorAddress": "125 CAMELOT DR, FOND DU LAC, WI 54935",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-05-06T10:18:51.950555Z"
+    },
+    {
+      "id": "BLDNCC-2026-02311",
+      "permitNumber": "BLDNCC-2026-02311",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "505 S ROSA RD 116",
+      "buildingSqft": "2,100",
+      "estimatedCost": "$47,705",
+      "feesPaid": "$628",
+      "owner": "UNIVERSITY RESEARCH PARK",
+      "ownerAddress": "INC, 505 S ROSA RD # 201, MADISON, WI 53719",
+      "description": "ABINGDON HEALTH - EXPAND TENANT INTO ADJACENT SUITES 116-119",
+      "issuanceDate": "05/04/2026",
+      "contractor": "FINDORFF, J.H.",
+      "contractorAddress": "300 S BEDFORD ST, MADISON, WI 53703",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-05-06T10:18:51.950555Z"
     }
   ]
 }
