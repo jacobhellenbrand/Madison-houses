@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-06T10:18:51.950555Z",
-  "totalCount": 148,
+  "lastUpdated": "2026-05-07T10:26:11.452928Z",
+  "totalCount": 150,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2357,6 +2357,40 @@
       "contractorAddress": "300 S BEDFORD ST, MADISON, WI 53703",
       "category": "Tenant Buildout",
       "dateAdded": "2026-05-06T10:18:51.950555Z"
+    },
+    {
+      "id": "BLDRPR-2026-07160",
+      "permitNumber": "BLDRPR-2026-07160",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "901 WATSON AVE 101",
+      "buildingSqft": "0",
+      "estimatedCost": "$1,041,963",
+      "feesPaid": "$11,462",
+      "owner": "",
+      "ownerAddress": "",
+      "description": "COMMERCIAL METAL RE-ROOF OF THE ENTIRE BUILDING.  WE CAN PROVIDE AN EAGLEVIEW REPORT OR OTHER INFORMATION REQUEST FOR HAVE THE PERMIT COVER THE ENTIRE BUILDING.",
+      "issuanceDate": "05/06/2026",
+      "contractor": "D R THOMPSON & ASSOCIATES DBA POWERHOUSE CONSTRUCTION",
+      "contractorAddress": "1360 REGENT ST #102, MADISON, WI 53715",
+      "category": "Commercial",
+      "dateAdded": "2026-05-07T10:26:11.452928Z"
+    },
+    {
+      "id": "BLDNCC-2026-04243",
+      "permitNumber": "BLDNCC-2026-04243",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "913 WATSON AVE",
+      "buildingSqft": "6,000",
+      "estimatedCost": "$64,000",
+      "feesPaid": "$944",
+      "owner": "913 WATSON LLC",
+      "ownerAddress": "4810 SHERWOOD RD, MADISON, WI 53711",
+      "description": "DIVIDE SPACE FOR FUTURE TENANTS",
+      "issuanceDate": "05/06/2026",
+      "contractor": "GREG WATSON",
+      "contractorAddress": "1245 E Dayton St, Madison, 53",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-05-07T10:26:11.452928Z"
     }
   ]
 }
