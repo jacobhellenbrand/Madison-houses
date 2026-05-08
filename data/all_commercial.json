@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-07T10:26:11.452928Z",
-  "totalCount": 150,
+  "lastUpdated": "2026-05-08T09:20:56.222022Z",
+  "totalCount": 152,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2391,6 +2391,40 @@
       "contractorAddress": "1245 E Dayton St, Madison, 53",
       "category": "Tenant Buildout",
       "dateAdded": "2026-05-07T10:26:11.452928Z"
+    },
+    {
+      "id": "BLDNCC-2026-04470",
+      "permitNumber": "BLDNCC-2026-04470",
+      "use": "OFFICE, BANK, PROFESSIONAL",
+      "address": "1239 REGENT ST",
+      "buildingSqft": "1,376",
+      "estimatedCost": "$61,762",
+      "feesPaid": "$834",
+      "owner": "WHPC-REGENT",
+      "ownerAddress": "STREET-MADISON LLC, 150 E GILMAN ST # 1500, MADISON, WI 53703",
+      "description": "REGENT CUTS BARBERSHOP - NEW TENANT ALTERATION",
+      "issuanceDate": "05/07/2026",
+      "contractor": "ICONICA INC",
+      "contractorAddress": "901 DEMING WAY STE 102, MADISON, WI 53717",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-05-08T09:20:56.222022Z"
+    },
+    {
+      "id": "BLDRPR-2026-07013",
+      "permitNumber": "BLDRPR-2026-07013",
+      "use": "",
+      "address": "55 WAUNONA WOODS CT",
+      "buildingSqft": "",
+      "estimatedCost": "$14,000",
+      "feesPaid": "$154",
+      "owner": "KILKUS SUZANNE",
+      "ownerAddress": "55 WAUNONA WOODS CT, MADISON, WI 53713",
+      "description": "\"INTERIOR RESIDENTIAL REMODEL OF 2 EXISTING BATHROOM AREAS. ALL FIXTURES ARE BEING REPLACED IN THEIR EXISTING LOCATIONS SCOPE INCLUDES DEMOLITION AND REPLACEMENT OF TWO BATHROOM VANITIES, TOILETS, AND LIGHT FIXTURES. INSTALLATION OF NEW BASE TRIM AND HARDWARE. ALL WORK IS WITHIN THE EXISTING BUILDING FOOTPRINT; NO STRUCTURAL CHANGES, FOOTPRINT EXPANSION, OR CHANGES TO THE BUILDING'S EXTERIOR",
+      "issuanceDate": "05/07/2026",
+      "contractor": "ACTUATE IMPROVEMENT LLC",
+      "contractorAddress": "2115 PARVIEW RD, MIDDLETON, WI 53562",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-05-08T09:20:56.222022Z"
     }
   ]
 }
