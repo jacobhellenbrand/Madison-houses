@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-08T09:20:56.222022Z",
-  "totalCount": 152,
+  "lastUpdated": "2026-05-09T09:20:48.440808Z",
+  "totalCount": 154,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2425,6 +2425,40 @@
       "contractorAddress": "2115 PARVIEW RD, MIDDLETON, WI 53562",
       "category": "Tenant Buildout",
       "dateAdded": "2026-05-08T09:20:56.222022Z"
+    },
+    {
+      "id": "BLDRPR-2026-07514",
+      "permitNumber": "BLDRPR-2026-07514",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2405 CENTER AVE",
+      "buildingSqft": "0",
+      "estimatedCost": "$11,007",
+      "feesPaid": "$132",
+      "owner": "DOCTER, CHARLES W",
+      "ownerAddress": "& CAILIN DOCTER, 2405 CENTER AVE, MADISON, WI 53704-5628",
+      "description": "TEAR OFF/ REPLACE SHINGLES",
+      "issuanceDate": "05/08/2026",
+      "contractor": "XYZ ROOFCO LLC",
+      "contractorAddress": "3075 BRECKINRIDGE BLVD #470, DULUTH, GA 5032230096",
+      "category": "Commercial",
+      "dateAdded": "2026-05-09T09:20:48.440808Z"
+    },
+    {
+      "id": "BLDRPR-2026-06871",
+      "permitNumber": "BLDRPR-2026-06871",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2734 COMMERCIAL AVE",
+      "buildingSqft": "0",
+      "estimatedCost": "$13,795",
+      "feesPaid": "$154",
+      "owner": "JTK PROPERTIES LLC",
+      "ownerAddress": "21 WESTEND CIR , MADISON, WI 53704",
+      "description": "ROOFING PROJECT",
+      "issuanceDate": "05/04/2026",
+      "contractor": "OLIWILL CONSTRUCTION INC",
+      "contractorAddress": "4910 Meinders Road, McFarland, WI 53558",
+      "category": "Commercial",
+      "dateAdded": "2026-05-09T09:20:48.440808Z"
     }
   ]
 }

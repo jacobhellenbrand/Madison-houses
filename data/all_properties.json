@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-08T09:17:43.604794Z",
-  "totalCount": 958,
+  "lastUpdated": "2026-05-09T09:17:34.698845Z",
+  "totalCount": 966,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -29036,6 +29036,254 @@
       "owner": {
         "owner1": "JOHN C BELL",
         "owner2": "SHERYL A JENSEN"
+      }
+    },
+    {
+      "id": "711-Sugar-Maple-Ln,-Verona,-WI-53593",
+      "addressLine1": "711 Sugar Maple Ln",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 575000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1562,
+      "propertyType": "Single Family",
+      "yearBuilt": 2021,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.049884,
+      "longitude": -89.563487,
+      "agent": {
+        "name": "Matt Roelli",
+        "phone": "8448841500",
+        "email": "matt@soldinmadison.com"
+      },
+      "office": {
+        "name": "eXp Realty, LLC",
+        "phone": "8668486990"
+      },
+      "dateAdded": "2026-05-09T09:17:34.698845Z",
+      "owner": {
+        "owner1": "RC & PJ DEYOUNG REV TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3533-Heather-Crst,-Madison,-WI-53705",
+      "addressLine1": "3533 Heather Crst",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 550000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1536,
+      "propertyType": "Single Family",
+      "yearBuilt": 1951,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.071313,
+      "longitude": -89.448456,
+      "agent": {
+        "name": "Robin Anderson-guernsey",
+        "phone": "6082138778",
+        "email": "rguernsey@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-05-09T09:17:34.698845Z",
+      "owner": {
+        "owner1": "MICHAEL WILLIAM OZBURN",
+        "owner2": "SARAH ROSE SOBEK"
+      }
+    },
+    {
+      "id": "6706-Conservancy-Plz,-Unit-17,-Deforest,-WI-53532",
+      "addressLine1": "6706 Conservancy Plz",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 659900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 3233,
+      "propertyType": "Condo",
+      "yearBuilt": 2023,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.217615,
+      "longitude": -89.354601,
+      "agent": {
+        "name": "Rod Hamilton",
+        "phone": "6087842121",
+        "email": "rod@c21affiliated.com"
+      },
+      "office": {
+        "name": "CENTURY 21 Affiliated",
+        "phone": "6087842121"
+      },
+      "dateAdded": "2026-05-09T09:17:34.698845Z",
+      "owner": {
+        "owner1": "ANNE M NOLAN",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2652-Granite-Rd,-Fitchburg,-WI-53711",
+      "addressLine1": "2652 Granite Rd",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 529900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1880,
+      "propertyType": "Single Family",
+      "yearBuilt": 2002,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.999048,
+      "longitude": -89.418107,
+      "agent": {
+        "name": "Mitch Onken Covert",
+        "phone": "6082142522",
+        "email": "mitchellcovertrealestate@gmail.com"
+      },
+      "office": {
+        "name": "EXIT PROFESSIONAL REAL ESTATE",
+        "phone": "6084267111"
+      },
+      "dateAdded": "2026-05-09T09:17:34.698845Z",
+      "owner": {
+        "owner1": "ADAM J ALEXANDER",
+        "owner2": "HEATHER R ALEXANDER"
+      }
+    },
+    {
+      "id": "315-S-Orchard-St,-Madison,-WI-53715",
+      "addressLine1": "315 S Orchard St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53715",
+      "price": 460000,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 1180,
+      "propertyType": "Single Family",
+      "yearBuilt": 1914,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.06361,
+      "longitude": -89.406992,
+      "agent": {
+        "name": "Hansen Home Team",
+        "phone": "6082196506",
+        "email": "hansenhometeam@starkhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-05-09T09:17:34.698845Z",
+      "owner": {
+        "owner1": "ISAAC J KNOFLICEK",
+        "owner2": "MEGAN M KNOFLICEK"
+      }
+    },
+    {
+      "id": "1502-Briar-Ln,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1502 Briar Ln",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 410000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1512,
+      "propertyType": "Single Family",
+      "yearBuilt": 1979,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.173267,
+      "longitude": -89.238458,
+      "agent": {
+        "name": "Garret Clemment",
+        "phone": "6087098033",
+        "email": "garret@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-05-09T09:17:34.698845Z",
+      "owner": {
+        "owner1": "LANDON PAUL SEARS",
+        "owner2": "ALECIA RENEE SEARS"
+      }
+    },
+    {
+      "id": "350-S-Hamilton-St,-Unit-508,-Madison,-WI-53703",
+      "addressLine1": "350 S Hamilton St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 785000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1436,
+      "propertyType": "Condo",
+      "yearBuilt": 2006,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.06934,
+      "longitude": -89.384905,
+      "agent": {
+        "name": "Paul Haviland",
+        "phone": "6088434442",
+        "email": "phaviland@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-05-09T09:17:34.698845Z",
+      "owner": {
+        "owner1": "AZAM NIROOMAND-RAD",
+        "owner2": "GHOLAMHOSSEIN G HAMEDANI"
+      }
+    },
+    {
+      "id": "14-Sinatra-Way,-Fitchburg,-WI-53711",
+      "addressLine1": "14 Sinatra Way",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 409900,
+      "bedrooms": 2,
+      "bathrooms": 2.5,
+      "squareFootage": 2101,
+      "propertyType": "Condo",
+      "yearBuilt": 2005,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.996392,
+      "longitude": -89.429069,
+      "agent": {
+        "name": "Mary Duff",
+        "phone": "6084434815",
+        "email": "mduff@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-05-09T09:17:34.698845Z",
+      "owner": {
+        "owner1": "ERICA S CLEARY",
+        "owner2": null
       }
     }
   ]
