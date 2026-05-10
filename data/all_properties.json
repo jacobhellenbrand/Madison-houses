@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-09T09:17:34.698845Z",
-  "totalCount": 966,
+  "lastUpdated": "2026-05-10T09:26:51.638904Z",
+  "totalCount": 967,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -29284,6 +29284,37 @@
       "owner": {
         "owner1": "ERICA S CLEARY",
         "owner2": null
+      }
+    },
+    {
+      "id": "2404-Mayflower-Dr,-Middleton,-WI-53562",
+      "addressLine1": "2404 Mayflower Dr",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 775000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 3240,
+      "propertyType": "Single Family",
+      "yearBuilt": 1965,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.101081,
+      "longitude": -89.498545,
+      "agent": {
+        "name": "Andrea Bolan",
+        "phone": "6082150420",
+        "email": "andrea.l.bolan@gmail.com"
+      },
+      "office": {
+        "name": "Relish Realty",
+        "phone": "6082150420"
+      },
+      "dateAdded": "2026-05-10T09:26:51.638904Z",
+      "owner": {
+        "owner1": "COURTNEY SKARE",
+        "owner2": "ANDREW HOLDMANN"
       }
     }
   ]
