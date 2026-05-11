@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-10T09:26:51.638904Z",
-  "totalCount": 967,
+  "lastUpdated": "2026-05-11T11:15:52.412589Z",
+  "totalCount": 972,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -29315,6 +29315,161 @@
       "owner": {
         "owner1": "COURTNEY SKARE",
         "owner2": "ANDREW HOLDMANN"
+      }
+    },
+    {
+      "id": "217-N-3rd-St,-Madison,-WI-53704",
+      "addressLine1": "217 N 3rd St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 595000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 1860,
+      "propertyType": "Single Family",
+      "yearBuilt": 1927,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.096884,
+      "longitude": -89.358294,
+      "agent": {
+        "name": "Tom Syring",
+        "phone": "6088432234",
+        "email": "tom@lauerrealtygroup.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "dateAdded": "2026-05-11T11:15:52.412589Z",
+      "owner": {
+        "owner1": "PATRICK DOHERTY",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3153-Bollenbeck-St,-Cross-Plains,-WI-53528",
+      "addressLine1": "3153 Bollenbeck St",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 699900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2900,
+      "propertyType": "Single Family",
+      "yearBuilt": 1994,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.122781,
+      "longitude": -89.629191,
+      "agent": {
+        "name": "Ellie Feldman",
+        "phone": "6082126356",
+        "email": "elliefeldman@remax.net"
+      },
+      "office": {
+        "name": "EXP Realty, LLC",
+        "phone": "6082948448"
+      },
+      "dateAdded": "2026-05-11T11:15:52.412589Z",
+      "owner": {
+        "owner1": "CIESLINSKI TR, CANDACE J",
+        "owner2": null
+      }
+    },
+    {
+      "id": "653-Sheldon-St,-Madison,-WI-53711",
+      "addressLine1": "653 Sheldon St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 584500,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1364,
+      "propertyType": "Single Family",
+      "yearBuilt": 1938,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.058397,
+      "longitude": -89.428022,
+      "agent": {
+        "name": "Gerardo Jimenez",
+        "phone": "6084696651",
+        "email": "madisonhomes@gmail.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-05-11T11:15:52.412589Z",
+      "owner": {
+        "owner1": "DAVID LALIBERTY",
+        "owner2": "MAREN W LALIBERTY"
+      }
+    },
+    {
+      "id": "1218-Jasmine-Dr,-Madison,-WI-53719",
+      "addressLine1": "1218 Jasmine Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 525000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2387,
+      "propertyType": "Single Family",
+      "yearBuilt": 2000,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.040665,
+      "longitude": -89.516012,
+      "agent": {
+        "name": "Aaron Weber",
+        "phone": "6086186683",
+        "email": "aaron@movetomadison.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-05-11T11:15:52.412589Z",
+      "owner": {
+        "owner1": "KRISHNA SUBBA",
+        "owner2": "MANGAL SUBBA"
+      }
+    },
+    {
+      "id": "2249-Eton-Rdg,-Madison,-WI-53726",
+      "addressLine1": "2249 Eton Rdg",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53726",
+      "price": 950000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2101,
+      "propertyType": "Single Family",
+      "yearBuilt": 1921,
+      "listedDate": "2026-05-06T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.065201,
+      "longitude": -89.426276,
+      "agent": {
+        "name": "Steve Schwartz",
+        "phone": "6082883311",
+        "email": "sschwartz@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Monroe St.",
+        "phone": "6082327777"
+      },
+      "dateAdded": "2026-05-11T11:15:52.412589Z",
+      "owner": {
+        "owner1": "PATRICK C POWERS",
+        "owner2": "KATHY A SHENKER-POWERS"
       }
     }
   ]

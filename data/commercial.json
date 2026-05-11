@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-09T09:20:48.440808Z",
+  "lastUpdated": "2026-05-11T11:18:16.013343Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 5,
+  "totalCount": 4,
   "proposals": [
     {
       "id": "BLDNCC-2026-04469",
@@ -51,22 +51,6 @@
       "contractor": "XYZ ROOFCO LLC",
       "contractorAddress": "3075 BRECKINRIDGE BLVD #470, DULUTH, GA 5032230096",
       "category": "Commercial"
-    },
-    {
-      "id": "BLDRPR-2026-05355",
-      "permitNumber": "BLDRPR-2026-05355",
-      "use": "TWO FAMILY RESIDENCES",
-      "address": "2710 UNION ST",
-      "buildingSqft": "0",
-      "estimatedCost": "$15,000",
-      "feesPaid": "$165",
-      "owner": "SANPHILLIPPO, JOHN",
-      "ownerAddress": "KOLIN OHI, 3559 17TH ST, SAN FRANCISCO, CA 94110",
-      "description": "KITCHEN AND BATHROOM REMODEL: REMOVE REPLACE KITCHEN CABINETS IN SAME LAYOUT. NO FRAMING OR MODIFICATIONS TO EXISTING STRUCTURE IN EITHER ROOM.",
-      "issuanceDate": "04/10/2026",
-      "contractor": "ANTON HOMES LLC",
-      "contractorAddress": "1938 E MAIN ST, MADISON, WI 53704",
-      "category": "Renovation"
     },
     {
       "id": "BLDRPR-2026-06871",
