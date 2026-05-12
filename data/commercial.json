@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-11T11:18:16.013343Z",
+  "lastUpdated": "2026-05-12T10:32:14.072632Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 4,
+  "totalCount": 5,
   "proposals": [
     {
       "id": "BLDNCC-2026-04469",
@@ -19,6 +19,22 @@
       "contractor": "SWEENEY CONSTRUCTION CORPORATION",
       "contractorAddress": "1008 FISH HATCHERY RD, MADISON, WI 53715",
       "category": "Renovation"
+    },
+    {
+      "id": "BLDNRC-2026-06380",
+      "permitNumber": "BLDNRC-2026-06380",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2116 S HIGH POINT RD",
+      "buildingSqft": "6,216",
+      "estimatedCost": "$703,306",
+      "feesPaid": "$1,226",
+      "owner": "VH MIDPOINT MEADOWS, LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "description": "NEW TWIN HOME - ZERO LOT LINE",
+      "issuanceDate": "05/11/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial"
     },
     {
       "id": "BLDNRC-2026-04825",
