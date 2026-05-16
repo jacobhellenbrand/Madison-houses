@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-15T10:21:02.339551Z",
-  "totalCount": 1054,
+  "lastUpdated": "2026-05-16T09:27:54.342865Z",
+  "totalCount": 1059,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -32012,6 +32012,161 @@
       "owner": {
         "owner1": "DKHR LAND LLC",
         "owner2": null
+      }
+    },
+    {
+      "id": "808-Williamson-St,-Unit-207,-Madison,-WI-53703",
+      "addressLine1": "808 Williamson St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 679000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1349,
+      "propertyType": "Condo",
+      "yearBuilt": 2006,
+      "listedDate": "2026-05-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.078622,
+      "longitude": -89.371461,
+      "agent": {
+        "name": "Andy Kramer",
+        "phone": "6084699192",
+        "email": "akramer@starkhomes.com"
+      },
+      "office": {
+        "name": "Redfin Corporation",
+        "phone": "4149821336"
+      },
+      "dateAdded": "2026-05-16T09:27:54.342865Z",
+      "owner": {
+        "owner1": "HYE IN CHEE",
+        "owner2": null
+      }
+    },
+    {
+      "id": "625-N-Segoe-Rd,-Unit-406,-Madison,-WI-53705",
+      "addressLine1": "625 N Segoe Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 662000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1561,
+      "propertyType": "Condo",
+      "yearBuilt": 2006,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.073518,
+      "longitude": -89.45594,
+      "agent": {
+        "name": "Denise Holmes",
+        "phone": "6085765556",
+        "email": "dholmes@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "Collective Real Estate Group",
+        "phone": "6086627777"
+      },
+      "dateAdded": "2026-05-16T09:27:54.342865Z",
+      "owner": {
+        "owner1": "CARL K YORITA",
+        "owner2": "PATRICIA J YORITA"
+      }
+    },
+    {
+      "id": "868-Tamarack-Ln,-Sun-Prairie,-WI-53590",
+      "addressLine1": "868 Tamarack Ln",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 485000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1660,
+      "propertyType": "Single Family",
+      "yearBuilt": 2020,
+      "listedDate": "2026-05-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.172254,
+      "longitude": -89.19865,
+      "agent": {
+        "name": "Hansen Home Team",
+        "phone": "6082196506",
+        "email": "hansenhometeam@starkhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-05-16T09:27:54.342865Z",
+      "owner": {
+        "owner1": "SANKET DESAI",
+        "owner2": "JENNA SERSCH"
+      }
+    },
+    {
+      "id": "1413-Schoepp-Ln,-Cross-Plains,-WI-53528",
+      "addressLine1": "1413 Schoepp Ln",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 644725,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1723,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.111276,
+      "longitude": -89.671021,
+      "agent": {
+        "name": "Pam Halverson",
+        "phone": "6083938848",
+        "email": "halversongoetschteam@gmail.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6086438511"
+      },
+      "dateAdded": "2026-05-16T09:27:54.342865Z",
+      "owner": {
+        "owner1": "HORIZON INVESTMENT ASSOCIATES LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2303-Chamberlain-Ave,-Madison,-WI-53726",
+      "addressLine1": "2303 Chamberlain Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53726",
+      "price": 533000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 1603,
+      "propertyType": "Single Family",
+      "yearBuilt": 1926,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.070371,
+      "longitude": -89.426468,
+      "agent": {
+        "name": "Mary Duff",
+        "phone": "6084434815",
+        "email": "mduff@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-05-16T09:27:54.342865Z",
+      "owner": {
+        "owner1": "RUTH, LIFE EST HORRALL",
+        "owner2": "ROBYN H TILLER"
       }
     }
   ]
