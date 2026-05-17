@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-16T09:27:54.342865Z",
-  "totalCount": 1059,
+  "lastUpdated": "2026-05-17T09:45:24.626306Z",
+  "totalCount": 1069,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -32167,6 +32167,316 @@
       "owner": {
         "owner1": "RUTH, LIFE EST HORRALL",
         "owner2": "ROBYN H TILLER"
+      }
+    },
+    {
+      "id": "Bellflower-Dr,-Unit-52,-Deforest,-WI-53532",
+      "addressLine1": "Bellflower Dr",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 465000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1901,
+      "propertyType": "Condo",
+      "yearBuilt": 2026,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.21647236,
+      "longitude": -89.35503418,
+      "agent": {
+        "name": "Kelly S Bennett",
+        "phone": "6088259553",
+        "email": "kelly@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088341722"
+      },
+      "dateAdded": "2026-05-17T09:45:24.626306Z",
+      "owner": {
+        "owner1": "BJS DESIGN-BUILD LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3440-Meadow-Rd,-Verona,-WI-53593",
+      "addressLine1": "3440 Meadow Rd",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 3999000,
+      "bedrooms": 4,
+      "bathrooms": 4.5,
+      "squareFootage": 5345,
+      "propertyType": "Single Family",
+      "yearBuilt": 1997,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.042728,
+      "longitude": -89.563896,
+      "agent": {
+        "name": "Tommy Van Ess",
+        "phone": "6083957375",
+        "email": "vanesst@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-05-17T09:45:24.626306Z",
+      "owner": {
+        "owner1": "DAN LEE LAFLEUR",
+        "owner2": "MARLENE JOY LAFLEUR"
+      }
+    },
+    {
+      "id": "116-118-Proudfit-St,-Madison,-WI-53715",
+      "addressLine1": "116-118 Proudfit St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53715",
+      "price": 695000,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "squareFootage": 2166,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1925,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.065621,
+      "longitude": -89.393515,
+      "agent": {
+        "name": "Matt Lindholm",
+        "phone": "6082739390",
+        "email": "matthewl@brunerrealtyinc.com"
+      },
+      "office": {
+        "name": "Bruner Realty & Management",
+        "phone": "6082739390"
+      },
+      "dateAdded": "2026-05-17T09:45:24.626306Z",
+      "owner": {
+        "owner1": "HOTTER PROPERTIES LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "112-114-Proudfit-St,-Madison,-WI-53715",
+      "addressLine1": "112-114 Proudfit St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53715",
+      "price": 645000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1871,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1916,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.065735,
+      "longitude": -89.393539,
+      "agent": {
+        "name": "Matt Lindholm",
+        "phone": "6082739390",
+        "email": "matthewl@brunerrealtyinc.com"
+      },
+      "office": {
+        "name": "Bruner Realty & Management",
+        "phone": "6082739390"
+      },
+      "dateAdded": "2026-05-17T09:45:24.626306Z",
+      "owner": {
+        "owner1": "HOTTER PROPERTIES LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "422-Oakwood-Dr,-Oregon,-WI-53575",
+      "addressLine1": "422 Oakwood Dr",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 585000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2558,
+      "propertyType": "Single Family",
+      "yearBuilt": 1997,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.919999,
+      "longitude": -89.39477,
+      "agent": {
+        "name": "Sean Coffey",
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6082747500"
+      },
+      "dateAdded": "2026-05-17T09:45:24.626306Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "21-Larkin-St,-Madison,-WI-53705",
+      "addressLine1": "21 Larkin St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 1250000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 3381,
+      "propertyType": "Single Family",
+      "yearBuilt": 1958,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.066549,
+      "longitude": -89.439874,
+      "agent": {
+        "name": "Chas Martin",
+        "phone": "6083349042",
+        "email": "chas@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-05-17T09:45:24.626306Z",
+      "owner": {
+        "owner1": "GLEASON VAALER LIV TRUST",
+        "owner2": null
+      }
+    },
+    {
+      "id": "533-Ohio-Ave,-Madison,-WI-53704",
+      "addressLine1": "533 Ohio Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 565000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1541,
+      "propertyType": "Single Family",
+      "yearBuilt": 1922,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.091105,
+      "longitude": -89.345948,
+      "agent": {
+        "name": "Liz Lauer",
+        "phone": "6084445725",
+        "email": "liz@lauerrealtygroup.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "dateAdded": "2026-05-17T09:45:24.626306Z",
+      "owner": {
+        "owner1": "PETERSEN-NOLTNER TRUST",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3505-Strawberry-Loop,-Middleton,-WI-53562",
+      "addressLine1": "3505 Strawberry Loop",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 574900,
+      "bedrooms": 2,
+      "bathrooms": 2.5,
+      "squareFootage": 1902,
+      "propertyType": "Single Family",
+      "yearBuilt": 2002,
+      "listedDate": "2026-05-13T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.111837,
+      "longitude": -89.495602,
+      "agent": {
+        "name": "Charlie Wills",
+        "phone": "6084009075",
+        "email": "charlie@thewillsagency.com"
+      },
+      "office": {
+        "name": "The Wills Agency",
+        "phone": "6082203282"
+      },
+      "dateAdded": "2026-05-17T09:45:24.626306Z",
+      "owner": {
+        "owner1": "MARK SHAFFAR",
+        "owner2": "VIRGINIA RIESING"
+      }
+    },
+    {
+      "id": "8866-Red-Beryl-Dr,-Middleton,-WI-53562",
+      "addressLine1": "8866 Red Beryl Dr",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 499900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 1737,
+      "propertyType": "Single Family",
+      "yearBuilt": 2007,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.103547,
+      "longitude": -89.54236,
+      "agent": {
+        "name": "Michelle Schreier",
+        "phone": "6085133605",
+        "email": "mschreier@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-05-17T09:45:24.626306Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "813-Feather-Sound-Dr,-Verona,-WI-53593",
+      "addressLine1": "813 Feather Sound Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 450000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1510,
+      "propertyType": "Single Family",
+      "yearBuilt": 2020,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.049759,
+      "longitude": -89.549559,
+      "agent": {
+        "name": "Kyle Ebley",
+        "phone": "6085722084",
+        "email": "kyle@tucciteam.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-05-17T09:45:24.626306Z",
+      "owner": {
+        "owner1": "ERIK MAURER",
+        "owner2": "KRISTINA MAURER"
       }
     }
   ]
