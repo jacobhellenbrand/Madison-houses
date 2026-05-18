@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-17T09:45:24.626306Z",
-  "totalCount": 1069,
+  "lastUpdated": "2026-05-18T11:42:21.127800Z",
+  "totalCount": 1076,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -32477,6 +32477,223 @@
       "owner": {
         "owner1": "ERIK MAURER",
         "owner2": "KRISTINA MAURER"
+      }
+    },
+    {
+      "id": "210-Clear-Pond-Way,-Verona,-WI-53593",
+      "addressLine1": "210 Clear Pond Way",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 895000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2920,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.064085,
+      "longitude": -89.569153,
+      "agent": {
+        "name": "Amy Lessing",
+        "phone": "6088285145",
+        "email": "lessinga@firstweber.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-05-18T11:42:21.127800Z",
+      "owner": {
+        "owner1": "WESTWIND MADISON INC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "9231-Gentle-Feather-Rd,-Madison,-WI-53593",
+      "addressLine1": "9231 Gentle Feather Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 489900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1516,
+      "propertyType": "Multi-Family",
+      "yearBuilt": null,
+      "listedDate": "2026-05-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.050589,
+      "longitude": -89.544022,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-05-18T11:42:21.127800Z",
+      "owner": {
+        "owner1": "LANDBANC VENTURES LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "131-Kensington-Dr,-Madison,-WI-53704",
+      "addressLine1": "131 Kensington Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 675000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1740,
+      "propertyType": "Single Family",
+      "yearBuilt": 1935,
+      "listedDate": "2026-05-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.105865,
+      "longitude": -89.365884,
+      "agent": {
+        "name": "Kathrin Judd",
+        "phone": "6088367433",
+        "email": "juddk@firstweber.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-05-18T11:42:21.127800Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1630-Liatris-Dr,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1630 Liatris Dr",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 1400000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 4568,
+      "propertyType": "Single Family",
+      "yearBuilt": 2020,
+      "listedDate": "2026-05-12T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.206628,
+      "longitude": -89.251863,
+      "agent": {
+        "name": "Gabriell Hamele",
+        "phone": "6088257552",
+        "email": "gabriell.hamele@c21affiliated.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-05-18T11:42:21.127800Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7130-S-Hill-Rd,-Deforest,-WI-53532",
+      "addressLine1": "7130 S Hill Rd",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 489900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2216,
+      "propertyType": "Single Family",
+      "yearBuilt": 1978,
+      "listedDate": "2026-05-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.23789,
+      "longitude": -89.34665,
+      "agent": {
+        "name": "The Lavik Home Team",
+        "phone": "6084408491",
+        "email": "info@lavikhometeam.com"
+      },
+      "office": {
+        "name": "EXP Realty, LLC",
+        "phone": "6084409607"
+      },
+      "dateAdded": "2026-05-18T11:42:21.127800Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3601-Canter-Dr,-Madison,-WI-53718",
+      "addressLine1": "3601 Canter Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 525000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2740,
+      "propertyType": "Single Family",
+      "yearBuilt": 1994,
+      "listedDate": "2026-05-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.113037,
+      "longitude": -89.279412,
+      "agent": {
+        "name": "Kyle Ebley",
+        "phone": "6085722084",
+        "email": "kyle@tucciteam.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-05-18T11:42:21.127800Z",
+      "owner": {
+        "owner1": "REBEKAH NETHKEN ULRICH",
+        "owner2": "ALEXANDER J ULRICH"
+      }
+    },
+    {
+      "id": "2421-Renaissance-Dr,-Fitchburg,-WI-53711",
+      "addressLine1": "2421 Renaissance Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 530800,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 1639,
+      "propertyType": "Single Family",
+      "yearBuilt": 2006,
+      "listedDate": "2026-05-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.026969,
+      "longitude": -89.456385,
+      "agent": {
+        "name": "Leslie Boyea",
+        "phone": "9204907446",
+        "email": "ls@quorumrealty.org"
+      },
+      "office": {
+        "name": "Quorum Realty",
+        "phone": "9204907446"
+      },
+      "dateAdded": "2026-05-18T11:42:21.127800Z",
+      "owner": {
+        "owner1": "JUSTIN HARE",
+        "owner2": null
       }
     }
   ]
