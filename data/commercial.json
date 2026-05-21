@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-18T11:44:18.760503Z",
+  "lastUpdated": "2026-05-21T11:23:20.655591Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 3,
+  "totalCount": 2,
   "proposals": [
     {
       "id": "BLDNCC-2026-04469",
@@ -35,22 +35,6 @@
       "contractor": "WAUNAKEE REMODELING INC",
       "contractorAddress": "1001 FRANK H ST, WAUNAKEE, WI 535972510",
       "category": "Renovation"
-    },
-    {
-      "id": "BLDRPR-2026-06019",
-      "permitNumber": "BLDRPR-2026-06019",
-      "use": "SINGLE FAMILY RESIDENCES",
-      "address": "102 JETTY DR",
-      "buildingSqft": "0",
-      "estimatedCost": "$5,000",
-      "feesPaid": "$105",
-      "owner": "FOY, MORNA K",
-      "ownerAddress": "CANDACE L PANTOGA, 102 JETTY DR, MADISON, WI 53705",
-      "description": "BASEMENT - ADD WINDOW TO EXISTING PARTIALLY FINISHED BASEMENT REC ROOM, OFFICE EXISTING UNDER PERMIT",
-      "issuanceDate": "04/21/2026",
-      "contractor": "OWNER",
-      "contractorAddress": "",
-      "category": "Office"
     }
   ]
 }
