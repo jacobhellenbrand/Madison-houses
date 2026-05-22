@@ -1,9 +1,42 @@
 {
-  "lastUpdated": "2026-05-21T11:23:21.454865Z",
+  "lastUpdated": "2026-05-22T10:50:16.708347Z",
   "source": "City of Madison Planning Division",
   "sourceUrl": "https://www.cityofmadison.com/dpced/planning/current-development-proposals-/1599/",
-  "totalCount": 6,
+  "totalCount": 9,
   "proposals": [
+    {
+      "id": "1336-Drake-St",
+      "address": "1336 Drake St",
+      "submittedDate": "2026-05-21T00:00:00Z",
+      "submittedText": "05/21/2026",
+      "details": "Allow amplified sound in the outdoor eating area of a restaurantRequest/Application Type:Conditional UseLegislative Files:93273Status:Application Under Review",
+      "meetings": "Plan Commission:06/29/2026",
+      "legistarLinks": [],
+      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development/development.cfm?record=LNDUSE-2026-00023",
+      "category": "Retail"
+    },
+    {
+      "id": "1919-Alliant-Energy-Center-Way",
+      "address": "1919 Alliant Energy Center Way",
+      "submittedDate": "2026-05-21T00:00:00Z",
+      "submittedText": "05/21/2026",
+      "details": "Construct additions to existing 172,000 square-foot auditorium (Exhibition Hall at Alliant Energy Center)Request/Application Type:Conditional UseLegislative Files:93275Status:Application Under Review",
+      "meetings": "Urban Design Commission:07/01/2026Plan Commission:07/13/2026",
+      "legistarLinks": [],
+      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development/development.cfm?record=LNDUSE-2026-00024",
+      "category": "Commercial"
+    },
+    {
+      "id": "3517-W-Beltline-Hwy",
+      "address": "3517 W Beltline Hwy",
+      "submittedDate": "2026-05-21T00:00:00Z",
+      "submittedText": "05/21/2026",
+      "details": "Allow warehouse and storage use in a multi-tenant commercial buildingRequest/Application Type:Conditional UseLegislative Files:93272Status:Application Under Review",
+      "meetings": "Plan Commission:06/29/2026",
+      "legistarLinks": [],
+      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development/development.cfm?record=LNDUSE-2026-00022",
+      "category": "Industrial"
+    },
     {
       "id": "4633-Verona-Rd",
       "address": "4633 Verona Rd",
