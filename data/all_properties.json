@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-23T09:50:19.953439Z",
-  "totalCount": 1186,
+  "lastUpdated": "2026-05-24T09:52:23.126310Z",
+  "totalCount": 1192,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -36104,6 +36104,192 @@
       "owner": {
         "owner1": null,
         "owner2": null
+      }
+    },
+    {
+      "id": "2401-County-Rd,-MM,-Fitchburg,-WI-53575",
+      "addressLine1": "2401 County Rd",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 490000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2366,
+      "propertyType": "Single Family",
+      "yearBuilt": 1960,
+      "listedDate": "2026-05-20T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.984634,
+      "longitude": -89.372232,
+      "agent": {
+        "name": "Campos, Kevin",
+        "phone": "6084417777",
+        "email": "kevin@lakeandcityhomes.com"
+      },
+      "office": {
+        "name": "BUNBURY & ASSOCIATES REALTORS",
+        "phone": "6084417777"
+      },
+      "dateAdded": "2026-05-24T09:52:23.126310Z",
+      "owner": {
+        "owner1": "REBECCA BENDER",
+        "owner2": "SARA BENDER"
+      }
+    },
+    {
+      "id": "7777-Elmwood-Ave,-Apt-211,-Middleton,-WI-53562",
+      "addressLine1": "7777 Elmwood Ave",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1482,
+      "propertyType": "Condo",
+      "yearBuilt": 2002,
+      "listedDate": "2026-05-20T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.095467,
+      "longitude": -89.514986,
+      "agent": {
+        "name": "Spencer Schumacher",
+        "phone": "6088412221",
+        "email": "team@spencerreg.com"
+      },
+      "office": {
+        "name": "Spencer Real Estate Group",
+        "phone": "6088412221"
+      },
+      "dateAdded": "2026-05-24T09:52:23.126310Z",
+      "owner": {
+        "owner1": "BRIAN LETHLEAN",
+        "owner2": null
+      }
+    },
+    {
+      "id": "4432-Valor-Way,-Madison,-WI-53718",
+      "addressLine1": "4432 Valor Way",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 599900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2671,
+      "propertyType": "Single Family",
+      "yearBuilt": 2023,
+      "listedDate": "2026-05-20T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.033523,
+      "longitude": -89.295499,
+      "agent": {
+        "name": "Caleb Payne",
+        "phone": "6085560033",
+        "email": "caleb@madcityhomes.com"
+      },
+      "office": {
+        "name": "MADCITYHOMES.COM",
+        "phone": "6082716856"
+      },
+      "dateAdded": "2026-05-24T09:52:23.126310Z",
+      "owner": {
+        "owner1": "JEFFREY BENNETT",
+        "owner2": null
+      }
+    },
+    {
+      "id": "6612-Florance-Ruth-Ln,-Sun-Prairie,-WI-53590",
+      "addressLine1": "6612 Florance Ruth Ln",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 1200000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 3976,
+      "propertyType": "Single Family",
+      "yearBuilt": 2022,
+      "listedDate": "2026-05-20T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.20996,
+      "longitude": -89.253103,
+      "agent": {
+        "name": "Alicia Navarrete",
+        "phone": "6086696483",
+        "email": "alicia@wisconsinfs.com"
+      },
+      "office": {
+        "name": "SCentral WI Fathom Realty, LLC",
+        "phone": "8662348636"
+      },
+      "dateAdded": "2026-05-24T09:52:23.126310Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "409-Badger-Ln,-Waunakee,-WI-53597",
+      "addressLine1": "409 Badger Ln",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 599900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2667,
+      "propertyType": "Single Family",
+      "yearBuilt": 2004,
+      "listedDate": "2026-05-20T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.201767,
+      "longitude": -89.447838,
+      "agent": {
+        "name": "Jenna Rutkowski",
+        "phone": "6087702587",
+        "email": "jen.badgerland@gmail.com"
+      },
+      "office": {
+        "name": "Exclusive Real Estate Group, Inc.",
+        "phone": "6082250611"
+      },
+      "dateAdded": "2026-05-24T09:52:23.126310Z",
+      "owner": {
+        "owner1": "RICHARD E CHRISTMAN",
+        "owner2": "KAREN K CHRISTMAN"
+      }
+    },
+    {
+      "id": "1310-Blazingstar-Ln,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1310 Blazingstar Ln",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 695000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3416,
+      "propertyType": "Single Family",
+      "yearBuilt": 2015,
+      "listedDate": "2026-05-20T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.163986,
+      "longitude": -89.254058,
+      "agent": {
+        "name": "Bill Baker",
+        "phone": "6085756731",
+        "email": "bill@thebakerrealtygroup.com"
+      },
+      "office": {
+        "name": "eXp Realty, LLC",
+        "phone": "8668486990"
+      },
+      "dateAdded": "2026-05-24T09:52:23.126310Z",
+      "owner": {
+        "owner1": "NATHAN P MUELLER",
+        "owner2": "AMY K MUELLER"
       }
     }
   ]
