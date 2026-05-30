@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-29T11:26:44.643910Z",
-  "totalCount": 1255,
+  "lastUpdated": "2026-05-30T09:58:54.128282Z",
+  "totalCount": 1270,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -38243,6 +38243,471 @@
       "owner": {
         "owner1": "SOUTH LIVINGSTON ST CONDO ASSN JUSTIN SATTIN",
         "owner2": null
+      }
+    },
+    {
+      "id": "9-Rustling-Birch-Ct,-Verona,-WI-53593",
+      "addressLine1": "9 Rustling Birch Ct",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 634900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2851,
+      "propertyType": "Single Family",
+      "yearBuilt": 2016,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.05844,
+      "longitude": -89.560877,
+      "agent": {
+        "name": "Chris Barreau",
+        "phone": "6087099001",
+        "email": "chris@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "ARUNANSHU GUPTA",
+        "owner2": "MONICA GUPTA"
+      }
+    },
+    {
+      "id": "843-Indigo-Ln,-Waunakee,-WI-53597",
+      "addressLine1": "843 Indigo Ln",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 459900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1528,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.1951543,
+      "longitude": -89.4391089,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "VH HERITAGE HILLS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "7631-Stones-Throw-Dr,-Madison,-WI-53719",
+      "addressLine1": "7631 Stones Throw Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 499900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1619,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.0288078,
+      "longitude": -89.5173896,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "MARTY CENTURY FARM FAMILY LTD PARTNERSHIP",
+        "owner2": null
+      }
+    },
+    {
+      "id": "18-Hidden-Hollow-Trl,-Madison,-WI-53717",
+      "addressLine1": "18 Hidden Hollow Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 400000,
+      "bedrooms": 2,
+      "bathrooms": 2.5,
+      "squareFootage": 1810,
+      "propertyType": "Condo",
+      "yearBuilt": 1994,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.081902,
+      "longitude": -89.499319,
+      "agent": {
+        "name": "Joffre Pedretti",
+        "phone": "6086988503",
+        "email": "jpedretti@kw.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "PATRICIA J LUKAS",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2109-Winding-Stream-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "2109 Winding Stream Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 619900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1841,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.160864,
+      "longitude": -89.249316,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "VH SMITH CROSSING II LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "379-New-Hampton-Dr,-Oregon,-WI-53575",
+      "addressLine1": "379 New Hampton Dr",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 499900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1628,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.942783,
+      "longitude": -89.378644,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "V&O INVESTORS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1702-Eagle-Eye-St,-Verona,-WI-53593",
+      "addressLine1": "1702 Eagle Eye St",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 809900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2400,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.016543,
+      "longitude": -89.572088,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "V&O INVESTORS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2122-S-High-Point-Rd,-Madison,-WI-53719",
+      "addressLine1": "2122 S High Point Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 419900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1532,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.0299459,
+      "longitude": -89.5195115,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "MARTY CENTURY FARM FAMILY LTD PARTNERSHIP",
+        "owner2": null
+      }
+    },
+    {
+      "id": "409-Coyle-Pkwy,-Cottage-Grove,-WI-53527",
+      "addressLine1": "409 Coyle Pkwy",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 559900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2238,
+      "propertyType": "Single Family",
+      "yearBuilt": 2008,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.092525,
+      "longitude": -89.211729,
+      "agent": {
+        "name": "Erin Flesch",
+        "phone": "6087099288",
+        "email": "erin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "KELLOGG TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2003-Raptor-Dr,-Verona,-WI-53593",
+      "addressLine1": "2003 Raptor Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 799900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 3555,
+      "propertyType": "Single Family",
+      "yearBuilt": 2018,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.028912,
+      "longitude": -89.554839,
+      "agent": {
+        "name": "Laura Hildebrandt Shively",
+        "phone": "6087702764",
+        "email": "shivelyl@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "416-N-Page-St,-Stoughton,-WI-53589",
+      "addressLine1": "416 N Page St",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 420000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 2249,
+      "propertyType": "Single Family",
+      "yearBuilt": 1920,
+      "listedDate": "2026-05-26T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.922068,
+      "longitude": -89.223579,
+      "agent": {
+        "name": "Monika Ramsey",
+        "phone": "6082198907",
+        "email": "monika@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "MADISON J LEE",
+        "owner2": null
+      }
+    },
+    {
+      "id": "100-Melody-Cir,-Verona,-WI-53593",
+      "addressLine1": "100 Melody Cir",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 799900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 3193,
+      "propertyType": "Single Family",
+      "yearBuilt": 1976,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.980457,
+      "longitude": -89.530519,
+      "agent": {
+        "name": "Caleb Payne",
+        "phone": "6085560033",
+        "email": "caleb@madcityhomes.com"
+      },
+      "office": {
+        "name": "MADCITYHOMES.COM",
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "RICARDO CALDERON TEJO",
+        "owner2": "KRISSA BRYN HINZMAN"
+      }
+    },
+    {
+      "id": "4644-Willow-Pass,-Oregon,-WI-53575",
+      "addressLine1": "4644 Willow Pass",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 449800,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2229,
+      "propertyType": "Single Family",
+      "yearBuilt": 1972,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.972764,
+      "longitude": -89.359243,
+      "agent": {
+        "name": "Tim Roehl",
+        "phone": null,
+        "email": "troehl@coldwellhomes.com"
+      },
+      "office": {
+        "name": "Fitchburg Office",
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "STEPHEN G GALARNEAU",
+        "owner2": "DIANE K GALARNEAU"
+      }
+    },
+    {
+      "id": "4401-Crested-Owl-Ln,-Madison,-WI-53718",
+      "addressLine1": "4401 Crested Owl Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 549900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1849,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.034228,
+      "longitude": -89.295608,
+      "agent": {
+        "name": "Caleb Payne",
+        "phone": "6085560033",
+        "email": "caleb@madcityhomes.com"
+      },
+      "office": {
+        "name": "MADCITYHOMES.COM",
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "CITY OF MADISON EDD",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2001-Timber-Lake-Rd,-Oregon,-WI-53575",
+      "addressLine1": "2001 Timber Lake Rd",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 725000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2846,
+      "propertyType": "Single Family",
+      "yearBuilt": 2001,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.961492,
+      "longitude": -89.372454,
+      "agent": {
+        "name": "Kari Manson Hvam",
+        "phone": "6082053010",
+        "email": "kari@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": null
+      },
+      "dateAdded": "2026-05-30T09:58:54.128282Z",
+      "owner": {
+        "owner1": "JUSTIN W CORBIT",
+        "owner2": "JODI L CORBIT"
       }
     }
   ]

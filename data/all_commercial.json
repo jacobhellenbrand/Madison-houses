@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-29T11:28:40.776489Z",
-  "totalCount": 157,
+  "lastUpdated": "2026-05-30T10:02:45.525567Z",
+  "totalCount": 160,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2510,6 +2510,57 @@
       "contractorAddress": "",
       "category": "Office",
       "dateAdded": "2026-05-18T11:44:18.760503Z"
+    },
+    {
+      "id": "BLDRPR-2025-05734",
+      "permitNumber": "BLDRPR-2025-05734",
+      "use": "AMUSEMENT AND RECREATION",
+      "address": "201 STATE ST",
+      "buildingSqft": "0",
+      "estimatedCost": "$284,000",
+      "feesPaid": "$3,124",
+      "owner": "OVERTURE DEVELOPMENT CORP",
+      "ownerAddress": "201 STATE ST, MADISON, WI 53703",
+      "description": "REMOVE EXISTING BALLASTED EPDM ROOF SYSTEM OVER ADMINISTRATIVE OFFICE AREA.  INSTALL NEW VAPOR RETARDER, TAPERED INSULATION SYSTEM, AND ADHERED EPDM ROOF MEMBRANE SYSTEM MEETING UL CLASS A FIRE RATING.",
+      "issuanceDate": "05/29/2026",
+      "contractor": "TILSEN ROOFING CO INC",
+      "contractorAddress": "P.O. BOX 259338, MADISON, WI 53725-338",
+      "category": "Office",
+      "dateAdded": "2026-05-30T10:02:45.525567Z"
+    },
+    {
+      "id": "BLDNCC-2026-03721",
+      "permitNumber": "BLDNCC-2026-03721",
+      "use": "AMUSEMENT AND RECREATION",
+      "address": "2401 GRIMM ST",
+      "buildingSqft": "5,000",
+      "estimatedCost": "$325,785",
+      "feesPaid": "$3,946",
+      "owner": "GREAT LAKES ED LOAN",
+      "ownerAddress": "SERVICES INC % NELNET, 121 S 13TH ST # 201, LINCOLN, NE 68508",
+      "description": "MAD TOWN SKATE - NEW TENANT ALTERATIONS AND CHANGE OF USE",
+      "issuanceDate": "05/12/2026",
+      "contractor": "SUPREME STRUCTURES INC.",
+      "contractorAddress": "455 S JUNCTION RD, MADISON, WI 53719",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-05-30T10:02:45.525567Z"
+    },
+    {
+      "id": "BLDRPR-2026-08902",
+      "permitNumber": "BLDRPR-2026-08902",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "10 SPRINGWOOD CIR",
+      "buildingSqft": "0",
+      "estimatedCost": "$12,000",
+      "feesPaid": "$157",
+      "owner": "TEJEDA, VICTOR M ZAVALA",
+      "ownerAddress": "10 SPRINGWOOD CIR, MADISON, WI 53717-1227",
+      "description": "REMODEL UPPER LEVEL BATHROOM - REMOVE SOFFIT, CHANGE TUB TO TUB/SHOWER",
+      "issuanceDate": "05/29/2026",
+      "contractor": "CLE CONSULTING LLC DBA MCINTOSH HOMES",
+      "contractorAddress": "8155 FORSYTHIA ST, MIDDLETON, WI 53562",
+      "category": "Renovation",
+      "dateAdded": "2026-05-30T10:02:45.525567Z"
     }
   ]
 }
