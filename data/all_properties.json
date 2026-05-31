@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-30T09:58:54.128282Z",
-  "totalCount": 1270,
+  "lastUpdated": "2026-05-31T10:13:32.966665Z",
+  "totalCount": 1275,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -38708,6 +38708,161 @@
       "owner": {
         "owner1": "JUSTIN W CORBIT",
         "owner2": "JODI L CORBIT"
+      }
+    },
+    {
+      "id": "6473-Sunset-Dr,-Verona,-WI-53593",
+      "addressLine1": "6473 Sunset Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 850000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 3090,
+      "propertyType": "Single Family",
+      "yearBuilt": 1964,
+      "listedDate": "2026-05-26T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.9503,
+      "longitude": -89.495569,
+      "agent": {
+        "name": "Robert Anderson",
+        "phone": "6083475534",
+        "email": "robert@stratamadison.com"
+      },
+      "office": {
+        "name": "Strata Real Estate",
+        "phone": null
+      },
+      "dateAdded": "2026-05-31T10:13:32.966665Z",
+      "owner": {
+        "owner1": "NANCY J RUNG",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2412-Kilarney-Way,-Waunakee,-WI-53597",
+      "addressLine1": "2412 Kilarney Way",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 1390000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 5085,
+      "propertyType": "Single Family",
+      "yearBuilt": 2019,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.176231,
+      "longitude": -89.448024,
+      "agent": {
+        "name": "Michael Weiss",
+        "phone": "6087099023",
+        "email": "michael@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": null
+      },
+      "dateAdded": "2026-05-31T10:13:32.966665Z",
+      "owner": {
+        "owner1": "JOSEPH CHECK",
+        "owner2": "HEATHER CHECK"
+      }
+    },
+    {
+      "id": "810-Ganser-Dr,-Waunakee,-WI-53597",
+      "addressLine1": "810 Ganser Dr",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 629000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2709,
+      "propertyType": "Single Family",
+      "yearBuilt": 1997,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.183101,
+      "longitude": -89.47064,
+      "agent": {
+        "name": "Acker Maly Home Team",
+        "phone": "6082122000",
+        "email": "judy@ackermaly.com"
+      },
+      "office": {
+        "name": "RE MAX Preferred",
+        "phone": null
+      },
+      "dateAdded": "2026-05-31T10:13:32.966665Z",
+      "owner": {
+        "owner1": "HAMEISTER LIVING TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "149-Pine-View-Dr,-Madison,-WI-53704",
+      "addressLine1": "149 Pine View Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 500000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2303,
+      "propertyType": "Single Family",
+      "yearBuilt": 2002,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.136528,
+      "longitude": -89.398892,
+      "agent": {
+        "name": "Don White",
+        "phone": "6082794943",
+        "email": "whited@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": null
+      },
+      "dateAdded": "2026-05-31T10:13:32.966665Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1634-Eagle-Eye-St,-Verona,-WI-53593",
+      "addressLine1": "1634 Eagle Eye St",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 829900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2791,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.015239,
+      "longitude": -89.572732,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-05-31T10:13:32.966665Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
       }
     }
   ]
