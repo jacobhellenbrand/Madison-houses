@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-31T10:13:32.966665Z",
-  "totalCount": 1275,
+  "lastUpdated": "2026-06-01T13:34:18.587186Z",
+  "totalCount": 1277,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -38862,6 +38862,68 @@
       "dateAdded": "2026-05-31T10:13:32.966665Z",
       "owner": {
         "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9333-Spirit-St,-Middleton,-WI-53562",
+      "addressLine1": "9333 Spirit St",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 799900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3123,
+      "propertyType": "Single Family",
+      "yearBuilt": 2013,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.066353,
+      "longitude": -89.548554,
+      "agent": {
+        "name": "Wobin Zhang",
+        "phone": "9207372652",
+        "email": "wbzh68@yahoo.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty, Green Bay",
+        "phone": null
+      },
+      "dateAdded": "2026-06-01T13:34:18.587186Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5436-Lacy-Rd,-Fitchburg,-WI-53711",
+      "addressLine1": "5436 Lacy Rd",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 799900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2760,
+      "propertyType": "Single Family",
+      "yearBuilt": 1960,
+      "listedDate": "2026-05-27T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.002007,
+      "longitude": -89.418261,
+      "agent": {
+        "name": "Angel Beyers",
+        "phone": "6088337777",
+        "email": "angel@angelbeyers.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": null
+      },
+      "dateAdded": "2026-06-01T13:34:18.587186Z",
+      "owner": {
+        "owner1": "THOMAS WOODY",
         "owner2": null
       }
     }
