@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-05T11:28:49.102775Z",
+  "lastUpdated": "2026-06-08T12:28:52.033551Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 4,
+  "totalCount": 3,
   "proposals": [
     {
       "id": "BLDRPR-2025-05734",
@@ -50,22 +50,6 @@
       "issuanceDate": "05/29/2026",
       "contractor": "CLE CONSULTING LLC DBA MCINTOSH HOMES",
       "contractorAddress": "8155 FORSYTHIA ST, MIDDLETON, WI 53562",
-      "category": "Renovation"
-    },
-    {
-      "id": "BLDRPR-2026-06089",
-      "permitNumber": "BLDRPR-2026-06089",
-      "use": "SINGLE FAMILY RESIDENCES",
-      "address": "1013 CHIEFTAIN LOOKOUT",
-      "buildingSqft": "0",
-      "estimatedCost": "$22,078",
-      "feesPaid": "$278",
-      "owner": "FROST, SARAH K",
-      "ownerAddress": "& LAYNE A LARSON, 1013 CHIEFTAIN LOOKOUT, MADISON, WI 53711",
-      "description": "BATHROOM REMODEL - REPLACE DOOR, REPLACE FIXTURES, CHANGE FRAMING TO INCREASE CABINET DEPTH",
-      "issuanceDate": "05/06/2026",
-      "contractor": "WAUNAKEE REMODELING INC",
-      "contractorAddress": "1001 FRANK H ST, WAUNAKEE, WI 535972510",
       "category": "Renovation"
     }
   ]
