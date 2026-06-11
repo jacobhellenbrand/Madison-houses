@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-08T12:28:52.033551Z",
-  "totalCount": 160,
+  "lastUpdated": "2026-06-11T12:10:32.936791Z",
+  "totalCount": 162,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2561,6 +2561,40 @@
       "contractorAddress": "8155 FORSYTHIA ST, MIDDLETON, WI 53562",
       "category": "Renovation",
       "dateAdded": "2026-05-30T10:02:45.525567Z"
+    },
+    {
+      "id": "BLDRPR-2026-10616",
+      "permitNumber": "BLDRPR-2026-10616",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1008 SPAIGHT ST",
+      "buildingSqft": "0",
+      "estimatedCost": "$15,000",
+      "feesPaid": "$190",
+      "owner": "DETHMERS, CATHERINE A",
+      "ownerAddress": "DANIEL C O'BRIEN, 1008 SPAIGHT ST, MADISON, WI 53703-3506",
+      "description": "REMODEL BATHROOM - NEW BATHROOM FIXTURES",
+      "issuanceDate": "06/08/2026",
+      "contractor": "ROOT DOWN REMODELING",
+      "contractorAddress": "11033 N WILDER RD, EVANSVILLE, WI 53536",
+      "category": "Renovation",
+      "dateAdded": "2026-06-11T12:10:32.936791Z"
+    },
+    {
+      "id": "BLDRPR-2026-11265",
+      "permitNumber": "BLDRPR-2026-11265",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "101 MERRILL CREST DR",
+      "buildingSqft": "0",
+      "estimatedCost": "$6,200",
+      "feesPaid": "$77",
+      "owner": "ALIOTO, PATRICIA A",
+      "ownerAddress": "101 MERRILL CREST DR, MADISON, WI 53705-3335",
+      "description": "REMODEL KITCHEN - NEW CABINETRY, NO LAYOUT CHANGES",
+      "issuanceDate": "06/08/2026",
+      "contractor": "TIME 2 REMODEL LLC",
+      "contractorAddress": "1218 GILSON ST, MADISON, WI 53715",
+      "category": "Renovation",
+      "dateAdded": "2026-06-11T12:10:32.936791Z"
     }
   ]
 }
