@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-13T10:26:22.325433Z",
-  "totalCount": 1467,
+  "lastUpdated": "2026-06-14T10:47:33.065209Z",
+  "totalCount": 1471,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -44814,6 +44814,130 @@
       "dateAdded": "2026-06-13T10:26:22.325433Z",
       "owner": {
         "owner1": "JAMES WILLIAMS",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1706-Shady-Point-Dr,-Verona,-WI-53593",
+      "addressLine1": "1706 Shady Point Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 949900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3927,
+      "propertyType": "Single Family",
+      "yearBuilt": 2002,
+      "listedDate": "2026-06-10T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.036278,
+      "longitude": -89.561823,
+      "agent": {
+        "name": "Ellie Feldman",
+        "phone": "6082126356",
+        "email": "elliefeldman@remax.net"
+      },
+      "office": {
+        "name": "EXP Realty, LLC",
+        "phone": null
+      },
+      "dateAdded": "2026-06-14T10:47:33.065209Z",
+      "owner": {
+        "owner1": "CLIFFORD WULLSCHLEGER",
+        "owner2": "YVONNE A WULLSCHLEGER"
+      }
+    },
+    {
+      "id": "421-Patrick-Ave,-Waunakee,-WI-53597",
+      "addressLine1": "421 Patrick Ave",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 425000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1828,
+      "propertyType": "Single Family",
+      "yearBuilt": 1966,
+      "listedDate": "2026-06-10T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.196293,
+      "longitude": -89.448007,
+      "agent": {
+        "name": "Kathy Jasper",
+        "phone": "6084458275",
+        "email": "kathyjasper1@gmail.com"
+      },
+      "office": {
+        "name": "Home Connection Realty",
+        "phone": null
+      },
+      "dateAdded": "2026-06-14T10:47:33.065209Z",
+      "owner": {
+        "owner1": "RONALD D FANGMEYER",
+        "owner2": "CYNTHIA D BUZOIANU"
+      }
+    },
+    {
+      "id": "802-Stoney-Hill-Ln,-Cottage-Grove,-WI-53527",
+      "addressLine1": "802 Stoney Hill Ln",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 799900,
+      "bedrooms": 6,
+      "bathrooms": 4,
+      "squareFootage": 4458,
+      "propertyType": "Single Family",
+      "yearBuilt": 2008,
+      "listedDate": "2026-06-10T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.094925,
+      "longitude": -89.210872,
+      "agent": {
+        "name": "Ben Anton",
+        "phone": "6085139757",
+        "email": "benanton@benanton.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": null
+      },
+      "dateAdded": "2026-06-14T10:47:33.065209Z",
+      "owner": {
+        "owner1": "PHILIP G PLOURD",
+        "owner2": "RHONDA K PLOURD"
+      }
+    },
+    {
+      "id": "650-Odell-St,-Madison,-WI-53711",
+      "addressLine1": "650 Odell St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 625000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2603,
+      "propertyType": "Single Family",
+      "yearBuilt": 1955,
+      "listedDate": "2026-06-10T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.050488,
+      "longitude": -89.454009,
+      "agent": {
+        "name": "Stacy Ozanne",
+        "phone": "6083584499",
+        "email": "ozannes@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": null
+      },
+      "dateAdded": "2026-06-14T10:47:33.065209Z",
+      "owner": {
+        "owner1": "JERRY M HAUGH",
         "owner2": null
       }
     }
