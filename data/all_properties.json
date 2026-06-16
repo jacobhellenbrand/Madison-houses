@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-15T13:52:31.503478Z",
-  "totalCount": 1482,
+  "lastUpdated": "2026-06-16T12:51:10.531147Z",
+  "totalCount": 1493,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -45279,6 +45279,347 @@
       "dateAdded": "2026-06-15T13:52:31.503478Z",
       "owner": {
         "owner1": "THOMAS ERICKSON",
+        "owner2": null
+      }
+    },
+    {
+      "id": "7943-Stagecoach-Rd,-Cross-Plains,-WI-53528",
+      "addressLine1": "7943 Stagecoach Rd",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 725000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2424,
+      "propertyType": "Single Family",
+      "yearBuilt": 1985,
+      "listedDate": "2026-06-10T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.107131,
+      "longitude": -89.612963,
+      "agent": {
+        "name": "Matt Roelli",
+        "phone": "8448841500",
+        "email": "matt@soldinmadison.com"
+      },
+      "office": {
+        "name": "eXp Realty, LLC",
+        "phone": null
+      },
+      "dateAdded": "2026-06-16T12:51:10.531147Z",
+      "owner": {
+        "owner1": "TIMOTHY G GURTNER",
+        "owner2": "JILL B GURTNER"
+      }
+    },
+    {
+      "id": "318-Oldfield-Rd,-Madison,-WI-53717",
+      "addressLine1": "318 Oldfield Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 549000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 2374,
+      "propertyType": "Single Family",
+      "yearBuilt": 1978,
+      "listedDate": "2026-06-10T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.072069,
+      "longitude": -89.51214,
+      "agent": {
+        "name": "Matt Silvern",
+        "phone": "6083327565",
+        "email": "msilvern@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": null
+      },
+      "dateAdded": "2026-06-16T12:51:10.531147Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "607-Tabby-Turn-Dr,-Middleton,-WI-53562",
+      "addressLine1": "607 Tabby Turn Dr",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 459900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1765,
+      "propertyType": "Multi-Family",
+      "yearBuilt": null,
+      "listedDate": "2026-06-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.0717068,
+      "longitude": -89.562127,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-06-16T12:51:10.531147Z",
+      "owner": {
+        "owner1": "EGGERT LIVING TRUST",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3509-Cosgrove-Dr,-Madison,-WI-53719",
+      "addressLine1": "3509 Cosgrove Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 445000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1730,
+      "propertyType": "Single Family",
+      "yearBuilt": 1996,
+      "listedDate": "2026-06-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.009839,
+      "longitude": -89.489295,
+      "agent": {
+        "name": "Jadeleen Vang",
+        "phone": "7152120904",
+        "email": "jadeleenvang@gmail.com"
+      },
+      "office": {
+        "name": "Lannon Stone Realty LLC",
+        "phone": null
+      },
+      "dateAdded": "2026-06-16T12:51:10.531147Z",
+      "owner": {
+        "owner1": "CURTIS ZIMMERMAN",
+        "owner2": null
+      }
+    },
+    {
+      "id": "6462-Revere-Pass,-Deforest,-WI-53532",
+      "addressLine1": "6462 Revere Pass",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 759900,
+      "bedrooms": 6,
+      "bathrooms": 4,
+      "squareFootage": 3315,
+      "propertyType": "Single Family",
+      "yearBuilt": 2018,
+      "listedDate": "2026-06-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.201442,
+      "longitude": -89.306988,
+      "agent": {
+        "name": "Erika Kempf",
+        "phone": "6082902702",
+        "email": "erikakempf@realtyexecutives.com"
+      },
+      "office": {
+        "name": "Realty Executives Premier",
+        "phone": null
+      },
+      "dateAdded": "2026-06-16T12:51:10.531147Z",
+      "owner": {
+        "owner1": "TODD POEPPING",
+        "owner2": "DAWN MARIE LEMIRAND-POEPPING"
+      }
+    },
+    {
+      "id": "1013-Tara-Ln,-Waunakee,-WI-53597",
+      "addressLine1": "1013 Tara Ln",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 729900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2605,
+      "propertyType": "Single Family",
+      "yearBuilt": 2015,
+      "listedDate": "2026-06-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.174746,
+      "longitude": -89.455286,
+      "agent": {
+        "name": "Kristin Shields",
+        "phone": "6087098031",
+        "email": "kristin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": null
+      },
+      "dateAdded": "2026-06-16T12:51:10.531147Z",
+      "owner": {
+        "owner1": "RICHARD RILLING",
+        "owner2": "JENNY RILLING"
+      }
+    },
+    {
+      "id": "9338-Highland-Gate-Way,-Verona,-WI-53593",
+      "addressLine1": "9338 Highland Gate Way",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 485000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1786,
+      "propertyType": "Single Family",
+      "yearBuilt": 2020,
+      "listedDate": "2026-06-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.052139,
+      "longitude": -89.548575,
+      "agent": {
+        "name": "Autumn Garrigan",
+        "phone": "9208500926",
+        "email": "autumn@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": null
+      },
+      "dateAdded": "2026-06-16T12:51:10.531147Z",
+      "owner": {
+        "owner1": "LONGFEI LIU",
+        "owner2": "YAO ZHANG"
+      }
+    },
+    {
+      "id": "619-Redan-Dr,-Verona,-WI-53593",
+      "addressLine1": "619 Redan Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 525000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1780,
+      "propertyType": "Single Family",
+      "yearBuilt": 2014,
+      "listedDate": "2026-06-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.045146,
+      "longitude": -89.546616,
+      "agent": {
+        "name": "Sherry Yu",
+        "phone": "6086981500",
+        "email": "sherry@yurealestategroup.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": null
+      },
+      "dateAdded": "2026-06-16T12:51:10.531147Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "517-519-E-Holum-St,-Deforest,-WI-53532",
+      "addressLine1": "517-519 E Holum St",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 600000,
+      "bedrooms": 7,
+      "bathrooms": 4,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1980,
+      "listedDate": "2026-06-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.247451,
+      "longitude": -89.335435,
+      "agent": {
+        "name": "Jo Ferraro Real Estate Team",
+        "phone": "6088381377",
+        "email": "info@soldinmadison.com"
+      },
+      "office": {
+        "name": "eXp Realty - Ferraro Real Estate Team",
+        "phone": null
+      },
+      "dateAdded": "2026-06-16T12:51:10.531147Z",
+      "owner": {
+        "owner1": "LUSITANIA RENTALS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "974-Griffin-Way,-Deforest,-WI-53532",
+      "addressLine1": "974 Griffin Way",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 549900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2685,
+      "propertyType": "Single Family",
+      "yearBuilt": 2019,
+      "listedDate": "2026-06-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.244157,
+      "longitude": -89.365489,
+      "agent": {
+        "name": "Erin Flesch",
+        "phone": "6087099288",
+        "email": "erin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": null
+      },
+      "dateAdded": "2026-06-16T12:51:10.531147Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4692-Gaston-Cir,-Cottage-Grove,-WI-53527",
+      "addressLine1": "4692 Gaston Cir",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 550000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1955,
+      "propertyType": "Single Family",
+      "yearBuilt": 1976,
+      "listedDate": "2026-06-11T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.105813,
+      "longitude": -89.20344,
+      "agent": {
+        "name": "Geri Pettersen",
+        "phone": "6086173486",
+        "email": "g.pettersen@c21affiliated.com"
+      },
+      "office": {
+        "name": "Berkshire Hathaway HomeServices TRUE Realty",
+        "phone": null
+      },
+      "dateAdded": "2026-06-16T12:51:10.531147Z",
+      "owner": {
+        "owner1": "RM SMITH TR",
         "owner2": null
       }
     }
