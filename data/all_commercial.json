@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-11T12:10:32.936791Z",
-  "totalCount": 162,
+  "lastUpdated": "2026-06-18T11:51:04.803794Z",
+  "totalCount": 165,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2595,6 +2595,57 @@
       "contractorAddress": "1218 GILSON ST, MADISON, WI 53715",
       "category": "Renovation",
       "dateAdded": "2026-06-11T12:10:32.936791Z"
+    },
+    {
+      "id": "BLDRPR-2026-12398",
+      "permitNumber": "BLDRPR-2026-12398",
+      "use": "THREE AND FOUR FAMILY",
+      "address": "2706 CENTER AVE",
+      "buildingSqft": "0",
+      "estimatedCost": "$12,000",
+      "feesPaid": "$132",
+      "owner": "WASSERMAN, DAVID A",
+      "ownerAddress": "KIMBERLY E WASSERMAN, 2140 MONROE ST, EUGENE, OR 97405",
+      "description": "TEAR OFF AN RESHINGLE",
+      "issuanceDate": "06/17/2026",
+      "contractor": "ALL SERVICE SPECIALISTS, INC",
+      "contractorAddress": "6516 MONONA DR #118, MONONA, WI 53716",
+      "category": "Commercial",
+      "dateAdded": "2026-06-18T11:51:04.803794Z"
+    },
+    {
+      "id": "BLDNCC-2026-10265",
+      "permitNumber": "BLDNCC-2026-10265",
+      "use": "AMUSEMENT AND RECREATION",
+      "address": "201 STATE ST",
+      "buildingSqft": "150",
+      "estimatedCost": "$32,815",
+      "feesPaid": "$463",
+      "owner": "OVERTURE DEVELOPMENT CORP",
+      "ownerAddress": "201 STATE ST, MADISON, WI 53703",
+      "description": "OVERTURE CENTER- INTERIOR ALTERATION- NEW GLASS PARTITION WITH DOUBLE DOORS",
+      "issuanceDate": "06/17/2026",
+      "contractor": "FINDORFF, J.H.",
+      "contractorAddress": "300 S BEDFORD ST, MADISON, WI 53703",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-06-18T11:51:04.803794Z"
+    },
+    {
+      "id": "BLDNCC-2026-09382",
+      "permitNumber": "BLDNCC-2026-09382",
+      "use": "CONDOMINIUMS",
+      "address": "137 E WILSON ST 510",
+      "buildingSqft": "580",
+      "estimatedCost": "$50,000",
+      "feesPaid": "$650",
+      "owner": "THE LUANNE C. HUMPHRIES REVOCABLE TRUST U/A/D 2/29/16",
+      "ownerAddress": "6145 SUN BLVD, APT 110, SAINT PETERSBURG, FL 33715-1117",
+      "description": "UNIT REMODEL - REMODEL PRIMARY BATHROOM, REPLACE TUB IN SECONDARY BATHROOM, NEW CLOSET IN BEDROOM, PARTITION WALLS IN TV ROOM TO CREATE OFFICE",
+      "issuanceDate": "06/08/2026",
+      "contractor": "BACHMANN CONSTRUCTION CO INC",
+      "contractorAddress": "1201 S STOUGHTON RD, MADISON, WI 53716",
+      "category": "Office",
+      "dateAdded": "2026-06-18T11:51:04.803794Z"
     }
   ]
 }
