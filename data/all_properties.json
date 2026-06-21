@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-20T10:30:42.721660Z",
-  "totalCount": 1569,
+  "lastUpdated": "2026-06-21T11:13:47.881411Z",
+  "totalCount": 1574,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -47976,6 +47976,161 @@
       "dateAdded": "2026-06-20T10:30:42.721660Z",
       "owner": {
         "owner1": "HIGH ROAD DEVELOPMENT COMPANY INC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "3081-Edenberry-St,-Fitchburg,-WI-53711",
+      "addressLine1": "3081 Edenberry St",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 1075000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 4399,
+      "propertyType": "Single Family",
+      "yearBuilt": 2001,
+      "listedDate": "2026-06-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.022795,
+      "longitude": -89.439445,
+      "agent": {
+        "name": "Liz Lauer",
+        "phone": "6084445725",
+        "email": "liz@lauerrealtygroup.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "dateAdded": "2026-06-21T11:13:47.881411Z",
+      "owner": {
+        "owner1": "KIELA/SCHAD LIVING TR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "7138-Leonard-Ln,-Middleton,-WI-53562",
+      "addressLine1": "7138 Leonard Ln",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 609900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1872,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-06-17T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.1201488,
+      "longitude": -89.5037294,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-06-21T11:13:47.881411Z",
+      "owner": {
+        "owner1": "ZIEGLER LIVING TR, LEONARD A & RUTH E",
+        "owner2": null
+      }
+    },
+    {
+      "id": "428-Sugar-Maple-Ln,-Verona,-WI-53593",
+      "addressLine1": "428 Sugar Maple Ln",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 549900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1884,
+      "propertyType": "Single Family",
+      "yearBuilt": 2015,
+      "listedDate": "2026-06-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.055154,
+      "longitude": -89.562994,
+      "agent": {
+        "name": "Chris Barreau",
+        "phone": "6087099001",
+        "email": "chris@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-06-21T11:13:47.881411Z",
+      "owner": {
+        "owner1": "BRYANNA KREKELER",
+        "owner2": "JOSHUA HALL"
+      }
+    },
+    {
+      "id": "7119-Johann-Farm-Rd,-Middleton,-WI-53562",
+      "addressLine1": "7119 Johann Farm Rd",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 659900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2092,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-06-17T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.1189344,
+      "longitude": -89.5026675,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-06-21T11:13:47.881411Z",
+      "owner": {
+        "owner1": "ZIEGLER LIVING TR, LEONARD A & RUTH E",
+        "owner2": null
+      }
+    },
+    {
+      "id": "6-Weir-Cir,-Madison,-WI-53719",
+      "addressLine1": "6 Weir Cir",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 419000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1854,
+      "propertyType": "Single Family",
+      "yearBuilt": 1999,
+      "listedDate": "2026-06-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.007801,
+      "longitude": -89.490313,
+      "agent": {
+        "name": "Xinli Chen",
+        "phone": "6082878969",
+        "email": "xinlichen@gmail.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-06-21T11:13:47.881411Z",
+      "owner": {
+        "owner1": "YANHENG LI",
         "owner2": null
       }
     }
