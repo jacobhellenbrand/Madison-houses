@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-21T11:13:47.881411Z",
-  "totalCount": 1574,
+  "lastUpdated": "2026-06-22T13:32:42.647924Z",
+  "totalCount": 1582,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -48131,6 +48131,254 @@
       "dateAdded": "2026-06-21T11:13:47.881411Z",
       "owner": {
         "owner1": "YANHENG LI",
+        "owner2": null
+      }
+    },
+    {
+      "id": "705-Cozy-Farm-Rd,-Waunakee,-WI-53597",
+      "addressLine1": "705 Cozy Farm Rd",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 439900,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1372,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-06-17T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.1943935,
+      "longitude": -89.4408828,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-06-22T13:32:42.647924Z",
+      "owner": {
+        "owner1": "VH HERITAGE HILLS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "605-5th-St,-Waunakee,-WI-53597",
+      "addressLine1": "605 5th St",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 449900,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1972,
+      "propertyType": "Single Family",
+      "yearBuilt": 1964,
+      "listedDate": "2026-06-16T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.188045,
+      "longitude": -89.464623,
+      "agent": {
+        "name": "Peggy Acker-farber",
+        "phone": "6085754600",
+        "email": "peggy@ackerfarberteam.com"
+      },
+      "office": {
+        "name": "RE MAX Preferred",
+        "phone": "6088494663"
+      },
+      "dateAdded": "2026-06-22T13:32:42.647924Z",
+      "owner": {
+        "owner1": "ROMAN D PUCCETTI",
+        "owner2": null
+      }
+    },
+    {
+      "id": "302-Glen-Hwy,-Madison,-WI-53705",
+      "addressLine1": "302 Glen Hwy",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 485000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1323,
+      "propertyType": "Single Family",
+      "yearBuilt": 1950,
+      "listedDate": "2026-06-16T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.071291,
+      "longitude": -89.476302,
+      "agent": {
+        "name": "Liz Slaby",
+        "phone": "6087992317",
+        "email": "liz@mhbrealestate.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-06-22T13:32:42.647924Z",
+      "owner": {
+        "owner1": "BEEMER HILL TRUST",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2660-Spring-Hill-Dr,-Stoughton,-WI-53589",
+      "addressLine1": "2660 Spring Hill Dr",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 425000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1680,
+      "propertyType": "Single Family",
+      "yearBuilt": 1971,
+      "listedDate": "2026-06-16T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 42.989142,
+      "longitude": -89.211483,
+      "agent": {
+        "name": "Solveig Anne Schroerlucke",
+        "phone": "6084050927",
+        "email": "solveig@huskyhomeswi.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-06-22T13:32:42.647924Z",
+      "owner": {
+        "owner1": "DAVID M AMBLE",
+        "owner2": "MARY L AMBLE"
+      }
+    },
+    {
+      "id": "1735-Waverly-Way,-Verona,-WI-53593",
+      "addressLine1": "1735 Waverly Way",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 504900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1812,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-06-17T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.0168188,
+      "longitude": -89.5704433,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-06-22T13:32:42.647924Z",
+      "owner": {
+        "owner1": "MARTY CENTURY FARM FAMILY LLP",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1289-Crossing-Ridge-Trl,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1289 Crossing Ridge Trl",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 430000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 2018,
+      "propertyType": "Single Family",
+      "yearBuilt": 1975,
+      "listedDate": "2026-06-16T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.197692,
+      "longitude": -89.218156,
+      "agent": {
+        "name": "Spencer Schumacher",
+        "phone": "6088412221",
+        "email": "team@spencerreg.com"
+      },
+      "office": {
+        "name": "Spencer Real Estate Group",
+        "phone": "6088412221"
+      },
+      "dateAdded": "2026-06-22T13:32:42.647924Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2124-S-High-Point-Rd,-Madison,-WI-53719",
+      "addressLine1": "2124 S High Point Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 424900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1532,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-06-17T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.029875,
+      "longitude": -89.5195109,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-06-22T13:32:42.647924Z",
+      "owner": {
+        "owner1": "MARTY CENTURY FARM FAMILY LTD PARTNERSHIP",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1003-Merri-Hill-Dr,-Oregon,-WI-53575",
+      "addressLine1": "1003 Merri Hill Dr",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 539900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1572,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-06-17T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.9414201,
+      "longitude": -89.3782005,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-06-22T13:32:42.647924Z",
+      "owner": {
+        "owner1": null,
         "owner2": null
       }
     }
