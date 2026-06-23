@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-22T13:39:44.208937Z",
+  "lastUpdated": "2026-06-23T11:16:00.789912Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 4,
+  "totalCount": 3,
   "proposals": [
     {
       "id": "BLDRPR-2026-12398",
@@ -51,22 +51,6 @@
       "contractor": "FINDORFF, J.H.",
       "contractorAddress": "300 S BEDFORD ST, MADISON, WI 53703",
       "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDNCC-2026-09382",
-      "permitNumber": "BLDNCC-2026-09382",
-      "use": "CONDOMINIUMS",
-      "address": "137 E WILSON ST 510",
-      "buildingSqft": "580",
-      "estimatedCost": "$50,000",
-      "feesPaid": "$650",
-      "owner": "THE LUANNE C. HUMPHRIES REVOCABLE TRUST U/A/D 2/29/16",
-      "ownerAddress": "6145 SUN BLVD, APT 110, SAINT PETERSBURG, FL 33715-1117",
-      "description": "UNIT REMODEL - REMODEL PRIMARY BATHROOM, REPLACE TUB IN SECONDARY BATHROOM, NEW CLOSET IN BEDROOM, PARTITION WALLS IN TV ROOM TO CREATE OFFICE",
-      "issuanceDate": "06/08/2026",
-      "contractor": "BACHMANN CONSTRUCTION CO INC",
-      "contractorAddress": "1201 S STOUGHTON RD, MADISON, WI 53716",
-      "category": "Office"
     }
   ]
 }
