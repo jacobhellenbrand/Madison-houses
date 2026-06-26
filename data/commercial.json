@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-23T11:16:00.789912Z",
+  "lastUpdated": "2026-06-26T10:51:20.356811Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 3,
+  "totalCount": 1,
   "proposals": [
     {
       "id": "BLDRPR-2026-12398",
@@ -19,38 +19,6 @@
       "contractor": "ALL SERVICE SPECIALISTS, INC",
       "contractorAddress": "6516 MONONA DR #118, MONONA, WI 53716",
       "category": "Commercial"
-    },
-    {
-      "id": "BLDRPR-2025-05734",
-      "permitNumber": "BLDRPR-2025-05734",
-      "use": "AMUSEMENT AND RECREATION",
-      "address": "201 STATE ST",
-      "buildingSqft": "0",
-      "estimatedCost": "$284,000",
-      "feesPaid": "$3,124",
-      "owner": "OVERTURE DEVELOPMENT CORP",
-      "ownerAddress": "201 STATE ST, MADISON, WI 53703",
-      "description": "REMOVE EXISTING BALLASTED EPDM ROOF SYSTEM OVER ADMINISTRATIVE OFFICE AREA.  INSTALL NEW VAPOR RETARDER, TAPERED INSULATION SYSTEM, AND ADHERED EPDM ROOF MEMBRANE SYSTEM MEETING UL CLASS A FIRE RATING.",
-      "issuanceDate": "05/29/2026",
-      "contractor": "TILSEN ROOFING CO INC",
-      "contractorAddress": "P.O. BOX 259338, MADISON, WI 53725-338",
-      "category": "Office"
-    },
-    {
-      "id": "BLDNCC-2026-10265",
-      "permitNumber": "BLDNCC-2026-10265",
-      "use": "AMUSEMENT AND RECREATION",
-      "address": "201 STATE ST",
-      "buildingSqft": "150",
-      "estimatedCost": "$32,815",
-      "feesPaid": "$463",
-      "owner": "OVERTURE DEVELOPMENT CORP",
-      "ownerAddress": "201 STATE ST, MADISON, WI 53703",
-      "description": "OVERTURE CENTER- INTERIOR ALTERATION- NEW GLASS PARTITION WITH DOUBLE DOORS",
-      "issuanceDate": "06/17/2026",
-      "contractor": "FINDORFF, J.H.",
-      "contractorAddress": "300 S BEDFORD ST, MADISON, WI 53703",
-      "category": "Tenant Buildout"
     }
   ]
 }
