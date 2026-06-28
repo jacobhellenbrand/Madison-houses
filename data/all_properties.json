@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-27T10:05:47.270128Z",
-  "totalCount": 1685,
+  "lastUpdated": "2026-06-28T10:25:45.729706Z",
+  "totalCount": 1686,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -51573,6 +51573,37 @@
       "owner": {
         "owner1": "ELLIOTT KERBEL",
         "owner2": "MONICA KANE"
+      }
+    },
+    {
+      "id": "4230-Redtail-Pass,-Middleton,-WI-53562",
+      "addressLine1": "4230 Redtail Pass",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 725000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 3098,
+      "propertyType": "Single Family",
+      "yearBuilt": 1999,
+      "listedDate": "2026-06-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.123845,
+      "longitude": -89.475164,
+      "agent": {
+        "name": "Keith Mcneely",
+        "phone": "6083704020",
+        "email": "keith@keithmcneelyhomes.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-06-28T10:25:45.729706Z",
+      "owner": {
+        "owner1": "DONALD D NIESTROM",
+        "owner2": "KRISTINE NIESTROM"
       }
     }
   ]
