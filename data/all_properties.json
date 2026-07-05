@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-04T10:07:36.257941Z",
-  "totalCount": 1773,
+  "lastUpdated": "2026-07-05T10:10:09.430413Z",
+  "totalCount": 1778,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -54300,6 +54300,161 @@
       "dateAdded": "2026-07-04T10:07:36.257941Z",
       "owner": {
         "owner1": "MARTY CENTURY FARM FAMILY LTD PARTNERSHIP",
+        "owner2": null
+      }
+    },
+    {
+      "id": "8059-Creek-Crossing-Way,-Cross-Plains,-WI-53528",
+      "addressLine1": "8059 Creek Crossing Way",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 469900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1420,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-07-02T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.127476,
+      "longitude": -89.629761,
+      "agent": {
+        "name": "Trey Recknor",
+        "phone": "6082064213",
+        "email": "treyrecknorpg@gmail.com"
+      },
+      "office": {
+        "name": "Stark Company, Realtors",
+        "phone": "6082263000"
+      },
+      "dateAdded": "2026-07-05T10:10:09.430413Z",
+      "owner": {
+        "owner1": "CREEK CROSSING PARTNERS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "9203-Gentle-Feather-Rd,-Madison,-WI-53593",
+      "addressLine1": "9203 Gentle Feather Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 454900,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1317,
+      "propertyType": "Multi-Family",
+      "yearBuilt": null,
+      "listedDate": "2026-07-03T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.050581,
+      "longitude": -89.543022,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-07-05T10:10:09.430413Z",
+      "owner": {
+        "owner1": "LANDBANC VENTURES LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "321-4th-St,-Brooklyn,-WI-53521",
+      "addressLine1": "321 4th St",
+      "city": "Brooklyn",
+      "state": "WI",
+      "zipCode": "53521",
+      "price": 532900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 3210,
+      "propertyType": "Single Family",
+      "yearBuilt": 2006,
+      "listedDate": "2026-07-02T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.85765,
+      "longitude": -89.377917,
+      "agent": {
+        "name": "Kelly Doyle",
+        "phone": "6086691010",
+        "email": "kelly@kellydoylehomes.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-07-05T10:10:09.430413Z",
+      "owner": {
+        "owner1": "ELIOTT S SARNOW",
+        "owner2": "HEIDI L SARNOW"
+      }
+    },
+    {
+      "id": "7627-Stones-Throw-Dr,-Madison,-WI-53719",
+      "addressLine1": "7627 Stones Throw Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 489900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1575,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-07-02T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.028866,
+      "longitude": -89.517189,
+      "agent": {
+        "name": "Todd Pierce",
+        "phone": "6082263018",
+        "email": "tpierce@veridianhomes.com"
+      },
+      "office": {
+        "name": "Stark Company, Realtors",
+        "phone": "6082263000"
+      },
+      "dateAdded": "2026-07-05T10:10:09.430413Z",
+      "owner": {
+        "owner1": "MARTY CENTURY FARM FAMILY LTD PARTNERSHIP",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1552-Eagle-Eye-St,-Verona,-WI-53593",
+      "addressLine1": "1552 Eagle Eye St",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 659900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2045,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-07-02T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.014103,
+      "longitude": -89.572725,
+      "agent": {
+        "name": "Greenlee, Jeff",
+        "phone": "6082134849",
+        "email": "jgreenlee@veridianhomes.com"
+      },
+      "office": {
+        "name": "Stark Company, Realtors",
+        "phone": "6082263000"
+      },
+      "dateAdded": "2026-07-05T10:10:09.430413Z",
+      "owner": {
+        "owner1": null,
         "owner2": null
       }
     }
