@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-05T10:10:09.430413Z",
-  "totalCount": 1778,
+  "lastUpdated": "2026-07-06T12:02:49.193704Z",
+  "totalCount": 1784,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -40411,8 +40411,8 @@
       },
       "dateAdded": "2026-06-04T10:58:32.723243Z",
       "owner": {
-        "owner1": null,
-        "owner2": null
+        "owner1": "JOHN MOLLOY GLENN",
+        "owner2": "MICHELE OHTA-GLENN"
       }
     },
     {
@@ -54456,6 +54456,192 @@
       "owner": {
         "owner1": null,
         "owner2": null
+      }
+    },
+    {
+      "id": "5-Parklawn-Pl,-Madison,-WI-53705",
+      "addressLine1": "5 Parklawn Pl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 700000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2017,
+      "propertyType": "Single Family",
+      "yearBuilt": 1965,
+      "listedDate": "2026-07-02T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.060356,
+      "longitude": -89.454196,
+      "agent": {
+        "name": "Nicole Trethewey-rawling",
+        "phone": "6088523545",
+        "email": "ntrawling@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-07-06T12:02:49.193704Z",
+      "owner": {
+        "owner1": "CHRISTOPHER G ROOSLI",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1713-Adams-St,-Madison,-WI-53711",
+      "addressLine1": "1713 Adams St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 965000,
+      "bedrooms": 4,
+      "bathrooms": 1.5,
+      "squareFootage": 2512,
+      "propertyType": "Single Family",
+      "yearBuilt": 1906,
+      "listedDate": "2026-07-02T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.063751,
+      "longitude": -89.413071,
+      "agent": {
+        "name": "Jo Ferraro Real Estate Team",
+        "phone": "6088381377",
+        "email": "info@soldinmadison.com"
+      },
+      "office": {
+        "name": "eXp Realty - Ferraro Real Estate Team",
+        "phone": "6088381377"
+      },
+      "dateAdded": "2026-07-06T12:02:49.193704Z",
+      "owner": {
+        "owner1": "DENNIS LINDL",
+        "owner2": "YVONNE LINDL"
+      }
+    },
+    {
+      "id": "7909-Gigawatt-Dr,-Madison,-WI-53719",
+      "addressLine1": "7909 Gigawatt Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 574900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1572,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-07-02T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.039331,
+      "longitude": -89.52001,
+      "agent": {
+        "name": "Todd Pierce",
+        "phone": "6082263018",
+        "email": "tpierce@veridianhomes.com"
+      },
+      "office": {
+        "name": "Stark Company, Realtors",
+        "phone": "6082263000"
+      },
+      "dateAdded": "2026-07-06T12:02:49.193704Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6302-Dylyn-Dr,-Madison,-WI-53719",
+      "addressLine1": "6302 Dylyn Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 440000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1765,
+      "propertyType": "Single Family",
+      "yearBuilt": 1996,
+      "listedDate": "2026-07-03T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.014788,
+      "longitude": -89.493659,
+      "agent": {
+        "name": "Shelley Lazzareschi",
+        "phone": "6082153873",
+        "email": "shelley@madcitydreamhomes.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-07-06T12:02:49.193704Z",
+      "owner": {
+        "owner1": "KIRSTEN L ALWORTH",
+        "owner2": null
+      }
+    },
+    {
+      "id": "4017-Zeno-St,-Madison,-WI-53704",
+      "addressLine1": "4017 Zeno St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 405000,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 1205,
+      "propertyType": "Single Family",
+      "yearBuilt": 1955,
+      "listedDate": "2026-07-02T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.137032,
+      "longitude": -89.365125,
+      "agent": {
+        "name": "Marlys Smith",
+        "phone": "6088337777",
+        "email": "msmith@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-07-06T12:02:49.193704Z",
+      "owner": {
+        "owner1": "LAUREN A BRISCHKE",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1416-Kings-Lynn-Rd,-Stoughton,-WI-53589",
+      "addressLine1": "1416 Kings Lynn Rd",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 775000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 3692,
+      "propertyType": "Single Family",
+      "yearBuilt": 1992,
+      "listedDate": "2026-07-03T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.930512,
+      "longitude": -89.24226,
+      "agent": {
+        "name": "Lindsay Gallagher",
+        "phone": "6088739239",
+        "email": "lindsay@elevateestatesrealty.com"
+      },
+      "office": {
+        "name": "Elevate Estates",
+        "phone": "6088739239"
+      },
+      "dateAdded": "2026-07-06T12:02:49.193704Z",
+      "owner": {
+        "owner1": "JOSEPH P NEIGUM",
+        "owner2": "TESSA NEIGUM"
       }
     }
   ]

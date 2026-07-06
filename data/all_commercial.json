@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-26T10:51:20.356811Z",
-  "totalCount": 165,
+  "lastUpdated": "2026-07-06T12:05:03.131297Z",
+  "totalCount": 166,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2646,6 +2646,23 @@
       "contractorAddress": "1201 S STOUGHTON RD, MADISON, WI 53716",
       "category": "Office",
       "dateAdded": "2026-06-18T11:51:04.803794Z"
+    },
+    {
+      "id": "BLDRPR-2026-11608",
+      "permitNumber": "BLDRPR-2026-11608",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "10 SCRANTON CT",
+      "buildingSqft": "0",
+      "estimatedCost": "$80,000",
+      "feesPaid": "$905",
+      "owner": "THE TIM CLOSE LIVING TRUST",
+      "ownerAddress": "10 SCRANTON CT, MADISON, WI 53719",
+      "description": "FINISH BASEMENT - ADD BATHROOM, OFFICE, MUSIC ROOM AND BATHROOM",
+      "issuanceDate": "06/30/2026",
+      "contractor": "OWNER",
+      "contractorAddress": "",
+      "category": "Office",
+      "dateAdded": "2026-07-06T12:05:03.131297Z"
     }
   ]
 }
