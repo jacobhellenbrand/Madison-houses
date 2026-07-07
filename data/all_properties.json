@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T12:02:49.193704Z",
-  "totalCount": 1784,
+  "lastUpdated": "2026-07-07T10:53:00.869425Z",
+  "totalCount": 1788,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -54642,6 +54642,130 @@
       "owner": {
         "owner1": "JOSEPH P NEIGUM",
         "owner2": "TESSA NEIGUM"
+      }
+    },
+    {
+      "id": "6854-Karolina-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "6854 Karolina Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 949900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3787,
+      "propertyType": "Single Family",
+      "yearBuilt": 2025,
+      "listedDate": "2026-07-02T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.22369,
+      "longitude": -89.242753,
+      "agent": {
+        "name": "Brandon Buell",
+        "phone": "6082154143",
+        "email": "brandon@buellhomes.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-07-07T10:53:00.869425Z",
+      "owner": {
+        "owner1": "HAPPY VALLEY ADDITION LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1200-Stone-Edge-Ct,-Waunakee,-WI-53597",
+      "addressLine1": "1200 Stone Edge Ct",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 699900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2243,
+      "propertyType": "Single Family",
+      "yearBuilt": 2013,
+      "listedDate": "2026-07-04T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.20619,
+      "longitude": -89.447169,
+      "agent": {
+        "name": "Peggy Acker-farber",
+        "phone": "6085754600",
+        "email": "peggy@ackerfarberteam.com"
+      },
+      "office": {
+        "name": "RE MAX Preferred",
+        "phone": "6088494663"
+      },
+      "dateAdded": "2026-07-07T10:53:00.869425Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7226-Hubbard-Ave,-Middleton,-WI-53562",
+      "addressLine1": "7226 Hubbard Ave",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 899900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 1766,
+      "propertyType": "Single Family",
+      "yearBuilt": 1920,
+      "listedDate": "2026-07-06T00:00:00.000Z",
+      "daysOnMarket": 2,
+      "latitude": 43.095392,
+      "longitude": -89.506456,
+      "agent": {
+        "name": "Mike Adler",
+        "phone": "6082355115",
+        "email": "mikeadler@tds.net"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-07-07T10:53:00.869425Z",
+      "owner": {
+        "owner1": "JOSEPH A ONOPA",
+        "owner2": "ALISSA V ONOPA"
+      }
+    },
+    {
+      "id": "1418-Arrowood-Dr,-Madison,-WI-53704",
+      "addressLine1": "1418 Arrowood Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 500000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1721,
+      "propertyType": "Single Family",
+      "yearBuilt": 1962,
+      "listedDate": "2026-07-06T00:00:00.000Z",
+      "daysOnMarket": 2,
+      "latitude": 43.122044,
+      "longitude": -89.368137,
+      "agent": {
+        "name": "Jimmer Yunek",
+        "phone": "6082795542",
+        "email": "jyunek@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-07-07T10:53:00.869425Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
       }
     }
   ]
