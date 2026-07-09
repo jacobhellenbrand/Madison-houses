@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-08T10:14:06.636115Z",
-  "totalCount": 1799,
+  "lastUpdated": "2026-07-09T10:52:07.677435Z",
+  "totalCount": 1809,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -55106,6 +55106,316 @@
       "dateAdded": "2026-07-08T10:14:06.636115Z",
       "owner": {
         "owner1": "THE WOODED EDGE LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "5110-Pebblebrook-Dr,-Madison,-WI-53716",
+      "addressLine1": "5110 Pebblebrook Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53716",
+      "price": 779900,
+      "bedrooms": 8,
+      "bathrooms": 4,
+      "squareFootage": 3600,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1981,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.067547,
+      "longitude": -89.291826,
+      "agent": {
+        "name": "Chad Scott",
+        "phone": "6082201211",
+        "email": "chadscott@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088341722"
+      },
+      "dateAdded": "2026-07-09T10:52:07.677435Z",
+      "owner": {
+        "owner1": "PRODUCTIVE PROPERTIES LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2521-Clover-Point-Dr,-Fitchburg,-WI-53711",
+      "addressLine1": "2521 Clover Point Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 514900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1502,
+      "propertyType": "Single Family",
+      "yearBuilt": null,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 42.991922,
+      "longitude": -89.406989,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-07-09T10:52:07.677435Z",
+      "owner": {
+        "owner1": "DKHR LAND LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "701-Pinecrest-Dr,-Madison,-WI-53714",
+      "addressLine1": "701 Pinecrest Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53714",
+      "price": 629900,
+      "bedrooms": 6,
+      "bathrooms": 4,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1957,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.108074,
+      "longitude": -89.333655,
+      "agent": {
+        "name": "Jessica Janssen",
+        "phone": "9208192158",
+        "email": "jessica@designrealtyteam.com"
+      },
+      "office": {
+        "name": "Design Realty",
+        "phone": "9208192158"
+      },
+      "dateAdded": "2026-07-09T10:52:07.677435Z",
+      "owner": {
+        "owner1": "JHR INVESTMENTS LLC",
+        "owner2": null
+      }
+    },
+    {
+      "id": "2910-Ravine-Dr,-Middleton,-WI-53562",
+      "addressLine1": "2910 Ravine Dr",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 565000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2700,
+      "propertyType": "Single Family",
+      "yearBuilt": 1975,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.106786,
+      "longitude": -89.506115,
+      "agent": {
+        "name": "Julie Colmar",
+        "phone": "6088527336",
+        "email": "juliecolmar@thealvaradogroup.com"
+      },
+      "office": {
+        "name": "Lifestyle Realty, Madison",
+        "phone": "6088527336"
+      },
+      "dateAdded": "2026-07-09T10:52:07.677435Z",
+      "owner": {
+        "owner1": "KELLY J CROCKER",
+        "owner2": "DANIEL J RAYBROOK"
+      }
+    },
+    {
+      "id": "526-Woodside-Ter,-Madison,-WI-53711",
+      "addressLine1": "526 Woodside Ter",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 685000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2128,
+      "propertyType": "Single Family",
+      "yearBuilt": 1953,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.054759,
+      "longitude": -89.454011,
+      "agent": {
+        "name": "Chas Martin",
+        "phone": "6083349042",
+        "email": "chas@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-07-09T10:52:07.677435Z",
+      "owner": {
+        "owner1": "JENNIFER L JEFFRESS",
+        "owner2": null
+      }
+    },
+    {
+      "id": "445-Caromar-Dr,-Madison,-WI-53711",
+      "addressLine1": "445 Caromar Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 695000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2089,
+      "propertyType": "Single Family",
+      "yearBuilt": 1951,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.058495,
+      "longitude": -89.448767,
+      "agent": {
+        "name": "Jamie Miller",
+        "phone": "6083353410",
+        "email": "jamie@themillerrealestategroup.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-07-09T10:52:07.677435Z",
+      "owner": {
+        "owner1": "THOMAS MARTINELLI",
+        "owner2": "ANN MARTINELLI"
+      }
+    },
+    {
+      "id": "2116-S-High-Point-Rd,-Madison,-WI-53719",
+      "addressLine1": "2116 S High Point Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 424900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1656,
+      "propertyType": "Multi-Family",
+      "yearBuilt": null,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.030101,
+      "longitude": -89.51951,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-07-09T10:52:07.677435Z",
+      "owner": {
+        "owner1": "MARTY CENTURY FARM FAMILY LTD PARTNERSHIP",
+        "owner2": null
+      }
+    },
+    {
+      "id": "299-Hallmark-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "299 Hallmark Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 534900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1892,
+      "propertyType": "Single Family",
+      "yearBuilt": 2017,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.173245,
+      "longitude": -89.27388,
+      "agent": {
+        "name": "Erin Flesch",
+        "phone": "6087099288",
+        "email": "erin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-07-09T10:52:07.677435Z",
+      "owner": {
+        "owner1": "LUCAS A WORZALLA",
+        "owner2": "REBECCA L WORZALLA"
+      }
+    },
+    {
+      "id": "1905-Ellen-Ave,-Madison,-WI-53716",
+      "addressLine1": "1905 Ellen Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53716",
+      "price": 445000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 2036,
+      "propertyType": "Single Family",
+      "yearBuilt": 1978,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.0716,
+      "longitude": -89.289251,
+      "agent": {
+        "name": "Kyle Broom",
+        "phone": "2623703244",
+        "email": "donnajlabarge@gmail.com"
+      },
+      "office": {
+        "name": "Y Realty Wisconsin",
+        "phone": "2623703244"
+      },
+      "dateAdded": "2026-07-09T10:52:07.677435Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "456-Savannah-Dr,-Oregon,-WI-53575",
+      "addressLine1": "456 Savannah Dr",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 429900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1525,
+      "propertyType": "Single Family",
+      "yearBuilt": null,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 42.9414827,
+      "longitude": -89.3775301,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-07-09T10:52:07.677435Z",
+      "owner": {
+        "owner1": "V&O INVESTORS LLC",
         "owner2": null
       }
     }
