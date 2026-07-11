@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-10T10:50:57.102089Z",
-  "totalCount": 1818,
+  "lastUpdated": "2026-07-11T09:26:25.741570Z",
+  "totalCount": 1823,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -55696,6 +55696,161 @@
       "owner": {
         "owner1": "DEREK BUCHOLZ",
         "owner2": "RHIAN BUCHOLZ"
+      }
+    },
+    {
+      "id": "1133-Frisch-Rd,-Madison,-WI-53711",
+      "addressLine1": "1133 Frisch Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 495000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2088,
+      "propertyType": "Single Family",
+      "yearBuilt": 1973,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.041109,
+      "longitude": -89.492492,
+      "agent": {
+        "name": "Erin Flesch",
+        "phone": "6087099288",
+        "email": "erin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-07-11T09:26:25.741570Z",
+      "owner": {
+        "owner1": "ANDREA MOSKAL",
+        "owner2": "PETER MOSKAL"
+      }
+    },
+    {
+      "id": "1201-Velvet-Leaf-Dr,-Madison,-WI-53719",
+      "addressLine1": "1201 Velvet Leaf Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 549900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2186,
+      "propertyType": "Single Family",
+      "yearBuilt": 2000,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.041717,
+      "longitude": -89.515081,
+      "agent": {
+        "name": "Neil Kerwin",
+        "phone": "6083657791",
+        "email": "neilkerwin13@gmail.com"
+      },
+      "office": {
+        "name": "Kerwin's Real Estate Agency",
+        "phone": "6083657791"
+      },
+      "dateAdded": "2026-07-11T09:26:25.741570Z",
+      "owner": {
+        "owner1": "FATIMA RODRIQUEZ PILAR",
+        "owner2": null
+      }
+    },
+    {
+      "id": "1601-Schreiner-Ln,-Waunakee,-WI-53597",
+      "addressLine1": "1601 Schreiner Ln",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 1345000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 4141,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.17224187,
+      "longitude": -89.46627433,
+      "agent": {
+        "name": "Stuart Meland",
+        "phone": "6084383150",
+        "email": "stuart@madcityhomes.com"
+      },
+      "office": {
+        "name": "MADCITYHOMES.COM",
+        "phone": "6082716856"
+      },
+      "dateAdded": "2026-07-11T09:26:25.741570Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "546-Echo-Valley-Rd,-Brooklyn,-WI-53521",
+      "addressLine1": "546 Echo Valley Rd",
+      "city": "Brooklyn",
+      "state": "WI",
+      "zipCode": "53521",
+      "price": 825000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 3801,
+      "propertyType": "Single Family",
+      "yearBuilt": 1992,
+      "listedDate": "2026-07-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.884501,
+      "longitude": -89.42607,
+      "agent": {
+        "name": "The Lavik Home Team",
+        "phone": "6084408491",
+        "email": "info@lavikhometeam.com"
+      },
+      "office": {
+        "name": "EXP Realty, LLC",
+        "phone": "6084409607"
+      },
+      "dateAdded": "2026-07-11T09:26:25.741570Z",
+      "owner": {
+        "owner1": "JACOB J ANDERSON",
+        "owner2": "DEANNA J ANDERSON"
+      }
+    },
+    {
+      "id": "5001-Tocora-Ln,-Madison,-WI-53711",
+      "addressLine1": "5001 Tocora Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 425000,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 1015,
+      "propertyType": "Single Family",
+      "yearBuilt": 1959,
+      "listedDate": "2026-07-07T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.058292,
+      "longitude": -89.464432,
+      "agent": {
+        "name": "Chris Venden",
+        "phone": "6082797852",
+        "email": "chris@madcitydreamhomes.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-07-11T09:26:25.741570Z",
+      "owner": {
+        "owner1": "JON R GOODYEAR",
+        "owner2": null
       }
     }
   ]

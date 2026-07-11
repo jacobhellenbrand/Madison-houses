@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T12:05:03.131297Z",
-  "totalCount": 166,
+  "lastUpdated": "2026-07-11T09:30:53.258870Z",
+  "totalCount": 169,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2663,6 +2663,57 @@
       "contractorAddress": "",
       "category": "Office",
       "dateAdded": "2026-07-06T12:05:03.131297Z"
+    },
+    {
+      "id": "BLDRPR-2026-13192",
+      "permitNumber": "BLDRPR-2026-13192",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2043 BAIRD ST",
+      "buildingSqft": "0",
+      "estimatedCost": "$19,000",
+      "feesPaid": "$209",
+      "owner": "CITY OF MADISON CDA",
+      "ownerAddress": "PO BOX 1785, MADISON, WI 53701-1785",
+      "description": "KITCHEN REMODEL (NO LAYOUT ALT, NO STRUCTURAL ALT): REPLACE FLOORING, KITCHEN CABINETS, INTERIOR DOOR SLABS",
+      "issuanceDate": "06/29/2026",
+      "contractor": "D&H ROYALE CONSTRUCTION LLC",
+      "contractorAddress": "562 ENTERPRISE DR, LAKE MILLS, WI 53551",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-07-11T09:30:53.258870Z"
+    },
+    {
+      "id": "BLDNRC-2026-11236",
+      "permitNumber": "BLDNRC-2026-11236",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2107 LEGACY LN",
+      "buildingSqft": "4,168",
+      "estimatedCost": "$707,252",
+      "feesPaid": "$910",
+      "owner": "VH MIDPOINT MEADOWS, LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "description": "NEW TWIN HOME ZERO LOT LINE",
+      "issuanceDate": "06/18/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial",
+      "dateAdded": "2026-07-11T09:30:53.258870Z"
+    },
+    {
+      "id": "BLDNRC-2026-10640",
+      "permitNumber": "BLDNRC-2026-10640",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2119 LEGACY LN",
+      "buildingSqft": "6,242",
+      "estimatedCost": "$723,005",
+      "feesPaid": "$1,188",
+      "owner": "VH MIDPOINT MEADOWS, LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "description": "NEW TWIN HOME ZERO LOT LINE",
+      "issuanceDate": "06/22/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial",
+      "dateAdded": "2026-07-11T09:30:53.258870Z"
     }
   ]
 }
