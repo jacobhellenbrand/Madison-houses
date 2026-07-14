@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-11T09:30:53.258870Z",
-  "totalCount": 169,
+  "lastUpdated": "2026-07-14T09:59:30.002760Z",
+  "totalCount": 172,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -2714,6 +2714,57 @@
       "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
       "category": "Commercial",
       "dateAdded": "2026-07-11T09:30:53.258870Z"
+    },
+    {
+      "id": "BLDRPR-2026-14729",
+      "permitNumber": "BLDRPR-2026-14729",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2420 CENTER AVE",
+      "buildingSqft": "0",
+      "estimatedCost": "$18,500",
+      "feesPaid": "$209",
+      "owner": "KOX, ANN",
+      "ownerAddress": "BRIAN KOX, 3910 ZENO ST, MADISON, WI 53704",
+      "description": "REPLACING HOUSE ROOF",
+      "issuanceDate": "07/09/2026",
+      "contractor": "RIDGE TOP EXTERIORS INC",
+      "contractorAddress": "4620 DOVETAIL DR, MADISON, WI 53704",
+      "category": "Commercial",
+      "dateAdded": "2026-07-14T09:59:30.002760Z"
+    },
+    {
+      "id": "BLDRPR-2026-14083",
+      "permitNumber": "BLDRPR-2026-14083",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2801 CENTER AVE",
+      "buildingSqft": "0",
+      "estimatedCost": "$47,700",
+      "feesPaid": "$528",
+      "owner": "ARANGUA JR, EDUARDO",
+      "ownerAddress": "THOMAS A SCHAEFFER, 2801 CENTER AVE, MADISON, WI 53704-5701",
+      "description": "REPLACE ROOF AND SIDING",
+      "issuanceDate": "07/03/2026",
+      "contractor": "GENESIS EXTERIOR CORPORATION",
+      "contractorAddress": "4401 FEMRITE DR #C, MADISON, WI 53716",
+      "category": "Commercial",
+      "dateAdded": "2026-07-14T09:59:30.002760Z"
+    },
+    {
+      "id": "BLDRPR-2026-14696",
+      "permitNumber": "BLDRPR-2026-14696",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2802 CENTER AVE",
+      "buildingSqft": "0",
+      "estimatedCost": "$21,463",
+      "feesPaid": "$242",
+      "owner": "NEWSOM, ROBERT S",
+      "ownerAddress": "2802 CENTER AVE, MADISON, WI 53704-5702",
+      "description": "TEAR OFF AND REROOF AND SIDING",
+      "issuanceDate": "07/09/2026",
+      "contractor": "PRO RESTORATION SOLUTIONS LLC",
+      "contractorAddress": "7848 BURDEN RD, MACHESNEY PARK, IL 61115",
+      "category": "Commercial",
+      "dateAdded": "2026-07-14T09:59:30.002760Z"
     }
   ]
 }
