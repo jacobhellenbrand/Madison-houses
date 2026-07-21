@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T10:49:21.567190Z",
-  "totalCount": 1952,
+  "lastUpdated": "2026-07-21T10:22:51.038793Z",
+  "totalCount": 1955,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -59847,6 +59847,99 @@
         "phone": "6084679596"
       },
       "dateAdded": "2026-07-20T10:49:21.567190Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2801-Tucson-Trl,-Madison,-WI-53719",
+      "addressLine1": "2801 Tucson Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 525000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2150,
+      "propertyType": "Single Family",
+      "yearBuilt": 1994,
+      "listedDate": "2026-07-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.022982,
+      "longitude": -89.511451,
+      "agent": {
+        "name": "Ericka Doran",
+        "phone": "6082139053",
+        "email": "ericka@doranrealestate.com"
+      },
+      "office": {
+        "name": "Relish Realty",
+        "phone": "6082150420"
+      },
+      "dateAdded": "2026-07-21T10:22:51.038793Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "29-Westend-Cir,-Madison,-WI-53704",
+      "addressLine1": "29 Westend Cir",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 590000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3287,
+      "propertyType": "Single Family",
+      "yearBuilt": 1996,
+      "listedDate": "2026-07-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.116823,
+      "longitude": -89.3001,
+      "agent": {
+        "name": "Brad Acker",
+        "phone": "6082257231",
+        "email": "brad.acker@yahoo.com"
+      },
+      "office": {
+        "name": "Brad Acker",
+        "phone": "6082257231"
+      },
+      "dateAdded": "2026-07-21T10:22:51.038793Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "613-Greenfield-Dr,-Deforest,-WI-53532",
+      "addressLine1": "613 Greenfield Dr",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 499900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2433,
+      "propertyType": "Single Family",
+      "yearBuilt": 1999,
+      "listedDate": "2026-07-16T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.239716,
+      "longitude": -89.335305,
+      "agent": {
+        "name": "Garret Clemment",
+        "phone": "6087098033",
+        "email": "garret@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-07-21T10:22:51.038793Z",
       "owner": {
         "owner1": null,
         "owner2": null
