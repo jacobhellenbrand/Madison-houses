@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-25T09:43:55.313357Z",
-  "totalCount": 2032,
+  "lastUpdated": "2026-07-26T09:56:03.919896Z",
+  "totalCount": 2038,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -62327,6 +62327,192 @@
         "phone": "6088494000"
       },
       "dateAdded": "2026-07-25T09:43:55.313357Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1714-Sawtooth-Ln,-Madison,-WI-53719",
+      "addressLine1": "1714 Sawtooth Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 700000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3531,
+      "propertyType": "Single Family",
+      "yearBuilt": 2007,
+      "listedDate": "2026-07-22T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.032822,
+      "longitude": -89.519345,
+      "agent": {
+        "name": "Cody Burger",
+        "phone": "5634512346",
+        "email": "cody@exitunlimited.com"
+      },
+      "office": {
+        "name": "EXIT Realty Unlimited",
+        "phone": "5632317738"
+      },
+      "dateAdded": "2026-07-26T09:56:03.919896Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2618-Stevens-St,-Madison,-WI-53705",
+      "addressLine1": "2618 Stevens St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 600000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1266,
+      "propertyType": "Single Family",
+      "yearBuilt": 1932,
+      "listedDate": "2026-07-22T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.072545,
+      "longitude": -89.432573,
+      "agent": {
+        "name": "Spencer Schumacher",
+        "phone": "6088412221",
+        "email": "team@spencerreg.com"
+      },
+      "office": {
+        "name": "Spencer Real Estate Group",
+        "phone": "6088412221"
+      },
+      "dateAdded": "2026-07-26T09:56:03.919896Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "901-Eisenhower-Rd,-Stoughton,-WI-53589",
+      "addressLine1": "901 Eisenhower Rd",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 450000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2336,
+      "propertyType": "Single Family",
+      "yearBuilt": 1973,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.929628,
+      "longitude": -89.231225,
+      "agent": {
+        "name": "Eric Olson",
+        "phone": "6085759272",
+        "email": "contactmanage-bunbury@virtualproperties.com;eolson@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "BUNBURY & ASSOCIATES REALTORS",
+        "phone": "6088733252"
+      },
+      "dateAdded": "2026-07-26T09:56:03.919896Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "237-N-Main-St,-Cottage-Grove,-WI-53527",
+      "addressLine1": "237 N Main St",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 430000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 1092,
+      "propertyType": "Single Family",
+      "yearBuilt": 1960,
+      "listedDate": "2026-07-22T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.079877,
+      "longitude": -89.200006,
+      "agent": {
+        "name": "Kyle Broom",
+        "phone": "2623703244",
+        "email": "donnajlabarge@gmail.com"
+      },
+      "office": {
+        "name": "Y Realty Wisconsin",
+        "phone": "9493314140"
+      },
+      "dateAdded": "2026-07-26T09:56:03.919896Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "206-Green-Lake-Pass,-Madison,-WI-53705",
+      "addressLine1": "206 Green Lake Pass",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 735000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2966,
+      "propertyType": "Single Family",
+      "yearBuilt": 1966,
+      "listedDate": "2026-07-22T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.070315,
+      "longitude": -89.467476,
+      "agent": {
+        "name": "Mary Whitcomb",
+        "phone": "6088285117",
+        "email": "whitcombm@firstweber.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-07-26T09:56:03.919896Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "360-S-Goldenrod-Dr,-Sun-Prairie,-WI-53590",
+      "addressLine1": "360 S Goldenrod Dr",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 468900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1850,
+      "propertyType": "Single Family",
+      "yearBuilt": 2012,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.172531,
+      "longitude": -89.269236,
+      "agent": {
+        "name": "Yishu Jiang",
+        "phone": "6083478302",
+        "email": "realtor.suejiang@gmail.com"
+      },
+      "office": {
+        "name": "Tri-River Realty",
+        "phone": "6082839335"
+      },
+      "dateAdded": "2026-07-26T09:56:03.919896Z",
       "owner": {
         "owner1": null,
         "owner2": null
