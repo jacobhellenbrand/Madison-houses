@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-23T10:25:12.037301Z",
+  "lastUpdated": "2026-07-27T11:21:38.806502Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 3,
+  "totalCount": 4,
   "proposals": [
     {
       "id": "BLDRPR-2026-13192",
@@ -50,6 +50,22 @@
       "issuanceDate": "07/09/2026",
       "contractor": "RIDGE TOP EXTERIORS INC",
       "contractorAddress": "4620 DOVETAIL DR, MADISON, WI 53704",
+      "category": "Commercial"
+    },
+    {
+      "id": "BLDRPR-2026-14083",
+      "permitNumber": "BLDRPR-2026-14083",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2801 CENTER AVE",
+      "buildingSqft": "0",
+      "estimatedCost": "$47,700",
+      "feesPaid": "$528",
+      "owner": "ARANGUA JR, EDUARDO",
+      "ownerAddress": "THOMAS A SCHAEFFER, 2801 CENTER AVE, MADISON, WI 53704-5701",
+      "description": "REPLACE ROOF AND SIDING",
+      "issuanceDate": "07/03/2026",
+      "contractor": "GENESIS EXTERIOR CORPORATION",
+      "contractorAddress": "4401 FEMRITE DR #C, MADISON, WI 53716",
       "category": "Commercial"
     }
   ]

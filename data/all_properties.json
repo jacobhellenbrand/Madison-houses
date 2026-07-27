@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-26T09:56:03.919896Z",
-  "totalCount": 2038,
+  "lastUpdated": "2026-07-27T11:17:40.978979Z",
+  "totalCount": 2042,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -62513,6 +62513,130 @@
         "phone": "6082839335"
       },
       "dateAdded": "2026-07-26T09:56:03.919896Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3818-Ice-Age-Dr,-Madison,-WI-53719",
+      "addressLine1": "3818 Ice Age Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 500000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1801,
+      "propertyType": "Single Family",
+      "yearBuilt": 2003,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.004234,
+      "longitude": -89.510906,
+      "agent": {
+        "name": "Kelly Doyle",
+        "phone": "6086691010",
+        "email": "kelly@kellydoylehomes.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-07-27T11:17:40.978979Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6837-Woodland-Dr,-Waunakee,-WI-53597",
+      "addressLine1": "6837 Woodland Dr",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 2250000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2437,
+      "propertyType": "Single Family",
+      "yearBuilt": 2007,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.176263,
+      "longitude": -89.519844,
+      "agent": {
+        "name": "Luke Bruckner",
+        "phone": "6084459852",
+        "email": "lukebrealty@gmail.com"
+      },
+      "office": {
+        "name": "Collective Real Estate Group",
+        "phone": "6086627777"
+      },
+      "dateAdded": "2026-07-27T11:17:40.978979Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3062-Pleasant-St,-Sun-Prairie,-WI-53590",
+      "addressLine1": "3062 Pleasant St",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 500000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1988,
+      "propertyType": "Single Family",
+      "yearBuilt": 2017,
+      "listedDate": "2026-07-24T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.167981,
+      "longitude": -89.278893,
+      "agent": {
+        "name": "Christine Cooper",
+        "phone": "6086180079",
+        "email": "christine.cooper@remax.net"
+      },
+      "office": {
+        "name": "Remax Preferred",
+        "phone": "6088359989"
+      },
+      "dateAdded": "2026-07-27T11:17:40.978979Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2209-Prairie-Rd,-Madison,-WI-53711",
+      "addressLine1": "2209 Prairie Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 409900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1694,
+      "propertyType": "Single Family",
+      "yearBuilt": 1964,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.028449,
+      "longitude": -89.48844,
+      "agent": {
+        "name": "Logan Mallek",
+        "phone": "6084384196",
+        "email": "logan@theminterteam.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-07-27T11:17:40.978979Z",
       "owner": {
         "owner1": null,
         "owner2": null
