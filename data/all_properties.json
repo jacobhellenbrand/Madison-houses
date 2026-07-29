@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-28T10:31:35.052013Z",
-  "totalCount": 2057,
+  "lastUpdated": "2026-07-29T10:35:43.652109Z",
+  "totalCount": 2066,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -63102,6 +63102,285 @@
         "phone": "6088293900"
       },
       "dateAdded": "2026-07-28T10:31:35.052013Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3900-Manitou-Way,-Madison,-WI-53711",
+      "addressLine1": "3900 Manitou Way",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 819000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1774,
+      "propertyType": "Single Family",
+      "yearBuilt": 1940,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.046983,
+      "longitude": -89.439174,
+      "agent": {
+        "name": "Deborah Lawson",
+        "phone": "6082120306",
+        "email": "dlawson@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Monroe St.",
+        "phone": "6082327777"
+      },
+      "dateAdded": "2026-07-29T10:35:43.652109Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2310-2312-Post-Rd,-Madison,-WI-53713",
+      "addressLine1": "2310-2312 Post Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53713",
+      "price": 460000,
+      "bedrooms": 6,
+      "bathrooms": 2,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1980,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.026915,
+      "longitude": -89.419772,
+      "agent": {
+        "name": "Trish Schaefer",
+        "phone": "6083472647",
+        "email": "trish.schaef@gmail.com"
+      },
+      "office": {
+        "name": "American, REALTORS",
+        "phone": "6088342600"
+      },
+      "dateAdded": "2026-07-29T10:35:43.652109Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7019-Havenswood-Dr,-Madison,-WI-53718",
+      "addressLine1": "7019 Havenswood Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 418000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1540,
+      "propertyType": "Condo",
+      "yearBuilt": 2005,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.086315,
+      "longitude": -89.259691,
+      "agent": {
+        "name": "Juli Stinson",
+        "phone": "6083353095",
+        "email": "juli@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Sun Prairie",
+        "phone": "6088373777"
+      },
+      "dateAdded": "2026-07-29T10:35:43.652109Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5240-Brandenburg-Way,-Madison,-WI-53718",
+      "addressLine1": "5240 Brandenburg Way",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 440000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 1825,
+      "propertyType": "Single Family",
+      "yearBuilt": 2005,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.030776,
+      "longitude": -89.291065,
+      "agent": {
+        "name": "Marine Yoo",
+        "phone": "6084690058",
+        "email": "marine@yoorealtygroup.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-07-29T10:35:43.652109Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3-Fairview-Trl,-Waunakee,-WI-53597",
+      "addressLine1": "3 Fairview Trl",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 625000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2551,
+      "propertyType": "Condo",
+      "yearBuilt": 1999,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.193268,
+      "longitude": -89.460198,
+      "agent": {
+        "name": "Patrick Bushek",
+        "phone": "6082772790",
+        "email": "pbushek@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-07-29T10:35:43.652109Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6711-S-Chickahauk-Trl,-Middleton,-WI-53562",
+      "addressLine1": "6711 S Chickahauk Trl",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 1050000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 3680,
+      "propertyType": "Single Family",
+      "yearBuilt": 2016,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.115584,
+      "longitude": -89.496597,
+      "agent": {
+        "name": "Mark Gladue",
+        "phone": "6085839028",
+        "email": "mark@lauerrealtygroup.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "dateAdded": "2026-07-29T10:35:43.652109Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "316-S-Page-St,-Stoughton,-WI-53589",
+      "addressLine1": "316 S Page St",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 475000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2446,
+      "propertyType": "Single Family",
+      "yearBuilt": 1900,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 42.916254,
+      "longitude": -89.223899,
+      "agent": {
+        "name": "Solveig Anne Schroerlucke",
+        "phone": "6084050927",
+        "email": "solveig@huskyhomeswi.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-07-29T10:35:43.652109Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "416-Stoneridge-Ter,-Deforest,-WI-53532",
+      "addressLine1": "416 Stoneridge Ter",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 545000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3140,
+      "propertyType": "Single Family",
+      "yearBuilt": 1989,
+      "listedDate": "2026-07-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.242473,
+      "longitude": -89.34989,
+      "agent": {
+        "name": "Nicole Goggio",
+        "phone": "6086096868",
+        "email": "nicolegoggio@realtyexecutives.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-07-29T10:35:43.652109Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "10-Glen-Brook-Way,-Unit-105,-Fitchburg,-WI-53711",
+      "addressLine1": "10 Glen Brook Way",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 450000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1691,
+      "propertyType": "Condo",
+      "yearBuilt": 2011,
+      "listedDate": "2026-07-24T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.000755,
+      "longitude": -89.423859,
+      "agent": {
+        "name": "Jamie Miller",
+        "phone": "6083353410",
+        "email": "jamie@themillerrealestategroup.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-07-29T10:35:43.652109Z",
       "owner": {
         "owner1": null,
         "owner2": null
