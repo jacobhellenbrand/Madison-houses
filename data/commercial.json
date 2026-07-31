@@ -1,72 +1,7 @@
 {
-  "lastUpdated": "2026-07-27T11:21:38.806502Z",
+  "lastUpdated": "2026-07-31T10:38:55.599589Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 4,
-  "proposals": [
-    {
-      "id": "BLDRPR-2026-13192",
-      "permitNumber": "BLDRPR-2026-13192",
-      "use": "TWO FAMILY RESIDENCES",
-      "address": "2043 BAIRD ST",
-      "buildingSqft": "0",
-      "estimatedCost": "$19,000",
-      "feesPaid": "$209",
-      "owner": "CITY OF MADISON CDA",
-      "ownerAddress": "PO BOX 1785, MADISON, WI 53701-1785",
-      "description": "KITCHEN REMODEL (NO LAYOUT ALT, NO STRUCTURAL ALT): REPLACE FLOORING, KITCHEN CABINETS, INTERIOR DOOR SLABS",
-      "issuanceDate": "06/29/2026",
-      "contractor": "D&H ROYALE CONSTRUCTION LLC",
-      "contractorAddress": "562 ENTERPRISE DR, LAKE MILLS, WI 53551",
-      "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDRPR-2026-15873",
-      "permitNumber": "BLDRPR-2026-15873",
-      "use": "TWO FAMILY RESIDENCES",
-      "address": "2302 CENTER AVE",
-      "buildingSqft": "0",
-      "estimatedCost": "$40,000",
-      "feesPaid": "$440",
-      "owner": "LAVENDEL, BRIAN J",
-      "ownerAddress": "& KIMBERLY R WILSON, 2302 CENTER AVE, MADISON, WI 53704",
-      "description": "RE- ROOF  & RE-SIDING",
-      "issuanceDate": "07/16/2026",
-      "contractor": "RODRIGUEZ EXTERIORS LLC",
-      "contractorAddress": "1510 W MAIN ST #1, SUN PRAIRIE, WI 53590",
-      "category": "Commercial"
-    },
-    {
-      "id": "BLDRPR-2026-14729",
-      "permitNumber": "BLDRPR-2026-14729",
-      "use": "TWO FAMILY RESIDENCES",
-      "address": "2420 CENTER AVE",
-      "buildingSqft": "0",
-      "estimatedCost": "$18,500",
-      "feesPaid": "$209",
-      "owner": "KOX, ANN",
-      "ownerAddress": "BRIAN KOX, 3910 ZENO ST, MADISON, WI 53704",
-      "description": "REPLACING HOUSE ROOF",
-      "issuanceDate": "07/09/2026",
-      "contractor": "RIDGE TOP EXTERIORS INC",
-      "contractorAddress": "4620 DOVETAIL DR, MADISON, WI 53704",
-      "category": "Commercial"
-    },
-    {
-      "id": "BLDRPR-2026-14083",
-      "permitNumber": "BLDRPR-2026-14083",
-      "use": "TWO FAMILY RESIDENCES",
-      "address": "2801 CENTER AVE",
-      "buildingSqft": "0",
-      "estimatedCost": "$47,700",
-      "feesPaid": "$528",
-      "owner": "ARANGUA JR, EDUARDO",
-      "ownerAddress": "THOMAS A SCHAEFFER, 2801 CENTER AVE, MADISON, WI 53704-5701",
-      "description": "REPLACE ROOF AND SIDING",
-      "issuanceDate": "07/03/2026",
-      "contractor": "GENESIS EXTERIOR CORPORATION",
-      "contractorAddress": "4401 FEMRITE DR #C, MADISON, WI 53716",
-      "category": "Commercial"
-    }
-  ]
+  "totalCount": 0,
+  "proposals": []
 }
