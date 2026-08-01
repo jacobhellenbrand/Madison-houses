@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T10:35:38.500301Z",
-  "totalCount": 2090,
+  "lastUpdated": "2026-08-01T09:55:58.470906Z",
+  "totalCount": 2091,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -64125,6 +64125,37 @@
         "phone": "6088341722"
       },
       "dateAdded": "2026-07-31T10:35:38.500301Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "8437-Ellington-Way,-Middleton,-WI-53562",
+      "addressLine1": "8437 Ellington Way",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 700000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3165,
+      "propertyType": "Single Family",
+      "yearBuilt": 1998,
+      "listedDate": "2026-07-28T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.113878,
+      "longitude": -89.564677,
+      "agent": {
+        "name": "Tim Vitense",
+        "phone": "6085760044",
+        "email": "tjvitense@kw.com"
+      },
+      "office": {
+        "name": "Strategic Real Estate Experts",
+        "phone": "6085760044"
+      },
+      "dateAdded": "2026-08-01T09:55:58.470906Z",
       "owner": {
         "owner1": null,
         "owner2": null
