@@ -1,153 +1,63 @@
 {
-  "lastUpdated": "2026-08-01T09:55:58.470906Z",
+  "lastUpdated": "2026-08-02T09:53:58.056330Z",
   "city": "Madison",
   "state": "WI",
-  "totalCount": 24,
+  "totalCount": 19,
   "properties": [
     {
-      "id": "1248-S-High-Point-Rd,-Madison,-WI-53719",
-      "addressLine1": "1248 S High Point Rd",
+      "id": "309-W-Washington-Ave,-Unit-801,-Madison,-WI-53703",
+      "addressLine1": "309 W Washington Ave",
       "city": "Madison",
       "state": "WI",
-      "zipCode": "53719",
-      "price": 499900,
-      "bedrooms": 3,
-      "bathrooms": 2.5,
-      "squareFootage": 1690,
-      "propertyType": "Single Family",
-      "yearBuilt": 2026,
-      "listedDate": "2026-07-26T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.039775738024,
-      "longitude": -89.520490273776,
-      "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
-      },
-      "office": {
-        "name": null,
-        "phone": null
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "9236-Gentle-Feather-Rd,-Madison,-WI-53593",
-      "addressLine1": "9236 Gentle Feather Rd",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53593",
-      "price": 454900,
-      "bedrooms": 3,
-      "bathrooms": 2.5,
-      "squareFootage": 1525,
-      "propertyType": "Single Family",
-      "yearBuilt": null,
-      "listedDate": "2026-07-26T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.0510204,
-      "longitude": -89.5441441,
-      "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
-      },
-      "office": {
-        "name": null,
-        "phone": null
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "7726-Stones-Throw-Dr,-Madison,-WI-53719",
-      "addressLine1": "7726 Stones Throw Dr",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53719",
-      "price": 459900,
-      "bedrooms": 3,
-      "bathrooms": 2.5,
-      "squareFootage": 1516,
-      "propertyType": "Single Family",
-      "yearBuilt": 2026,
-      "listedDate": "2026-07-26T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.0291778,
-      "longitude": -89.5196504,
-      "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
-      },
-      "office": {
-        "name": null,
-        "phone": null
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "4886-Romaine-Rd,-Fitchburg,-WI-53711",
-      "addressLine1": "4886 Romaine Rd",
-      "city": "Fitchburg",
-      "state": "WI",
-      "zipCode": "53711",
-      "price": 429900,
-      "bedrooms": 3,
-      "bathrooms": 2.5,
-      "squareFootage": 1577,
-      "propertyType": "Single Family",
-      "yearBuilt": 2023,
-      "listedDate": "2026-07-26T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.010882,
-      "longitude": -89.373416,
-      "agent": {
-        "name": "Barnes & Associates Realty Group Noel Barnes",
-        "phone": "6087330194",
-        "email": "noel@barnesrealtygroup.org"
-      },
-      "office": {
-        "name": "Barnes & Associates Realty Group",
-        "phone": "6082947401"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "3160-S-High-Point-Rd,-Madison,-WI-53719",
-      "addressLine1": "3160 S High Point Rd",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53719",
-      "price": 439900,
+      "zipCode": "53703",
+      "price": 569900,
       "bedrooms": 2,
       "bathrooms": 2,
-      "squareFootage": 1642,
+      "squareFootage": 1146,
       "propertyType": "Condo",
-      "yearBuilt": 2020,
-      "listedDate": "2026-07-26T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.016802,
-      "longitude": -89.51939,
+      "yearBuilt": 2008,
+      "listedDate": "2026-07-28T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.071761,
+      "longitude": -89.38712,
       "agent": {
-        "name": "Kristin Shields",
-        "phone": "6087098031",
-        "email": "kristin@mhbrealestate.com"
+        "name": "Laura Lynch",
+        "phone": "6082133452",
+        "email": "lauralynchhomes@gmail.com"
       },
       "office": {
-        "name": "MHB Real Estate",
-        "phone": "6087099886"
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4498-4500-Maple-Ln,-Windsor,-WI-53598",
+      "addressLine1": "4498-4500 Maple Ln",
+      "city": "Windsor",
+      "state": "WI",
+      "zipCode": "53598",
+      "price": 525000,
+      "bedrooms": 6,
+      "bathrooms": 3,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1989,
+      "listedDate": "2026-07-28T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.210615,
+      "longitude": -89.343458,
+      "agent": {
+        "name": "Tidwell, Bob",
+        "phone": "6082198909",
+        "email": "tidwellb@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088341722"
       },
       "owner": {
         "owner1": null,
@@ -167,7 +77,7 @@
       "propertyType": "Multi-Family",
       "yearBuilt": 2026,
       "listedDate": "2026-07-27T00:00:00.000Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "latitude": 43.07194995174,
       "longitude": -89.561824568329,
       "agent": {
@@ -197,7 +107,7 @@
       "propertyType": "Single Family",
       "yearBuilt": 1963,
       "listedDate": "2026-07-27T00:00:00.000Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "latitude": 43.196459,
       "longitude": -89.201361,
       "agent": {
@@ -227,7 +137,7 @@
       "propertyType": "Single Family",
       "yearBuilt": 2026,
       "listedDate": "2026-07-27T00:00:00.000Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "latitude": 43.126339,
       "longitude": -89.495674,
       "agent": {
@@ -257,7 +167,7 @@
       "propertyType": "Condo",
       "yearBuilt": 1987,
       "listedDate": "2026-07-27T00:00:00.000Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "latitude": 43.08274,
       "longitude": -89.325256,
       "agent": {
@@ -287,7 +197,7 @@
       "propertyType": "Single Family",
       "yearBuilt": 2003,
       "listedDate": "2026-07-27T00:00:00.000Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "latitude": 43.090384,
       "longitude": -89.215067,
       "agent": {
@@ -317,7 +227,7 @@
       "propertyType": "Condo",
       "yearBuilt": 2002,
       "listedDate": "2026-07-27T00:00:00.000Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "latitude": 43.108598,
       "longitude": -89.49761,
       "agent": {
@@ -347,7 +257,7 @@
       "propertyType": "Multi-Family",
       "yearBuilt": 1984,
       "listedDate": "2026-07-27T00:00:00.000Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "latitude": 43.12123,
       "longitude": -89.321944,
       "agent": {
@@ -377,7 +287,7 @@
       "propertyType": "Single Family",
       "yearBuilt": 1930,
       "listedDate": "2026-07-27T00:00:00.000Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "latitude": 43.067458,
       "longitude": -89.326482,
       "agent": {
@@ -407,7 +317,7 @@
       "propertyType": "Single Family",
       "yearBuilt": 1992,
       "listedDate": "2026-07-27T00:00:00.000Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "latitude": 43.068872,
       "longitude": -89.518682,
       "agent": {
@@ -437,7 +347,7 @@
       "propertyType": "Single Family",
       "yearBuilt": null,
       "listedDate": "2026-07-28T00:00:00.000Z",
-      "daysOnMarket": 5,
+      "daysOnMarket": 6,
       "latitude": 43.010804,
       "longitude": -89.269842,
       "agent": {
@@ -448,126 +358,6 @@
       "office": {
         "name": null,
         "phone": null
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "111-Forton-Ct,-Stoughton,-WI-53589",
-      "addressLine1": "111 Forton Ct",
-      "city": "Stoughton",
-      "state": "WI",
-      "zipCode": "53589",
-      "price": 430000,
-      "bedrooms": 4,
-      "bathrooms": 2,
-      "squareFootage": 2228,
-      "propertyType": "Single Family",
-      "yearBuilt": 1972,
-      "listedDate": "2026-07-28T00:00:00.000Z",
-      "daysOnMarket": 5,
-      "latitude": 42.919098,
-      "longitude": -89.221363,
-      "agent": {
-        "name": "Tom Matson",
-        "phone": "6088738700",
-        "email": "tmatson@matsonhomes.com"
-      },
-      "office": {
-        "name": "Matson & Assoc., Inc. Real Living",
-        "phone": "6088738700"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "25-Hiawatha-Cir,-Madison,-WI-53711",
-      "addressLine1": "25 Hiawatha Cir",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53711",
-      "price": 787000,
-      "bedrooms": 4,
-      "bathrooms": 1.5,
-      "squareFootage": 2166,
-      "propertyType": "Single Family",
-      "yearBuilt": 1951,
-      "listedDate": "2026-07-28T00:00:00.000Z",
-      "daysOnMarket": 5,
-      "latitude": 43.044092,
-      "longitude": -89.450225,
-      "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
-      },
-      "office": {
-        "name": null,
-        "phone": null
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "332-Sandridge-Trl,-Sun-Prairie,-WI-53590",
-      "addressLine1": "332 Sandridge Trl",
-      "city": "Sun Prairie",
-      "state": "WI",
-      "zipCode": "53590",
-      "price": 515000,
-      "bedrooms": 4,
-      "bathrooms": 3,
-      "squareFootage": 2222,
-      "propertyType": "Single Family",
-      "yearBuilt": 2005,
-      "listedDate": "2026-07-28T00:00:00.000Z",
-      "daysOnMarket": 5,
-      "latitude": 43.199471,
-      "longitude": -89.2172,
-      "agent": {
-        "name": "Brenda Delabarre",
-        "phone": "6085137278",
-        "email": "bdelabarre@starkhomes.com"
-      },
-      "office": {
-        "name": "STARK COMPANY REALTORS",
-        "phone": "6088369300"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "2705-Whitlock-Rd,-Madison,-WI-53719",
-      "addressLine1": "2705 Whitlock Rd",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53719",
-      "price": 495000,
-      "bedrooms": 4,
-      "bathrooms": 3,
-      "squareFootage": 2448,
-      "propertyType": "Single Family",
-      "yearBuilt": 1984,
-      "listedDate": "2026-07-28T00:00:00.000Z",
-      "daysOnMarket": 5,
-      "latitude": 43.023984,
-      "longitude": -89.503932,
-      "agent": {
-        "name": "Kristine Hey Wilde",
-        "phone": "6089460711",
-        "email": "kris@the608team.com"
-      },
-      "office": {
-        "name": "EXP Realty, LLC",
-        "phone": "6082948448"
       },
       "owner": {
         "owner1": null,
@@ -587,7 +377,7 @@
       "propertyType": "Single Family",
       "yearBuilt": 2006,
       "listedDate": "2026-07-28T00:00:00.000Z",
-      "daysOnMarket": 5,
+      "daysOnMarket": 6,
       "latitude": 43.116256,
       "longitude": -89.367258,
       "agent": {
@@ -605,29 +395,29 @@
       }
     },
     {
-      "id": "309-W-Washington-Ave,-Unit-801,-Madison,-WI-53703",
-      "addressLine1": "309 W Washington Ave",
+      "id": "2705-Whitlock-Rd,-Madison,-WI-53719",
+      "addressLine1": "2705 Whitlock Rd",
       "city": "Madison",
       "state": "WI",
-      "zipCode": "53703",
-      "price": 569900,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "squareFootage": 1146,
-      "propertyType": "Condo",
-      "yearBuilt": 2008,
+      "zipCode": "53719",
+      "price": 495000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2448,
+      "propertyType": "Single Family",
+      "yearBuilt": 1984,
       "listedDate": "2026-07-28T00:00:00.000Z",
-      "daysOnMarket": 5,
-      "latitude": 43.071761,
-      "longitude": -89.38712,
+      "daysOnMarket": 6,
+      "latitude": 43.023984,
+      "longitude": -89.503932,
       "agent": {
-        "name": "Laura Lynch",
-        "phone": "6082133452",
-        "email": "lauralynchhomes@gmail.com"
+        "name": "Kristine Hey Wilde",
+        "phone": "6089460711",
+        "email": "kris@the608team.com"
       },
       "office": {
-        "name": "Keller Williams Realty",
-        "phone": "6088310800"
+        "name": "EXP Realty, LLC",
+        "phone": "6082948448"
       },
       "owner": {
         "owner1": null,
@@ -635,29 +425,119 @@
       }
     },
     {
-      "id": "8437-Ellington-Way,-Middleton,-WI-53562",
-      "addressLine1": "8437 Ellington Way",
-      "city": "Middleton",
+      "id": "111-Forton-Ct,-Stoughton,-WI-53589",
+      "addressLine1": "111 Forton Ct",
+      "city": "Stoughton",
       "state": "WI",
-      "zipCode": "53562",
-      "price": 700000,
+      "zipCode": "53589",
+      "price": 430000,
       "bedrooms": 4,
-      "bathrooms": 3.5,
-      "squareFootage": 3165,
+      "bathrooms": 2,
+      "squareFootage": 2228,
       "propertyType": "Single Family",
-      "yearBuilt": 1998,
+      "yearBuilt": 1972,
       "listedDate": "2026-07-28T00:00:00.000Z",
-      "daysOnMarket": 5,
-      "latitude": 43.113878,
-      "longitude": -89.564677,
+      "daysOnMarket": 6,
+      "latitude": 42.919098,
+      "longitude": -89.221363,
       "agent": {
-        "name": "Tim Vitense",
-        "phone": "6085760044",
-        "email": "tjvitense@kw.com"
+        "name": "Tom Matson",
+        "phone": "6088738700",
+        "email": "tmatson@matsonhomes.com"
       },
       "office": {
-        "name": "Strategic Real Estate Experts",
-        "phone": "6085760044"
+        "name": "Matson & Assoc., Inc. Real Living",
+        "phone": "6088738700"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "332-Sandridge-Trl,-Sun-Prairie,-WI-53590",
+      "addressLine1": "332 Sandridge Trl",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 515000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2222,
+      "propertyType": "Single Family",
+      "yearBuilt": 2005,
+      "listedDate": "2026-07-28T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.199471,
+      "longitude": -89.2172,
+      "agent": {
+        "name": "Brenda Delabarre",
+        "phone": "6085137278",
+        "email": "bdelabarre@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2200-2204-Wyoming-Ave,-Sun-Prairie,-WI-53590",
+      "addressLine1": "2200-2204 Wyoming Ave",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 539900,
+      "bedrooms": 6,
+      "bathrooms": 3,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1973,
+      "listedDate": "2026-07-28T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.17887,
+      "longitude": -89.252659,
+      "agent": {
+        "name": "Trey Gardner",
+        "phone": "6082948101",
+        "email": null
+      },
+      "office": {
+        "name": "eXp Realty, LLC",
+        "phone": "8668486990"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "25-Hiawatha-Cir,-Madison,-WI-53711",
+      "addressLine1": "25 Hiawatha Cir",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 787000,
+      "bedrooms": 4,
+      "bathrooms": 1.5,
+      "squareFootage": 2166,
+      "propertyType": "Single Family",
+      "yearBuilt": 1951,
+      "listedDate": "2026-07-28T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.044092,
+      "longitude": -89.450225,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
       },
       "owner": {
         "owner1": null,
@@ -677,7 +557,7 @@
       "propertyType": "Single Family",
       "yearBuilt": 1961,
       "listedDate": "2026-07-28T00:00:00.000Z",
-      "daysOnMarket": 5,
+      "daysOnMarket": 6,
       "latitude": 43.064494,
       "longitude": -89.44106,
       "agent": {
@@ -688,36 +568,6 @@
       "office": {
         "name": "Pinnacle Real Estate Group",
         "phone": "6088293900"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "4498-4500-Maple-Ln,-Windsor,-WI-53598",
-      "addressLine1": "4498-4500 Maple Ln",
-      "city": "Windsor",
-      "state": "WI",
-      "zipCode": "53598",
-      "price": 525000,
-      "bedrooms": 6,
-      "bathrooms": 3,
-      "squareFootage": null,
-      "propertyType": "Multi-Family",
-      "yearBuilt": 1989,
-      "listedDate": "2026-07-28T00:00:00.000Z",
-      "daysOnMarket": 5,
-      "latitude": 43.210615,
-      "longitude": -89.343458,
-      "agent": {
-        "name": "Tidwell, Bob",
-        "phone": "6082198909",
-        "email": "tidwellb@firstweber.com"
-      },
-      "office": {
-        "name": "First Weber Real Estate Services",
-        "phone": "6088341722"
       },
       "owner": {
         "owner1": null,
