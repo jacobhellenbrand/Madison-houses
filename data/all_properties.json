@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-02T09:53:58.056330Z",
-  "totalCount": 2091,
+  "lastUpdated": "2026-08-03T11:19:18.564650Z",
+  "totalCount": 2100,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -64156,6 +64156,285 @@
         "phone": "6085760044"
       },
       "dateAdded": "2026-08-01T09:55:58.470906Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7966-Stagecoach-Rd,-Cross-Plains,-WI-53528",
+      "addressLine1": "7966 Stagecoach Rd",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 749900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 3041,
+      "propertyType": "Single Family",
+      "yearBuilt": 1991,
+      "listedDate": "2026-07-29T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.106024,
+      "longitude": -89.61366,
+      "agent": {
+        "name": "Helen Pazen",
+        "phone": "7736295832",
+        "email": "hpazen@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-08-03T11:19:18.564650Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "66-Oak-Creek-Trl,-Madison,-WI-53717",
+      "addressLine1": "66 Oak Creek Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 550000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 3228,
+      "propertyType": "Condo",
+      "yearBuilt": 1978,
+      "listedDate": "2026-07-29T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.065812,
+      "longitude": -89.511013,
+      "agent": {
+        "name": "Barrett Karabis",
+        "phone": "6083353500",
+        "email": "barrett@karabisrealestate.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-08-03T11:19:18.564650Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3673-Graham-Paige-Rd,-Cottage-Grove,-WI-53527",
+      "addressLine1": "3673 Graham Paige Rd",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 749900,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3218,
+      "propertyType": "Single Family",
+      "yearBuilt": 2003,
+      "listedDate": "2026-07-30T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.050089,
+      "longitude": -89.200574,
+      "agent": {
+        "name": "Jason Holtman",
+        "phone": "6082259900",
+        "email": "jason@pureintegrityhomes.com"
+      },
+      "office": {
+        "name": "Remax Preferred",
+        "phone": "6088359989"
+      },
+      "dateAdded": "2026-08-03T11:19:18.564650Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6208-Westgate-Rd,-Monona,-WI-53716",
+      "addressLine1": "6208 Westgate Rd",
+      "city": "Monona",
+      "state": "WI",
+      "zipCode": "53716",
+      "price": 475000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1658,
+      "propertyType": "Single Family",
+      "yearBuilt": 1959,
+      "listedDate": "2026-07-29T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.05014,
+      "longitude": -89.327392,
+      "agent": {
+        "name": "Andrew Willits",
+        "phone": "6085359909",
+        "email": "andrewmadisonrealtor@gmail.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-08-03T11:19:18.564650Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2991-County-Hwy,-MN,-Mcfarland,-WI-53558",
+      "addressLine1": "2991 County Hwy",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 649900,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1869,
+      "propertyType": "Single Family",
+      "yearBuilt": 1987,
+      "listedDate": "2026-07-29T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.01208,
+      "longitude": -89.23792,
+      "agent": {
+        "name": "Bart Baker",
+        "phone": "6082196668",
+        "email": "bakerb@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088333711"
+      },
+      "dateAdded": "2026-08-03T11:19:18.564650Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4434-Misty-Valley-Dr,-Middleton,-WI-53562",
+      "addressLine1": "4434 Misty Valley Dr",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 810000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3701,
+      "propertyType": "Single Family",
+      "yearBuilt": 2015,
+      "listedDate": "2026-07-29T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.125442,
+      "longitude": -89.505841,
+      "agent": {
+        "name": "Spencer Schumacher",
+        "phone": "6088412221",
+        "email": "team@spencerreg.com"
+      },
+      "office": {
+        "name": "Spencer Real Estate Group",
+        "phone": "6088412221"
+      },
+      "dateAdded": "2026-08-03T11:19:18.564650Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "560-Toepfer-Ave,-Madison,-WI-53711",
+      "addressLine1": "560 Toepfer Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 635000,
+      "bedrooms": 4,
+      "bathrooms": 1.5,
+      "squareFootage": 1993,
+      "propertyType": "Single Family",
+      "yearBuilt": 1947,
+      "listedDate": "2026-07-29T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.055303,
+      "longitude": -89.442258,
+      "agent": {
+        "name": "Jamie Miller",
+        "phone": "6083353410",
+        "email": "jamie@themillerrealestategroup.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-08-03T11:19:18.564650Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "513-Prospect-Rd,-Waunakee,-WI-53597",
+      "addressLine1": "513 Prospect Rd",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 490000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1850,
+      "propertyType": "Single Family",
+      "yearBuilt": 1960,
+      "listedDate": "2026-07-29T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.195337,
+      "longitude": -89.447373,
+      "agent": {
+        "name": "Sarah Goetsch",
+        "phone": "6083939802",
+        "email": "halversongoetschteam@gmail.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6086438511"
+      },
+      "dateAdded": "2026-08-03T11:19:18.564650Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5509-Dahlen-Dr,-Madison,-WI-53705",
+      "addressLine1": "5509 Dahlen Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 400000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1815,
+      "propertyType": "Single Family",
+      "yearBuilt": 1956,
+      "listedDate": "2026-07-29T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.078475,
+      "longitude": -89.477982,
+      "agent": {
+        "name": "Mei Hu",
+        "phone": "6086098835",
+        "email": "mei@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-08-03T11:19:18.564650Z",
       "owner": {
         "owner1": null,
         "owner2": null
