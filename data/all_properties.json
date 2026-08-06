@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-05T10:31:24.388957Z",
-  "totalCount": 2142,
+  "lastUpdated": "2026-08-06T10:35:29.385230Z",
+  "totalCount": 2145,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -65737,6 +65737,99 @@
         "phone": "6088369300"
       },
       "dateAdded": "2026-08-05T10:31:24.388957Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2314-Keyes-Ave,-Madison,-WI-53711",
+      "addressLine1": "2314 Keyes Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 910000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1769,
+      "propertyType": "Single Family",
+      "yearBuilt": 1920,
+      "listedDate": "2026-07-31T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.061671,
+      "longitude": -89.425957,
+      "agent": {
+        "name": "Seth Pfaehler",
+        "phone": "6083384812",
+        "email": "seth@themcgradygroup.com"
+      },
+      "office": {
+        "name": "The Mcgrady Group, Llc",
+        "phone": "6087723640"
+      },
+      "dateAdded": "2026-08-06T10:35:29.385230Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2601-Muir-Field-Rd,-Madison,-WI-53719",
+      "addressLine1": "2601 Muir Field Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 450000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2087,
+      "propertyType": "Single Family",
+      "yearBuilt": 1986,
+      "listedDate": "2026-07-31T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.024993,
+      "longitude": -89.505088,
+      "agent": {
+        "name": "Jack Soceka",
+        "phone": "8663791718",
+        "email": "jack@socekaproperties.com"
+      },
+      "office": {
+        "name": "Howard and Williams",
+        "phone": "6082779200"
+      },
+      "dateAdded": "2026-08-06T10:35:29.385230Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2607-Bobs-Dr,-Madison,-WI-53711",
+      "addressLine1": "2607 Bobs Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 699900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 3402,
+      "propertyType": "Single Family",
+      "yearBuilt": 2019,
+      "listedDate": "2026-07-31T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 42.996628,
+      "longitude": -89.412576,
+      "agent": {
+        "name": "Autumn Garrigan",
+        "phone": "9208500926",
+        "email": "autumn@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-08-06T10:35:29.385230Z",
       "owner": {
         "owner1": null,
         "owner2": null
