@@ -1,939 +1,9 @@
 {
-  "lastUpdated": "2026-08-13T09:08:40.076364Z",
+  "lastUpdated": "2026-08-14T09:04:14.056214Z",
   "city": "Madison",
   "state": "WI",
-  "totalCount": 41,
+  "totalCount": 29,
   "properties": [
-    {
-      "id": "1876-Waverly-Way,-Sun-Prairie,-WI-53590",
-      "addressLine1": "1876 Waverly Way",
-      "city": "Sun Prairie",
-      "state": "WI",
-      "zipCode": "53590",
-      "price": 719900,
-      "bedrooms": 4,
-      "bathrooms": 2.5,
-      "squareFootage": 2392,
-      "propertyType": "Single Family",
-      "yearBuilt": 2026,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.203062,
-      "longitude": -89.246136,
-      "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
-      },
-      "office": {
-        "name": null,
-        "phone": null
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "1728-Innovation-Ln,-Verona,-WI-53593",
-      "addressLine1": "1728 Innovation Ln",
-      "city": "Verona",
-      "state": "WI",
-      "zipCode": "53593",
-      "price": 429900,
-      "bedrooms": 3,
-      "bathrooms": 2.5,
-      "squareFootage": 1532,
-      "propertyType": "Multi-Family",
-      "yearBuilt": 2026,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.016215,
-      "longitude": -89.571145,
-      "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
-      },
-      "office": {
-        "name": null,
-        "phone": null
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "2202-Koshkonong-Way,-Sun-Prairie,-WI-53590",
-      "addressLine1": "2202 Koshkonong Way",
-      "city": "Sun Prairie",
-      "state": "WI",
-      "zipCode": "53590",
-      "price": 719900,
-      "bedrooms": 4,
-      "bathrooms": 2.5,
-      "squareFootage": 2400,
-      "propertyType": "Single Family",
-      "yearBuilt": 2026,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.1591648,
-      "longitude": -89.2514429,
-      "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
-      },
-      "office": {
-        "name": null,
-        "phone": null
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "609-Boulder-Ln,-Stoughton,-WI-53589",
-      "addressLine1": "609 Boulder Ln",
-      "city": "Stoughton",
-      "state": "WI",
-      "zipCode": "53589",
-      "price": 415990,
-      "bedrooms": 3,
-      "bathrooms": 2.5,
-      "squareFootage": 1658,
-      "propertyType": "Single Family",
-      "yearBuilt": 2026,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 42.92378,
-      "longitude": -89.25697,
-      "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
-      },
-      "office": {
-        "name": null,
-        "phone": null
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "508-Oak-Opening-Dr,-Stoughton,-WI-53589",
-      "addressLine1": "508 Oak Opening Dr",
-      "city": "Stoughton",
-      "state": "WI",
-      "zipCode": "53589",
-      "price": 415990,
-      "bedrooms": 3,
-      "bathrooms": 2.5,
-      "squareFootage": 1658,
-      "propertyType": "Single Family",
-      "yearBuilt": 2026,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 42.92346,
-      "longitude": -89.25667,
-      "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
-      },
-      "office": {
-        "name": null,
-        "phone": null
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "5802-5804-Sauk-Ln,-Mcfarland,-WI-53558",
-      "addressLine1": "5802-5804 Sauk Ln",
-      "city": "Mcfarland",
-      "state": "WI",
-      "zipCode": "53558",
-      "price": 660000,
-      "bedrooms": 6,
-      "bathrooms": 4,
-      "squareFootage": null,
-      "propertyType": "Multi-Family",
-      "yearBuilt": 1987,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.016628,
-      "longitude": -89.279817,
-      "agent": {
-        "name": "Erin Bickelhaupt",
-        "phone": "6086952161",
-        "email": "erin@trustedhomeagent.com"
-      },
-      "office": {
-        "name": "Realty Executives Capital City",
-        "phone": "6085791173"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "746-Thompson-Dr,-Oregon,-WI-53575",
-      "addressLine1": "746 Thompson Dr",
-      "city": "Oregon",
-      "state": "WI",
-      "zipCode": "53575",
-      "price": 415000,
-      "bedrooms": 3,
-      "bathrooms": 3,
-      "squareFootage": 1855,
-      "propertyType": "Single Family",
-      "yearBuilt": 2018,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 42.936958,
-      "longitude": -89.381302,
-      "agent": {
-        "name": "Liz Slaby",
-        "phone": "6087992317",
-        "email": "liz@mhbrealestate.com"
-      },
-      "office": {
-        "name": "Real Broker LLC",
-        "phone": "6082680831"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "615-W-Main-St,-Apt-207,-Madison,-WI-53703",
-      "addressLine1": "615 W Main St",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53703",
-      "price": 523000,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "squareFootage": 1191,
-      "propertyType": "Condo",
-      "yearBuilt": 2004,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.067416,
-      "longitude": -89.391546,
-      "agent": {
-        "name": "Brian Huegel",
-        "phone": "6085754567",
-        "email": "brianhuegel@gmail.com"
-      },
-      "office": {
-        "name": "Restaino & Associates Realtors - Fitchburg",
-        "phone": "6088337777"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "321-Kensington-Dr,-Madison,-WI-53704",
-      "addressLine1": "321 Kensington Dr",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53704",
-      "price": 899000,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "squareFootage": 1764,
-      "propertyType": "Single Family",
-      "yearBuilt": 1940,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.111031,
-      "longitude": -89.367439,
-      "agent": {
-        "name": "Shelly Sprinkman",
-        "phone": "6082201453",
-        "email": "shelly@sprinkmanrealestate.com"
-      },
-      "office": {
-        "name": "Sprinkman Real Estate",
-        "phone": "6084679596"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "6126-Overlook-Dr,-Mcfarland,-WI-53558",
-      "addressLine1": "6126 Overlook Dr",
-      "city": "Mcfarland",
-      "state": "WI",
-      "zipCode": "53558",
-      "price": 995000,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "squareFootage": 1849,
-      "propertyType": "Single Family",
-      "yearBuilt": 1964,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.011126,
-      "longitude": -89.308034,
-      "agent": {
-        "name": "Kaitlin Solomon",
-        "phone": "6087099889",
-        "email": "kaitlin@mhbrealestate.com"
-      },
-      "office": {
-        "name": "MHB Real Estate",
-        "phone": "6087099886"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "23-Heather-Dr,-Cottage-Grove,-WI-53527",
-      "addressLine1": "23 Heather Dr",
-      "city": "Cottage Grove",
-      "state": "WI",
-      "zipCode": "53527",
-      "price": 898000,
-      "bedrooms": 5,
-      "bathrooms": 3,
-      "squareFootage": 3600,
-      "propertyType": "Single Family",
-      "yearBuilt": 1996,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.075034,
-      "longitude": -89.192342,
-      "agent": {
-        "name": "First Weber",
-        "phone": "6088374545",
-        "email": "millerc@firstweber.com"
-      },
-      "office": {
-        "name": "First Weber Real Estate Services",
-        "phone": "6088341722"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "9110-Waterside-St,-Middleton,-WI-53562",
-      "addressLine1": "9110 Waterside St",
-      "city": "Middleton",
-      "state": "WI",
-      "zipCode": "53562",
-      "price": 549900,
-      "bedrooms": 4,
-      "bathrooms": 3,
-      "squareFootage": 2611,
-      "propertyType": "Condo",
-      "yearBuilt": 2002,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.07545,
-      "longitude": -89.543299,
-      "agent": {
-        "name": null,
-        "phone": null,
-        "email": null
-      },
-      "office": {
-        "name": "Howard Real Estate",
-        "phone": "6086929200"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "4027-Taunton-Rd,-Windsor,-WI-53598",
-      "addressLine1": "4027 Taunton Rd",
-      "city": "Windsor",
-      "state": "WI",
-      "zipCode": "53598",
-      "price": 649900,
-      "bedrooms": 4,
-      "bathrooms": 3.5,
-      "squareFootage": 3051,
-      "propertyType": "Single Family",
-      "yearBuilt": 2017,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.210788,
-      "longitude": -89.326527,
-      "agent": {
-        "name": "Mark Pawlowsky",
-        "phone": "6082355454",
-        "email": "mpawlows@starkhomes.com"
-      },
-      "office": {
-        "name": "STARK COMPANY REALTORS",
-        "phone": "6082569011"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "500-Pleasant-Valley-Pkwy,-Waunakee,-WI-53597",
-      "addressLine1": "500 Pleasant Valley Pkwy",
-      "city": "Waunakee",
-      "state": "WI",
-      "zipCode": "53597",
-      "price": 675000,
-      "bedrooms": 4,
-      "bathrooms": 4,
-      "squareFootage": 3241,
-      "propertyType": "Single Family",
-      "yearBuilt": 2003,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.205018,
-      "longitude": -89.463199,
-      "agent": {
-        "name": "Kristin Shields",
-        "phone": "6087098031",
-        "email": "kristin@mhbrealestate.com"
-      },
-      "office": {
-        "name": "MHB Real Estate",
-        "phone": "6087099886"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "2-Snowflake-Ct,-Madison,-WI-53719",
-      "addressLine1": "2 Snowflake Ct",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53719",
-      "price": 790000,
-      "bedrooms": 3,
-      "bathrooms": 3,
-      "squareFootage": 3480,
-      "propertyType": "Single Family",
-      "yearBuilt": 2001,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.01122,
-      "longitude": -89.515064,
-      "agent": {
-        "name": "Jason Levy",
-        "phone": "6082136666",
-        "email": "jlevyart@gmail.com"
-      },
-      "office": {
-        "name": "Restaino & Associates Realtors - Monroe St.",
-        "phone": "6082327777"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "2014-Madison-St,-Madison,-WI-53711",
-      "addressLine1": "2014 Madison St",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53711",
-      "price": 699900,
-      "bedrooms": 3,
-      "bathrooms": 1,
-      "squareFootage": 1743,
-      "propertyType": "Single Family",
-      "yearBuilt": 1904,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.062972,
-      "longitude": -89.418844,
-      "agent": {
-        "name": "Michelle Sims",
-        "phone": "6085905910",
-        "email": "simsm@firstweber.com"
-      },
-      "office": {
-        "name": "First Weber Real Estate Services",
-        "phone": "6088333711"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "5302-Starker-Ave,-Madison,-WI-53716",
-      "addressLine1": "5302 Starker Ave",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53716",
-      "price": 419900,
-      "bedrooms": 3,
-      "bathrooms": 1,
-      "squareFootage": 1992,
-      "propertyType": "Single Family",
-      "yearBuilt": 1962,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.077377,
-      "longitude": -89.289558,
-      "agent": {
-        "name": "Lisa Engel",
-        "phone": "6087293221",
-        "email": "lisaengel@remax.net"
-      },
-      "office": {
-        "name": "Remax Preferred",
-        "phone": "6082768110"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "8927-Sunstone-Ln,-Middleton,-WI-53562",
-      "addressLine1": "8927 Sunstone Ln",
-      "city": "Middleton",
-      "state": "WI",
-      "zipCode": "53562",
-      "price": 630000,
-      "bedrooms": 4,
-      "bathrooms": 3,
-      "squareFootage": 2411,
-      "propertyType": "Single Family",
-      "yearBuilt": 2010,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.102293,
-      "longitude": -89.542954,
-      "agent": {
-        "name": "Musa Jallow",
-        "phone": "6084462210",
-        "email": "musajallowhomes@gmail.com"
-      },
-      "office": {
-        "name": "Restaino & Associates Realtors - East Madison",
-        "phone": "6083107777"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "4525-Hooded-Merganser-Dr,-Middleton,-WI-53562",
-      "addressLine1": "4525 Hooded Merganser Dr",
-      "city": "Middleton",
-      "state": "WI",
-      "zipCode": "53562",
-      "price": 965000,
-      "bedrooms": 5,
-      "bathrooms": 4,
-      "squareFootage": 3747,
-      "propertyType": "Single Family",
-      "yearBuilt": 2026,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.127281,
-      "longitude": -89.492966,
-      "agent": {
-        "name": "Seth Pfaehler",
-        "phone": "6083384812",
-        "email": "seth@themcgradygroup.com"
-      },
-      "office": {
-        "name": "The Mcgrady Group, Llc",
-        "phone": "6087723640"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "5308-Card-Ave,-Mcfarland,-WI-53558",
-      "addressLine1": "5308 Card Ave",
-      "city": "Mcfarland",
-      "state": "WI",
-      "zipCode": "53558",
-      "price": 750000,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "squareFootage": 1680,
-      "propertyType": "Single Family",
-      "yearBuilt": 1965,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.020953,
-      "longitude": -89.30473,
-      "agent": {
-        "name": "Marc Gerothanas",
-        "phone": "6086927248",
-        "email": "gerothanasm@firstweber.com"
-      },
-      "office": {
-        "name": "First Weber Real Estate Services",
-        "phone": "6088341722"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "3096-Castleton-Xing,-Sun-Prairie,-WI-53590",
-      "addressLine1": "3096 Castleton Xing",
-      "city": "Sun Prairie",
-      "state": "WI",
-      "zipCode": "53590",
-      "price": 749900,
-      "bedrooms": 5,
-      "bathrooms": 3,
-      "squareFootage": 3422,
-      "propertyType": "Single Family",
-      "yearBuilt": 2004,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.245353,
-      "longitude": -89.239778,
-      "agent": {
-        "name": "Natalie Savell",
-        "phone": "6018530414",
-        "email": "jmcky@starkhomes.com"
-      },
-      "office": {
-        "name": "STARK COMPANY REALTORS",
-        "phone": "6088369300"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "615-Kensington-Sq,-Stoughton,-WI-53589",
-      "addressLine1": "615 Kensington Sq",
-      "city": "Stoughton",
-      "state": "WI",
-      "zipCode": "53589",
-      "price": 449900,
-      "bedrooms": 3,
-      "bathrooms": 3,
-      "squareFootage": 2512,
-      "propertyType": "Condo",
-      "yearBuilt": 2003,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 42.922355,
-      "longitude": -89.243226,
-      "agent": {
-        "name": "Luke Bruckner",
-        "phone": "6084459852",
-        "email": "lukebrealty@gmail.com"
-      },
-      "office": {
-        "name": "Collective Real Estate Group",
-        "phone": "6086627777"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "6325-Keelson-Dr,-Madison,-WI-53705",
-      "addressLine1": "6325 Keelson Dr",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53705",
-      "price": 825000,
-      "bedrooms": 4,
-      "bathrooms": 3.5,
-      "squareFootage": 3337,
-      "propertyType": "Single Family",
-      "yearBuilt": 1971,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.066313,
-      "longitude": -89.488619,
-      "agent": {
-        "name": "Swain, Jenny",
-        "phone": "6082198989",
-        "email": "jenny@jennyswain.com"
-      },
-      "office": {
-        "name": "Jenny Swain and Associates",
-        "phone": "6082198989"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "6-Barron-Ct,-Madison,-WI-53705",
-      "addressLine1": "6 Barron Ct",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53705",
-      "price": 599000,
-      "bedrooms": 3,
-      "bathrooms": 1.5,
-      "squareFootage": 1732,
-      "propertyType": "Single Family",
-      "yearBuilt": 1963,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.070287,
-      "longitude": -89.466318,
-      "agent": {
-        "name": "Husky Homes Team",
-        "phone": "6084221967",
-        "email": "info@huskyhomeswi.com"
-      },
-      "office": {
-        "name": "Compass Real Estate Wisconsin",
-        "phone": "6083363311"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "2105-Madison-St,-Madison,-WI-53711",
-      "addressLine1": "2105 Madison St",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53711",
-      "price": 1292900,
-      "bedrooms": 4,
-      "bathrooms": 3,
-      "squareFootage": 3035,
-      "propertyType": "Single Family",
-      "yearBuilt": 1916,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.062051,
-      "longitude": -89.419199,
-      "agent": {
-        "name": "Chris Atkinson",
-        "phone": "6085137653",
-        "email": "chris@downtowncondos.com"
-      },
-      "office": {
-        "name": "Restaino & Associates Realtors - Downtown Madison",
-        "phone": "6082947777"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "738-Western-Ave,-Madison,-WI-53711",
-      "addressLine1": "738 Western Ave",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53711",
-      "price": 574000,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "squareFootage": 1457,
-      "propertyType": "Single Family",
-      "yearBuilt": 1953,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.054046,
-      "longitude": -89.43436,
-      "agent": {
-        "name": "Peggy Acker-farber",
-        "phone": "6085754600",
-        "email": "peggy@ackerfarberteam.com"
-      },
-      "office": {
-        "name": "Remax Preferred",
-        "phone": "6088494663"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "1314-Manassas-Trl,-Madison,-WI-53718",
-      "addressLine1": "1314 Manassas Trl",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53718",
-      "price": 765000,
-      "bedrooms": 4,
-      "bathrooms": 2.5,
-      "squareFootage": 3785,
-      "propertyType": "Single Family",
-      "yearBuilt": 1995,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.080738,
-      "longitude": -89.276383,
-      "agent": {
-        "name": "Denise Holmes",
-        "phone": "6085765556",
-        "email": "dholmes@bunburyrealtors.com"
-      },
-      "office": {
-        "name": "Collective Real Estate Group",
-        "phone": "6086627777"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "4552-Falcon-Ct,-Cottage-Grove,-WI-53527",
-      "addressLine1": "4552 Falcon Ct",
-      "city": "Cottage Grove",
-      "state": "WI",
-      "zipCode": "53527",
-      "price": 499900,
-      "bedrooms": 4,
-      "bathrooms": 2.5,
-      "squareFootage": 2405,
-      "propertyType": "Single Family",
-      "yearBuilt": 1979,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.096385,
-      "longitude": -89.219086,
-      "agent": {
-        "name": "Erin Flesch",
-        "phone": "6087099288",
-        "email": "erin@mhbrealestate.com"
-      },
-      "office": {
-        "name": "MHB Real Estate",
-        "phone": "6087099886"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "1133-Okeeffe-Ave,-Sun-Prairie,-WI-53590",
-      "addressLine1": "1133 Okeeffe Ave",
-      "city": "Sun Prairie",
-      "state": "WI",
-      "zipCode": "53590",
-      "price": 410000,
-      "bedrooms": 3,
-      "bathrooms": 2.5,
-      "squareFootage": 1532,
-      "propertyType": "Single Family",
-      "yearBuilt": 2018,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.168192,
-      "longitude": -89.25292,
-      "agent": {
-        "name": "Stephanie  Wedan",
-        "phone": "6087123887",
-        "email": "wedans@firstweber.com"
-      },
-      "office": {
-        "name": "First Weber Real Estate Services",
-        "phone": "6088341722"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "7022-Rockstream-Dr,-Madison,-WI-53719",
-      "addressLine1": "7022 Rockstream Dr",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53719",
-      "price": 429900,
-      "bedrooms": 2,
-      "bathrooms": 1.5,
-      "squareFootage": 1248,
-      "propertyType": "Single Family",
-      "yearBuilt": 2001,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.005557,
-      "longitude": -89.505883,
-      "agent": {
-        "name": "Brenda Murphy",
-        "phone": "6082765221",
-        "email": "murphyb@firstweber.com"
-      },
-      "office": {
-        "name": "First Weber Real Estate Services",
-        "phone": "6082747500"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
-      "id": "7202-E-Valley-Ridge-Dr,-Madison,-WI-53719",
-      "addressLine1": "7202 E Valley Ridge Dr",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53719",
-      "price": 445000,
-      "bedrooms": 3,
-      "bathrooms": 2.5,
-      "squareFootage": 1800,
-      "propertyType": "Single Family",
-      "yearBuilt": 1990,
-      "listedDate": "2026-08-07T00:00:00.000Z",
-      "daysOnMarket": 7,
-      "latitude": 43.046841,
-      "longitude": -89.507739,
-      "agent": {
-        "name": "Sanjiv Tamang",
-        "phone": "6085041678",
-        "email": "sanjivtamang2020@gmail.com"
-      },
-      "office": {
-        "name": "Real Broker LLC",
-        "phone": "6082680831"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
     {
       "id": "4149-Hanover-Dr,-Deforest,-WI-53532",
       "addressLine1": "4149 Hanover Dr",
@@ -1115,36 +185,6 @@
       }
     },
     {
-      "id": "2894-Waubesa-Ave,-Madison,-WI-53711",
-      "addressLine1": "2894 Waubesa Ave",
-      "city": "Madison",
-      "state": "WI",
-      "zipCode": "53711",
-      "price": 2249000,
-      "bedrooms": 4,
-      "bathrooms": 2.5,
-      "squareFootage": 3421,
-      "propertyType": "Single Family",
-      "yearBuilt": 2026,
-      "listedDate": "2026-08-10T00:00:00.000Z",
-      "daysOnMarket": 4,
-      "latitude": 43.003931,
-      "longitude": -89.338044,
-      "agent": {
-        "name": "Lori Schilling",
-        "phone": "6082794313",
-        "email": "lorisells@sprinkmanrealestate.com"
-      },
-      "office": {
-        "name": "Sprinkman Real Estate",
-        "phone": "6084679596"
-      },
-      "owner": {
-        "owner1": null,
-        "owner2": null
-      }
-    },
-    {
       "id": "6605-Old-Sauk-Rd,-Madison,-WI-53705",
       "addressLine1": "6605 Old Sauk Rd",
       "city": "Madison",
@@ -1168,6 +208,36 @@
       "office": {
         "name": "Tri-River Realty",
         "phone": "6082839335"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2894-Waubesa-Ave,-Madison,-WI-53711",
+      "addressLine1": "2894 Waubesa Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 2249000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 3421,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-08-10T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.003931,
+      "longitude": -89.338044,
+      "agent": {
+        "name": "Lori Schilling",
+        "phone": "6082794313",
+        "email": "lorisells@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
       },
       "owner": {
         "owner1": null,
@@ -1228,6 +298,576 @@
       "office": {
         "name": "MADCITYHOMES.COM",
         "phone": "6082716856"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5578-Woodland-Dr,-Waunakee,-WI-53597",
+      "addressLine1": "5578 Woodland Dr",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 535000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2338,
+      "propertyType": "Single Family",
+      "yearBuilt": 1980,
+      "listedDate": "2026-08-10T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.161477,
+      "longitude": -89.431584,
+      "agent": {
+        "name": "Kyle Broom",
+        "phone": "2623703244",
+        "email": "donnajlabarge@gmail.com"
+      },
+      "office": {
+        "name": "Y Realty Wisconsin",
+        "phone": "9493314140"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1643-Erin-Hl,-Stoughton,-WI-53589",
+      "addressLine1": "1643 Erin Hl",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 525000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2318,
+      "propertyType": "Single Family",
+      "yearBuilt": 1995,
+      "listedDate": "2026-08-10T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.924642,
+      "longitude": -89.239771,
+      "agent": {
+        "name": "Anna Schwerke",
+        "phone": "6082097716",
+        "email": "aschwerke@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY",
+        "phone": "6088738181"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "13-Arboredge-Way,-Fitchburg,-WI-53711",
+      "addressLine1": "13 Arboredge Way",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 799900,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3932,
+      "propertyType": "Condo",
+      "yearBuilt": 2012,
+      "listedDate": "2026-08-10T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.024239,
+      "longitude": -89.445673,
+      "agent": {
+        "name": "Mark Gladue",
+        "phone": "6085839028",
+        "email": "mark@lauerrealtygroup.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3811-County-Rd,-P,-Cross-Plains,-WI-53528",
+      "addressLine1": "3811 County Rd",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 949000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2368,
+      "propertyType": "Single Family",
+      "yearBuilt": 2001,
+      "listedDate": "2026-08-10T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.063922,
+      "longitude": -89.656956,
+      "agent": {
+        "name": "Kyle Roessler",
+        "phone": "6087984000",
+        "email": "kroessler@c21affiliated.com"
+      },
+      "office": {
+        "name": "Century 21 Affiliated",
+        "phone": "6087984000"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7419-Riles-Rd,-Middleton,-WI-53562",
+      "addressLine1": "7419 Riles Rd",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 500000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2094,
+      "propertyType": "Single Family",
+      "yearBuilt": 1971,
+      "listedDate": "2026-08-10T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.154244,
+      "longitude": -89.562873,
+      "agent": {
+        "name": "Spencer Schumacher",
+        "phone": "6088412221",
+        "email": "team@spencerreg.com"
+      },
+      "office": {
+        "name": "Spencer Real Estate Group",
+        "phone": "6088412221"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "368-Dahlia-Dr,-Stoughton,-WI-53589",
+      "addressLine1": "368 Dahlia Dr",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 469900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1509,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-08-10T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.904955,
+      "longitude": -89.22442,
+      "agent": {
+        "name": "Michael Lillesand",
+        "phone": "6084808350",
+        "email": "mike@eldonhomes.com"
+      },
+      "office": {
+        "name": "Elevate Estates",
+        "phone": "6084808350"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1509-Kriedeman-Dr,-Stoughton,-WI-53589",
+      "addressLine1": "1509 Kriedeman Dr",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 709900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2988,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-08-10T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.93274666,
+      "longitude": -89.239708,
+      "agent": {
+        "name": "Alex Meunier",
+        "phone": "6086304170",
+        "email": "alexmeunier@kw.com"
+      },
+      "office": {
+        "name": "Elevate Estates",
+        "phone": "6084808350"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1449-Kriedeman-Dr,-Stoughton,-WI-53589",
+      "addressLine1": "1449 Kriedeman Dr",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 659900,
+      "bedrooms": 5,
+      "bathrooms": 2.5,
+      "squareFootage": 2161,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-08-10T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.93281359,
+      "longitude": -89.23912997,
+      "agent": {
+        "name": "Ben Tourdot",
+        "phone": "8448841500",
+        "email": "210856.lead@cendant.leadrouter.com"
+      },
+      "office": {
+        "name": "Elevate Estates",
+        "phone": "6084808350"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2941-Wild-Goose-Way,-Stoughton,-WI-53589",
+      "addressLine1": "2941 Wild Goose Way",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 769900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2832,
+      "propertyType": "Single Family",
+      "yearBuilt": 2023,
+      "listedDate": "2026-08-10T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.929214,
+      "longitude": -89.256682,
+      "agent": {
+        "name": "Tom Matson",
+        "phone": "6088738700",
+        "email": "tmatson@matsonhomes.com"
+      },
+      "office": {
+        "name": "Matson & Assoc., Inc. Real Living",
+        "phone": "6088738700"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "772-Edward-St,-Verona,-WI-53593",
+      "addressLine1": "772 Edward St",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 689000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 3366,
+      "propertyType": "Single Family",
+      "yearBuilt": 1998,
+      "listedDate": "2026-08-10T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.991753,
+      "longitude": -89.554687,
+      "agent": {
+        "name": "Kaitlin Solomon",
+        "phone": "6087099889",
+        "email": "kaitlin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1003-Oak-Way,-Madison,-WI-53705",
+      "addressLine1": "1003 Oak Way",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 1095000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1696,
+      "propertyType": "Single Family",
+      "yearBuilt": 1950,
+      "listedDate": "2026-08-11T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.078543,
+      "longitude": -89.446373,
+      "agent": {
+        "name": "Bob Winding",
+        "phone": "6086929400",
+        "email": "windingb@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088333711"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "491-Summit-Ave,-Sun-Prairie,-WI-53590",
+      "addressLine1": "491 Summit Ave",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 415000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2008,
+      "propertyType": "Single Family",
+      "yearBuilt": 1972,
+      "listedDate": "2026-08-11T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.191953,
+      "longitude": -89.221866,
+      "agent": {
+        "name": "Julie Bernauer",
+        "phone": "6082196492",
+        "email": "jmbernauer@gmail.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5714-Bittersweet-Pl,-Madison,-WI-53705",
+      "addressLine1": "5714 Bittersweet Pl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 545000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2035,
+      "propertyType": "Single Family",
+      "yearBuilt": 1959,
+      "listedDate": "2026-08-11T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.07399,
+      "longitude": -89.480114,
+      "agent": {
+        "name": "Chris Barreau",
+        "phone": "6087099001",
+        "email": "chris@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7103-Caneel-Trl,-Middleton,-WI-53562",
+      "addressLine1": "7103 Caneel Trl",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 685000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2843,
+      "propertyType": "Single Family",
+      "yearBuilt": 2008,
+      "listedDate": "2026-08-11T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.120984,
+      "longitude": -89.501782,
+      "agent": {
+        "name": "Ben Allen",
+        "phone": "6086582818",
+        "email": "info@vanguardmadison.com"
+      },
+      "office": {
+        "name": "Vanguard Real Estate",
+        "phone": "6086582818"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1227-Spaight-St,-Madison,-WI-53703",
+      "addressLine1": "1227 Spaight St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 540000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1376,
+      "propertyType": "Single Family",
+      "yearBuilt": 1886,
+      "listedDate": "2026-08-11T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.08242,
+      "longitude": -89.361428,
+      "agent": {
+        "name": "Tiffany Malone",
+        "phone": "6083810293",
+        "email": "malonet@firstweber.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3169-Hickory-Ridge-Rd,-Madison,-WI-53719",
+      "addressLine1": "3169 Hickory Ridge Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 899000,
+      "bedrooms": 5,
+      "bathrooms": 2.5,
+      "squareFootage": 3774,
+      "propertyType": "Single Family",
+      "yearBuilt": 1969,
+      "listedDate": "2026-08-11T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.027497,
+      "longitude": -89.521983,
+      "agent": {
+        "name": "Caleb Payne",
+        "phone": "6085560033",
+        "email": "caleb@madcityhomes.com"
+      },
+      "office": {
+        "name": "MADCITYHOMES.COM",
+        "phone": "6082716856"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2115-Baptisia-Pass,-Sun-Prairie,-WI-53590",
+      "addressLine1": "2115 Baptisia Pass",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 965000,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "squareFootage": 3142,
+      "propertyType": "Single Family",
+      "yearBuilt": 2021,
+      "listedDate": "2026-08-11T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.203495,
+      "longitude": -89.251421,
+      "agent": {
+        "name": "Gabriell Hamele",
+        "phone": "6088257552",
+        "email": "gabriell.hamele@c21affiliated.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "456-New-Hampton-Dr,-Oregon,-WI-53575",
+      "addressLine1": "456 New Hampton Dr",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 464900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1615,
+      "propertyType": "Single Family",
+      "yearBuilt": null,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 2,
+      "latitude": 42.942288,
+      "longitude": -89.377661,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1808-August-Moon-Dr,-Madison,-WI-53718",
+      "addressLine1": "1808 August Moon Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 549900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1575,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 2,
+      "latitude": 43.1235189,
+      "longitude": -89.2742909,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
       },
       "owner": {
         "owner1": null,
