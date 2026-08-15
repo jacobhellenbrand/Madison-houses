@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-14T09:04:14.056214Z",
-  "totalCount": 2276,
+  "lastUpdated": "2026-08-15T08:24:25.332432Z",
+  "totalCount": 2280,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -69891,6 +69891,130 @@
         "phone": "6088367433"
       },
       "dateAdded": "2026-08-14T09:04:14.056214Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7124-Schneider-Rd,-Middleton,-WI-53562",
+      "addressLine1": "7124 Schneider Rd",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 410000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2308,
+      "propertyType": "Single Family",
+      "yearBuilt": 1975,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.125401,
+      "longitude": -89.540871,
+      "agent": {
+        "name": "Jenny Bunbury Johnson & Todd Johnson",
+        "phone": "6082793777",
+        "email": "jbunbury@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "BUNBURY & ASSOCIATES REALTORS",
+        "phone": "6084417777"
+      },
+      "dateAdded": "2026-08-15T08:24:25.332432Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5421-Eastland-Way,-Madison,-WI-53716",
+      "addressLine1": "5421 Eastland Way",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53716",
+      "price": 499000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1867,
+      "propertyType": "Single Family",
+      "yearBuilt": 1954,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.059437,
+      "longitude": -89.322401,
+      "agent": {
+        "name": "Brendon Krull",
+        "phone": "2629510316",
+        "email": "bkrull@premierpointrealty.com"
+      },
+      "office": {
+        "name": "Premier Point Realty Llc",
+        "phone": "4143955478"
+      },
+      "dateAdded": "2026-08-15T08:24:25.332432Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "510-Traveler-Ln,-Madison,-WI-53718",
+      "addressLine1": "510 Traveler Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 465000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1872,
+      "propertyType": "Single Family",
+      "yearBuilt": 2002,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.091032,
+      "longitude": -89.27035,
+      "agent": {
+        "name": "Liz Lauer",
+        "phone": "6084445725",
+        "email": "liz@lauerrealtygroup.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "dateAdded": "2026-08-15T08:24:25.332432Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "248-Tall-Grass-Trl,-Sun-Prairie,-WI-53590",
+      "addressLine1": "248 Tall Grass Trl",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 420000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2051,
+      "propertyType": "Single Family",
+      "yearBuilt": 2008,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.174211,
+      "longitude": -89.268163,
+      "agent": {
+        "name": "Paula Dollard",
+        "phone": "6084693374",
+        "email": "pdollard@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "BUNBURY & ASSOCIATES REALTORS",
+        "phone": "6084417777"
+      },
+      "dateAdded": "2026-08-15T08:24:25.332432Z",
       "owner": {
         "owner1": null,
         "owner2": null
