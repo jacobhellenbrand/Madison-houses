@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T08:24:25.332432Z",
-  "totalCount": 2280,
+  "lastUpdated": "2026-08-16T08:25:38.426765Z",
+  "totalCount": 2283,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -70015,6 +70015,99 @@
         "phone": "6084417777"
       },
       "dateAdded": "2026-08-15T08:24:25.332432Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1030-Carriage-Dr,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1030 Carriage Dr",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 430000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 1950,
+      "propertyType": "Single Family",
+      "yearBuilt": 1999,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.186495,
+      "longitude": -89.194697,
+      "agent": {
+        "name": "Kristin Shields",
+        "phone": "6087098031",
+        "email": "kristin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-08-16T08:25:38.426765Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6738-Henry-Rd,-Belleville,-WI-53508",
+      "addressLine1": "6738 Henry Rd",
+      "city": "Belleville",
+      "state": "WI",
+      "zipCode": "53508",
+      "price": 435000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 1776,
+      "propertyType": "Single Family",
+      "yearBuilt": 2006,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.912225,
+      "longitude": -89.514252,
+      "agent": {
+        "name": "Lexie Benson",
+        "phone": "6085134577",
+        "email": "realtorlexiedharris@gmail.com"
+      },
+      "office": {
+        "name": "EXIT PROFESSIONAL REAL ESTATE",
+        "phone": "6084267111"
+      },
+      "dateAdded": "2026-08-16T08:25:38.426765Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1010-Gilbert-Rd,-Madison,-WI-53711",
+      "addressLine1": "1010 Gilbert Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 500000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2602,
+      "propertyType": "Single Family",
+      "yearBuilt": 1975,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.042867,
+      "longitude": -89.473856,
+      "agent": {
+        "name": "Carlos Alvarado",
+        "phone": "6082516600",
+        "email": "carlos@thealvaradogroup.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-08-16T08:25:38.426765Z",
       "owner": {
         "owner1": null,
         "owner2": null
