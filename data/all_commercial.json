@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-13T09:13:12.223905Z",
-  "totalCount": 191,
+  "lastUpdated": "2026-08-17T08:43:13.802890Z",
+  "totalCount": 194,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -3088,6 +3088,57 @@
       "contractorAddress": "1532 10TH AVE, TOMS RIVER, NJ 08757",
       "category": "Renovation",
       "dateAdded": "2026-08-13T09:13:12.223905Z"
+    },
+    {
+      "id": "BLDRPR-2026-15632",
+      "permitNumber": "BLDRPR-2026-15632",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1018 S BROOKS ST",
+      "buildingSqft": "0",
+      "estimatedCost": "$18,000",
+      "feesPaid": "$198",
+      "owner": "SULZER, PHILIP A",
+      "ownerAddress": "SILVIA MEGA, 1018 S BROOKS ST, MADISON, WI 53715-1904",
+      "description": "RENEW BLDRPR-2023-20311: FINISH BASEMENT BEDROOM, OFFICE, LIVING ROOM, TWO BATHROOMS. WORK LEFT TO COMPLETE: INSULATION, DRYWALL, FINISHES",
+      "issuanceDate": "07/21/2026",
+      "contractor": "OWNER",
+      "contractorAddress": "",
+      "category": "Office",
+      "dateAdded": "2026-08-17T08:43:13.802890Z"
+    },
+    {
+      "id": "BLDRPR-2026-16180",
+      "permitNumber": "BLDRPR-2026-16180",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1246 TWINLEAF LN",
+      "buildingSqft": "0",
+      "estimatedCost": "$5,000",
+      "feesPaid": "$55",
+      "owner": "LYNCH ANDREW DAVID MAY",
+      "ownerAddress": "1246 TWINLEAF LANE, MADISON, WI 53719",
+      "description": "BATHROOM REMODEL (NO LAYOUT ALT, NO STRUCTURAL ALT): REPLACE EXISTING MODULAR SHOWER WITH TILE SHOWER IN THE SAME LOCATION",
+      "issuanceDate": "07/21/2026",
+      "contractor": "WASHA CONSTRUCTION INC",
+      "contractorAddress": "2605 S STOUGHTON RD #300, MADISON, WI 53716",
+      "category": "Renovation",
+      "dateAdded": "2026-08-17T08:43:13.802890Z"
+    },
+    {
+      "id": "BLDRPR-2026-16273",
+      "permitNumber": "BLDRPR-2026-16273",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1313 LYNNDALE RD",
+      "buildingSqft": "0",
+      "estimatedCost": "$4,800",
+      "feesPaid": "$55",
+      "owner": "BELEUTZ, JESSICA",
+      "ownerAddress": "1313 LYNNDALE RD, MADISON, WI 53711",
+      "description": "BATHROOM ALTERATION - MOVE TOILET, DRYWALL, TILE",
+      "issuanceDate": "07/20/2026",
+      "contractor": "SULLIVAN, MICHAEL",
+      "contractorAddress": "727 MILLS ST, BLACK EARTH, WI 53515",
+      "category": "Renovation",
+      "dateAdded": "2026-08-17T08:43:13.802890Z"
     }
   ]
 }

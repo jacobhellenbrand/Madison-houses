@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-16T08:25:38.426765Z",
-  "totalCount": 2283,
+  "lastUpdated": "2026-08-17T08:39:22.413060Z",
+  "totalCount": 2290,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -70108,6 +70108,223 @@
         "phone": "6083363311"
       },
       "dateAdded": "2026-08-16T08:25:38.426765Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9-Krystana-Way,-Madison,-WI-53711",
+      "addressLine1": "9 Krystana Way",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 426900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 1891,
+      "propertyType": "Single Family",
+      "yearBuilt": 1978,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.034158,
+      "longitude": -89.494089,
+      "agent": {
+        "name": "Ron Kubalanza",
+        "phone": "6084210093",
+        "email": "rkubalanza@gmail.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-08-17T08:39:22.413060Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9-Mountain-Ash-Trl,-Madison,-WI-53717",
+      "addressLine1": "9 Mountain Ash Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 489900,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 2159,
+      "propertyType": "Condo",
+      "yearBuilt": 1976,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.063416,
+      "longitude": -89.505573,
+      "agent": {
+        "name": "Dominic Colosimo",
+        "phone": "6082948448",
+        "email": "dominic@remax.net"
+      },
+      "office": {
+        "name": "EXP Realty, LLC",
+        "phone": "6082948448"
+      },
+      "dateAdded": "2026-08-17T08:39:22.413060Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9002-Hawks-Reserve-Ln,-Unit-201,-Verona,-WI-53593",
+      "addressLine1": "9002 Hawks Reserve Ln",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 699900,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 2679,
+      "propertyType": "Condo",
+      "yearBuilt": 2006,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.034035,
+      "longitude": -89.541673,
+      "agent": {
+        "name": "Julie Bernauer",
+        "phone": "6082196492",
+        "email": "jmbernauer@gmail.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-08-17T08:39:22.413060Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4709-Hermsmeier-Ln,-Madison,-WI-53714",
+      "addressLine1": "4709 Hermsmeier Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53714",
+      "price": 430000,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 1752,
+      "propertyType": "Single Family",
+      "yearBuilt": 1960,
+      "listedDate": "2026-08-12T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.087308,
+      "longitude": -89.300201,
+      "agent": {
+        "name": "Rico Sabatini",
+        "phone": "6086921900",
+        "email": "rico@buysellbetter.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-08-17T08:39:22.413060Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "426-Rushmore-Ln,-Madison,-WI-53711",
+      "addressLine1": "426 Rushmore Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 900000,
+      "bedrooms": 8,
+      "bathrooms": 4,
+      "squareFootage": 4800,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1959,
+      "listedDate": "2026-08-13T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.060079,
+      "longitude": -89.465799,
+      "agent": {
+        "name": "Dan Chin Homes Team",
+        "phone": "6086204177",
+        "email": "clientcare@danchinhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-08-17T08:39:22.413060Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "243-Parador-Pl,-Cottage-Grove,-WI-53527",
+      "addressLine1": "243 Parador Pl",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 420000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1906,
+      "propertyType": "Single Family",
+      "yearBuilt": 2002,
+      "listedDate": "2026-08-13T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.101232,
+      "longitude": -89.203736,
+      "agent": {
+        "name": "Leslie Haverland",
+        "phone": "6083344052",
+        "email": "leslie@leslietherealtor.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - East Madison",
+        "phone": "6083107777"
+      },
+      "dateAdded": "2026-08-17T08:39:22.413060Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "500-Hanks-Hollow-Trl,-Deforest,-WI-53532",
+      "addressLine1": "500 Hanks Hollow Trl",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 479900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2105,
+      "propertyType": "Single Family",
+      "yearBuilt": 1978,
+      "listedDate": "2026-08-13T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.241598,
+      "longitude": -89.352622,
+      "agent": {
+        "name": "Jason Brakmanis",
+        "phone": "6082204996",
+        "email": "jasonbrakmanis@gmail.com"
+      },
+      "office": {
+        "name": "Realty 2.0",
+        "phone": "6082153060"
+      },
+      "dateAdded": "2026-08-17T08:39:22.413060Z",
       "owner": {
         "owner1": null,
         "owner2": null
