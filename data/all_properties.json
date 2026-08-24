@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-23T08:25:54.670423Z",
-  "totalCount": 2363,
+  "lastUpdated": "2026-08-24T08:44:02.337798Z",
+  "totalCount": 2372,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -72588,6 +72588,285 @@
         "phone": "6082680831"
       },
       "dateAdded": "2026-08-23T08:25:54.670423Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2606-2608-Baer-St,-Cross-Plains,-WI-53528",
+      "addressLine1": "2606/2608 Baer St",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 575000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1984,
+      "listedDate": "2026-08-20T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.117616,
+      "longitude": -89.640115,
+      "agent": {
+        "name": "Trent Estabrook",
+        "phone": "6082134282",
+        "email": "trentestabrook@gmail.com"
+      },
+      "office": {
+        "name": "Pinnacle Real Estate Group",
+        "phone": "6088293900"
+      },
+      "dateAdded": "2026-08-24T08:44:02.337798Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4402-Woods-End,-Madison,-WI-53711",
+      "addressLine1": "4402 Woods End",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 550000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2125,
+      "propertyType": "Single Family",
+      "yearBuilt": 1961,
+      "listedDate": "2026-08-19T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.060215,
+      "longitude": -89.451488,
+      "agent": {
+        "name": "Hansen Home Team",
+        "phone": "6082196506",
+        "email": "hansenhometeam@starkhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-08-24T08:44:02.337798Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "803-Liliana-Ter,-Oregon,-WI-53575",
+      "addressLine1": "803 Liliana Ter",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 650000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2484,
+      "propertyType": "Single Family",
+      "yearBuilt": 2020,
+      "listedDate": "2026-08-19T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.90869,
+      "longitude": -89.37441,
+      "agent": {
+        "name": "Swain, Jenny",
+        "phone": "6082198989",
+        "email": "jenny@jennyswain.com"
+      },
+      "office": {
+        "name": "Jenny Swain and Associates",
+        "phone": "6082198989"
+      },
+      "dateAdded": "2026-08-24T08:44:02.337798Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7545-East-Pass,-Madison,-WI-53719",
+      "addressLine1": "7545 East Pass",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 449900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1416,
+      "propertyType": "Single Family",
+      "yearBuilt": 2003,
+      "listedDate": "2026-08-19T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.003423,
+      "longitude": -89.511604,
+      "agent": {
+        "name": "Brandon Buell",
+        "phone": "6082154143",
+        "email": "brandon@buellhomes.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-08-24T08:44:02.337798Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1713-Northfield-Pl,-Madison,-WI-53704",
+      "addressLine1": "1713 Northfield Pl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 415000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1312,
+      "propertyType": "Single Family",
+      "yearBuilt": 2007,
+      "listedDate": "2026-08-19T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.102346,
+      "longitude": -89.363221,
+      "agent": {
+        "name": "Nicole Goggio",
+        "phone": "6086096868",
+        "email": "nicolegoggio@realtyexecutives.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-08-24T08:44:02.337798Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2442-Leopold-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "2442 Leopold Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 420000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1503,
+      "propertyType": "Single Family",
+      "yearBuilt": 2019,
+      "listedDate": "2026-08-19T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.160147,
+      "longitude": -89.257631,
+      "agent": {
+        "name": "Christina Schmidt",
+        "phone": "6087128780",
+        "email": "chrisschmidthomes4@gmail.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-08-24T08:44:02.337798Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "200-Dentaria-Dr,-Cottage-Grove,-WI-53527",
+      "addressLine1": "200 Dentaria Dr",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 477000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 2240,
+      "propertyType": "Single Family",
+      "yearBuilt": 1994,
+      "listedDate": "2026-08-19T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.078831,
+      "longitude": -89.191894,
+      "agent": {
+        "name": "Jennifer Pulley",
+        "phone": "6084463332",
+        "email": "jenniferpulley1@gmail.com"
+      },
+      "office": {
+        "name": "Lindsay Gallagher & Associates",
+        "phone": "6084808350"
+      },
+      "dateAdded": "2026-08-24T08:44:02.337798Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5695-Tuscany-Ln,-Waunakee,-WI-53597",
+      "addressLine1": "5695 Tuscany Ln",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 1599000,
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "squareFootage": 7054,
+      "propertyType": "Single Family",
+      "yearBuilt": 2005,
+      "listedDate": "2026-08-20T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.164035,
+      "longitude": -89.433063,
+      "agent": {
+        "name": "Chas Martin",
+        "phone": "6083349042",
+        "email": "chas@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-08-24T08:44:02.337798Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1219-Crane-Meadow-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1219 Crane Meadow Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 530000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2240,
+      "propertyType": "Single Family",
+      "yearBuilt": 2020,
+      "listedDate": "2026-08-20T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.166792,
+      "longitude": -89.24825,
+      "agent": {
+        "name": "Joe Armentrout",
+        "phone": "6088293900",
+        "email": "armentrout23@hotmail.com"
+      },
+      "office": {
+        "name": "Pinnacle Real Estate Group",
+        "phone": "6088293900"
+      },
+      "dateAdded": "2026-08-24T08:44:02.337798Z",
       "owner": {
         "owner1": null,
         "owner2": null
