@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-29T13:36:43.033483Z",
-  "totalCount": 2435,
+  "lastUpdated": "2026-08-30T13:31:42.466588Z",
+  "totalCount": 2436,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -74820,6 +74820,37 @@
         "phone": "6082535871"
       },
       "dateAdded": "2026-08-29T13:36:43.033483Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2954-Milwaukee-St,-Madison,-WI-53704",
+      "addressLine1": "2954 Milwaukee St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 665000,
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "squareFootage": 3089,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1926,
+      "listedDate": "2026-08-26T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.100122,
+      "longitude": -89.339451,
+      "agent": {
+        "name": "Krista Potter",
+        "phone": "6084697377",
+        "email": "krista.potter@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-08-30T13:31:42.466588Z",
       "owner": {
         "owner1": null,
         "owner2": null
