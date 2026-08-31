@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-30T13:31:42.466588Z",
-  "totalCount": 2436,
+  "lastUpdated": "2026-08-31T15:49:45.170172Z",
+  "totalCount": 2442,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -74851,6 +74851,192 @@
         "phone": "6088367433"
       },
       "dateAdded": "2026-08-30T13:31:42.466588Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2779-Richardson-St,-Fitchburg,-WI-53711",
+      "addressLine1": "2779 Richardson St",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 749900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3932,
+      "propertyType": "Single Family",
+      "yearBuilt": 1994,
+      "listedDate": "2026-08-26T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.005334,
+      "longitude": -89.437327,
+      "agent": {
+        "name": "Brian Huegel",
+        "phone": "6085754567",
+        "email": "brianhuegel@gmail.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-08-31T15:49:45.170172Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "517-527-Trailside-Dr,-Deforest,-WI-53532",
+      "addressLine1": "517-527 Trailside Dr",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 1299000,
+      "bedrooms": null,
+      "bathrooms": null,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1996,
+      "listedDate": "2026-08-26T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.252331,
+      "longitude": -89.360176,
+      "agent": {
+        "name": "Carson Brewer",
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": "Altus Commercial Real Estate, Inc.",
+        "phone": "6083381101"
+      },
+      "dateAdded": "2026-08-31T15:49:45.170172Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "463-North-Star-Dr,-Madison,-WI-53718",
+      "addressLine1": "463 North Star Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 500000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2230,
+      "propertyType": "Single Family",
+      "yearBuilt": 2016,
+      "listedDate": "2026-08-26T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.092276,
+      "longitude": -89.274779,
+      "agent": {
+        "name": "Louisa Enz",
+        "phone": "6082798755",
+        "email": "louisa@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Collective Real Estate Group",
+        "phone": "6086627777"
+      },
+      "dateAdded": "2026-08-31T15:49:45.170172Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1419-Ridgetrail-Dr,-Cross-Plains,-WI-53528",
+      "addressLine1": "1419 Ridgetrail Dr",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 664900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1860,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-08-27T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.110425,
+      "longitude": -89.671681,
+      "agent": {
+        "name": "Brandon Buell",
+        "phone": "6082154143",
+        "email": "brandon@buellhomes.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-08-31T15:49:45.170172Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1410-Stonehaven-Dr,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1410 Stonehaven Dr",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 779900,
+      "bedrooms": 4,
+      "bathrooms": 1.5,
+      "squareFootage": 2749,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-08-27T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.20218,
+      "longitude": -89.235947,
+      "agent": {
+        "name": "Brandon Buell",
+        "phone": "6082154143",
+        "email": "brandon@buellhomes.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-08-31T15:49:45.170172Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6413-Landfall-Dr,-Madison,-WI-53705",
+      "addressLine1": "6413 Landfall Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 850000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 4393,
+      "propertyType": "Single Family",
+      "yearBuilt": 1966,
+      "listedDate": "2026-08-26T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.064821,
+      "longitude": -89.491488,
+      "agent": {
+        "name": "Dan Miller",
+        "phone": "6088527071",
+        "email": "dan@madcitydreamhomes.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-08-31T15:49:45.170172Z",
       "owner": {
         "owner1": null,
         "owner2": null
