@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-05T11:37:41.173039Z",
-  "totalCount": 2520,
+  "lastUpdated": "2026-09-06T11:56:51.100473Z",
+  "totalCount": 2526,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -77455,6 +77455,192 @@
         "phone": null
       },
       "dateAdded": "2026-09-05T11:37:41.173039Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7322-Whitacre-Rd,-Madison,-WI-53717",
+      "addressLine1": "7322 Whitacre Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 599000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2500,
+      "propertyType": "Single Family",
+      "yearBuilt": 1978,
+      "listedDate": "2026-09-02T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.072447,
+      "longitude": -89.510048,
+      "agent": {
+        "name": "Lisa Piekarski",
+        "phone": "6089638041",
+        "email": "lisa@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-09-06T11:56:51.100473Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1816-Dondee-Rd,-Madison,-WI-53716",
+      "addressLine1": "1816 Dondee Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53716",
+      "price": 449900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2664,
+      "propertyType": "Condo",
+      "yearBuilt": 2006,
+      "listedDate": "2026-09-02T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.071908,
+      "longitude": -89.302536,
+      "agent": {
+        "name": "Chris Alexander",
+        "phone": "6083814799",
+        "email": "chris@soldinwi.com"
+      },
+      "office": {
+        "name": "NextHome Midwest",
+        "phone": "6083814799"
+      },
+      "dateAdded": "2026-09-06T11:56:51.100473Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5953-Woodcreek-Ln,-Unit-5953,-Middleton,-WI-53562",
+      "addressLine1": "5953 Woodcreek Ln",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 424900,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 2126,
+      "propertyType": "Condo",
+      "yearBuilt": 1986,
+      "listedDate": "2026-09-02T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.110223,
+      "longitude": -89.482803,
+      "agent": {
+        "name": "Kelsey Bakken",
+        "phone": "6083337312",
+        "email": "kelsey.bakken@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088333711"
+      },
+      "dateAdded": "2026-09-06T11:56:51.100473Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7803-Wild-Bluebell-St,-Madison,-WI-53719",
+      "addressLine1": "7803 Wild Bluebell St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 419900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1523,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-09-03T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.0302852,
+      "longitude": -89.5204198,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-09-06T11:56:51.100473Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4503-Larson-St,-Mcfarland,-WI-53558",
+      "addressLine1": "4503 Larson St",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 765000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2094,
+      "propertyType": "Single Family",
+      "yearBuilt": 1900,
+      "listedDate": "2026-09-03T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.022323,
+      "longitude": -89.305306,
+      "agent": {
+        "name": "Paul Haviland",
+        "phone": "6088434442",
+        "email": "phaviland@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-09-06T11:56:51.100473Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2246-Waters-Edge-Trl,-Madison,-WI-53718",
+      "addressLine1": "2246 Waters Edge Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 439900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1516,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-09-03T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.128336,
+      "longitude": -89.283494,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-09-06T11:56:51.100473Z",
       "owner": {
         "owner1": null,
         "owner2": null
