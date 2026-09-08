@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-07T13:57:48.147245Z",
-  "totalCount": 2530,
+  "lastUpdated": "2026-09-08T12:36:56.094960Z",
+  "totalCount": 2536,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -77765,6 +77765,192 @@
         "phone": null
       },
       "dateAdded": "2026-09-07T13:57:48.147245Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "181-Union-St,-Sun-Prairie,-WI-53590",
+      "addressLine1": "181 Union St",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 410000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2233,
+      "propertyType": "Single Family",
+      "yearBuilt": 1942,
+      "listedDate": "2026-09-03T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.185572,
+      "longitude": -89.218274,
+      "agent": {
+        "name": "Pam Venenga",
+        "phone": "6082197424",
+        "email": "pvenenga@starkhomes.com"
+      },
+      "office": {
+        "name": "Stark Company, REALTORS",
+        "phone": "6088377345"
+      },
+      "dateAdded": "2026-09-08T12:36:56.094960Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9-Sedona-Ct,-Madison,-WI-53719",
+      "addressLine1": "9 Sedona Ct",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 410000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1498,
+      "propertyType": "Single Family",
+      "yearBuilt": 1993,
+      "listedDate": "2026-09-03T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.018629,
+      "longitude": -89.512845,
+      "agent": {
+        "name": "Thomas Jennings",
+        "phone": "6052515085",
+        "email": "tjennings@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-09-08T12:36:56.094960Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3570-Mammoth-Trl,-Madison,-WI-53719",
+      "addressLine1": "3570 Mammoth Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 581000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2578,
+      "propertyType": "Single Family",
+      "yearBuilt": 2001,
+      "listedDate": "2026-09-04T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.007295,
+      "longitude": -89.513629,
+      "agent": {
+        "name": "Dick Quinn",
+        "phone": "6086289596",
+        "email": "dickmquinn@gmail.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-09-08T12:36:56.094960Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9001-Hawks-Reserve-Ln,-Unit-103,-Verona,-WI-53593",
+      "addressLine1": "9001 Hawks Reserve Ln",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 725000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 2472,
+      "propertyType": "Condo",
+      "yearBuilt": 2006,
+      "listedDate": "2026-09-03T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.034035,
+      "longitude": -89.541673,
+      "agent": {
+        "name": "Heather Bogner",
+        "phone": "6083329871",
+        "email": "bognerh@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088333711"
+      },
+      "dateAdded": "2026-09-08T12:36:56.094960Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "100-Wisconsin-Ave,-Apt-1201,-Madison,-WI-53703",
+      "addressLine1": "100 Wisconsin Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 5200000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 4806,
+      "propertyType": "Condo",
+      "yearBuilt": 2004,
+      "listedDate": "2026-09-03T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.075511,
+      "longitude": -89.385887,
+      "agent": {
+        "name": "Denise Holmes",
+        "phone": "6085765556",
+        "email": "dholmes@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "Collective Real Estate Group",
+        "phone": "6086627777"
+      },
+      "dateAdded": "2026-09-08T12:36:56.094960Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "717-N-Blackhawk-Ave,-Madison,-WI-53705",
+      "addressLine1": "717 N Blackhawk Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 400000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 1090,
+      "propertyType": "Single Family",
+      "yearBuilt": 1941,
+      "listedDate": "2026-09-03T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.074618,
+      "longitude": -89.446035,
+      "agent": {
+        "name": "Swain, Jenny",
+        "phone": "6082198989",
+        "email": "jenny@jennyswain.com"
+      },
+      "office": {
+        "name": "Jenny Swain and Associates",
+        "phone": "6082198989"
+      },
+      "dateAdded": "2026-09-08T12:36:56.094960Z",
       "owner": {
         "owner1": null,
         "owner2": null
