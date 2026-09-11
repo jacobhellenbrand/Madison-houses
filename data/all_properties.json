@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-10T12:41:42.897074Z",
-  "totalCount": 2554,
+  "lastUpdated": "2026-09-11T12:36:00.500738Z",
+  "totalCount": 2563,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -78509,6 +78509,285 @@
         "phone": "6087099886"
       },
       "dateAdded": "2026-09-10T12:41:42.897074Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "255-259-Park-St,-Oregon,-WI-53575",
+      "addressLine1": "255-259 Park St",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 575000,
+      "bedrooms": 6,
+      "bathrooms": 2,
+      "squareFootage": 2080,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1970,
+      "listedDate": "2026-09-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.925825,
+      "longitude": -89.380874,
+      "agent": {
+        "name": "Ken Brenner",
+        "phone": "6083459496",
+        "email": "kbrenner@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-09-11T12:36:00.500738Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1331-Pinnacle-Cir,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1331 Pinnacle Cir",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 579900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2517,
+      "propertyType": "Single Family",
+      "yearBuilt": 1999,
+      "listedDate": "2026-09-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.200069,
+      "longitude": -89.247092,
+      "agent": {
+        "name": "Amy Runhaar",
+        "phone": "9203977244",
+        "email": "amyr@devoutrealestate.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-09-11T12:36:00.500738Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1928-Commonwealth-Ave,-Madison,-WI-53726",
+      "addressLine1": "1928 Commonwealth Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53726",
+      "price": 640000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1608,
+      "propertyType": "Single Family",
+      "yearBuilt": 1921,
+      "listedDate": "2026-09-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.066567,
+      "longitude": -89.420644,
+      "agent": {
+        "name": "Rachel Whaley",
+        "phone": "6083452313",
+        "email": "rachel@lauerrealtygroup.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "dateAdded": "2026-09-11T12:36:00.500738Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "18-Star-Fire-Ct,-Madison,-WI-53719",
+      "addressLine1": "18 Star Fire Ct",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 484900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2070,
+      "propertyType": "Single Family",
+      "yearBuilt": 1987,
+      "listedDate": "2026-09-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.021996,
+      "longitude": -89.506732,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": "Stark Company, REALTORS",
+        "phone": "6088397137"
+      },
+      "dateAdded": "2026-09-11T12:36:00.500738Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2110-Frisch-Rd,-Madison,-WI-53711",
+      "addressLine1": "2110 Frisch Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 650000,
+      "bedrooms": 6,
+      "bathrooms": 3,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1977,
+      "listedDate": "2026-09-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.029271,
+      "longitude": -89.49322,
+      "agent": {
+        "name": "Mike Bailey",
+        "phone": "6085306039",
+        "email": "mike@mikeandstella.com"
+      },
+      "office": {
+        "name": "eXp Realty, LLC",
+        "phone": "8668486990"
+      },
+      "dateAdded": "2026-09-11T12:36:00.500738Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1199-Virdon-Dr,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1199 Virdon Dr",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 735000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3522,
+      "propertyType": "Single Family",
+      "yearBuilt": 2014,
+      "listedDate": "2026-09-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.197998,
+      "longitude": -89.252456,
+      "agent": {
+        "name": "Erin Flesch",
+        "phone": "6087099288",
+        "email": "erin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-09-11T12:36:00.500738Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5211-Big-Bow-Ct,-Fitchburg,-WI-53711",
+      "addressLine1": "5211 Big Bow Ct",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 454900,
+      "bedrooms": 5,
+      "bathrooms": 2.5,
+      "squareFootage": 2309,
+      "propertyType": "Single Family",
+      "yearBuilt": 1974,
+      "listedDate": "2026-09-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.025267,
+      "longitude": -89.470035,
+      "agent": {
+        "name": "Jason Morse",
+        "phone": "6085352683",
+        "email": "jason@hometeam4u.com"
+      },
+      "office": {
+        "name": "Berkshire Hathaway HomeServices TRUE Realty",
+        "phone": "6088196060"
+      },
+      "dateAdded": "2026-09-11T12:36:00.500738Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4347-Windsor-Rd,-Windsor,-WI-53598",
+      "addressLine1": "4347 Windsor Rd",
+      "city": "Windsor",
+      "state": "WI",
+      "zipCode": "53598",
+      "price": 510000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 3302,
+      "propertyType": "Single Family",
+      "yearBuilt": 1965,
+      "listedDate": "2026-09-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.215955,
+      "longitude": -89.332555,
+      "agent": {
+        "name": "Niki Petska",
+        "phone": "6087129058",
+        "email": "petskan@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-09-11T12:36:00.500738Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "109-N-Roby-Rd,-Madison,-WI-53726",
+      "addressLine1": "109 N Roby Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53726",
+      "price": 1225000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 3572,
+      "propertyType": "Single Family",
+      "yearBuilt": 1926,
+      "listedDate": "2026-09-08T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.070102,
+      "longitude": -89.419659,
+      "agent": {
+        "name": "Chas Martin",
+        "phone": "6083349042",
+        "email": "chas@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-09-11T12:36:00.500738Z",
       "owner": {
         "owner1": null,
         "owner2": null

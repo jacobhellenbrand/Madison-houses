@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-10T12:48:10.396002Z",
+  "lastUpdated": "2026-09-11T12:42:11.122355Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 10,
+  "totalCount": 12,
   "proposals": [
     {
       "id": "BLDNRC-2026-19532",
@@ -162,6 +162,38 @@
       "issuanceDate": "08/14/2026",
       "contractor": "OWNER",
       "contractorAddress": "",
+      "category": "Tenant Buildout"
+    },
+    {
+      "id": "BLDRPR-2026-20017",
+      "permitNumber": "BLDRPR-2026-20017",
+      "use": "TAVERN & RESTAURANT",
+      "address": "499 D'ONOFRIO DR",
+      "buildingSqft": "0",
+      "estimatedCost": "$58,725",
+      "feesPaid": "$649",
+      "owner": "ASSOCIATED PROPERTIES MW LLC",
+      "ownerAddress": "805 HIDDEN CAVE RD, MADISON, WI 53717-2757",
+      "description": "REPLACING RESTAURANT ROOF",
+      "issuanceDate": "08/25/2026",
+      "contractor": "RIDGE TOP EXTERIORS INC",
+      "contractorAddress": "4620 DOVETAIL DR, MADISON, WI 53704",
+      "category": "Retail"
+    },
+    {
+      "id": "BLDNCC-2026-15646",
+      "permitNumber": "BLDNCC-2026-15646",
+      "use": "TAVERN & RESTAURANT",
+      "address": "517 S GAMMON RD",
+      "buildingSqft": "1,834",
+      "estimatedCost": "$120,000",
+      "feesPaid": "$1,486",
+      "owner": "CH RETAIL FUND I/MADISON",
+      "ownerAddress": "GAMMON ROAD LLC, 600 N PLANKINTON AVE #301, MILWAUKEE, WI 53203",
+      "description": "SHAWARMA HOUSE - NEW TENANT ALTERATION",
+      "issuanceDate": "09/10/2026",
+      "contractor": "KHALEK CONSTRUCTION",
+      "contractorAddress": "3834 E PUTEZ RD, OAK CREEK, WI 53154",
       "category": "Tenant Buildout"
     }
   ]
