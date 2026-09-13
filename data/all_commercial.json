@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-11T12:42:11.122355Z",
-  "totalCount": 207,
+  "lastUpdated": "2026-09-13T13:11:44.249163Z",
+  "totalCount": 211,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -3360,6 +3360,74 @@
       "contractorAddress": "3834 E PUTEZ RD, OAK CREEK, WI 53154",
       "category": "Tenant Buildout",
       "dateAdded": "2026-09-11T12:42:11.122355Z"
+    },
+    {
+      "id": "BLDNRC-2026-20324",
+      "permitNumber": "BLDNRC-2026-20324",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "1203 MICA RD",
+      "buildingSqft": "7,197",
+      "estimatedCost": "$789,712",
+      "feesPaid": "$1,370",
+      "owner": "VH HILL VALLEY, LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, 6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "description": "NEW TWIN HOME ZERO LOT LINE",
+      "issuanceDate": "09/11/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial",
+      "dateAdded": "2026-09-13T13:11:44.249163Z"
+    },
+    {
+      "id": "BLDNRC-2026-20676",
+      "permitNumber": "BLDNRC-2026-20676",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "8442 SHEEPDOG WAY",
+      "buildingSqft": "5,452",
+      "estimatedCost": "$689,114",
+      "feesPaid": "$1,118",
+      "owner": "VH HILL VALLEY, LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, 6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "description": "NEW TWIN HOME ZERO LOT LINE",
+      "issuanceDate": "09/11/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial",
+      "dateAdded": "2026-09-13T13:11:44.249163Z"
+    },
+    {
+      "id": "BLDNCC-2026-14374",
+      "permitNumber": "BLDNCC-2026-14374",
+      "use": "TAVERN & RESTAURANT",
+      "address": "626 LANGDON ST 100",
+      "buildingSqft": "1,091",
+      "estimatedCost": "$209,000",
+      "feesPaid": "$2,442",
+      "owner": "ROUNDHOUSE APARTMENTS LLC",
+      "ownerAddress": "% CHT APARTMENT RENTALS, PO BOX 512, MADISON, WI 53701",
+      "description": "THE SHOP - NEW TENANT ALTERATION",
+      "issuanceDate": "08/20/2026",
+      "contractor": "IDEAL BUILDERS INC",
+      "contractorAddress": "1406 EMIL ST, MADISON, WI 537132312",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-09-13T13:11:44.249163Z"
+    },
+    {
+      "id": "BLDNCC-2026-16539",
+      "permitNumber": "BLDNCC-2026-16539",
+      "use": "TAVERN & RESTAURANT",
+      "address": "6714 RAYMOND RD",
+      "buildingSqft": "2,018",
+      "estimatedCost": "$7,500",
+      "feesPaid": "$259",
+      "owner": "GZL INVESTMENT LLC",
+      "ownerAddress": "1 NORWALK CIR, MADISON, WI 53717",
+      "description": "PA'QUE ROBERTO - NEW TENANT ALTERATION",
+      "issuanceDate": "08/17/2026",
+      "contractor": "KELSO CONSTRUCTION MANAGEMENT INC",
+      "contractorAddress": "2915 MARIGOLD CIR, MIDDLETON, WI 53562",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-09-13T13:11:44.249163Z"
     }
   ]
 }

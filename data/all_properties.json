@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-12T11:57:54.317830Z",
-  "totalCount": 2575,
+  "lastUpdated": "2026-09-13T13:05:44.185177Z",
+  "totalCount": 2581,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -79160,6 +79160,192 @@
         "phone": "6084673220"
       },
       "dateAdded": "2026-09-12T11:57:54.317830Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "321-Glenway-St,-Madison,-WI-53705",
+      "addressLine1": "321 Glenway St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 565000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 1857,
+      "propertyType": "Single Family",
+      "yearBuilt": 1940,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.061728,
+      "longitude": -89.438403,
+      "agent": {
+        "name": "Kyle Bollman",
+        "phone": "6088862259",
+        "email": "kylebollmanrealtor@gmail.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-09-13T13:05:44.185177Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3517-Ice-Age-Dr,-Madison,-WI-53719",
+      "addressLine1": "3517 Ice Age Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 625000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2886,
+      "propertyType": "Single Family",
+      "yearBuilt": 2001,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.011585,
+      "longitude": -89.513993,
+      "agent": {
+        "name": "Kirstie Skul",
+        "phone": "8642375056",
+        "email": "kirstiesrealestate@gmail.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-09-13T13:05:44.185177Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1098-Brynhill-Dr,-Oregon,-WI-53575",
+      "addressLine1": "1098 Brynhill Dr",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 999900,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3281,
+      "propertyType": "Single Family",
+      "yearBuilt": 2018,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.915634,
+      "longitude": -89.395195,
+      "agent": {
+        "name": "Hansen Home Team",
+        "phone": "6082196506",
+        "email": "hansenhometeam@starkhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-09-13T13:05:44.185177Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2102-Keyes-Ave,-Madison,-WI-53711",
+      "addressLine1": "2102 Keyes Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 700000,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 1487,
+      "propertyType": "Single Family",
+      "yearBuilt": 1916,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.065054,
+      "longitude": -89.420796,
+      "agent": {
+        "name": "Husky Homes Team",
+        "phone": "6084221967",
+        "email": "info@huskyhomeswi.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-09-13T13:05:44.185177Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9-Oxford-Pl,-Madison,-WI-53704",
+      "addressLine1": "9 Oxford Pl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 535000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1682,
+      "propertyType": "Single Family",
+      "yearBuilt": 1941,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.109193,
+      "longitude": -89.364564,
+      "agent": {
+        "name": "Kristine Jaeger",
+        "phone": "6082171919",
+        "email": "kristine@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-09-13T13:05:44.185177Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1120-N-Division-St,-Waunakee,-WI-53597",
+      "addressLine1": "1120 N Division St",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 900000,
+      "bedrooms": 6,
+      "bathrooms": 3.5,
+      "squareFootage": 4170,
+      "propertyType": "Single Family",
+      "yearBuilt": 2015,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.206222,
+      "longitude": -89.445518,
+      "agent": {
+        "name": "Garret Clemment",
+        "phone": "6087098033",
+        "email": "garret@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-09-13T13:05:44.185177Z",
       "owner": {
         "owner1": null,
         "owner2": null
