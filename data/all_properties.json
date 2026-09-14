@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-13T13:05:44.185177Z",
-  "totalCount": 2581,
+  "lastUpdated": "2026-09-14T14:42:51.184592Z",
+  "totalCount": 2587,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -79346,6 +79346,192 @@
         "phone": "6087099886"
       },
       "dateAdded": "2026-09-13T13:05:44.185177Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2936-Maple-Run-Dr,-Madison,-WI-53719",
+      "addressLine1": "2936 Maple Run Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 699900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3260,
+      "propertyType": "Single Family",
+      "yearBuilt": 1994,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.019486,
+      "longitude": -89.496702,
+      "agent": {
+        "name": "Tracy Tompkins",
+        "phone": "6086096488",
+        "email": "tracy@tracyre.com"
+      },
+      "office": {
+        "name": "Collective Real Estate Group",
+        "phone": "6086627777"
+      },
+      "dateAdded": "2026-09-14T14:42:51.184592Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "450-Ithaca-Ct,-Oregon,-WI-53575",
+      "addressLine1": "450 Ithaca Ct",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 460000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 1960,
+      "propertyType": "Single Family",
+      "yearBuilt": 2020,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.935171,
+      "longitude": -89.402297,
+      "agent": {
+        "name": "Bryan Reichling",
+        "phone": "6084820944",
+        "email": "reichlinbt05@gmail.com"
+      },
+      "office": {
+        "name": "eXp Realty, LLC",
+        "phone": "8668486990"
+      },
+      "dateAdded": "2026-09-14T14:42:51.184592Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6109-Old-Middleton-Rd,-Madison,-WI-53705",
+      "addressLine1": "6109 Old Middleton Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 450000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1937,
+      "propertyType": "Single Family",
+      "yearBuilt": 1976,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.085959,
+      "longitude": -89.485394,
+      "agent": {
+        "name": "Liz Quinn",
+        "phone": "6082971544",
+        "email": "liz@quinncorealty.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-09-14T14:42:51.184592Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1817-Anhalt-Dr,-Madison,-WI-53704",
+      "addressLine1": "1817 Anhalt Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 449900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1540,
+      "propertyType": "Single Family",
+      "yearBuilt": 1995,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.141899,
+      "longitude": -89.360501,
+      "agent": {
+        "name": "Hansen Home Team",
+        "phone": "6082196506",
+        "email": "hansenhometeam@starkhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-09-14T14:42:51.184592Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5904-Red-Oak-Trl,-Mcfarland,-WI-53558",
+      "addressLine1": "5904 Red Oak Trl",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 495000,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "squareFootage": 2389,
+      "propertyType": "Single Family",
+      "yearBuilt": 2001,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.024731,
+      "longitude": -89.277765,
+      "agent": {
+        "name": "Chris Barreau",
+        "phone": "6087099001",
+        "email": "chris@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-09-14T14:42:51.184592Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6-Lynbrook-Cir,-Madison,-WI-53719",
+      "addressLine1": "6 Lynbrook Cir",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 550000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3515,
+      "propertyType": "Single Family",
+      "yearBuilt": 1989,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.022078,
+      "longitude": -89.484239,
+      "agent": {
+        "name": "Paul Haviland",
+        "phone": "6088434442",
+        "email": "phaviland@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-09-14T14:42:51.184592Z",
       "owner": {
         "owner1": null,
         "owner2": null
