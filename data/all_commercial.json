@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-14T14:48:46.797583Z",
-  "totalCount": 222,
+  "lastUpdated": "2026-09-15T13:14:21.276313Z",
+  "totalCount": 224,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -3615,6 +3615,40 @@
       "contractorAddress": "P.O. BOX 81336, LAFAYETTE, LA 70598",
       "category": "Tenant Buildout",
       "dateAdded": "2026-09-14T14:48:46.797583Z"
+    },
+    {
+      "id": "BLDNRC-2026-18417",
+      "permitNumber": "BLDNRC-2026-18417",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "10442 VELVET WILLOW RD",
+      "buildingSqft": "5,499",
+      "estimatedCost": "$747,161",
+      "feesPaid": "$997",
+      "owner": "VHET LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "description": "NEW SINGLE FAMILY HOME",
+      "issuanceDate": "08/19/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial",
+      "dateAdded": "2026-09-15T13:14:21.276313Z"
+    },
+    {
+      "id": "BLDRPR-2026-20073",
+      "permitNumber": "BLDRPR-2026-20073",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1121 WABAN HILL",
+      "buildingSqft": "0",
+      "estimatedCost": "$6,000",
+      "feesPaid": "$66",
+      "owner": "SENATORI, ADAM T",
+      "ownerAddress": "MEGAN A SENATORI, 1121 WABAN HILL, MADISON, WI 53711",
+      "description": "1ST FLOOR POWDER ROOM REMODEL (NO LAYOUT ALT, NO STRUCTURAL ALT): REPAIRING DRYWALL AS NEEDED",
+      "issuanceDate": "08/26/2026",
+      "contractor": "WORRY FREE REMODELING",
+      "contractorAddress": "P.O. BOX 930462, VERONA, WI 53593",
+      "category": "Renovation",
+      "dateAdded": "2026-09-15T13:14:21.276313Z"
     }
   ]
 }

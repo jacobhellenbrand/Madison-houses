@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-14T14:42:51.184592Z",
-  "totalCount": 2587,
+  "lastUpdated": "2026-09-15T13:07:32.281972Z",
+  "totalCount": 2601,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -79532,6 +79532,440 @@
         "phone": "6088369300"
       },
       "dateAdded": "2026-09-14T14:42:51.184592Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9077-Bentley-Grn,-Verona,-WI-53593",
+      "addressLine1": "9077 Bentley Grn",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 900000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 4207,
+      "propertyType": "Condo",
+      "yearBuilt": 2008,
+      "listedDate": "2026-09-10T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.041347,
+      "longitude": -89.540339,
+      "agent": {
+        "name": "Joe Armentrout",
+        "phone": "6088293900",
+        "email": "armentrout23@hotmail.com"
+      },
+      "office": {
+        "name": "Pinnacle Real Estate Group",
+        "phone": "6088293900"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "426-N-Ingersoll-St,-Madison,-WI-53703",
+      "addressLine1": "426 N Ingersoll St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 574900,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1768,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1916,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.088119,
+      "longitude": -89.37448,
+      "agent": {
+        "name": "Gladys Simon",
+        "phone": "6087701514",
+        "email": "gssimon@chorus.net"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4122-Vidon-Dr,-Madison,-WI-53704",
+      "addressLine1": "4122 Vidon Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 470000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 1975,
+      "propertyType": "Single Family",
+      "yearBuilt": 2005,
+      "listedDate": "2026-09-10T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.144269,
+      "longitude": -89.310112,
+      "agent": {
+        "name": "Nicole Ellis",
+        "phone": "6084454757",
+        "email": "nicoleellis@kw.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "235-Blooming-Leaf-Way,-Verona,-WI-53593",
+      "addressLine1": "235 Blooming Leaf Way",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 489900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1806,
+      "propertyType": "Single Family",
+      "yearBuilt": 2017,
+      "listedDate": "2026-09-10T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.057803,
+      "longitude": -89.564908,
+      "agent": {
+        "name": "Hui Cheng",
+        "phone": "6086629595",
+        "email": "hcheng@kw.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "10114-Watts-Rd,-Verona,-WI-53593",
+      "addressLine1": "10114 Watts Rd",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 629999,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2724,
+      "propertyType": "Single Family",
+      "yearBuilt": 2019,
+      "listedDate": "2026-09-10T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.052577,
+      "longitude": -89.562145,
+      "agent": {
+        "name": "Matt Lindholm",
+        "phone": "6082739390",
+        "email": "matthewl@brunerrealtyinc.com"
+      },
+      "office": {
+        "name": "Bruner Realty & Management",
+        "phone": "6082739390"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "705-Mozart-St,-Verona,-WI-53593",
+      "addressLine1": "705 Mozart St",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 579000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1850,
+      "propertyType": "Single Family",
+      "yearBuilt": 2021,
+      "listedDate": "2026-09-10T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.97729,
+      "longitude": -89.515574,
+      "agent": {
+        "name": "Rachael See",
+        "phone": "6088285108",
+        "email": "seer@firstweber.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6115-Sledding-Pkwy,-Madison,-WI-53558",
+      "addressLine1": "6115 Sledding Pkwy",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 575000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1868,
+      "propertyType": "Single Family",
+      "yearBuilt": 2012,
+      "listedDate": "2026-09-10T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.028459,
+      "longitude": -89.272721,
+      "agent": {
+        "name": "Sharon Stade",
+        "phone": "2627805500",
+        "email": "sharon.stade@cbrealty.com"
+      },
+      "office": {
+        "name": "Coldwell Banker Realty",
+        "phone": "2627805500"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "436-Connie-St,-Cottage-Grove,-WI-53527",
+      "addressLine1": "436 Connie St",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 425000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1451,
+      "propertyType": "Single Family",
+      "yearBuilt": 1974,
+      "listedDate": "2026-09-10T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.083788,
+      "longitude": -89.202109,
+      "agent": {
+        "name": "Kyle Broom",
+        "phone": "2623703244",
+        "email": "donnajlabarge@gmail.com"
+      },
+      "office": {
+        "name": "Y Realty Wisconsin",
+        "phone": "9493314140"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "25-Larkin-St,-Madison,-WI-53705",
+      "addressLine1": "25 Larkin St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 859900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 3141,
+      "propertyType": "Single Family",
+      "yearBuilt": 1960,
+      "listedDate": "2026-09-10T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.0663,
+      "longitude": -89.439874,
+      "agent": {
+        "name": "Eric Breidel",
+        "phone": "6082388888",
+        "email": "ebreidel@gmail.com"
+      },
+      "office": {
+        "name": "Investment Realty Services Llc",
+        "phone": "6082388888"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "10-Black-Stone-Cir,-Madison,-WI-53719",
+      "addressLine1": "10 Black Stone Cir",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 569900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2785,
+      "propertyType": "Single Family",
+      "yearBuilt": 2001,
+      "listedDate": "2026-09-10T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.029947,
+      "longitude": -89.531349,
+      "agent": {
+        "name": "Aaron Weber",
+        "phone": "6086186683",
+        "email": "aaron@movetomadison.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "280-Kierstead-Ln,-Oregon,-WI-53575",
+      "addressLine1": "280 Kierstead Ln",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 405000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1650,
+      "propertyType": "Single Family",
+      "yearBuilt": 1992,
+      "listedDate": "2026-09-09T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 42.921368,
+      "longitude": -89.380481,
+      "agent": {
+        "name": "Ginny Quirk",
+        "phone": "8476024051",
+        "email": "ginnyquirk@gmail.com"
+      },
+      "office": {
+        "name": "Great Western Properties",
+        "phone": "6303478900"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1333-Waldorf-Blvd,-Madison,-WI-53719",
+      "addressLine1": "1333 Waldorf Blvd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 474900,
+      "bedrooms": 2,
+      "bathrooms": 3.5,
+      "squareFootage": 2550,
+      "propertyType": "Condo",
+      "yearBuilt": 2004,
+      "listedDate": "2026-09-10T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.037399,
+      "longitude": -89.523349,
+      "agent": {
+        "name": "Luke Bruckner",
+        "phone": "6084459852",
+        "email": "lukebrealty@gmail.com"
+      },
+      "office": {
+        "name": "Collective Real Estate Group",
+        "phone": "6086627777"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1234-Wellesley-Rd,-Madison,-WI-53705",
+      "addressLine1": "1234 Wellesley Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 1625000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3473,
+      "propertyType": "Single Family",
+      "yearBuilt": 1924,
+      "listedDate": "2026-09-10T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.08155,
+      "longitude": -89.438676,
+      "agent": {
+        "name": "Chas Martin",
+        "phone": "6083349042",
+        "email": "chas@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "418-Augusta-Dr,-Madison,-WI-53717",
+      "addressLine1": "418 Augusta Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 725000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2731,
+      "propertyType": "Single Family",
+      "yearBuilt": 2000,
+      "listedDate": "2026-09-10T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.069595,
+      "longitude": -89.530351,
+      "agent": {
+        "name": "Wanda Roche, Broker Associate",
+        "phone": "6082122928",
+        "email": "wandarochehomes@gmail.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-09-15T13:07:32.281972Z",
       "owner": {
         "owner1": null,
         "owner2": null
