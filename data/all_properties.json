@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-18T12:41:14.257650Z",
-  "totalCount": 2655,
+  "lastUpdated": "2026-09-19T12:16:14.070240Z",
+  "totalCount": 2657,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -81640,6 +81640,68 @@
         "phone": "6087099886"
       },
       "dateAdded": "2026-09-18T12:41:14.257650Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2681-Church-St,-Cottage-Grove,-WI-53527",
+      "addressLine1": "2681 Church St",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 1295000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 4126,
+      "propertyType": "Single Family",
+      "yearBuilt": 2003,
+      "listedDate": "2026-09-16T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.994928,
+      "longitude": -89.159752,
+      "agent": {
+        "name": "Holly Hassenzahl",
+        "phone": "6084698950",
+        "email": "holly@tucciteam.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-09-19T12:16:14.070240Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2826-Tucson-Trl,-Madison,-WI-53719",
+      "addressLine1": "2826 Tucson Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 479900,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 1768,
+      "propertyType": "Single Family",
+      "yearBuilt": 1995,
+      "listedDate": "2026-09-16T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.02185,
+      "longitude": -89.512159,
+      "agent": {
+        "name": "Rena Ripp",
+        "phone": "6082286821",
+        "email": "renaripp@gmail.com"
+      },
+      "office": {
+        "name": "eXp Realty, LLC",
+        "phone": "8668486990"
+      },
+      "dateAdded": "2026-09-19T12:16:14.070240Z",
       "owner": {
         "owner1": null,
         "owner2": null
