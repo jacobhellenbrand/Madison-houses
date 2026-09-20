@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-19T12:16:14.070240Z",
-  "totalCount": 2657,
+  "lastUpdated": "2026-09-20T12:50:58.402399Z",
+  "totalCount": 2659,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -81702,6 +81702,68 @@
         "phone": "8668486990"
       },
       "dateAdded": "2026-09-19T12:16:14.070240Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1417-Schoepp-Ln,-Cross-Plains,-WI-53528",
+      "addressLine1": "1417 Schoepp Ln",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 640000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2250,
+      "propertyType": "Single Family",
+      "yearBuilt": 2021,
+      "listedDate": "2026-09-16T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.111282,
+      "longitude": -89.671672,
+      "agent": {
+        "name": "Kristin Shields",
+        "phone": "6087098031",
+        "email": "kristin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-09-20T12:50:58.402399Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4818-Dream-Ln,-Madison,-WI-53718",
+      "addressLine1": "4818 Dream Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 475000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 2082,
+      "propertyType": "Single Family",
+      "yearBuilt": 2004,
+      "listedDate": "2026-09-16T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.028071,
+      "longitude": -89.282589,
+      "agent": {
+        "name": "Kaitlin Solomon",
+        "phone": "6087099889",
+        "email": "kaitlin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-09-20T12:50:58.402399Z",
       "owner": {
         "owner1": null,
         "owner2": null
