@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T12:46:48.127168Z",
+  "lastUpdated": "2026-09-21T14:55:40.690031Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
   "totalCount": 3,
@@ -21,22 +21,6 @@
       "category": "Renovation"
     },
     {
-      "id": "BLDNRC-2026-18417",
-      "permitNumber": "BLDNRC-2026-18417",
-      "use": "SINGLE FAMILY RESIDENCES",
-      "address": "10442 VELVET WILLOW RD",
-      "buildingSqft": "5,499",
-      "estimatedCost": "$747,161",
-      "feesPaid": "$997",
-      "owner": "VHET LLC",
-      "ownerAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
-      "description": "NEW SINGLE FAMILY HOME",
-      "issuanceDate": "08/19/2026",
-      "contractor": "VERIDIAN HOMES LLC",
-      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
-      "category": "Commercial"
-    },
-    {
       "id": "BLDRPR-2026-20073",
       "permitNumber": "BLDRPR-2026-20073",
       "use": "SINGLE FAMILY RESIDENCES",
@@ -51,6 +35,22 @@
       "contractor": "WORRY FREE REMODELING",
       "contractorAddress": "P.O. BOX 930462, VERONA, WI 53593",
       "category": "Renovation"
+    },
+    {
+      "id": "BLDRPR-2026-18517",
+      "permitNumber": "BLDRPR-2026-18517",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "115 ELY PL",
+      "buildingSqft": "0",
+      "estimatedCost": "$120,000",
+      "feesPaid": "$1,345",
+      "owner": "FOREST, CARY BRETT",
+      "ownerAddress": "KATRINA THOMPSON FOREST, 115 ELY PL, MADISON, WI 53726",
+      "description": "2ND AND 3RD FLOOR ALTERATIONS (REMODEL 2ND FLOOR BATHROOMS, ADD THIRD FLOOR REC ROOM, KITCHEN, AND BATHROOM TO PARTIALLY FINISHED 3RD FLOOR WITH EXISTING BEDROOM AND OFFICE, ADD RESIDENTIAL SPRINKLER SYSTEM TO WHOLE HOUSE)",
+      "issuanceDate": "09/14/2026",
+      "contractor": "ANDERSON CUSTOM",
+      "contractorAddress": "462 N BALDWIN ST, MADISON, WI 53703",
+      "category": "Office"
     }
   ]
 }
