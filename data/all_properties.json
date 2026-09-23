@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-22T13:04:55.085814Z",
-  "totalCount": 2682,
+  "lastUpdated": "2026-09-23T13:20:34.271243Z",
+  "totalCount": 2691,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -82477,6 +82477,285 @@
         "phone": "6083107777"
       },
       "dateAdded": "2026-09-22T13:04:55.085814Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "342-Blackberry-Ln,-Deforest,-WI-53532",
+      "addressLine1": "342 Blackberry Ln",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 459900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2582,
+      "propertyType": "Condo",
+      "yearBuilt": 2005,
+      "listedDate": "2026-09-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.239375,
+      "longitude": -89.33905,
+      "agent": {
+        "name": "Tidwell, Bob",
+        "phone": "6082198909",
+        "email": "tidwellb@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088341722"
+      },
+      "dateAdded": "2026-09-23T13:20:34.271243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5805-Yorkshire-Rd,-Madison,-WI-53711",
+      "addressLine1": "5805 Yorkshire Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 449900,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1404,
+      "propertyType": "Single Family",
+      "yearBuilt": 1961,
+      "listedDate": "2026-09-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.045176,
+      "longitude": -89.479742,
+      "agent": {
+        "name": "Sean Lentz",
+        "phone": "2627076267",
+        "email": "sean@forwardrealtypartners.com"
+      },
+      "office": {
+        "name": "Forward Realty Partners",
+        "phone": "2626841411"
+      },
+      "dateAdded": "2026-09-23T13:20:34.271243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "100-Canterbury-Ct,-Waunakee,-WI-53597",
+      "addressLine1": "100 Canterbury Ct",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 474900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 1894,
+      "propertyType": "Single Family",
+      "yearBuilt": 1982,
+      "listedDate": "2026-09-17T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.180463,
+      "longitude": -89.454371,
+      "agent": {
+        "name": "Noelle Stevens",
+        "phone": "6085922100",
+        "email": "noelle@madisonflatfeehomes.com"
+      },
+      "office": {
+        "name": "MadisonFlatFeeHomes.com",
+        "phone": "6085922100"
+      },
+      "dateAdded": "2026-09-23T13:20:34.271243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9902-Peach-Leaf-Ln,-Middleton,-WI-53562",
+      "addressLine1": "9902 Peach Leaf Ln",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 885000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3240,
+      "propertyType": "Single Family",
+      "yearBuilt": 2016,
+      "listedDate": "2026-09-17T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.074146,
+      "longitude": -89.557849,
+      "agent": {
+        "name": "Tommy Van Ess",
+        "phone": "6083957375",
+        "email": "vanesst@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-09-23T13:20:34.271243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "829-Edgemore-Dr,-Sun-Prairie,-WI-53590",
+      "addressLine1": "829 Edgemore Dr",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 459900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2039,
+      "propertyType": "Single Family",
+      "yearBuilt": 1998,
+      "listedDate": "2026-09-17T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.190967,
+      "longitude": -89.255993,
+      "agent": {
+        "name": "Kristen Bear",
+        "phone": "6086697176",
+        "email": "kristen@rockrealtywi.com"
+      },
+      "office": {
+        "name": "Rock Realty",
+        "phone": "8777747625"
+      },
+      "dateAdded": "2026-09-23T13:20:34.271243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "146-Rustic-Dr,-Madison,-WI-53718",
+      "addressLine1": "146 Rustic Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 479900,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "squareFootage": 2650,
+      "propertyType": "Single Family",
+      "yearBuilt": 2007,
+      "listedDate": "2026-09-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.097303,
+      "longitude": -89.270614,
+      "agent": {
+        "name": "Bill Kalcik",
+        "phone": "6087702462",
+        "email": "kalcikb@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-09-23T13:20:34.271243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1805-Autumn-Hill-Dr,-Verona,-WI-53593",
+      "addressLine1": "1805 Autumn Hill Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 850000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 3638,
+      "propertyType": "Single Family",
+      "yearBuilt": 2002,
+      "listedDate": "2026-09-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.034038,
+      "longitude": -89.536659,
+      "agent": {
+        "name": "Pattie Tuscic",
+        "phone": "6083455799",
+        "email": "ptuscic@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-09-23T13:20:34.271243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9720-Winter-Basil-Dr,-Verona,-WI-53593",
+      "addressLine1": "9720 Winter Basil Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 575000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 2617,
+      "propertyType": "Single Family",
+      "yearBuilt": 2020,
+      "listedDate": "2026-09-18T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.046494,
+      "longitude": -89.5559,
+      "agent": {
+        "name": "Jamie Zimmer",
+        "phone": "6084456883",
+        "email": "jamie@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-09-23T13:20:34.271243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7134-S-Hill-Rd,-Deforest,-WI-53532",
+      "addressLine1": "7134 S Hill Rd",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 474900,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 2166,
+      "propertyType": "Single Family",
+      "yearBuilt": 1978,
+      "listedDate": "2026-09-19T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.238081,
+      "longitude": -89.346398,
+      "agent": {
+        "name": "Mandi Miller",
+        "phone": "6085779664",
+        "email": "mandimillerhomes@gmail.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Sun Prairie",
+        "phone": "6088373777"
+      },
+      "dateAdded": "2026-09-23T13:20:34.271243Z",
       "owner": {
         "owner1": null,
         "owner2": null
