@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-24T13:20:11.920549Z",
-  "totalCount": 226,
+  "lastUpdated": "2026-09-26T12:46:23.137523Z",
+  "totalCount": 227,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -3683,6 +3683,23 @@
       "contractorAddress": "462 N BALDWIN ST, MADISON, WI 53703",
       "category": "Office",
       "dateAdded": "2026-09-21T14:55:40.690031Z"
+    },
+    {
+      "id": "BLDRPR-2026-22455",
+      "permitNumber": "BLDRPR-2026-22455",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1047 E WILSON ST",
+      "buildingSqft": "0",
+      "estimatedCost": "$10,000",
+      "feesPaid": "$110",
+      "owner": "PHILLIPS, MARY",
+      "ownerAddress": "& MICHAEL MUCKLER, 1047 E WILSON ST, MADISON, WI 53703",
+      "description": "BATHROOM REMODEL, NO CHANGES TO FOOTPRINT",
+      "issuanceDate": "09/25/2026",
+      "contractor": "ROOT DOWN REMODELING",
+      "contractorAddress": "11033 N WILDER RD, EVANSVILLE, WI 53536",
+      "category": "Renovation",
+      "dateAdded": "2026-09-26T12:46:23.137523Z"
     }
   ]
 }
