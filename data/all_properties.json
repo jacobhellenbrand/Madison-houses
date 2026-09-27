@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-26T12:39:34.835096Z",
-  "totalCount": 2723,
+  "lastUpdated": "2026-09-27T13:31:10.645599Z",
+  "totalCount": 2726,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -83748,6 +83748,99 @@
         "phone": "6082564566"
       },
       "dateAdded": "2026-09-26T12:39:34.835096Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6130-Old-Middleton-Rd,-Madison,-WI-53705",
+      "addressLine1": "6130 Old Middleton Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 798000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 3505,
+      "propertyType": "Single Family",
+      "yearBuilt": 1986,
+      "listedDate": "2026-09-23T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.087401,
+      "longitude": -89.486162,
+      "agent": {
+        "name": "Abby Byrne",
+        "phone": "8002368133",
+        "email": "byrnea@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088333711"
+      },
+      "dateAdded": "2026-09-27T13:31:10.645599Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "622-Springbrook-Cir,-Unit-43,-Deforest,-WI-53532",
+      "addressLine1": "622 Springbrook Cir",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 430000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2806,
+      "propertyType": "Condo",
+      "yearBuilt": 2002,
+      "listedDate": "2026-09-23T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.257441,
+      "longitude": -89.352741,
+      "agent": {
+        "name": "Jeff Lange",
+        "phone": "6088464741",
+        "email": "langej@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088341722"
+      },
+      "dateAdded": "2026-09-27T13:31:10.645599Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "308-N-Pinckney-St,-Madison,-WI-53703",
+      "addressLine1": "308 N Pinckney St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1453,
+      "propertyType": "Single Family",
+      "yearBuilt": 1987,
+      "listedDate": "2026-09-23T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.077796,
+      "longitude": -89.386289,
+      "agent": {
+        "name": "Mei Hu",
+        "phone": "6086098835",
+        "email": "mei@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-09-27T13:31:10.645599Z",
       "owner": {
         "owner1": null,
         "owner2": null
