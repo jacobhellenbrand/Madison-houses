@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-26T12:46:23.137523Z",
+  "lastUpdated": "2026-09-28T16:32:40.282971Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 3,
+  "totalCount": 4,
   "proposals": [
     {
       "id": "BLDRPR-2026-22081",
@@ -51,6 +51,22 @@
       "contractor": "ANDERSON CUSTOM",
       "contractorAddress": "462 N BALDWIN ST, MADISON, WI 53703",
       "category": "Office"
+    },
+    {
+      "id": "BLDNRC-2026-19539",
+      "permitNumber": "BLDNRC-2026-19539",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1214 DRAKE ST",
+      "buildingSqft": "1,048",
+      "estimatedCost": "$150,000",
+      "feesPaid": "$237",
+      "owner": "YOUNG, BENJAMIN L",
+      "ownerAddress": "1214 DRAKE ST, MADISON, WI 53715",
+      "description": "TWO STORY ADDITION WITH DECK ADDITION, BATHROOM AND BEDROOM REMODEL",
+      "issuanceDate": "09/03/2026",
+      "contractor": "ROOT DOWN REMODELING",
+      "contractorAddress": "11033 N WILDER RD, EVANSVILLE, WI 53536",
+      "category": "Renovation"
     }
   ]
 }

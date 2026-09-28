@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-27T13:31:10.645599Z",
-  "totalCount": 2726,
+  "lastUpdated": "2026-09-28T16:26:21.014802Z",
+  "totalCount": 2736,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -83841,6 +83841,316 @@
         "phone": "6088337777"
       },
       "dateAdded": "2026-09-27T13:31:10.645599Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "577-Redan-Dr,-Verona,-WI-53593",
+      "addressLine1": "577 Redan Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 514900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1502,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.046366,
+      "longitude": -89.546399,
+      "agent": {
+        "name": "Nick Demaria",
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": "Stark Company, Realtors",
+        "phone": "6082263000"
+      },
+      "dateAdded": "2026-09-28T16:26:21.014802Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "14-Bellingrath-Ct,-Mcfarland,-WI-53558",
+      "addressLine1": "14 Bellingrath Ct",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 649900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2732,
+      "propertyType": "Single Family",
+      "yearBuilt": 2014,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.035501,
+      "longitude": -89.276455,
+      "agent": {
+        "name": "Stephanie Will",
+        "phone": "6085123638",
+        "email": "stephanie.will@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Inc",
+        "phone": "6084233707"
+      },
+      "dateAdded": "2026-09-28T16:26:21.014802Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "Timberlane-Cir,-Unit-21,-Deforest,-WI-53532",
+      "addressLine1": "Timberlane Cir",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 776000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 3233,
+      "propertyType": "Condo",
+      "yearBuilt": 2026,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.23144986,
+      "longitude": -89.36085649,
+      "agent": {
+        "name": "Kelly S Bennett",
+        "phone": "6088259553",
+        "email": "kelly@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088341722"
+      },
+      "dateAdded": "2026-09-28T16:26:21.014802Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4702-Flint-Ln,-Madison,-WI-53714",
+      "addressLine1": "4702 Flint Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53714",
+      "price": 425000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1740,
+      "propertyType": "Single Family",
+      "yearBuilt": 1969,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.095772,
+      "longitude": -89.300595,
+      "agent": {
+        "name": "April Johnson",
+        "phone": "6083587481",
+        "email": "april@rootedrealestatewi.com"
+      },
+      "office": {
+        "name": "Rooted Real Estate",
+        "phone": "6083587481"
+      },
+      "dateAdded": "2026-09-28T16:26:21.014802Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1814-Waverly-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1814 Waverly Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 639900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2092,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.203068,
+      "longitude": -89.244522,
+      "agent": {
+        "name": "Greenlee, Jeff",
+        "phone": "6082134849",
+        "email": "jgreenlee@veridianhomes.com"
+      },
+      "office": {
+        "name": "Stark Company, Realtors",
+        "phone": "6082263000"
+      },
+      "dateAdded": "2026-09-28T16:26:21.014802Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1931-Firefly-Dr,-Madison,-WI-53718",
+      "addressLine1": "1931 Firefly Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 479900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1502,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.124564,
+      "longitude": -89.27174,
+      "agent": {
+        "name": "Trey Recknor",
+        "phone": "6082064213",
+        "email": "treyrecknorpg@gmail.com"
+      },
+      "office": {
+        "name": "Stark Company, Realtors",
+        "phone": "6082263000"
+      },
+      "dateAdded": "2026-09-28T16:26:21.014802Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2235-Waters-Edge-Trl,-Madison,-WI-53718",
+      "addressLine1": "2235 Waters Edge Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 549900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1720,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.127921,
+      "longitude": -89.282872,
+      "agent": {
+        "name": "Scott Kramer",
+        "phone": "6082263025",
+        "email": "c21@c21affiliated.com"
+      },
+      "office": {
+        "name": "Stark Company, Realtors",
+        "phone": "6082263000"
+      },
+      "dateAdded": "2026-09-28T16:26:21.014802Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1320-Woodgrove-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1320 Woodgrove Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 569900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2874,
+      "propertyType": "Condo",
+      "yearBuilt": 2018,
+      "listedDate": "2026-09-23T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.191048,
+      "longitude": -89.184849,
+      "agent": {
+        "name": "Rebecca M. Leary",
+        "phone": "6086581454",
+        "email": "rebeccalearyhomes@gmail.com"
+      },
+      "office": {
+        "name": "EXP Realty, LLC",
+        "phone": "6082948448"
+      },
+      "dateAdded": "2026-09-28T16:26:21.014802Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5318-Comanche-Way,-Madison,-WI-53704",
+      "addressLine1": "5318 Comanche Way",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 649900,
+      "bedrooms": 5,
+      "bathrooms": 2.5,
+      "squareFootage": 3527,
+      "propertyType": "Single Family",
+      "yearBuilt": 1972,
+      "listedDate": "2026-09-23T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.153757,
+      "longitude": -89.37358,
+      "agent": {
+        "name": "Kelly Bakken",
+        "phone": "6083334535",
+        "email": "kellybakken11@gmail.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - East Madison",
+        "phone": "6083107777"
+      },
+      "dateAdded": "2026-09-28T16:26:21.014802Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7015-Reston-Heights-Dr,-Madison,-WI-53718",
+      "addressLine1": "7015 Reston Heights Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 414900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1507,
+      "propertyType": "Single Family",
+      "yearBuilt": 2009,
+      "listedDate": "2026-09-23T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.099599,
+      "longitude": -89.255057,
+      "agent": {
+        "name": "Crystal L Hagedorn",
+        "phone": "6086281880",
+        "email": "hagedor2@gmail.com"
+      },
+      "office": {
+        "name": "eXp Realty, LLC",
+        "phone": "8668486990"
+      },
+      "dateAdded": "2026-09-28T16:26:21.014802Z",
       "owner": {
         "owner1": null,
         "owner2": null
