@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-28T16:26:21.014802Z",
-  "totalCount": 2736,
+  "lastUpdated": "2026-09-29T14:36:20.804504Z",
+  "totalCount": 2743,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -84151,6 +84151,223 @@
         "phone": "8668486990"
       },
       "dateAdded": "2026-09-28T16:26:21.014802Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4145-Hiawatha-Dr,-Madison,-WI-53711",
+      "addressLine1": "4145 Hiawatha Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 950000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2071,
+      "propertyType": "Single Family",
+      "yearBuilt": 1937,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.043896,
+      "longitude": -89.446943,
+      "agent": {
+        "name": "Kaitlin Solomon",
+        "phone": "6087099889",
+        "email": "kaitlin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-09-29T14:36:20.804504Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6229-Harvest-Ln,-Deforest,-WI-53532",
+      "addressLine1": "6229 Harvest Ln",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 449900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1700,
+      "propertyType": "Single Family",
+      "yearBuilt": 1980,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.187929,
+      "longitude": -89.28988,
+      "agent": {
+        "name": "Hunter Mattheisen",
+        "phone": "6089572683",
+        "email": "hunter@toplevelproperty.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6089572683"
+      },
+      "dateAdded": "2026-09-29T14:36:20.804504Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "317-N-Pinckney-St,-Madison,-WI-53703",
+      "addressLine1": "317 N Pinckney St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 750000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1864,
+      "propertyType": "Single Family",
+      "yearBuilt": 1929,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.078266,
+      "longitude": -89.386239,
+      "agent": {
+        "name": "Krez, Tammy",
+        "phone": "6082209795",
+        "email": "tkrez@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082560801"
+      },
+      "dateAdded": "2026-09-29T14:36:20.804504Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7215-Arctic-Fox-Dr,-Madison,-WI-53719",
+      "addressLine1": "7215 Arctic Fox Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 475000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1671,
+      "propertyType": "Single Family",
+      "yearBuilt": 2004,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.001883,
+      "longitude": -89.513014,
+      "agent": {
+        "name": "Kellie Unke Real Estate",
+        "phone": "6082252930",
+        "email": "kunke@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-09-29T14:36:20.804504Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2609-Middleton-Beach-Rd,-Middleton,-WI-53562",
+      "addressLine1": "2609 Middleton Beach Rd",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 1350000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1920,
+      "propertyType": "Single Family",
+      "yearBuilt": 1978,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.10305,
+      "longitude": -89.48396,
+      "agent": {
+        "name": "Paul Haviland",
+        "phone": "6088434442",
+        "email": "phaviland@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-09-29T14:36:20.804504Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4550-Sundance-Ct,-Cottage-Grove,-WI-53527",
+      "addressLine1": "4550 Sundance Ct",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 579900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 3208,
+      "propertyType": "Single Family",
+      "yearBuilt": 1977,
+      "listedDate": "2026-09-24T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.097973,
+      "longitude": -89.17092,
+      "agent": {
+        "name": "C.j. Postawa",
+        "phone": "6085125323",
+        "email": "cj@sellingdane.com"
+      },
+      "office": {
+        "name": "Accord Realty",
+        "phone": "6082564566"
+      },
+      "dateAdded": "2026-09-29T14:36:20.804504Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "381-Cherry-Wood-Dr,-Oregon,-WI-53575",
+      "addressLine1": "381 Cherry Wood Dr",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 449900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2100,
+      "propertyType": "Single Family",
+      "yearBuilt": 1990,
+      "listedDate": "2026-09-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 42.921459,
+      "longitude": -89.389122,
+      "agent": {
+        "name": "Tara Pearson",
+        "phone": "6082120081",
+        "email": "tarapearson555@gmail.com"
+      },
+      "office": {
+        "name": "BUNBURY & ASSOCIATES REALTORS",
+        "phone": "6084417777"
+      },
+      "dateAdded": "2026-09-29T14:36:20.804504Z",
       "owner": {
         "owner1": null,
         "owner2": null
