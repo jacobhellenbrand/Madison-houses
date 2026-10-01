@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-29T14:43:01.051679Z",
+  "lastUpdated": "2026-10-01T15:11:44.945915Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 3,
+  "totalCount": 4,
   "proposals": [
     {
       "id": "BLDRPR-2026-22081",
@@ -51,6 +51,22 @@
       "contractor": "ANDERSON CUSTOM",
       "contractorAddress": "462 N BALDWIN ST, MADISON, WI 53703",
       "category": "Office"
+    },
+    {
+      "id": "BLDRPR-2026-23369",
+      "permitNumber": "BLDRPR-2026-23369",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "12 RED CEDAR TRL",
+      "buildingSqft": "0",
+      "estimatedCost": "$12,650",
+      "feesPaid": "$143",
+      "owner": "BECK, KAREN S.M.",
+      "ownerAddress": "BECK, DAVID H., 12 RED CEDAR TRL, MADISON, WI 53717-1514",
+      "description": "REMODEL BATHROOM - TILE AND DRYWALL REPAIR",
+      "issuanceDate": "09/30/2026",
+      "contractor": "TILDA CONSTRUCTION LLC",
+      "contractorAddress": "920 STORYTOWN RD, BROOKLYN, WI 53521",
+      "category": "Renovation"
     }
   ]
 }
