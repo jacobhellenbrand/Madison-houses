@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-03T13:02:37.953964Z",
-  "totalCount": 2796,
+  "lastUpdated": "2026-10-04T13:40:10.773945Z",
+  "totalCount": 2800,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -86011,6 +86011,130 @@
         "phone": "6088376800"
       },
       "dateAdded": "2026-10-03T13:02:37.953964Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2513-Sara-Rd,-Madison,-WI-53711",
+      "addressLine1": "2513 Sara Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 420000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1758,
+      "propertyType": "Single Family",
+      "yearBuilt": 1969,
+      "listedDate": "2026-10-01T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.02528,
+      "longitude": -89.492112,
+      "agent": {
+        "name": "Ronda Lawry",
+        "phone": "6082356575",
+        "email": "rl@rondalawry.com"
+      },
+      "office": {
+        "name": "RL Realty Group",
+        "phone": "6082356575"
+      },
+      "dateAdded": "2026-10-04T13:40:10.773945Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6982-Reston-Heights-Dr,-Madison,-WI-53718",
+      "addressLine1": "6982 Reston Heights Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 480000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 2119,
+      "propertyType": "Single Family",
+      "yearBuilt": 2010,
+      "listedDate": "2026-10-01T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.099829,
+      "longitude": -89.255963,
+      "agent": {
+        "name": "Vicki Chaussee",
+        "phone": "6083580733",
+        "email": "vickichaussee@realtyexecutives.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-10-04T13:40:10.773945Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2149-Blue-Heron-Ct,-Stoughton,-WI-53589",
+      "addressLine1": "2149 Blue Heron Ct",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 559900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 3060,
+      "propertyType": "Condo",
+      "yearBuilt": 2000,
+      "listedDate": "2026-09-30T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.9264,
+      "longitude": -89.247958,
+      "agent": {
+        "name": "Abe Winter",
+        "phone": "6082177333",
+        "email": "abe@rockrealtywi.com"
+      },
+      "office": {
+        "name": "Rock Realty",
+        "phone": "8777747625"
+      },
+      "dateAdded": "2026-10-04T13:40:10.773945Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2338-Quartz-Ln,-Madison,-WI-53719",
+      "addressLine1": "2338 Quartz Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 500000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 1897,
+      "propertyType": "Single Family",
+      "yearBuilt": 2002,
+      "listedDate": "2026-09-30T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.026513,
+      "longitude": -89.530689,
+      "agent": {
+        "name": "Jordan Bishop",
+        "phone": "6082197495",
+        "email": "jordan@hansenhometeam.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-10-04T13:40:10.773945Z",
       "owner": {
         "owner1": null,
         "owner2": null
