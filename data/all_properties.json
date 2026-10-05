@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-04T13:40:10.773945Z",
-  "totalCount": 2800,
+  "lastUpdated": "2026-10-05T16:46:58.248515Z",
+  "totalCount": 2807,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -86135,6 +86135,223 @@
         "phone": "6082680831"
       },
       "dateAdded": "2026-10-04T13:40:10.773945Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "618-Prospect-Rd,-Waunakee,-WI-53597",
+      "addressLine1": "618 Prospect Rd",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 524900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1583,
+      "propertyType": "Single Family",
+      "yearBuilt": 2021,
+      "listedDate": "2026-09-30T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.195641,
+      "longitude": -89.44516,
+      "agent": {
+        "name": "Jenny Bunbury Johnson & Todd Johnson",
+        "phone": "6082793777",
+        "email": "jbunbury@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "BUNBURY & ASSOCIATES REALTORS",
+        "phone": "6084417777"
+      },
+      "dateAdded": "2026-10-05T16:46:58.248515Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "12-Prince-Way,-Fitchburg,-WI-53711",
+      "addressLine1": "12 Prince Way",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 615000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2556,
+      "propertyType": "Condo",
+      "yearBuilt": 2019,
+      "listedDate": "2026-09-30T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.002567,
+      "longitude": -89.402222,
+      "agent": {
+        "name": "Matt Heilman",
+        "phone": "6082795771",
+        "email": "matt@mattheilmanhomes.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-10-05T16:46:58.248515Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3767-Birch-Trl,-Cross-Plains,-WI-53528",
+      "addressLine1": "3767 Birch Trl",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 700000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2868,
+      "propertyType": "Single Family",
+      "yearBuilt": 1980,
+      "listedDate": "2026-09-30T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.061307,
+      "longitude": -89.62255,
+      "agent": {
+        "name": "Lauren Martinson",
+        "phone": "6083348635",
+        "email": "ljung@remax.net"
+      },
+      "office": {
+        "name": "Remax Preferred",
+        "phone": "6082768110"
+      },
+      "dateAdded": "2026-10-05T16:46:58.248515Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2717-Westview-Ct,-Cross-Plains,-WI-53528",
+      "addressLine1": "2717 Westview Ct",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 1090000,
+      "bedrooms": null,
+      "bathrooms": null,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1981,
+      "listedDate": "2026-09-30T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.109637,
+      "longitude": -89.63775,
+      "agent": {
+        "name": "Jason Needham",
+        "phone": "6088433711",
+        "email": "jneedham@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "Collective Real Estate Group",
+        "phone": "6086627777"
+      },
+      "dateAdded": "2026-10-05T16:46:58.248515Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2676-Oak-Knoll-Dr,-Fitchburg,-WI-53711",
+      "addressLine1": "2676 Oak Knoll Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 595000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2803,
+      "propertyType": "Single Family",
+      "yearBuilt": 2011,
+      "listedDate": "2026-09-30T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.000248,
+      "longitude": -89.432326,
+      "agent": {
+        "name": "Tommy Van Ess",
+        "phone": "6083957375",
+        "email": "vanesst@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-10-05T16:46:58.248515Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5010-Tomahawk-Trl,-Madison,-WI-53705",
+      "addressLine1": "5010 Tomahawk Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 799900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2568,
+      "propertyType": "Single Family",
+      "yearBuilt": 1953,
+      "listedDate": "2026-09-30T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.077637,
+      "longitude": -89.465424,
+      "agent": {
+        "name": "Brandon Grosse",
+        "phone": "6085779860",
+        "email": "brandon@sellingdane.com"
+      },
+      "office": {
+        "name": "Accord Realty",
+        "phone": "6082564566"
+      },
+      "dateAdded": "2026-10-05T16:46:58.248515Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1009-Ziegler-Dr,-Waunakee,-WI-53597",
+      "addressLine1": "1009 Ziegler Dr",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 889000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2952,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-09-30T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.179612,
+      "longitude": -89.472843,
+      "agent": {
+        "name": "Stuart Meland",
+        "phone": "6084383150",
+        "email": "stuart@madcityhomes.com"
+      },
+      "office": {
+        "name": "MADCITYHOMES.COM",
+        "phone": "6082716856"
+      },
+      "dateAdded": "2026-10-05T16:46:58.248515Z",
       "owner": {
         "owner1": null,
         "owner2": null
