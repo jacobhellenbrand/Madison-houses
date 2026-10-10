@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-09T14:57:34.717357Z",
-  "totalCount": 2851,
+  "lastUpdated": "2026-10-10T14:12:49.674853Z",
+  "totalCount": 2855,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -87716,6 +87716,130 @@
         "phone": "6082518777"
       },
       "dateAdded": "2026-10-09T14:57:34.717357Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6671-S-Chickahauk-Trl,-Middleton,-WI-53562",
+      "addressLine1": "6671 S Chickahauk Trl",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 789000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3000,
+      "propertyType": "Condo",
+      "yearBuilt": 2017,
+      "listedDate": "2026-10-08T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.11609,
+      "longitude": -89.494589,
+      "agent": {
+        "name": "Leticia Hernandez",
+        "phone": "6089576114",
+        "email": "leticia.hernandez@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088333711"
+      },
+      "dateAdded": "2026-10-10T14:12:49.674853Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6627-Franklin-Ave,-Middleton,-WI-53562",
+      "addressLine1": "6627 Franklin Ave",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 515000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 2141,
+      "propertyType": "Single Family",
+      "yearBuilt": 1956,
+      "listedDate": "2026-10-08T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.09801,
+      "longitude": -89.496503,
+      "agent": {
+        "name": "Hanin J Jaber",
+        "phone": "2622826754",
+        "email": "hanin.jaber@cbrealty.com"
+      },
+      "office": {
+        "name": "Coldwell Banker Realty",
+        "phone": "4142779500"
+      },
+      "dateAdded": "2026-10-10T14:12:49.674853Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7920-County-Rd,-PD,-Verona,-WI-53593",
+      "addressLine1": "7920 County Rd",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 1000000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 4200,
+      "propertyType": "Single Family",
+      "yearBuilt": 2001,
+      "listedDate": "2026-10-08T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.011073,
+      "longitude": -89.602526,
+      "agent": {
+        "name": "Dan Chin Homes Team",
+        "phone": "6086204177",
+        "email": "clientcare@danchinhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-10-10T14:12:49.674853Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "214-N-High-Point-Rd,-Madison,-WI-53717",
+      "addressLine1": "214 N High Point Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 739900,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3250,
+      "propertyType": "Single Family",
+      "yearBuilt": 1993,
+      "listedDate": "2026-10-08T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.06948,
+      "longitude": -89.519904,
+      "agent": {
+        "name": "Claire Nading",
+        "phone": "6085605437",
+        "email": "cnading@hometeam4u.com"
+      },
+      "office": {
+        "name": "Brunker Realty Group Llc",
+        "phone": "6084484377"
+      },
+      "dateAdded": "2026-10-10T14:12:49.674853Z",
       "owner": {
         "owner1": null,
         "owner2": null
