@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-09T15:05:04.740475Z",
+  "lastUpdated": "2026-10-11T14:44:45.805026Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 4,
+  "totalCount": 6,
   "proposals": [
     {
       "id": "BLDRPR-2026-22081",
@@ -21,6 +21,22 @@
       "category": "Renovation"
     },
     {
+      "id": "BLDRPR-2026-21952",
+      "permitNumber": "BLDRPR-2026-21952",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "10322 HAZY SKY PKWY",
+      "buildingSqft": "0",
+      "estimatedCost": "$12,650",
+      "feesPaid": "$168",
+      "owner": "SHANNON, GARETH",
+      "ownerAddress": "& CARA A PETRIE, 10322 HAZY SKY PKWY, VERONA, WI 53593",
+      "description": "FINISH BASEMENT - ADD EXERCISE ROOM, MEDIA ROOM, OFFICE, BATHROOM, BEDROOM",
+      "issuanceDate": "10/09/2026",
+      "contractor": "NEXT STEP BUILDING & DESIGN LLC",
+      "contractorAddress": "2932 GREEN AVE, BLUE MOUNDS, WI 53517",
+      "category": "Office"
+    },
+    {
       "id": "BLDRPR-2026-22455",
       "permitNumber": "BLDRPR-2026-22455",
       "use": "SINGLE FAMILY RESIDENCES",
@@ -34,6 +50,22 @@
       "issuanceDate": "09/25/2026",
       "contractor": "ROOT DOWN REMODELING",
       "contractorAddress": "11033 N WILDER RD, EVANSVILLE, WI 53536",
+      "category": "Renovation"
+    },
+    {
+      "id": "BLDRPR-2026-20322",
+      "permitNumber": "BLDRPR-2026-20322",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1050 SHERMAN AVE",
+      "buildingSqft": "0",
+      "estimatedCost": "$120,000",
+      "feesPaid": "$1,345",
+      "owner": "BRADBURY, PHILIP J",
+      "ownerAddress": "1050 SHERMAN AVE, 1050 SHERMAN AVE, MADISON, WI 53703",
+      "description": "REMODEL KITCHEN, WORK ROOM, DROP ZONE, MAIN BATHROOM",
+      "issuanceDate": "10/09/2026",
+      "contractor": "BAUER BUILDERS, INC",
+      "contractorAddress": "712 LOIS DR, SUN PRAIRIE, WI 53510",
       "category": "Renovation"
     },
     {

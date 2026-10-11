@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T14:12:49.674853Z",
-  "totalCount": 2855,
+  "lastUpdated": "2026-10-11T14:37:05.860821Z",
+  "totalCount": 2856,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -87840,6 +87840,37 @@
         "phone": "6084484377"
       },
       "dateAdded": "2026-10-10T14:12:49.674853Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "100-Valley-View-Ct,-Verona,-WI-53593",
+      "addressLine1": "100 Valley View Ct",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 449000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1603,
+      "propertyType": "Single Family",
+      "yearBuilt": 1976,
+      "listedDate": "2026-10-07T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.986053,
+      "longitude": -89.529006,
+      "agent": {
+        "name": "Jo Ferraro Real Estate Team",
+        "phone": "6088381377",
+        "email": "info@soldinmadison.com"
+      },
+      "office": {
+        "name": "eXp Realty - Ferraro Real Estate Team",
+        "phone": "6088381377"
+      },
+      "dateAdded": "2026-10-11T14:37:05.860821Z",
       "owner": {
         "owner1": null,
         "owner2": null
