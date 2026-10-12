@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-11T14:37:05.860821Z",
-  "totalCount": 2856,
+  "lastUpdated": "2026-10-12T17:20:44.035017Z",
+  "totalCount": 2863,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -87871,6 +87871,223 @@
         "phone": "6088381377"
       },
       "dateAdded": "2026-10-11T14:37:05.860821Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3423-Viburnum-Dr,-Madison,-WI-53705",
+      "addressLine1": "3423 Viburnum Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 1180000,
+      "bedrooms": 5,
+      "bathrooms": 2.5,
+      "squareFootage": 2739,
+      "propertyType": "Single Family",
+      "yearBuilt": 1942,
+      "listedDate": "2026-10-07T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.081631,
+      "longitude": -89.448126,
+      "agent": {
+        "name": "Ellie Feldman",
+        "phone": "6082126356",
+        "email": "elliefeldman@remax.net"
+      },
+      "office": {
+        "name": "EXP Realty, LLC",
+        "phone": "6082948448"
+      },
+      "dateAdded": "2026-10-12T17:20:44.035017Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2-Salina-Ct,-Madison,-WI-53719",
+      "addressLine1": "2 Salina Ct",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 429000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1708,
+      "propertyType": "Single Family",
+      "yearBuilt": 1992,
+      "listedDate": "2026-10-07T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.019443,
+      "longitude": -89.512712,
+      "agent": {
+        "name": "Andrew Willits",
+        "phone": "6085359909",
+        "email": "andrewmadisonrealtor@gmail.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-10-12T17:20:44.035017Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5719-Levitan-Ln,-Madison,-WI-53718",
+      "addressLine1": "5719 Levitan Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 535000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2482,
+      "propertyType": "Single Family",
+      "yearBuilt": 2017,
+      "listedDate": "2026-10-07T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.123798,
+      "longitude": -89.280814,
+      "agent": {
+        "name": "Matt Roelli",
+        "phone": "8448841500",
+        "email": "matt@soldinmadison.com"
+      },
+      "office": {
+        "name": "eXp Realty, LLC",
+        "phone": "8668486990"
+      },
+      "dateAdded": "2026-10-12T17:20:44.035017Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "126-N-Prairie-St,-Stoughton,-WI-53589",
+      "addressLine1": "126 N Prairie St",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 455000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2350,
+      "propertyType": "Single Family",
+      "yearBuilt": 1920,
+      "listedDate": "2026-10-07T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.919354,
+      "longitude": -89.22513,
+      "agent": {
+        "name": "Laura Lahti",
+        "phone": "6082393469",
+        "email": "laura@teamlahti.com"
+      },
+      "office": {
+        "name": "Y Realty Wisconsin",
+        "phone": "9493314140"
+      },
+      "dateAdded": "2026-10-12T17:20:44.035017Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "L105-Atlas-Trl,-Waunakee,-WI-53597",
+      "addressLine1": "L105 Atlas Trl",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 1389900,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 4348,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-07T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.17218151,
+      "longitude": -89.46980339,
+      "agent": {
+        "name": "Kelly S Bennett",
+        "phone": "6088259553",
+        "email": "kelly@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088341722"
+      },
+      "dateAdded": "2026-10-12T17:20:44.035017Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5533-Main-St,-Mcfarland,-WI-53558",
+      "addressLine1": "5533 Main St",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 535000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 1913,
+      "propertyType": "Single Family",
+      "yearBuilt": 1953,
+      "listedDate": "2026-10-07T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.01722,
+      "longitude": -89.288232,
+      "agent": {
+        "name": "Alyssa Uhlir",
+        "phone": "6089573507",
+        "email": "alyssa@lakestoneproperties.com"
+      },
+      "office": {
+        "name": "Lakestone Properties",
+        "phone": "6088381800"
+      },
+      "dateAdded": "2026-10-12T17:20:44.035017Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2618-Smoky-Trl,-Fitchburg,-WI-53711",
+      "addressLine1": "2618 Smoky Trl",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 799900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3383,
+      "propertyType": "Single Family",
+      "yearBuilt": 2018,
+      "listedDate": "2026-10-07T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.997215,
+      "longitude": -89.413043,
+      "agent": {
+        "name": "Kris Bunbury Terry",
+        "phone": "6083930891",
+        "email": "kterry@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "BUNBURY & ASSOCIATES REALTORS",
+        "phone": "6083567720"
+      },
+      "dateAdded": "2026-10-12T17:20:44.035017Z",
       "owner": {
         "owner1": null,
         "owner2": null
