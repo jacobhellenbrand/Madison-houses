@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-14T13:26:09.899043Z",
+  "lastUpdated": "2026-10-15T13:10:01.120982Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 6,
+  "totalCount": 5,
   "proposals": [
     {
       "id": "BLDRPR-2026-22081",
@@ -67,22 +67,6 @@
       "contractor": "BAUER BUILDERS, INC",
       "contractorAddress": "712 LOIS DR, SUN PRAIRIE, WI 53510",
       "category": "Renovation"
-    },
-    {
-      "id": "BLDRPR-2026-18517",
-      "permitNumber": "BLDRPR-2026-18517",
-      "use": "SINGLE FAMILY RESIDENCES",
-      "address": "115 ELY PL",
-      "buildingSqft": "0",
-      "estimatedCost": "$120,000",
-      "feesPaid": "$1,345",
-      "owner": "FOREST, CARY BRETT",
-      "ownerAddress": "KATRINA THOMPSON FOREST, 115 ELY PL, MADISON, WI 53726",
-      "description": "2ND AND 3RD FLOOR ALTERATIONS (REMODEL 2ND FLOOR BATHROOMS, ADD THIRD FLOOR REC ROOM, KITCHEN, AND BATHROOM TO PARTIALLY FINISHED 3RD FLOOR WITH EXISTING BEDROOM AND OFFICE, ADD RESIDENTIAL SPRINKLER SYSTEM TO WHOLE HOUSE)",
-      "issuanceDate": "09/14/2026",
-      "contractor": "ANDERSON CUSTOM",
-      "contractorAddress": "462 N BALDWIN ST, MADISON, WI 53703",
-      "category": "Office"
     },
     {
       "id": "BLDRPR-2026-23369",
