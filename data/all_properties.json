@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T13:03:32.232934Z",
-  "totalCount": 2908,
+  "lastUpdated": "2026-10-16T13:00:22.595012Z",
+  "totalCount": 2922,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -89483,6 +89483,440 @@
         "phone": null
       },
       "dateAdded": "2026-10-15T13:03:32.232934Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "752-E-Gorham-St,-Madison,-WI-53703",
+      "addressLine1": "752 E Gorham St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 1650000,
+      "bedrooms": 6,
+      "bathrooms": 6.5,
+      "squareFootage": 5374,
+      "propertyType": "Single Family",
+      "yearBuilt": 1854,
+      "listedDate": "2026-10-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.083921,
+      "longitude": -89.379293,
+      "agent": {
+        "name": "Holly Lovell",
+        "phone": "6085617480",
+        "email": "hlovell@starkhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7141-E-Valley-Ridge-Dr,-Madison,-WI-53719",
+      "addressLine1": "7141 E Valley Ridge Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 439900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1719,
+      "propertyType": "Single Family",
+      "yearBuilt": 1990,
+      "listedDate": "2026-10-12T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.047251,
+      "longitude": -89.506555,
+      "agent": {
+        "name": "Karl Tsering",
+        "phone": "6083349956",
+        "email": "ktsering@kw.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2665-Richardson-St,-Fitchburg,-WI-53711",
+      "addressLine1": "2665 Richardson St",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 464900,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2184,
+      "propertyType": "Single Family",
+      "yearBuilt": 1978,
+      "listedDate": "2026-10-12T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.999691,
+      "longitude": -89.437504,
+      "agent": {
+        "name": "Josh Pelletter",
+        "phone": "7038780000",
+        "email": "josh@rockwoodrealtygroup.com"
+      },
+      "office": {
+        "name": "Rockwood Realty Group",
+        "phone": "6082393820"
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "315-S-Ingersoll-St,-Madison,-WI-53703",
+      "addressLine1": "315 S Ingersoll St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 465000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 1105,
+      "propertyType": "Single Family",
+      "yearBuilt": 1899,
+      "listedDate": "2026-10-12T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.082426,
+      "longitude": -89.366329,
+      "agent": {
+        "name": "Katie Jo Schmitz",
+        "phone": "6085564400",
+        "email": "katiejo@thehubrealty.com"
+      },
+      "office": {
+        "name": "The Hub Realty",
+        "phone": "6085564400"
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "714-Emerson-St,-Madison,-WI-53715",
+      "addressLine1": "714 Emerson St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53715",
+      "price": 657000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1942,
+      "listedDate": "2026-10-12T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.055309,
+      "longitude": -89.394636,
+      "agent": {
+        "name": "Trent Halverson",
+        "phone": "6085772013",
+        "email": "thalverson@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082560801"
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2871-2873-Endive-Dr,-Fitchburg,-WI-53711",
+      "addressLine1": "2871/2873 Endive Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 724900,
+      "bedrooms": 5,
+      "bathrooms": 5.5,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 2020,
+      "listedDate": "2026-10-12T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.010904,
+      "longitude": -89.374361,
+      "agent": {
+        "name": "Oscar Bennett",
+        "phone": "6084382976",
+        "email": "oscar@alterrahomes.com"
+      },
+      "office": {
+        "name": "Alterra Real Estate Group Llc",
+        "phone": "6084382976"
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1947-Firefly-Dr,-Madison,-WI-53718",
+      "addressLine1": "1947 Firefly Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 569900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2097,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.1254964,
+      "longitude": -89.2714982,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1914-Firefly-Dr,-Madison,-WI-53718",
+      "addressLine1": "1914 Firefly Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 529900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1572,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.1244463,
+      "longitude": -89.2722459,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1207-Out-Of-Time-Ln,-Madison,-WI-53719",
+      "addressLine1": "1207 Out Of Time Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 699900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2400,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.0405307,
+      "longitude": -89.522249,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2524-Emerald-Isle-Way,-Fitchburg,-WI-53711",
+      "addressLine1": "2524 Emerald Isle Way",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 459900,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1206,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.992624,
+      "longitude": -89.41233,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1918-Firefly-Dr,-Madison,-WI-53718",
+      "addressLine1": "1918 Firefly Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 549900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1720,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.1245276,
+      "longitude": -89.2722415,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1213-Waldorf-Blvd,-Madison,-WI-53719",
+      "addressLine1": "1213 Waldorf Blvd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 599900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1880,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.0397079,
+      "longitude": -89.5233009,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1638-Waverly-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1638 Waverly Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 679900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1974,
+      "propertyType": "Single Family",
+      "yearBuilt": null,
+      "listedDate": "2026-10-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.202655,
+      "longitude": -89.2412606,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5306-Brookshire-Ln,-Madison,-WI-53714",
+      "addressLine1": "5306 Brookshire Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53714",
+      "price": 449900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2418,
+      "propertyType": "Single Family",
+      "yearBuilt": 1978,
+      "listedDate": "2026-10-13T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.095724,
+      "longitude": -89.2903,
+      "agent": {
+        "name": "Andy Lindgren",
+        "phone": "6083457652",
+        "email": "lindgrena@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088341722"
+      },
+      "dateAdded": "2026-10-16T13:00:22.595012Z",
       "owner": {
         "owner1": null,
         "owner2": null
