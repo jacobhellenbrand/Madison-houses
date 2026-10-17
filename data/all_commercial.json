@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-16T13:07:56.763747Z",
-  "totalCount": 231,
+  "lastUpdated": "2026-10-17T12:04:51.788167Z",
+  "totalCount": 233,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -3768,6 +3768,40 @@
       "contractorAddress": "712 LOIS DR, SUN PRAIRIE, WI 53510",
       "category": "Renovation",
       "dateAdded": "2026-10-11T14:44:45.805026Z"
+    },
+    {
+      "id": "BLDRPR-2026-24294",
+      "permitNumber": "BLDRPR-2026-24294",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1 REDMOUND CIR",
+      "buildingSqft": "0",
+      "estimatedCost": "$13,000",
+      "feesPaid": "$143",
+      "owner": "YEE, RONNIE & RAMONA",
+      "ownerAddress": "1 REDMOUND CIR, 1 REDMOUND CIR, MADISON, WI 53717",
+      "description": "RE-ROOF. COMPLETE TEAR-OFF. NO ALTERATIONS OR ADDITIONS.",
+      "issuanceDate": "10/16/2026",
+      "contractor": "RPM CONTRACTING",
+      "contractorAddress": "5024 WILLOW CREEK RD UNIT C, MACHESNEY PARK, IL 61115",
+      "category": "Renovation",
+      "dateAdded": "2026-10-17T12:04:51.788167Z"
+    },
+    {
+      "id": "BLDRPR-2026-24357",
+      "permitNumber": "BLDRPR-2026-24357",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1106 S THOMPSON DR",
+      "buildingSqft": "0",
+      "estimatedCost": "$7,000",
+      "feesPaid": "$77",
+      "owner": "POMO, RICHARD L",
+      "ownerAddress": "1106 S THOMPSON DR, 1106 S THOMPSON DR, MADISON, WI 53716",
+      "description": "HALL BATHROOM REMODEL - PULL & RESET NEW FIXTURES IN EXISTING LOCATION.  NO STRUCTURAL CHANGES.",
+      "issuanceDate": "10/16/2026",
+      "contractor": "WASHA CONSTRUCTION INC",
+      "contractorAddress": "2605 S STOUGHTON RD #300, MADISON, WI 53716",
+      "category": "Renovation",
+      "dateAdded": "2026-10-17T12:04:51.788167Z"
     }
   ]
 }
