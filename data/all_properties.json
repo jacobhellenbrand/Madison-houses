@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T11:57:51.020970Z",
-  "totalCount": 2927,
+  "lastUpdated": "2026-10-18T12:25:57.120315Z",
+  "totalCount": 2929,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -90072,6 +90072,68 @@
         "phone": "6088333711"
       },
       "dateAdded": "2026-10-17T11:57:51.020970Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7436-Sawmill-Rd,-Madison,-WI-53717",
+      "addressLine1": "7436 Sawmill Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 688000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3187,
+      "propertyType": "Single Family",
+      "yearBuilt": 1992,
+      "listedDate": "2026-10-14T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.079585,
+      "longitude": -89.512949,
+      "agent": {
+        "name": "Peiling Fan",
+        "phone": "6089990098",
+        "email": "starlightrealty2026@gmail.com"
+      },
+      "office": {
+        "name": "Starlight Realty",
+        "phone": "6089990098"
+      },
+      "dateAdded": "2026-10-18T12:25:57.120315Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7818-Starnova-Dr,-Madison,-WI-53719",
+      "addressLine1": "7818 Starnova Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 454900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1525,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-15T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.0299471,
+      "longitude": -89.5208525,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-10-18T12:25:57.120315Z",
       "owner": {
         "owner1": null,
         "owner2": null
