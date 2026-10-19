@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-18T12:25:57.120315Z",
-  "totalCount": 2929,
+  "lastUpdated": "2026-10-19T15:15:52.772727Z",
+  "totalCount": 2933,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -90134,6 +90134,130 @@
         "phone": null
       },
       "dateAdded": "2026-10-18T12:25:57.120315Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7814-E-Oakbrook-Cir,-Madison,-WI-53717",
+      "addressLine1": "7814 E Oakbrook Cir",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 460000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1440,
+      "propertyType": "Single Family",
+      "yearBuilt": 1987,
+      "listedDate": "2026-10-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.066642,
+      "longitude": -89.518729,
+      "agent": {
+        "name": "Josh Blasi",
+        "phone": "6086950273",
+        "email": "joshblasi@gmail.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-10-19T15:15:52.772727Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2122-Center-Ave,-Madison,-WI-53704",
+      "addressLine1": "2122 Center Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 680000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1431,
+      "propertyType": "Single Family",
+      "yearBuilt": 1909,
+      "listedDate": "2026-10-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.091677,
+      "longitude": -89.350181,
+      "agent": {
+        "name": "Ann (Ruby) Conrad",
+        "phone": "6082344960",
+        "email": "ruby@conraddevelopment.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-10-19T15:15:52.772727Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9329-Tawny-Acorn-Dr,-Verona,-WI-53593",
+      "addressLine1": "9329 Tawny Acorn Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 649900,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 2394,
+      "propertyType": "Single Family",
+      "yearBuilt": 2023,
+      "listedDate": "2026-10-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.047676,
+      "longitude": -89.54856,
+      "agent": {
+        "name": "Marine Yoo",
+        "phone": "6084690058",
+        "email": "marine@yoorealtygroup.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-10-19T15:15:52.772727Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4064-Whistle-Rock-Cir,-Deforest,-WI-53532",
+      "addressLine1": "4064 Whistle Rock Cir",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 659900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2300,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.206814,
+      "longitude": -89.312485,
+      "agent": {
+        "name": "Sherry Yu",
+        "phone": "6086981500",
+        "email": "sherry@yurealestategroup.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-10-19T15:15:52.772727Z",
       "owner": {
         "owner1": null,
         "owner2": null
