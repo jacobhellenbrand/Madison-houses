@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-22T13:34:00.952791Z",
-  "totalCount": 233,
+  "lastUpdated": "2026-10-23T13:12:03.380706Z",
+  "totalCount": 235,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -3802,6 +3802,40 @@
       "contractorAddress": "2605 S STOUGHTON RD #300, MADISON, WI 53716",
       "category": "Renovation",
       "dateAdded": "2026-10-17T12:04:51.788167Z"
+    },
+    {
+      "id": "BLDNCC-2026-23092",
+      "permitNumber": "BLDNCC-2026-23092",
+      "use": "CONDOMINIUMS",
+      "address": "5831 LUPINE LN 324",
+      "buildingSqft": "122",
+      "estimatedCost": "$15,235",
+      "feesPaid": "$276",
+      "owner": "MESSIER, KATHERINE M",
+      "ownerAddress": "5831 LUPINE LN UNIT 324, MADISON, WI 53718",
+      "description": "REMODEL MAIN BATHROOM OF CONDO UNIT",
+      "issuanceDate": "10/21/2026",
+      "contractor": "EDGE CONSTRUCTION INC",
+      "contractorAddress": "2616 INDUSTRIAL DR, MONONA, WI 53713",
+      "category": "Renovation",
+      "dateAdded": "2026-10-23T13:12:03.380706Z"
+    },
+    {
+      "id": "BLDRPR-2026-24690",
+      "permitNumber": "BLDRPR-2026-24690",
+      "use": "CONDOMINIUMS",
+      "address": "615 W MAIN ST 210",
+      "buildingSqft": "0",
+      "estimatedCost": "$20,000",
+      "feesPaid": "$220",
+      "owner": "MUSCARA, MICHAEL A",
+      "ownerAddress": "MUSCARA, BETTINA D, 615 W MAIN ST, APT 210, MADISON, WI 53703-4783",
+      "description": "BATHROOM REMODEL - TILE AND DRYWALL REPAIR",
+      "issuanceDate": "10/15/2026",
+      "contractor": "BLUE MOUNDS CONSTRUCTION LLC",
+      "contractorAddress": "W6315 KIESLING RD, JEFFERSON, WI 53549",
+      "category": "Renovation",
+      "dateAdded": "2026-10-23T13:12:03.380706Z"
     }
   ]
 }
