@@ -1,16 +1,71 @@
 {
-  "lastUpdated": "2026-10-23T13:12:04.123631Z",
+  "lastUpdated": "2026-10-24T12:34:48.227313Z",
   "source": "City of Madison Planning Division",
   "sourceUrl": "https://www.cityofmadison.com/dpced/planning/current-development-proposals-/1599/",
-  "totalCount": 11,
+  "totalCount": 14,
   "proposals": [
+    {
+      "id": "1917-Lake-Point-Dr",
+      "address": "1917 Lake Point Dr",
+      "submittedDate": "2026-10-23T00:00:00Z",
+      "submittedText": "10/23/2026",
+      "details": "Construct two-story, 36,800 square-foot community center with child daycare following demolition of existing community centerRequest/Application Type:Conditional UseLegislative Files:95326Status:Application Under Review",
+      "meetings": "Plan Commission:11/30/2026",
+      "legistarLinks": [],
+      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development/development.cfm?record=LNDUSE-2026-00056",
+      "category": "Commercial"
+    },
+    {
+      "id": "2509-Mcdivitt-Rd",
+      "address": "2509 Mcdivitt Rd",
+      "submittedDate": "2026-10-23T00:00:00Z",
+      "submittedText": "10/23/2026",
+      "details": "Allow day care center and community center uses in existing buildingRequest/Application Type:Conditional UseLegislative Files:95317Status:Application Under Review",
+      "meetings": "Plan Commission:11/30/2026",
+      "legistarLinks": [],
+      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development/development.cfm?record=LNDUSE-2026-00054",
+      "category": "Commercial"
+    },
+    {
+      "id": "3135-Meier-Rd",
+      "address": "3135 Meier Rd",
+      "submittedDate": "2026-10-23T00:00:00Z",
+      "submittedText": "10/23/2026",
+      "details": "Create two additional lots for industrial development and an outlot by future land divisionRequest/Application Type:SUBDIVISION PLATLegislative Files:95318Status:Application Under Review",
+      "meetings": "Plan Commission:11/30/2026Common Council:12/08/2026",
+      "legistarLinks": [],
+      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development/development.cfm?record=LNDSPP-2026-00006",
+      "category": "Industrial"
+    },
+    {
+      "id": "329-North-St",
+      "address": "329 North St",
+      "submittedDate": "2026-10-23T00:00:00Z",
+      "submittedText": "10/23/2026",
+      "details": "Construct four-story mixed-use building containing a place of worship and 60 multi-family dwelling units following demolition of existing place of worshipRequest/Application Type:Rezoning (TR-C4 to TR-V2), Conditional UseLegislative Files:TBD9535094496Status:Application Under Review",
+      "meetings": "Plan Commission:12/14/2026Common Council:01/12/2027",
+      "legistarLinks": [],
+      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development/development.cfm?record=LNDUSE-2026-00059",
+      "category": "Mixed-Use"
+    },
+    {
+      "id": "5501-University-Ave",
+      "address": "5501 University Ave",
+      "submittedDate": "2026-10-23T00:00:00Z",
+      "submittedText": "10/23/2026",
+      "details": "Construct five-story mixed-use building containing a place of worship and 45 multi-family dwelling units in Phase 1, with 66 dwelling units to be constructed in a Phase 2 addition following demolition of existing place of worshipRequest/Application Type:Conditional UseLegislative Files:953499443094646Status:Application Under Review",
+      "meetings": "Urban Design Commission:12/02/2026Plan Commission:12/14/2026Common Council:01/12/2027",
+      "legistarLinks": [],
+      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development/development.cfm?record=LNDUSE-2026-00058",
+      "category": "Mixed-Use"
+    },
     {
       "id": "2110-S-Stoughton-Rd",
       "address": "2110 S Stoughton Rd",
       "submittedDate": "2026-10-09T00:00:00Z",
       "submittedText": "10/09/2026",
       "details": "Convert commercial building with a retail business into auto body shopRequest/Application Type:Conditional UseLegislative Files:95149TBDStatus:Application Under Review",
-      "meetings": "Urban Design Commission:11/18/2026Plan Commission:11/30/2026",
+      "meetings": "Urban Design Commission:12/02/2026Plan Commission:12/14/2026",
       "legistarLinks": [],
       "detailUrl": "https://www.cityofmadison.com/dpced/planning/development/development.cfm?record=LNDUSE-2026-00052",
       "category": "Retail"
@@ -69,28 +124,6 @@
       "legistarLinks": [],
       "detailUrl": "https://www.cityofmadison.com/dpced/planning/development/development.cfm?record=LNDUSE-2026-00047",
       "category": "Commercial"
-    },
-    {
-      "id": "279-Junction-Rd",
-      "address": "279 Junction Rd",
-      "submittedDate": "2026-09-02T00:00:00Z",
-      "submittedText": "09/02/2026",
-      "details": "Rezone to facilitate conversion of former restaurant into financial institutionRequest/Application Type:Rezoning (PD to SE)Legislative Files:94815Status:Application Under Review",
-      "meetings": "Plan Commission:10/19/2026Common Council:10/20/2026",
-      "legistarLinks": [],
-      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development/development.cfm?record=LNDUSE-2026-00043",
-      "category": "Retail"
-    },
-    {
-      "id": "301-S-Westfield-Rd",
-      "address": "301 S Westfield Rd",
-      "submittedDate": "2026-09-02T00:00:00Z",
-      "submittedText": "09/02/2026",
-      "details": "Create three lots in CC-T zoning to develop a five-story mixed-use building w/ 1970 sq ft of commercial space, 257 multi-family dwellings, and pool on south side of a new street and a residential building complex on north side containing five-story, 138-unit and five-story, 183-unit multi-family dwellingsRequest/Application Type:Rezoning (SE to CC-T), Conditional UseLegislative Files:94813945259347494316Status:Application Under Review",
-      "meetings": "Urban Design Commission:10/07/2026Plan Commission:10/19/2026Common Council:10/20/2026",
-      "legistarLinks": [],
-      "detailUrl": "https://www.cityofmadison.com/dpced/planning/development/development.cfm?record=LNDUSE-2026-00041",
-      "category": "Mixed-Use"
     },
     {
       "id": "122-State-St",

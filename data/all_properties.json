@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-23T13:03:37.609133Z",
-  "totalCount": 3001,
+  "lastUpdated": "2026-10-24T12:26:13.210746Z",
+  "totalCount": 3003,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -92366,6 +92366,68 @@
         "phone": "6082747500"
       },
       "dateAdded": "2026-10-23T13:03:37.609133Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5774-76-Tudor-Dr,-Fitchburg,-WI-53711",
+      "addressLine1": "5774-76 Tudor Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 778000,
+      "bedrooms": 6,
+      "bathrooms": 4,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1980,
+      "listedDate": "2026-10-21T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.999203,
+      "longitude": -89.442039,
+      "agent": {
+        "name": "Matt Kornstedt",
+        "phone": "6088397137",
+        "email": "askus@hometeam4u.com"
+      },
+      "office": {
+        "name": "Stark Company, REALTORS",
+        "phone": "6088397137"
+      },
+      "dateAdded": "2026-10-24T12:26:13.210746Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4205-Wanetah-Trl,-Madison,-WI-53711",
+      "addressLine1": "4205 Wanetah Trl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 664900,
+      "bedrooms": 4,
+      "bathrooms": 1.5,
+      "squareFootage": 2310,
+      "propertyType": "Single Family",
+      "yearBuilt": 1952,
+      "listedDate": "2026-10-22T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.03844,
+      "longitude": -89.443971,
+      "agent": {
+        "name": "Bunbury Johnson Team",
+        "phone": "6083105777",
+        "email": "tjohnson@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "BUNBURY & ASSOCIATES REALTORS",
+        "phone": "6084417777"
+      },
+      "dateAdded": "2026-10-24T12:26:13.210746Z",
       "owner": {
         "owner1": null,
         "owner2": null
