@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-24T12:26:13.210746Z",
-  "totalCount": 3003,
+  "lastUpdated": "2026-10-25T12:56:32.171308Z",
+  "totalCount": 3007,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -92428,6 +92428,130 @@
         "phone": "6084417777"
       },
       "dateAdded": "2026-10-24T12:26:13.210746Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2910-Bluff-St,-Madison,-WI-53705",
+      "addressLine1": "2910 Bluff St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 475000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1036,
+      "propertyType": "Single Family",
+      "yearBuilt": 1935,
+      "listedDate": "2026-10-22T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.071402,
+      "longitude": -89.439417,
+      "agent": {
+        "name": "Louisa Enz",
+        "phone": "6082798755",
+        "email": "louisa@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Collective Real Estate Group",
+        "phone": "6086627777"
+      },
+      "dateAdded": "2026-10-25T12:56:32.171308Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "39-Northlight-Way,-Unit-15,-Fitchburg,-WI-53711",
+      "addressLine1": "39 Northlight Way",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 449500,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1541,
+      "propertyType": "Condo",
+      "yearBuilt": 2004,
+      "listedDate": "2026-10-21T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.002818,
+      "longitude": -89.39887,
+      "agent": {
+        "name": "Jacci See, M",
+        "phone": "6088285105",
+        "email": "seej@firstweber.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-10-25T12:56:32.171308Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "8042-County-Rd,-G,-Verona,-WI-53593",
+      "addressLine1": "8042 County Rd",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 549900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 1862,
+      "propertyType": "Single Family",
+      "yearBuilt": 1964,
+      "listedDate": "2026-10-21T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.969519,
+      "longitude": -89.611967,
+      "agent": {
+        "name": "Tommy Van Ess",
+        "phone": "6083957375",
+        "email": "vanesst@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-10-25T12:56:32.171308Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "614-W-Doty-St,-Apt-401,-Madison,-WI-53703",
+      "addressLine1": "614 W Doty St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 625000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1247,
+      "propertyType": "Condo",
+      "yearBuilt": 2004,
+      "listedDate": "2026-10-22T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.067416,
+      "longitude": -89.391546,
+      "agent": {
+        "name": "Holly Hassenzahl",
+        "phone": "6084698950",
+        "email": "holly@tucciteam.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-10-25T12:56:32.171308Z",
       "owner": {
         "owner1": null,
         "owner2": null
