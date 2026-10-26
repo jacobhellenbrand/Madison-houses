@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-25T12:56:32.171308Z",
-  "totalCount": 3007,
+  "lastUpdated": "2026-10-26T14:49:55.144685Z",
+  "totalCount": 3009,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -92552,6 +92552,68 @@
         "phone": "6086617900"
       },
       "dateAdded": "2026-10-25T12:56:32.171308Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3234-Clove-Dr,-Madison,-WI-53704",
+      "addressLine1": "3234 Clove Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 424900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2152,
+      "propertyType": "Single Family",
+      "yearBuilt": 1992,
+      "listedDate": "2026-10-22T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.139374,
+      "longitude": -89.319595,
+      "agent": {
+        "name": "John Reuter | Integrity Homes",
+        "phone": "6086694226",
+        "email": "john@integrityhomeswi.com"
+      },
+      "office": {
+        "name": "Integrity Homes - Real Broker LLC",
+        "phone": "6088343341"
+      },
+      "dateAdded": "2026-10-26T14:49:55.144685Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5814-Crabapple-Ln,-Madison,-WI-53711",
+      "addressLine1": "5814 Crabapple Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 474900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2176,
+      "propertyType": "Single Family",
+      "yearBuilt": 1961,
+      "listedDate": "2026-10-22T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.035067,
+      "longitude": -89.48154,
+      "agent": {
+        "name": "Garret Clemment",
+        "phone": "6087098033",
+        "email": "garret@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-10-26T14:49:55.144685Z",
       "owner": {
         "owner1": null,
         "owner2": null
