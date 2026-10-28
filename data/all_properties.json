@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-27T13:56:45.836524Z",
-  "totalCount": 3027,
+  "lastUpdated": "2026-10-28T14:50:30.449243Z",
+  "totalCount": 3034,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -93172,6 +93172,223 @@
         "phone": "6082747500"
       },
       "dateAdded": "2026-10-27T13:56:45.836524Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "312-Meadow-Ln,-Deforest,-WI-53532",
+      "addressLine1": "312 Meadow Ln",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 449900,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2588,
+      "propertyType": "Single Family",
+      "yearBuilt": 1970,
+      "listedDate": "2026-10-23T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.240375,
+      "longitude": -89.347567,
+      "agent": {
+        "name": "Raegen Trimmer",
+        "phone": "6083937234",
+        "email": "raegentrimmer@remax.net"
+      },
+      "office": {
+        "name": "Remax Preferred",
+        "phone": "6084607030"
+      },
+      "dateAdded": "2026-10-28T14:50:30.449243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4792-Suelo-Rd,-Fitchburg,-WI-53711",
+      "addressLine1": "4792 Suelo Rd",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 564900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1927,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.015175,
+      "longitude": -89.368484,
+      "agent": {
+        "name": "Aeryn Barry",
+        "phone": "6089993972",
+        "email": "aerynbarry@yahoo.com"
+      },
+      "office": {
+        "name": "Tim O'brien Homes Inc-Hcb",
+        "phone": "6086611100"
+      },
+      "dateAdded": "2026-10-28T14:50:30.449243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6822-Country-Ln,-Madison,-WI-53719",
+      "addressLine1": "6822 Country Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 524900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2218,
+      "propertyType": "Single Family",
+      "yearBuilt": 2003,
+      "listedDate": "2026-10-23T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.002959,
+      "longitude": -89.503328,
+      "agent": {
+        "name": "Matt Kornstedt",
+        "phone": "6088397137",
+        "email": "askus@hometeam4u.com"
+      },
+      "office": {
+        "name": "Stark Company, REALTORS",
+        "phone": "6088397137"
+      },
+      "dateAdded": "2026-10-28T14:50:30.449243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "530-Galileo-Dr,-Madison,-WI-53718",
+      "addressLine1": "530 Galileo Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 495000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1729,
+      "propertyType": "Single Family",
+      "yearBuilt": 2012,
+      "listedDate": "2026-10-23T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.090244,
+      "longitude": -89.273595,
+      "agent": {
+        "name": "Kathy Smith Epping",
+        "phone": "6083334406",
+        "email": "kepping@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Monroe St.",
+        "phone": "6082327777"
+      },
+      "dateAdded": "2026-10-28T14:50:30.449243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "586-N-Westmount-Dr,-Sun-Prairie,-WI-53590",
+      "addressLine1": "586 N Westmount Dr",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 895000,
+      "bedrooms": 8,
+      "bathrooms": 8,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 2000,
+      "listedDate": "2026-10-23T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.18763,
+      "longitude": -89.277557,
+      "agent": {
+        "name": "Paul Haviland",
+        "phone": "6088434442",
+        "email": "phaviland@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6088369300"
+      },
+      "dateAdded": "2026-10-28T14:50:30.449243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "10-E-Copper-Cir,-Madison,-WI-53717",
+      "addressLine1": "10 E Copper Cir",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53717",
+      "price": 615000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2129,
+      "propertyType": "Single Family",
+      "yearBuilt": 1992,
+      "listedDate": "2026-10-26T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.070489,
+      "longitude": -89.519498,
+      "agent": {
+        "name": "Kelly Gilboy",
+        "phone": "6082350462",
+        "email": "kgilboy@restainohomes.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-10-28T14:50:30.449243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "510-Elmside-Blvd,-Madison,-WI-53704",
+      "addressLine1": "510 Elmside Blvd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 560000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFootage": 1214,
+      "propertyType": "Single Family",
+      "yearBuilt": 1925,
+      "listedDate": "2026-10-26T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.091954,
+      "longitude": -89.342705,
+      "agent": {
+        "name": "Kathy Razzano",
+        "phone": "6088337777",
+        "email": "krazzano@restainohomes.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-10-28T14:50:30.449243Z",
       "owner": {
         "owner1": null,
         "owner2": null
