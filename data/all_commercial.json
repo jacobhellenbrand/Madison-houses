@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-28T14:58:17.335996Z",
-  "totalCount": 238,
+  "lastUpdated": "2026-10-29T15:03:00.499960Z",
+  "totalCount": 242,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -3887,6 +3887,74 @@
       "contractorAddress": "429 W BODEN ST, MILWAUKEE, WI 53207",
       "category": "Commercial",
       "dateAdded": "2026-10-25T13:04:49.259475Z"
+    },
+    {
+      "id": "BLDNCC-2025-20401",
+      "permitNumber": "BLDNCC-2025-20401",
+      "use": "STORES/MERCANTILE",
+      "address": "1815 E WASHINGTON AVE 100",
+      "buildingSqft": "1,365",
+      "estimatedCost": "$20,000",
+      "feesPaid": "$166",
+      "owner": "1801 EAST WASHINGTON",
+      "ownerAddress": "MADISON APARTMENTS LLC, 101 E MAIN ST SUITE 500, MT HOREB, WI 53572",
+      "description": "STELLIE'S ICE CREAM - WALK IN FREEZER FOR NEW TENANT",
+      "issuanceDate": "10/28/2026",
+      "contractor": "OWNER",
+      "contractorAddress": "",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-10-29T15:03:00.499960Z"
+    },
+    {
+      "id": "BLDNCC-2026-04639",
+      "permitNumber": "BLDNCC-2026-04639",
+      "use": "STORES/MERCANTILE",
+      "address": "646 W WASHINGTON AVE 1",
+      "buildingSqft": "610",
+      "estimatedCost": "$30,000",
+      "feesPaid": "$455",
+      "owner": "MOTORLESS MOTION LLC",
+      "ownerAddress": "1230 REGENT ST, MADISON, WI 53715",
+      "description": "BANDIT TACOS ICE CREAM TRAIN - EXPAND TENANT TO ENGINE",
+      "issuanceDate": "10/26/2026",
+      "contractor": "CARLSON CONSTRUCTION LLC",
+      "contractorAddress": "322 NORTH ST, MADISON, WI 53704",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-10-29T15:03:00.499960Z"
+    },
+    {
+      "id": "BLDNCC-2026-19886",
+      "permitNumber": "BLDNCC-2026-19886",
+      "use": "STORES/MERCANTILE",
+      "address": "728 S GAMMON RD",
+      "buildingSqft": "1,496",
+      "estimatedCost": "$16,000",
+      "feesPaid": "$331",
+      "owner": "HIGHLAND GATES LLC",
+      "ownerAddress": "PO BOX 45, MCFARLAND, WI 53558",
+      "description": "PRO NUTRITION - NEW TENANT ALTERATION",
+      "issuanceDate": "10/22/2026",
+      "contractor": "OWNER",
+      "contractorAddress": "",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-10-29T15:03:00.499960Z"
+    },
+    {
+      "id": "BLDNCC-2026-15882",
+      "permitNumber": "BLDNCC-2026-15882",
+      "use": "STORES/MERCANTILE",
+      "address": "729 HILLDALE WAY",
+      "buildingSqft": "555",
+      "estimatedCost": "$200,000",
+      "feesPaid": "$2,335",
+      "owner": "HILLDALE SHOPPING CENTER",
+      "ownerAddress": "LLC, 33 BOYLSTON ST STE 3000, CHESTNUT HILL, MA 02467",
+      "description": "SUNGLASS HUT - NEW TENANT ALTERATION",
+      "issuanceDate": "10/12/2026",
+      "contractor": "HORIZON RETAIL CONSTRUCTION",
+      "contractorAddress": "9999 E EXPLORATION CT, STURTEVANT, WI 53177",
+      "category": "Tenant Buildout",
+      "dateAdded": "2026-10-29T15:03:00.499960Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-28T14:50:30.449243Z",
-  "totalCount": 3034,
+  "lastUpdated": "2026-10-29T14:55:57.032264Z",
+  "totalCount": 3046,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -93389,6 +93389,378 @@
         "phone": "6088367433"
       },
       "dateAdded": "2026-10-28T14:50:30.449243Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4812-Dustin-Ln,-Madison,-WI-53718",
+      "addressLine1": "4812 Dustin Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 435000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2235,
+      "propertyType": "Condo",
+      "yearBuilt": 2004,
+      "listedDate": "2026-10-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.028178,
+      "longitude": -89.285307,
+      "agent": {
+        "name": "Nancy Barth",
+        "phone": "6085757965",
+        "email": "barthn@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Inc",
+        "phone": "6084233707"
+      },
+      "dateAdded": "2026-10-29T14:55:57.032264Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "533-Redan-Dr,-Verona,-WI-53593",
+      "addressLine1": "533 Redan Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 575000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2492,
+      "propertyType": "Single Family",
+      "yearBuilt": 2022,
+      "listedDate": "2026-10-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.050732,
+      "longitude": -89.546528,
+      "agent": {
+        "name": "Liz Slaby",
+        "phone": "6087992317",
+        "email": "liz@mhbrealestate.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-10-29T14:55:57.032264Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "828-824-Dunn-Ave,-Oregon,-WI-53575",
+      "addressLine1": "828 824 Dunn Ave",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 759900,
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 2001,
+      "listedDate": "2026-10-24T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.938575,
+      "longitude": -89.370502,
+      "agent": {
+        "name": "Barnes & Associates Realty Group Noel Barnes",
+        "phone": "6087330194",
+        "email": "noel@barnesrealtygroup.org"
+      },
+      "office": {
+        "name": "Barnes & Associates Realty Group",
+        "phone": "6082947401"
+      },
+      "dateAdded": "2026-10-29T14:55:57.032264Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6678-Warner-Farm-Dr,-Deforest,-WI-53532",
+      "addressLine1": "6678 Warner Farm Dr",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 624900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1972,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.212918,
+      "longitude": -89.316487,
+      "agent": {
+        "name": "Aeryn Barry",
+        "phone": "6089993972",
+        "email": "aerynbarry@yahoo.com"
+      },
+      "office": {
+        "name": "Tim O'brien Homes Inc-Hcb",
+        "phone": "6086611100"
+      },
+      "dateAdded": "2026-10-29T14:55:57.032264Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4610-Commercial-Ave,-Madison,-WI-53714",
+      "addressLine1": "4610 Commercial Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53714",
+      "price": 575000,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "squareFootage": 5574,
+      "propertyType": "Single Family",
+      "yearBuilt": 2014,
+      "listedDate": "2026-10-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.107007,
+      "longitude": -89.301372,
+      "agent": {
+        "name": "Olin Noren",
+        "phone": "6088526491",
+        "email": "onoren@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-10-29T14:55:57.032264Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4250-Doncaster-Dr,-Madison,-WI-53711",
+      "addressLine1": "4250 Doncaster Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 429900,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1528,
+      "propertyType": "Single Family",
+      "yearBuilt": 1950,
+      "listedDate": "2026-10-28T00:00:00.000Z",
+      "daysOnMarket": 2,
+      "latitude": 43.03636,
+      "longitude": -89.447286,
+      "agent": {
+        "name": "Josh Blasi",
+        "phone": "6086950273",
+        "email": "joshblasi@gmail.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-10-29T14:55:57.032264Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "608-Harrison-St,-Madison,-WI-53711",
+      "addressLine1": "608 Harrison St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 625000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1280,
+      "propertyType": "Single Family",
+      "yearBuilt": 1924,
+      "listedDate": "2026-10-23T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.065475,
+      "longitude": -89.418904,
+      "agent": {
+        "name": "Megan Roth-markham",
+        "phone": "6087702777",
+        "email": "mroth@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "BUNBURY & ASSOCIATES REALTORS",
+        "phone": "6084417777"
+      },
+      "dateAdded": "2026-10-29T14:55:57.032264Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "548-Redan-Dr,-Verona,-WI-53593",
+      "addressLine1": "548 Redan Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 464900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1690,
+      "propertyType": "Single Family",
+      "yearBuilt": 2022,
+      "listedDate": "2026-10-27T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.049298,
+      "longitude": -89.547977,
+      "agent": {
+        "name": "Josh Blasi",
+        "phone": "6086950273",
+        "email": "joshblasi@gmail.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - Fitchburg",
+        "phone": "6088337777"
+      },
+      "dateAdded": "2026-10-29T14:55:57.032264Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2533-Gregory-St,-Madison,-WI-53711",
+      "addressLine1": "2533 Gregory St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 775000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 2092,
+      "propertyType": "Single Family",
+      "yearBuilt": 1924,
+      "listedDate": "2026-10-27T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.059294,
+      "longitude": -89.429501,
+      "agent": {
+        "name": "Carlos Alvarado",
+        "phone": "6082516600",
+        "email": "carlos@thealvaradogroup.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-10-29T14:55:57.032264Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "224-Lakewood-Blvd,-Madison,-WI-53704",
+      "addressLine1": "224 Lakewood Blvd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 949000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2302,
+      "propertyType": "Single Family",
+      "yearBuilt": 1941,
+      "listedDate": "2026-10-25T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.108988,
+      "longitude": -89.366541,
+      "agent": {
+        "name": "Kelda Roys",
+        "phone": "6082134502",
+        "email": "kelda@openhomesrealty.com"
+      },
+      "office": {
+        "name": "Openhomes Inc.",
+        "phone": "6082134502"
+      },
+      "dateAdded": "2026-10-29T14:55:57.032264Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4790-Lacy-Rd,-Fitchburg,-WI-53711",
+      "addressLine1": "4790 Lacy Rd",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 584900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2301,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-10-26T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.015001,
+      "longitude": -89.367433,
+      "agent": {
+        "name": "Aeryn Barry",
+        "phone": "6089993972",
+        "email": "aerynbarry@yahoo.com"
+      },
+      "office": {
+        "name": "Tim O'brien Homes Inc-Hcb",
+        "phone": "6086611100"
+      },
+      "dateAdded": "2026-10-29T14:55:57.032264Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "110-Horseshoe-Bnd,-Madison,-WI-53705",
+      "addressLine1": "110 Horseshoe Bnd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 899000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 3461,
+      "propertyType": "Single Family",
+      "yearBuilt": 1983,
+      "listedDate": "2026-10-27T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.069315,
+      "longitude": -89.496525,
+      "agent": {
+        "name": "Chas Martin",
+        "phone": "6083349042",
+        "email": "chas@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-10-29T14:55:57.032264Z",
       "owner": {
         "owner1": null,
         "owner2": null
