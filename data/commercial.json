@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-30T14:57:15.389830Z",
+  "lastUpdated": "2026-10-31T14:24:55.366620Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 9,
+  "totalCount": 4,
   "proposals": [
     {
       "id": "BLDNCC-2026-23092",
@@ -53,22 +53,6 @@
       "category": "Tenant Buildout"
     },
     {
-      "id": "BLDRPR-2026-22774",
-      "permitNumber": "BLDRPR-2026-22774",
-      "use": "STORES/MERCANTILE",
-      "address": "2201 ZEIER RD",
-      "buildingSqft": "0",
-      "estimatedCost": "$650,000",
-      "feesPaid": "$7,150",
-      "owner": "FLINTLOCK CAPITAL LLC",
-      "ownerAddress": "PO BOX 45, MCFARLAND, WI 53558",
-      "description": "RE-ROOFING OF COMMERCIAL BUILIDING",
-      "issuanceDate": "09/30/2026",
-      "contractor": "",
-      "contractorAddress": "800 West Broadway, Suite 400, Monona, WI 53713",
-      "category": "Commercial"
-    },
-    {
       "id": "BLDNCC-2025-14478",
       "permitNumber": "BLDNCC-2025-14478",
       "use": "STORES/MERCANTILE",
@@ -82,70 +66,6 @@
       "issuanceDate": "10/09/2026",
       "contractor": "OWNER",
       "contractorAddress": "",
-      "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDRPR-2026-23350",
-      "permitNumber": "BLDRPR-2026-23350",
-      "use": "STORES/MERCANTILE",
-      "address": "4722 E WASHINGTON AVE",
-      "buildingSqft": "0",
-      "estimatedCost": "$175,028",
-      "feesPaid": "$1,936",
-      "owner": "FURNITURE ROW USA, LLC",
-      "ownerAddress": "5651 N. BROADWAY, DENVER, CO 80216",
-      "description": "COMMERCIAL TPO ROOF REPLACEMENT & EXTERIOR WALL FLASHING \u2013 GREEN & BLUE SECTIONSGREEN SECTION: ? TEAR OFF TOP LAYER OF TPO AND 2\u201d ISO. ? MECH-ATTACH ONE LAYER OF 2\u201d ISO ? MECH-ATTACH 60 MIL JM TPO IN WHITE ? FLASH AND WRAP ALL PARAPET WALLS WITH MEMBRANE ? AAR-1.01 IN CITYSCAPE ON NORTH/SE/SW/EAST ? AAR-1.11 & 1.06 IN CITYSCAPE ON WEST.BLUE SECTION: ? TEAR OFF TOP LAYER OF TPO AND 2\u201d ISO. ? MECH-ATTACH ONE LAYER OF 2\u201d ISO ? MECH-ATTACH 60 MIL JM TPO IN WHITE ? FLASH AND WRAP ALL PARAPET WALLS WITH MEMBRANE SOUTH/EAST ? FLASH LARGE EIFIS WALL WITH GRAY TPO MEMBRANE ON NORTH ? AAR-1.01 IN CITYSCAPE ON SOUTH/EAST ? AAR-1.11 & 1.06 IN CITYSCAPE ON WEST",
-      "issuanceDate": "10/05/2026",
-      "contractor": "ROOFED RIGHT AMERICA LLC",
-      "contractorAddress": "429 W BODEN ST, MILWAUKEE, WI 53207",
-      "category": "Commercial"
-    },
-    {
-      "id": "BLDNCC-2026-04639",
-      "permitNumber": "BLDNCC-2026-04639",
-      "use": "STORES/MERCANTILE",
-      "address": "646 W WASHINGTON AVE 1",
-      "buildingSqft": "610",
-      "estimatedCost": "$30,000",
-      "feesPaid": "$455",
-      "owner": "MOTORLESS MOTION LLC",
-      "ownerAddress": "1230 REGENT ST, MADISON, WI 53715",
-      "description": "BANDIT TACOS ICE CREAM TRAIN - EXPAND TENANT TO ENGINE",
-      "issuanceDate": "10/26/2026",
-      "contractor": "CARLSON CONSTRUCTION LLC",
-      "contractorAddress": "322 NORTH ST, MADISON, WI 53704",
-      "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDNCC-2026-19886",
-      "permitNumber": "BLDNCC-2026-19886",
-      "use": "STORES/MERCANTILE",
-      "address": "728 S GAMMON RD",
-      "buildingSqft": "1,496",
-      "estimatedCost": "$16,000",
-      "feesPaid": "$331",
-      "owner": "HIGHLAND GATES LLC",
-      "ownerAddress": "PO BOX 45, MCFARLAND, WI 53558",
-      "description": "PRO NUTRITION - NEW TENANT ALTERATION",
-      "issuanceDate": "10/22/2026",
-      "contractor": "OWNER",
-      "contractorAddress": "",
-      "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDNCC-2026-15882",
-      "permitNumber": "BLDNCC-2026-15882",
-      "use": "STORES/MERCANTILE",
-      "address": "729 HILLDALE WAY",
-      "buildingSqft": "555",
-      "estimatedCost": "$200,000",
-      "feesPaid": "$2,335",
-      "owner": "HILLDALE SHOPPING CENTER",
-      "ownerAddress": "LLC, 33 BOYLSTON ST STE 3000, CHESTNUT HILL, MA 02467",
-      "description": "SUNGLASS HUT - NEW TENANT ALTERATION",
-      "issuanceDate": "10/12/2026",
-      "contractor": "HORIZON RETAIL CONSTRUCTION",
-      "contractorAddress": "9999 E EXPLORATION CT, STURTEVANT, WI 53177",
       "category": "Tenant Buildout"
     }
   ]
