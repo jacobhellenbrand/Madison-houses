@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31T14:16:39.852863Z",
-  "totalCount": 3065,
+  "lastUpdated": "2026-11-01T14:43:31.035292Z",
+  "totalCount": 3068,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -94350,6 +94350,99 @@
         "phone": "6086617900"
       },
       "dateAdded": "2026-10-31T14:16:39.852863Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "918-Magnolia-Ln,-Madison,-WI-53713",
+      "addressLine1": "918 Magnolia Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53713",
+      "price": 599000,
+      "bedrooms": 8,
+      "bathrooms": 4,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1960,
+      "listedDate": "2026-10-28T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.039619,
+      "longitude": -89.398688,
+      "agent": {
+        "name": "Chue Xiong",
+        "phone": "6087706030",
+        "email": "chuexiong@tds.net"
+      },
+      "office": {
+        "name": "Georgeson Realty, Llc",
+        "phone": "6083350100"
+      },
+      "dateAdded": "2026-11-01T14:43:31.035292Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2656-Dungarvan-Rd,-Fitchburg,-WI-53711",
+      "addressLine1": "2656 Dungarvan Rd",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 490000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1866,
+      "propertyType": "Single Family",
+      "yearBuilt": 2010,
+      "listedDate": "2026-10-29T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 42.99901,
+      "longitude": -89.413153,
+      "agent": {
+        "name": "Jason Holtman",
+        "phone": "6082259900",
+        "email": "jason@pureintegrityhomes.com"
+      },
+      "office": {
+        "name": "Remax Preferred",
+        "phone": "6088359989"
+      },
+      "dateAdded": "2026-11-01T14:43:31.035292Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "750-Leeward-Ln,-Oregon,-WI-53575",
+      "addressLine1": "750 Leeward Ln",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 499900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2109,
+      "propertyType": "Single Family",
+      "yearBuilt": 1999,
+      "listedDate": "2026-10-28T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.915006,
+      "longitude": -89.391187,
+      "agent": {
+        "name": "Brandon Mortenson",
+        "phone": "6085777621",
+        "email": "mortensonb@prgsold.com"
+      },
+      "office": {
+        "name": "Preferred Realty Group",
+        "phone": "6088295000"
+      },
+      "dateAdded": "2026-11-01T14:43:31.035292Z",
       "owner": {
         "owner1": null,
         "owner2": null

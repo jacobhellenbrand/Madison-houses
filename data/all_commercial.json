@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31T14:24:55.366620Z",
-  "totalCount": 242,
+  "lastUpdated": "2026-11-01T14:51:10.500026Z",
+  "totalCount": 243,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -3955,6 +3955,23 @@
       "contractorAddress": "9999 E EXPLORATION CT, STURTEVANT, WI 53177",
       "category": "Tenant Buildout",
       "dateAdded": "2026-10-29T15:03:00.499960Z"
+    },
+    {
+      "id": "BLDRPR-2026-25787",
+      "permitNumber": "BLDRPR-2026-25787",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1005 SUE PL",
+      "buildingSqft": "0",
+      "estimatedCost": "$52,057",
+      "feesPaid": "$608",
+      "owner": "STOFLET, AUTUMN C",
+      "ownerAddress": "1005 SUE PL, MADISON, WI 53705-1354",
+      "description": "KITCHEN REMODEL - CHANGE LAYOUT OF CABINETRY, REPLACE WINDOW WITH DOOR UNDER EXISTING HEADER. REMOVE NONLOAD BEARING WALL",
+      "issuanceDate": "10/29/2026",
+      "contractor": "MCS CONTRACTING LLC",
+      "contractorAddress": "6301 STATE ROAD 78, MAZOMANIE, WI 53560",
+      "category": "Renovation",
+      "dateAdded": "2026-11-01T14:51:10.500026Z"
     }
   ]
 }
