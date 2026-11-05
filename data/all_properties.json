@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-04T15:57:00.977821Z",
-  "totalCount": 3100,
+  "lastUpdated": "2026-11-05T16:06:48.776427Z",
+  "totalCount": 3108,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -95435,6 +95435,254 @@
         "phone": null
       },
       "dateAdded": "2026-11-04T15:57:00.977821Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1000-Surrey-Ct,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1000 Surrey Ct",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 519900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 3088,
+      "propertyType": "Single Family",
+      "yearBuilt": 1973,
+      "listedDate": "2026-10-30T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.191017,
+      "longitude": -89.193419,
+      "agent": {
+        "name": "Ann Hermanson",
+        "phone": "6082208850",
+        "email": "hermanson.ann@gmail.com"
+      },
+      "office": {
+        "name": "Restaino & Associates Realtors - East Madison",
+        "phone": "6083107777"
+      },
+      "dateAdded": "2026-11-05T16:06:48.776427Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1207-Mica-Rd,-Madison,-WI-53719",
+      "addressLine1": "1207 Mica Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 494900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1516,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 2027,
+      "listedDate": "2026-11-03T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.0393855,
+      "longitude": -89.530025,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-11-05T16:06:48.776427Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "613-W-Dean-Ave,-Monona,-WI-53716",
+      "addressLine1": "613 W Dean Ave",
+      "city": "Monona",
+      "state": "WI",
+      "zipCode": "53716",
+      "price": 650000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1394,
+      "propertyType": "Single Family",
+      "yearBuilt": 1951,
+      "listedDate": "2026-10-30T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.069649,
+      "longitude": -89.335445,
+      "agent": {
+        "name": "Austin Fleer",
+        "phone": "6086585534",
+        "email": "austin@fleerrealty.com"
+      },
+      "office": {
+        "name": "Pinnacle Real Estate Group",
+        "phone": "6088293900"
+      },
+      "dateAdded": "2026-11-05T16:06:48.776427Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "601-Prairie-Grass-Rd,-Oregon,-WI-53575",
+      "addressLine1": "601 Prairie Grass Rd",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 689900,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 2779,
+      "propertyType": "Single Family",
+      "yearBuilt": 2013,
+      "listedDate": "2026-10-31T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.923047,
+      "longitude": -89.403189,
+      "agent": {
+        "name": "Andrew Krenz",
+        "phone": "6084382483",
+        "email": "akrenz@remax.net"
+      },
+      "office": {
+        "name": "Remax Preferred",
+        "phone": "6088359989"
+      },
+      "dateAdded": "2026-11-05T16:06:48.776427Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4510-Herrick-Ln,-Madison,-WI-53711",
+      "addressLine1": "4510 Herrick Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 536500,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2115,
+      "propertyType": "Single Family",
+      "yearBuilt": 1955,
+      "listedDate": "2026-11-02T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.051393,
+      "longitude": -89.453124,
+      "agent": {
+        "name": "Melissa Bjerke",
+        "phone": "6084434819",
+        "email": "mbjerke@starkhomes.com"
+      },
+      "office": {
+        "name": "STARK COMPANY REALTORS",
+        "phone": "6082569011"
+      },
+      "dateAdded": "2026-11-05T16:06:48.776427Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7133-Graber-Rd,-Middleton,-WI-53562",
+      "addressLine1": "7133 Graber Rd",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 749900,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2392,
+      "propertyType": "Single Family",
+      "yearBuilt": null,
+      "listedDate": "2026-10-31T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.1181502,
+      "longitude": -89.5040796,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-11-05T16:06:48.776427Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7134-Leonard-Ln,-Middleton,-WI-53562",
+      "addressLine1": "7134 Leonard Ln",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 649900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1764,
+      "propertyType": "Single Family",
+      "yearBuilt": 2027,
+      "listedDate": "2026-11-04T00:00:00.000Z",
+      "daysOnMarket": 2,
+      "latitude": 43.1200789,
+      "longitude": -89.5034411,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-11-05T16:06:48.776427Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6635-Traveler-Trl,-Windsor,-WI-53598",
+      "addressLine1": "6635 Traveler Trl",
+      "city": "Windsor",
+      "state": "WI",
+      "zipCode": "53598",
+      "price": 714900,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 2945,
+      "propertyType": "Single Family",
+      "yearBuilt": 2017,
+      "listedDate": "2026-11-03T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.213534,
+      "longitude": -89.344337,
+      "agent": {
+        "name": "John Hamner",
+        "phone": "6085098564",
+        "email": "john@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Hamner Real Estate Group",
+        "phone": "6085098564"
+      },
+      "dateAdded": "2026-11-05T16:06:48.776427Z",
       "owner": {
         "owner1": null,
         "owner2": null
