@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-05T16:06:48.776427Z",
-  "totalCount": 3108,
+  "lastUpdated": "2026-11-06T15:38:53.016560Z",
+  "totalCount": 3119,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -95683,6 +95683,347 @@
         "phone": "6085098564"
       },
       "dateAdded": "2026-11-05T16:06:48.776427Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4787-Sorrel-Dr,-Fitchburg,-WI-53711",
+      "addressLine1": "4787 Sorrel Dr",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 639900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2628,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-11-03T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.015671,
+      "longitude": -89.369797,
+      "agent": {
+        "name": "Sherry Yu",
+        "phone": "6086981500",
+        "email": "sherry@yurealestategroup.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-11-06T15:38:53.016560Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "207-S-Marietta-St,-Verona,-WI-53593",
+      "addressLine1": "207 S Marietta St",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 439000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1974,
+      "propertyType": "Single Family",
+      "yearBuilt": 1981,
+      "listedDate": "2026-11-04T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 42.988733,
+      "longitude": -89.535713,
+      "agent": {
+        "name": "Lou Elson",
+        "phone": "6082168730",
+        "email": "lou@louelsonrealestate.com"
+      },
+      "office": {
+        "name": "EXIT REALTY HGM",
+        "phone": "6088384457"
+      },
+      "dateAdded": "2026-11-06T15:38:53.016560Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4311-Esch-Ln,-Madison,-WI-53704",
+      "addressLine1": "4311 Esch Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 445000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2418,
+      "propertyType": "Single Family",
+      "yearBuilt": 1965,
+      "listedDate": "2026-11-04T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.140866,
+      "longitude": -89.371923,
+      "agent": {
+        "name": "Kathy Jasper",
+        "phone": "6084458275",
+        "email": "kathyjasper1@gmail.com"
+      },
+      "office": {
+        "name": "Home Connection Realty",
+        "phone": "6084458275"
+      },
+      "dateAdded": "2026-11-06T15:38:53.016560Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1618-Laurel-Crst,-Madison,-WI-53705",
+      "addressLine1": "1618 Laurel Crst",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53705",
+      "price": 715000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2414,
+      "propertyType": "Single Family",
+      "yearBuilt": 1959,
+      "listedDate": "2026-11-04T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.084908,
+      "longitude": -89.479343,
+      "agent": {
+        "name": "Jo Ferraro Real Estate Team",
+        "phone": "6088381377",
+        "email": "info@soldinmadison.com"
+      },
+      "office": {
+        "name": "eXp Realty - Ferraro Real Estate Team",
+        "phone": "6088381377"
+      },
+      "dateAdded": "2026-11-06T15:38:53.016560Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "933-Spaight-St,-Madison,-WI-53703",
+      "addressLine1": "933 Spaight St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "price": 1800000,
+      "bedrooms": null,
+      "bathrooms": null,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1906,
+      "listedDate": "2026-11-05T00:00:00.000Z",
+      "daysOnMarket": 2,
+      "latitude": 43.078596,
+      "longitude": -89.366528,
+      "agent": {
+        "name": "Ryan Schmitz",
+        "phone": "6083450150",
+        "email": "rschmitz13@gmail.com"
+      },
+      "office": {
+        "name": "The Hub Realty",
+        "phone": null
+      },
+      "dateAdded": "2026-11-06T15:38:53.016560Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "911-Thomas-Dr,-Sun-Prairie,-WI-53590",
+      "addressLine1": "911 Thomas Dr",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 709000,
+      "bedrooms": 4,
+      "bathrooms": 4.5,
+      "squareFootage": 4593,
+      "propertyType": "Single Family",
+      "yearBuilt": 1989,
+      "listedDate": "2026-11-04T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.186081,
+      "longitude": -89.197064,
+      "agent": {
+        "name": "Tori Wagner",
+        "phone": "2624249277",
+        "email": "toriwagner@kw.com"
+      },
+      "office": {
+        "name": "Keller Williams Lake Country",
+        "phone": "2629121400"
+      },
+      "dateAdded": "2026-11-06T15:38:53.016560Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2720-2724-Hazelnut-Trl,-Sun-Prairie,-WI-53590",
+      "addressLine1": "2720-2724 Hazelnut Trl",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 749000,
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "squareFootage": 2920,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 2023,
+      "listedDate": "2026-11-02T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.175343,
+      "longitude": -89.268274,
+      "agent": {
+        "name": "Chris Gantz",
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": "Patriot Properties",
+        "phone": "6088496500"
+      },
+      "dateAdded": "2026-11-06T15:38:53.016560Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3976-Empire-Dr,-Deforest,-WI-53532",
+      "addressLine1": "3976 Empire Dr",
+      "city": "Deforest",
+      "state": "WI",
+      "zipCode": "53532",
+      "price": 400000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 2068,
+      "propertyType": "Single Family",
+      "yearBuilt": 1989,
+      "listedDate": "2026-11-02T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.216101,
+      "longitude": -89.303123,
+      "agent": {
+        "name": "Renee Christman",
+        "phone": "6084446692",
+        "email": "christmanr@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6082747500"
+      },
+      "dateAdded": "2026-11-06T15:38:53.016560Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2052-Winding-Stream-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "2052 Winding Stream Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 519900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1880,
+      "propertyType": "Single Family",
+      "yearBuilt": 2027,
+      "listedDate": "2026-11-03T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.162453,
+      "longitude": -89.2468304,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-11-06T15:38:53.016560Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "7009-Wildberry-Dr,-Madison,-WI-53719",
+      "addressLine1": "7009 Wildberry Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 499000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2093,
+      "propertyType": "Single Family",
+      "yearBuilt": 2000,
+      "listedDate": "2026-11-03T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.005878,
+      "longitude": -89.50525,
+      "agent": {
+        "name": "Rena Ripp",
+        "phone": "6082286821",
+        "email": "renaripp@gmail.com"
+      },
+      "office": {
+        "name": "eXp Realty, LLC",
+        "phone": "8668486990"
+      },
+      "dateAdded": "2026-11-06T15:38:53.016560Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1236-Dolan-Dr,-Sun-Prairie,-WI-53590",
+      "addressLine1": "1236 Dolan Dr",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 519400,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2006,
+      "propertyType": "Single Family",
+      "yearBuilt": 2000,
+      "listedDate": "2026-11-03T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.198926,
+      "longitude": -89.260994,
+      "agent": {
+        "name": "Tyler J. Meyer",
+        "phone": "2623744435",
+        "email": "tmeyer@shorewest.com"
+      },
+      "office": {
+        "name": "Shorewest Realtors - Delavan",
+        "phone": "2627283418"
+      },
+      "dateAdded": "2026-11-06T15:38:53.016560Z",
       "owner": {
         "owner1": null,
         "owner2": null
