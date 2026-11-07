@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-06T15:38:53.016560Z",
-  "totalCount": 3119,
+  "lastUpdated": "2026-11-07T14:39:37.024840Z",
+  "totalCount": 3124,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -96024,6 +96024,161 @@
         "phone": "2627283418"
       },
       "dateAdded": "2026-11-06T15:38:53.016560Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1416-Schreiner-Ln,-Waunakee,-WI-53597",
+      "addressLine1": "1416 Schreiner Ln",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 1550000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 4335,
+      "propertyType": "Single Family",
+      "yearBuilt": 2027,
+      "listedDate": "2026-11-03T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.17585894,
+      "longitude": -89.46795803,
+      "agent": {
+        "name": "Living In Madison Real Estate Group",
+        "phone": null,
+        "email": "mari@livinginmadison.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-11-07T14:39:37.024840Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "510-Center-Rd,-Oregon,-WI-53575",
+      "addressLine1": "510 Center Rd",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 420000,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "squareFootage": 1040,
+      "propertyType": "Single Family",
+      "yearBuilt": 1963,
+      "listedDate": "2026-11-03T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.87414,
+      "longitude": -89.309792,
+      "agent": {
+        "name": "Sean Coffey",
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6082747500"
+      },
+      "dateAdded": "2026-11-07T14:39:37.024840Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "518-Pluto-St,-Madison,-WI-53718",
+      "addressLine1": "518 Pluto St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 424900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1542,
+      "propertyType": "Single Family",
+      "yearBuilt": 2017,
+      "listedDate": "2026-11-05T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.090754,
+      "longitude": -89.274354,
+      "agent": {
+        "name": "Chris Barreau",
+        "phone": "6087099001",
+        "email": "chris@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-11-07T14:39:37.024840Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1285-Retreat-Cir,-Verona,-WI-53593",
+      "addressLine1": "1285 Retreat Cir",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 1039500,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3468,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-11-04T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.008371,
+      "longitude": -89.545772,
+      "agent": {
+        "name": "Matt Winzenried Real Estate Team",
+        "phone": "6083107346",
+        "email": "info@mattwinz.com"
+      },
+      "office": {
+        "name": "Realty Executives Cooper Spransy, Inc",
+        "phone": "6086617900"
+      },
+      "dateAdded": "2026-11-07T14:39:37.024840Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "529-Boulder-Ln,-Stoughton,-WI-53589",
+      "addressLine1": "529 Boulder Ln",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 414990,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1754,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-11-05T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 42.923325,
+      "longitude": -89.257797,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-11-07T14:39:37.024840Z",
       "owner": {
         "owner1": null,
         "owner2": null
