@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-07T14:39:37.024840Z",
-  "totalCount": 3124,
+  "lastUpdated": "2026-11-08T14:45:22.294347Z",
+  "totalCount": 3127,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -96179,6 +96179,99 @@
         "phone": null
       },
       "dateAdded": "2026-11-07T14:39:37.024840Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4558-Lotus-Ln,-Madison,-WI-53718",
+      "addressLine1": "4558 Lotus Ln",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 439900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1380,
+      "propertyType": "Single Family",
+      "yearBuilt": 1970,
+      "listedDate": "2026-11-04T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.097009,
+      "longitude": -89.234811,
+      "agent": {
+        "name": "The Lavik Home Team",
+        "phone": "6084408491",
+        "email": "info@lavikhometeam.com"
+      },
+      "office": {
+        "name": "EXP Realty, LLC",
+        "phone": "6084409607"
+      },
+      "dateAdded": "2026-11-08T14:45:22.294347Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1712-Star-Light-Dr,-Verona,-WI-53593",
+      "addressLine1": "1712 Star Light Dr",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 454900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1533,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-11-05T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.016724,
+      "longitude": -89.569939,
+      "agent": {
+        "name": "Amy Kirner",
+        "phone": "6082263012",
+        "email": "akirner@veridianhomes.com"
+      },
+      "office": {
+        "name": "Stark Company, Realtors",
+        "phone": "6082263000"
+      },
+      "dateAdded": "2026-11-08T14:45:22.294347Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4585-Bishops-Ct,-Middleton,-WI-53562",
+      "addressLine1": "4585 Bishops Ct",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 1575000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 4483,
+      "propertyType": "Single Family",
+      "yearBuilt": 1994,
+      "listedDate": "2026-11-04T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.112296,
+      "longitude": -89.457393,
+      "agent": {
+        "name": "Ryan Oliversen",
+        "phone": "6084458856",
+        "email": "roliversen@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "Collective Real Estate Group",
+        "phone": "6086627777"
+      },
+      "dateAdded": "2026-11-08T14:45:22.294347Z",
       "owner": {
         "owner1": null,
         "owner2": null

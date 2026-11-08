@@ -1,9 +1,25 @@
 {
-  "lastUpdated": "2026-11-07T14:48:35.467319Z",
+  "lastUpdated": "2026-11-08T14:52:31.921971Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 6,
+  "totalCount": 7,
   "proposals": [
+    {
+      "id": "BLDRPR-2026-26006",
+      "permitNumber": "BLDRPR-2026-26006",
+      "use": "CHURCHES & RELIGIOUS",
+      "address": "401 S OWEN DR",
+      "buildingSqft": "0",
+      "estimatedCost": "$25,000",
+      "feesPaid": "$275",
+      "owner": "",
+      "ownerAddress": "",
+      "description": "INTERIOR NONSTRUCTURAL DEMOLITION NOT TO AFFECT EXITS, TOILET ROOMS, OR FIRE RATED SYSTEMS",
+      "issuanceDate": "11/05/2026",
+      "contractor": "DANIELS CONSTRUCTION",
+      "contractorAddress": "919 APPLEGATE RD, MADISON, WI 53713",
+      "category": "Tenant Buildout"
+    },
     {
       "id": "BLDRPR-2026-24294",
       "permitNumber": "BLDRPR-2026-24294",
