@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-08T14:45:22.294347Z",
-  "totalCount": 3127,
+  "lastUpdated": "2026-11-09T18:18:11.012751Z",
+  "totalCount": 3131,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -96272,6 +96272,130 @@
         "phone": "6086627777"
       },
       "dateAdded": "2026-11-08T14:45:22.294347Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "430-Oak-Opening-Dr,-Stoughton,-WI-53589",
+      "addressLine1": "430 Oak Opening Dr",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 414990,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1754,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-11-05T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.923016,
+      "longitude": -89.257487,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-11-09T18:18:11.012751Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5-Westridge-Cir,-Madison,-WI-53704",
+      "addressLine1": "5 Westridge Cir",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 489000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2521,
+      "propertyType": "Single Family",
+      "yearBuilt": 1993,
+      "listedDate": "2026-11-05T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.117697,
+      "longitude": -89.300758,
+      "agent": {
+        "name": "Missy Husband",
+        "phone": "6084221939",
+        "email": "missy.husband@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088333711"
+      },
+      "dateAdded": "2026-11-09T18:18:11.012751Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5-Hempstead-Pl,-Madison,-WI-53711",
+      "addressLine1": "5 Hempstead Pl",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 524900,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "squareFootage": 3669,
+      "propertyType": "Single Family",
+      "yearBuilt": 1963,
+      "listedDate": "2026-11-06T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.040866,
+      "longitude": -89.478935,
+      "agent": {
+        "name": "John Schneider",
+        "phone": "6082174602",
+        "email": "john@exithgm.com"
+      },
+      "office": {
+        "name": "EXIT REALTY HGM",
+        "phone": "6088384457"
+      },
+      "dateAdded": "2026-11-09T18:18:11.012751Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2104-Packers-Ave,-Madison,-WI-53704",
+      "addressLine1": "2104 Packers Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 537000,
+      "bedrooms": 7,
+      "bathrooms": 4,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1996,
+      "listedDate": "2026-11-05T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.121062,
+      "longitude": -89.355399,
+      "agent": {
+        "name": "Ryan Schmitz",
+        "phone": "6083450150",
+        "email": "rschmitz13@gmail.com"
+      },
+      "office": {
+        "name": "The Hub Realty",
+        "phone": null
+      },
+      "dateAdded": "2026-11-09T18:18:11.012751Z",
       "owner": {
         "owner1": null,
         "owner2": null
