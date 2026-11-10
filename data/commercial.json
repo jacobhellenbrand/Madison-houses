@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-09T18:26:32.631270Z",
+  "lastUpdated": "2026-11-10T16:11:55.028546Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 5,
+  "totalCount": 4,
   "proposals": [
     {
       "id": "BLDRPR-2026-26006",
@@ -67,22 +67,6 @@
       "contractor": "CARLSON CONSTRUCTION LLC",
       "contractorAddress": "322 NORTH ST, MADISON, WI 53704",
       "category": "Tenant Buildout"
-    },
-    {
-      "id": "BLDRPR-2026-24357",
-      "permitNumber": "BLDRPR-2026-24357",
-      "use": "SINGLE FAMILY RESIDENCES",
-      "address": "1106 S THOMPSON DR",
-      "buildingSqft": "0",
-      "estimatedCost": "$7,000",
-      "feesPaid": "$77",
-      "owner": "POMO, RICHARD L",
-      "ownerAddress": "1106 S THOMPSON DR, 1106 S THOMPSON DR, MADISON, WI 53716",
-      "description": "HALL BATHROOM REMODEL - PULL & RESET NEW FIXTURES IN EXISTING LOCATION.  NO STRUCTURAL CHANGES.",
-      "issuanceDate": "10/16/2026",
-      "contractor": "WASHA CONSTRUCTION INC",
-      "contractorAddress": "2605 S STOUGHTON RD #300, MADISON, WI 53716",
-      "category": "Renovation"
     }
   ]
 }

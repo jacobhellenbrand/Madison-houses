@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-09T18:18:11.012751Z",
-  "totalCount": 3131,
+  "lastUpdated": "2026-11-10T16:03:57.328040Z",
+  "totalCount": 3133,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -96396,6 +96396,68 @@
         "phone": null
       },
       "dateAdded": "2026-11-09T18:18:11.012751Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5606-Raymond-Rd,-Madison,-WI-53711",
+      "addressLine1": "5606 Raymond Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 440000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "squareFootage": 2325,
+      "propertyType": "Single Family",
+      "yearBuilt": 1956,
+      "listedDate": "2026-11-05T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.032271,
+      "longitude": -89.475641,
+      "agent": {
+        "name": "Carlos Alvarado",
+        "phone": "6082516600",
+        "email": "carlos@thealvaradogroup.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-11-10T16:03:57.328040Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6047-Canyon-Pkwy,-Mcfarland,-WI-53558",
+      "addressLine1": "6047 Canyon Pkwy",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 425000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1828,
+      "propertyType": "Condo",
+      "yearBuilt": 2014,
+      "listedDate": "2026-11-06T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.027133,
+      "longitude": -89.272527,
+      "agent": {
+        "name": "Dan Chin Homes Team",
+        "phone": "6086204177",
+        "email": "clientcare@danchinhomes.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-11-10T16:03:57.328040Z",
       "owner": {
         "owner1": null,
         "owner2": null
