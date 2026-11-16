@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-15T15:28:06.581550Z",
-  "totalCount": 245,
+  "lastUpdated": "2026-11-16T18:04:37.926536Z",
+  "totalCount": 248,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -4006,6 +4006,57 @@
       "contractorAddress": "919 APPLEGATE RD, MADISON, WI 53713",
       "category": "Tenant Buildout",
       "dateAdded": "2026-11-08T14:52:31.921971Z"
+    },
+    {
+      "id": "BLDNRC-2026-23354",
+      "permitNumber": "BLDNRC-2026-23354",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "22 S MILLS ST",
+      "buildingSqft": "3,258",
+      "estimatedCost": "$662,000",
+      "feesPaid": "$779",
+      "owner": "PREMIER BUILDERS, INC.",
+      "ownerAddress": "102 N HOLIDAY DR, 1010 E WASHINGTON AVE APT 1003, WAUNAKEE, WI 53597",
+      "description": "NEW DUPLEX 16-20 S MILLS",
+      "issuanceDate": "10/19/2026",
+      "contractor": "PREMIER BUILDERS INC",
+      "contractorAddress": "102 N HOLIDAY DR #1, WAUNAKEE",
+      "category": "Commercial",
+      "dateAdded": "2026-11-16T18:04:37.926536Z"
+    },
+    {
+      "id": "BLDRPR-2026-26200",
+      "permitNumber": "BLDRPR-2026-26200",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "815 GARFIELD ST 2",
+      "buildingSqft": "1",
+      "estimatedCost": "$2,000",
+      "feesPaid": "$50",
+      "owner": "FRONT PORCH PROPERTIES, LLC",
+      "ownerAddress": "1445 REGENT ST, 815 GARFIELD ST, MADISON, WI 53711",
+      "description": "ALTERATION TO ADD BEDROOM",
+      "issuanceDate": "11/10/2026",
+      "contractor": "TALLARD APARTMENTS LLC",
+      "contractorAddress": "1445 REGENT ST, MADISON, WI 53711",
+      "category": "Renovation",
+      "dateAdded": "2026-11-16T18:04:37.926536Z"
+    },
+    {
+      "id": "BLDNRC-2026-24258",
+      "permitNumber": "BLDNRC-2026-24258",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "9283 HIDDEN FAWN TRL",
+      "buildingSqft": "6,210",
+      "estimatedCost": "$731,826",
+      "feesPaid": "$1,182",
+      "owner": "EAST SOUTH POINT, LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, 842 FOX RUN CT, MADISON, WI 53713",
+      "description": "NEW TWIN HOME ZERO LOT LINE",
+      "issuanceDate": "10/28/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial",
+      "dateAdded": "2026-11-16T18:04:37.926536Z"
     }
   ]
 }
