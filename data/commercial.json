@@ -1,9 +1,25 @@
 {
-  "lastUpdated": "2026-11-16T18:04:37.926536Z",
+  "lastUpdated": "2026-11-17T17:30:04.217202Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 3,
+  "totalCount": 5,
   "proposals": [
+    {
+      "id": "BLDRPR-2026-26703",
+      "permitNumber": "BLDRPR-2026-26703",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "2109 CENTER AVE",
+      "buildingSqft": "0",
+      "estimatedCost": "$34,000",
+      "feesPaid": "$374",
+      "owner": "HASSENZAHL, HOLLY & JOEL",
+      "ownerAddress": "7610 KNIGHTS CIR, MIDDLETON, WI 53562",
+      "description": "REMOVE AND REPLACE SHINGLE ROOFING, GUTTERS AND DOWNSPOUTS WITH NEW.  NO STRUCTURAL CHANGES. REMOVE AND REPLACE 8 WINDOWS IN EXISTING OPENINGS.",
+      "issuanceDate": "11/16/2026",
+      "contractor": "ACE EXTERIOR SOLUTIONS LLC",
+      "contractorAddress": "245 HORIZON DR #102, VERONA, WI 53793",
+      "category": "Commercial"
+    },
     {
       "id": "BLDNRC-2026-23354",
       "permitNumber": "BLDNRC-2026-23354",
@@ -35,6 +51,22 @@
       "contractor": "TALLARD APARTMENTS LLC",
       "contractorAddress": "1445 REGENT ST, MADISON, WI 53711",
       "category": "Renovation"
+    },
+    {
+      "id": "BLDNRC-2026-25791",
+      "permitNumber": "BLDNRC-2026-25791",
+      "use": "TWO FAMILY RESIDENCES",
+      "address": "9275 HIDDEN FAWN TRL",
+      "buildingSqft": "6,178",
+      "estimatedCost": "$690,136",
+      "feesPaid": "$1,174",
+      "owner": "EAST SOUTH POINT, LLC",
+      "ownerAddress": "6801 SOUTH TOWNE DR, 842 FOX RUN CT, MADISON, WI 53713",
+      "description": "NEW TWIN HOME ZERO LOT LINE",
+      "issuanceDate": "11/16/2026",
+      "contractor": "VERIDIAN HOMES LLC",
+      "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
+      "category": "Commercial"
     },
     {
       "id": "BLDNRC-2026-24258",
