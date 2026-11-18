@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-17T17:21:42.084942Z",
-  "totalCount": 3183,
+  "lastUpdated": "2026-11-18T16:55:52.079582Z",
+  "totalCount": 3192,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -98008,6 +98008,285 @@
         "phone": "6088310800"
       },
       "dateAdded": "2026-11-17T17:21:42.084942Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "21-Prescott-Cir,-Madison,-WI-53719",
+      "addressLine1": "21 Prescott Cir",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53719",
+      "price": 575000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "squareFootage": 2800,
+      "propertyType": "Single Family",
+      "yearBuilt": 2002,
+      "listedDate": "2026-11-12T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.008663,
+      "longitude": -89.488631,
+      "agent": {
+        "name": "Kenneth Kaiser",
+        "phone": "6087290238",
+        "email": "kjkmadison@yahoo.com"
+      },
+      "office": {
+        "name": "Real Broker LLC",
+        "phone": "6082680831"
+      },
+      "dateAdded": "2026-11-18T16:55:52.079582Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2810-Lakeland-Ave,-Madison,-WI-53704",
+      "addressLine1": "2810 Lakeland Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53704",
+      "price": 1650000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2691,
+      "propertyType": "Single Family",
+      "yearBuilt": 1951,
+      "listedDate": "2026-11-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.090199,
+      "longitude": -89.343142,
+      "agent": {
+        "name": "Liz Lauer",
+        "phone": "6084445725",
+        "email": "liz@lauerrealtygroup.com"
+      },
+      "office": {
+        "name": "Lauer Realty Group, Inc.",
+        "phone": "6084673220"
+      },
+      "dateAdded": "2026-11-18T16:55:52.079582Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5002-Wenlock-Rose-Ct,-Unit-5002,-Middleton,-WI-53562",
+      "addressLine1": "5002 Wenlock Rose Ct",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 950000,
+      "bedrooms": 2,
+      "bathrooms": 2.5,
+      "squareFootage": 2887,
+      "propertyType": "Condo",
+      "yearBuilt": 1997,
+      "listedDate": "2026-11-14T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.115652,
+      "longitude": -89.465935,
+      "agent": {
+        "name": "Denise Holmes",
+        "phone": "6085765556",
+        "email": "dholmes@bunburyrealtors.com"
+      },
+      "office": {
+        "name": "Collective Real Estate Group",
+        "phone": "6086627777"
+      },
+      "dateAdded": "2026-11-18T16:55:52.079582Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4330-S-Jordan-Dr,-Mcfarland,-WI-53558",
+      "addressLine1": "4330 S Jordan Dr",
+      "city": "Mcfarland",
+      "state": "WI",
+      "zipCode": "53558",
+      "price": 1500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "squareFootage": 2506,
+      "propertyType": "Single Family",
+      "yearBuilt": 2020,
+      "listedDate": "2026-11-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 42.990491,
+      "longitude": -89.335101,
+      "agent": {
+        "name": "Kristine Jaeger",
+        "phone": "6082171919",
+        "email": "kristine@sprinkmanrealestate.com"
+      },
+      "office": {
+        "name": "Sprinkman Real Estate",
+        "phone": "6084679596"
+      },
+      "dateAdded": "2026-11-18T16:55:52.079582Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "L42-Thinnes-St,-Cross-Plains,-WI-53528",
+      "addressLine1": "L42 Thinnes St",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 575000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1665,
+      "propertyType": "Single Family",
+      "yearBuilt": 2027,
+      "listedDate": "2026-11-12T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.11751571,
+      "longitude": -89.62835577,
+      "agent": {
+        "name": "Living In Madison Real Estate Group",
+        "phone": null,
+        "email": "mari@livinginmadison.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-11-18T16:55:52.079582Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1314-Kings-Lynn-Rd,-Stoughton,-WI-53589",
+      "addressLine1": "1314 Kings Lynn Rd",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 700000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3586,
+      "propertyType": "Single Family",
+      "yearBuilt": 1999,
+      "listedDate": "2026-11-14T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.929623,
+      "longitude": -89.242456,
+      "agent": {
+        "name": "Aaron Weber",
+        "phone": "6086186683",
+        "email": "aaron@movetomadison.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-11-18T16:55:52.079582Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1817-Park-St,-Middleton,-WI-53562",
+      "addressLine1": "1817 Park St",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 434900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1900,
+      "listedDate": "2026-11-16T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.095741,
+      "longitude": -89.501326,
+      "agent": {
+        "name": "Dan Breunig",
+        "phone": "6083701154",
+        "email": "dan@lakeandcityhomes.com"
+      },
+      "office": {
+        "name": "Four Lake Real Estate, LLC",
+        "phone": "6083701154"
+      },
+      "dateAdded": "2026-11-18T16:55:52.079582Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "156-North-Star-Dr,-Madison,-WI-53718",
+      "addressLine1": "156 North Star Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 400000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1526,
+      "propertyType": "Single Family",
+      "yearBuilt": 2019,
+      "listedDate": "2026-11-13T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.098039,
+      "longitude": -89.276403,
+      "agent": {
+        "name": "Lisa Mohar",
+        "phone": "6086951968",
+        "email": "lisamohar@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6082747500"
+      },
+      "dateAdded": "2026-11-18T16:55:52.079582Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2850-Junebark-Dr,-Lot-44,-Cross-Plains,-WI-53528",
+      "addressLine1": "2850 Junebark Dr",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 575000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 1665,
+      "propertyType": "Single Family",
+      "yearBuilt": 2027,
+      "listedDate": "2026-11-16T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.11739041,
+      "longitude": -89.62861326,
+      "agent": {
+        "name": "Living In Madison Real Estate Group",
+        "phone": null,
+        "email": "mari@livinginmadison.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-11-18T16:55:52.079582Z",
       "owner": {
         "owner1": null,
         "owner2": null
