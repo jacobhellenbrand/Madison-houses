@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-18T16:55:52.079582Z",
-  "totalCount": 3192,
+  "lastUpdated": "2026-11-19T17:01:47.596539Z",
+  "totalCount": 3197,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -98287,6 +98287,161 @@
         "phone": "6088310800"
       },
       "dateAdded": "2026-11-18T16:55:52.079582Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1400-Moll-Dr,-Waunakee,-WI-53597",
+      "addressLine1": "1400 Moll Dr",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 1675000,
+      "bedrooms": 5,
+      "bathrooms": 4.5,
+      "squareFootage": 4530,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-11-14T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.17057,
+      "longitude": -89.470543,
+      "agent": {
+        "name": "Keith Mcneely",
+        "phone": "6083704020",
+        "email": "keith@keithmcneelyhomes.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6088367433"
+      },
+      "dateAdded": "2026-11-19T17:01:47.596539Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3207-Giehler-Dr,-Stoughton,-WI-53589",
+      "addressLine1": "3207 Giehler Dr",
+      "city": "Stoughton",
+      "state": "WI",
+      "zipCode": "53589",
+      "price": 579900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2232,
+      "propertyType": "Single Family",
+      "yearBuilt": 1991,
+      "listedDate": "2026-11-17T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 42.944336,
+      "longitude": -89.252953,
+      "agent": {
+        "name": "Kendra Halverson",
+        "phone": null,
+        "email": "khalverson@coldwellhomes.com"
+      },
+      "office": {
+        "name": "Fitchburg Office",
+        "phone": "8002361550"
+      },
+      "dateAdded": "2026-11-19T17:01:47.596539Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6359-Brandywood-Trl,-Sun-Prairie,-WI-53590",
+      "addressLine1": "6359 Brandywood Trl",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 984900,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 4330,
+      "propertyType": "Single Family",
+      "yearBuilt": 1991,
+      "listedDate": "2026-11-16T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.19864,
+      "longitude": -89.28281,
+      "agent": {
+        "name": "Chris Barreau",
+        "phone": "6087099001",
+        "email": "chris@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-11-19T17:01:47.596539Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2844-Junebark-Dr,-Lot-45,-Cross-Plains,-WI-53528",
+      "addressLine1": "2844 Junebark Dr",
+      "city": "Cross Plains",
+      "state": "WI",
+      "zipCode": "53528",
+      "price": 625000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2369,
+      "propertyType": "Single Family",
+      "yearBuilt": 2027,
+      "listedDate": "2026-11-16T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.11745306,
+      "longitude": -89.62865618,
+      "agent": {
+        "name": "Living In Madison Real Estate Group",
+        "phone": null,
+        "email": "mari@livinginmadison.com"
+      },
+      "office": {
+        "name": "Keller Williams Realty",
+        "phone": "6088310800"
+      },
+      "dateAdded": "2026-11-19T17:01:47.596539Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "406-408-408-5-S-Mills-St,-Madison,-WI-53715",
+      "addressLine1": "406-408-408 5 S Mills St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53715",
+      "price": 1095000,
+      "bedrooms": 11,
+      "bathrooms": 4,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1900,
+      "listedDate": "2026-11-16T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.062807,
+      "longitude": -89.404403,
+      "agent": {
+        "name": "Brandon Housley",
+        "phone": "9207231886",
+        "email": "bhousley@artisangraham.com"
+      },
+      "office": {
+        "name": "Artisan Graham Real Estate",
+        "phone": "6084165664"
+      },
+      "dateAdded": "2026-11-19T17:01:47.596539Z",
       "owner": {
         "owner1": null,
         "owner2": null

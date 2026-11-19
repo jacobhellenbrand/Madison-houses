@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-18T17:04:04.292362Z",
+  "lastUpdated": "2026-11-19T17:11:22.280159Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 5,
+  "totalCount": 4,
   "proposals": [
     {
       "id": "BLDRPR-2026-26703",
@@ -18,22 +18,6 @@
       "issuanceDate": "11/16/2026",
       "contractor": "ACE EXTERIOR SOLUTIONS LLC",
       "contractorAddress": "245 HORIZON DR #102, VERONA, WI 53793",
-      "category": "Commercial"
-    },
-    {
-      "id": "BLDNRC-2026-23354",
-      "permitNumber": "BLDNRC-2026-23354",
-      "use": "TWO FAMILY RESIDENCES",
-      "address": "22 S MILLS ST",
-      "buildingSqft": "3,258",
-      "estimatedCost": "$662,000",
-      "feesPaid": "$779",
-      "owner": "PREMIER BUILDERS, INC.",
-      "ownerAddress": "102 N HOLIDAY DR, 1010 E WASHINGTON AVE APT 1003, WAUNAKEE, WI 53597",
-      "description": "NEW DUPLEX 16-20 S MILLS",
-      "issuanceDate": "10/19/2026",
-      "contractor": "PREMIER BUILDERS INC",
-      "contractorAddress": "102 N HOLIDAY DR #1, WAUNAKEE",
       "category": "Commercial"
     },
     {
