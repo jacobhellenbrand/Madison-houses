@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-19T17:11:22.280159Z",
+  "lastUpdated": "2026-11-20T16:50:06.861437Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 4,
+  "totalCount": 6,
   "proposals": [
     {
       "id": "BLDRPR-2026-26703",
@@ -67,6 +67,38 @@
       "contractor": "VERIDIAN HOMES LLC",
       "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
       "category": "Commercial"
+    },
+    {
+      "id": "BLDRPR-2026-26862",
+      "permitNumber": "BLDRPR-2026-26862",
+      "use": "HOSPITAL/MEDICAL",
+      "address": "202 S PARK ST",
+      "buildingSqft": "0",
+      "estimatedCost": "$276,863",
+      "feesPaid": "$3,047",
+      "owner": "MERITER HOSPITAL INC",
+      "ownerAddress": "202 S PARK ST, 202 S PARK ST, MADISON, WI 53715",
+      "description": "REROOFING THE SKYWALK THAT GOES ACROSS PARK STREET FROM THE HOSPITAL TO 1 S. PARK.REPLACING THE BALLASTED EPDM MEMBRANE WITH AND ADHERED EPDM MEMBRANE.VISIBLE SHEET METAL WILL REMAIN, AS IS.",
+      "issuanceDate": "11/18/2026",
+      "contractor": "TILSEN ROOFING CO INC",
+      "contractorAddress": "P.O. BOX 259338, MADISON, WI 53725-338",
+      "category": "Medical"
+    },
+    {
+      "id": "BLDRPR-2026-25787",
+      "permitNumber": "BLDRPR-2026-25787",
+      "use": "SINGLE FAMILY RESIDENCES",
+      "address": "1005 SUE PL",
+      "buildingSqft": "0",
+      "estimatedCost": "$52,057",
+      "feesPaid": "$608",
+      "owner": "STOFLET, AUTUMN C",
+      "ownerAddress": "1005 SUE PL, MADISON, WI 53705-1354",
+      "description": "KITCHEN REMODEL - CHANGE LAYOUT OF CABINETRY, REPLACE WINDOW WITH DOOR UNDER EXISTING HEADER. REMOVE NONLOAD BEARING WALL",
+      "issuanceDate": "10/29/2026",
+      "contractor": "MCS CONTRACTING LLC",
+      "contractorAddress": "6301 STATE ROAD 78, MAZOMANIE, WI 53560",
+      "category": "Renovation"
     }
   ]
 }

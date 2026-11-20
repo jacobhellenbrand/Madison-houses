@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-19T17:11:22.280159Z",
-  "totalCount": 250,
+  "lastUpdated": "2026-11-20T16:50:06.861437Z",
+  "totalCount": 251,
   "proposals": [
     {
       "id": "2066-Helena-St",
@@ -4091,6 +4091,23 @@
       "contractorAddress": "6801 SOUTH TOWNE DR, MADISON, WI 53713",
       "category": "Commercial",
       "dateAdded": "2026-11-17T17:30:04.217202Z"
+    },
+    {
+      "id": "BLDRPR-2026-26862",
+      "permitNumber": "BLDRPR-2026-26862",
+      "use": "HOSPITAL/MEDICAL",
+      "address": "202 S PARK ST",
+      "buildingSqft": "0",
+      "estimatedCost": "$276,863",
+      "feesPaid": "$3,047",
+      "owner": "MERITER HOSPITAL INC",
+      "ownerAddress": "202 S PARK ST, 202 S PARK ST, MADISON, WI 53715",
+      "description": "REROOFING THE SKYWALK THAT GOES ACROSS PARK STREET FROM THE HOSPITAL TO 1 S. PARK.REPLACING THE BALLASTED EPDM MEMBRANE WITH AND ADHERED EPDM MEMBRANE.VISIBLE SHEET METAL WILL REMAIN, AS IS.",
+      "issuanceDate": "11/18/2026",
+      "contractor": "TILSEN ROOFING CO INC",
+      "contractorAddress": "P.O. BOX 259338, MADISON, WI 53725-338",
+      "category": "Medical",
+      "dateAdded": "2026-11-20T16:50:06.861437Z"
     }
   ]
 }
