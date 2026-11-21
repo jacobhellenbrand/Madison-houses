@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-20T16:50:06.861437Z",
+  "lastUpdated": "2026-11-21T16:00:54.806990Z",
   "source": "City of Madison Building Inspection",
   "sourceUrl": "https://cityreports.cityofmadison.com/CityReports/ReportViewer/ReportViewer/?ReportPath=/Web%20Access/Building/Permits/Construction%20Summary",
-  "totalCount": 6,
+  "totalCount": 5,
   "proposals": [
     {
       "id": "BLDRPR-2026-26703",
@@ -83,22 +83,6 @@
       "contractor": "TILSEN ROOFING CO INC",
       "contractorAddress": "P.O. BOX 259338, MADISON, WI 53725-338",
       "category": "Medical"
-    },
-    {
-      "id": "BLDRPR-2026-25787",
-      "permitNumber": "BLDRPR-2026-25787",
-      "use": "SINGLE FAMILY RESIDENCES",
-      "address": "1005 SUE PL",
-      "buildingSqft": "0",
-      "estimatedCost": "$52,057",
-      "feesPaid": "$608",
-      "owner": "STOFLET, AUTUMN C",
-      "ownerAddress": "1005 SUE PL, MADISON, WI 53705-1354",
-      "description": "KITCHEN REMODEL - CHANGE LAYOUT OF CABINETRY, REPLACE WINDOW WITH DOOR UNDER EXISTING HEADER. REMOVE NONLOAD BEARING WALL",
-      "issuanceDate": "10/29/2026",
-      "contractor": "MCS CONTRACTING LLC",
-      "contractorAddress": "6301 STATE ROAD 78, MAZOMANIE, WI 53560",
-      "category": "Renovation"
     }
   ]
 }
