@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-21T15:53:44.224950Z",
-  "totalCount": 3220,
+  "lastUpdated": "2026-11-22T15:54:31.836686Z",
+  "totalCount": 3222,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -99155,6 +99155,68 @@
         "phone": "6082680831"
       },
       "dateAdded": "2026-11-21T15:53:44.224950Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9917-Sweet-Willow-Pass,-Verona,-WI-53593",
+      "addressLine1": "9917 Sweet Willow Pass",
+      "city": "Verona",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 459900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1574,
+      "propertyType": "Single Family",
+      "yearBuilt": 2020,
+      "listedDate": "2026-11-17T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.047052,
+      "longitude": -89.559902,
+      "agent": {
+        "name": "Tonya Thomsen",
+        "phone": "2624243138",
+        "email": "tonya@modernrpwi.com"
+      },
+      "office": {
+        "name": "Modern Realty Partners",
+        "phone": "4145261110"
+      },
+      "dateAdded": "2026-11-22T15:54:31.836686Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2301-Chamberlain-Ave,-Madison,-WI-53726",
+      "addressLine1": "2301 Chamberlain Ave",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53726",
+      "price": 799000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1637,
+      "propertyType": "Single Family",
+      "yearBuilt": 1902,
+      "listedDate": "2026-11-19T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.07038,
+      "longitude": -89.426243,
+      "agent": {
+        "name": "Jessica Osiecki",
+        "phone": "2623663798",
+        "email": "osieckij@firstweber.com"
+      },
+      "office": {
+        "name": "Compass Real Estate Wisconsin",
+        "phone": "6083363311"
+      },
+      "dateAdded": "2026-11-22T15:54:31.836686Z",
       "owner": {
         "owner1": null,
         "owner2": null
