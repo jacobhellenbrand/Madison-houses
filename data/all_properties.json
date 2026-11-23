@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-22T15:54:31.836686Z",
-  "totalCount": 3222,
+  "lastUpdated": "2026-11-23T19:48:59.768197Z",
+  "totalCount": 3225,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -99217,6 +99217,99 @@
         "phone": "6083363311"
       },
       "dateAdded": "2026-11-22T15:54:31.836686Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "617-E-Verleen-Ave,-Waunakee,-WI-53597",
+      "addressLine1": "617 E Verleen Ave",
+      "city": "Waunakee",
+      "state": "WI",
+      "zipCode": "53597",
+      "price": 569900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1880,
+      "propertyType": "Single Family",
+      "yearBuilt": 2027,
+      "listedDate": "2026-11-20T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.19727751,
+      "longitude": -89.44482666,
+      "agent": {
+        "name": "Veronica Isham",
+        "phone": "6082263100",
+        "email": "visham@veridianhomes.com"
+      },
+      "office": {
+        "name": "Stark Company, Realtors",
+        "phone": "6082263000"
+      },
+      "dateAdded": "2026-11-23T19:48:59.768197Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "582-Fargo-Trl,-Middleton,-WI-53562",
+      "addressLine1": "582 Fargo Trl",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 450000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 2250,
+      "propertyType": "Condo",
+      "yearBuilt": 2005,
+      "listedDate": "2026-11-20T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.072415,
+      "longitude": -89.549625,
+      "agent": {
+        "name": "Kristin Shields",
+        "phone": "6087098031",
+        "email": "kristin@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-11-23T19:48:59.768197Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2750-Hope-Rd,-Cottage-Grove,-WI-53527",
+      "addressLine1": "2750 Hope Rd",
+      "city": "Cottage Grove",
+      "state": "WI",
+      "zipCode": "53527",
+      "price": 595000,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "squareFootage": 1470,
+      "propertyType": "Single Family",
+      "yearBuilt": 1952,
+      "listedDate": "2026-11-19T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 43.051208,
+      "longitude": -89.218068,
+      "agent": {
+        "name": "Tori Wagner",
+        "phone": "2624249277",
+        "email": "toriwagner@kw.com"
+      },
+      "office": {
+        "name": "Keller Williams Lake Country",
+        "phone": "2629121400"
+      },
+      "dateAdded": "2026-11-23T19:48:59.768197Z",
       "owner": {
         "owner1": null,
         "owner2": null
