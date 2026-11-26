@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-25T18:24:50.235115Z",
-  "totalCount": 3244,
+  "lastUpdated": "2026-11-26T18:06:58.103795Z",
+  "totalCount": 3250,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -99899,6 +99899,192 @@
         "phone": null
       },
       "dateAdded": "2026-11-25T18:24:50.235115Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "2010-2018-Mckenna-Blvd,-Madison,-WI-53711",
+      "addressLine1": "2010-2018 Mckenna Blvd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53711",
+      "price": 1479900,
+      "bedrooms": null,
+      "bathrooms": null,
+      "squareFootage": null,
+      "propertyType": "Multi-Family",
+      "yearBuilt": 1986,
+      "listedDate": "2026-11-21T00:00:00.000Z",
+      "daysOnMarket": 6,
+      "latitude": 43.030691,
+      "longitude": -89.497422,
+      "agent": {
+        "name": "David Baehr",
+        "phone": "6082136686",
+        "email": "david@baehrinc.com"
+      },
+      "office": {
+        "name": "American, REALTORS",
+        "phone": "6088342600"
+      },
+      "dateAdded": "2026-11-26T18:06:58.103795Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "3188-Nelson-Rd,-Sun-Prairie,-WI-53590",
+      "addressLine1": "3188 Nelson Rd",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 680000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2764,
+      "propertyType": "Single Family",
+      "yearBuilt": 1994,
+      "listedDate": "2026-11-20T00:00:00.000Z",
+      "daysOnMarket": 7,
+      "latitude": 43.14433,
+      "longitude": -89.247912,
+      "agent": {
+        "name": "Joe Shipley",
+        "phone": "6085013322",
+        "email": "joe@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-11-26T18:06:58.103795Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "9241-Silver-Maple-Dr,-Madison,-WI-53593",
+      "addressLine1": "9241 Silver Maple Dr",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 479900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1615,
+      "propertyType": "Single Family",
+      "yearBuilt": null,
+      "listedDate": "2026-11-24T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.052055,
+      "longitude": -89.544787,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-11-26T18:06:58.103795Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "4744-Vosen-Rd,-Middleton,-WI-53562",
+      "addressLine1": "4744 Vosen Rd",
+      "city": "Middleton",
+      "state": "WI",
+      "zipCode": "53562",
+      "price": 795000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1950,
+      "propertyType": "Single Family",
+      "yearBuilt": 1992,
+      "listedDate": "2026-11-25T00:00:00.000Z",
+      "daysOnMarket": 2,
+      "latitude": 43.114072,
+      "longitude": -89.580479,
+      "agent": {
+        "name": "Crystal Herbrand",
+        "phone": "6082067993",
+        "email": "crystalherbrand15@gmail.com"
+      },
+      "office": {
+        "name": "Home Connection Realty",
+        "phone": "6084458275"
+      },
+      "dateAdded": "2026-11-26T18:06:58.103795Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "5623-Divine-St,-Madison,-WI-53718",
+      "addressLine1": "5623 Divine St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53718",
+      "price": 530000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1666,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-11-25T00:00:00.000Z",
+      "daysOnMarket": 2,
+      "latitude": 43.111154,
+      "longitude": -89.280531,
+      "agent": {
+        "name": "Garret Clemment",
+        "phone": "6087098033",
+        "email": "garret@mhbrealestate.com"
+      },
+      "office": {
+        "name": "MHB Real Estate",
+        "phone": "6087099886"
+      },
+      "dateAdded": "2026-11-26T18:06:58.103795Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "519-Summer-Rain-Pass,-Madison,-WI-53593",
+      "addressLine1": "519 Summer Rain Pass",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53593",
+      "price": 524900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 1649,
+      "propertyType": "Single Family",
+      "yearBuilt": null,
+      "listedDate": "2026-11-24T00:00:00.000Z",
+      "daysOnMarket": 3,
+      "latitude": 43.0528766,
+      "longitude": -89.5452784,
+      "agent": {
+        "name": null,
+        "phone": null,
+        "email": null
+      },
+      "office": {
+        "name": null,
+        "phone": null
+      },
+      "dateAdded": "2026-11-26T18:06:58.103795Z",
       "owner": {
         "owner1": null,
         "owner2": null
