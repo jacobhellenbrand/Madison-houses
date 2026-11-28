@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-27T17:49:47.367708Z",
-  "totalCount": 3256,
+  "lastUpdated": "2026-11-28T16:37:17.693723Z",
+  "totalCount": 3259,
   "properties": [
     {
       "id": "360-W-Washington-Ave,-Unit-901,-Madison,-WI-53703",
@@ -100271,6 +100271,99 @@
         "phone": "6088341722"
       },
       "dateAdded": "2026-11-27T17:49:47.367708Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "1705-Regent-St,-Madison,-WI-53726",
+      "addressLine1": "1705 Regent St",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53726",
+      "price": 699000,
+      "bedrooms": 6,
+      "bathrooms": 2.5,
+      "squareFootage": 1965,
+      "propertyType": "Single Family",
+      "yearBuilt": 1924,
+      "listedDate": "2026-11-25T00:00:00.000Z",
+      "daysOnMarket": 4,
+      "latitude": 43.067583,
+      "longitude": -89.415224,
+      "agent": {
+        "name": "Brandon Housley",
+        "phone": "9207231886",
+        "email": "bhousley@artisangraham.com"
+      },
+      "office": {
+        "name": "Artisan Graham Real Estate",
+        "phone": "6084165664"
+      },
+      "dateAdded": "2026-11-28T16:37:17.693723Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "6858-Karolina-Way,-Sun-Prairie,-WI-53590",
+      "addressLine1": "6858 Karolina Way",
+      "city": "Sun Prairie",
+      "state": "WI",
+      "zipCode": "53590",
+      "price": 1249900,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "squareFootage": 3589,
+      "propertyType": "Single Family",
+      "yearBuilt": 2026,
+      "listedDate": "2026-11-27T00:00:00.000Z",
+      "daysOnMarket": 2,
+      "latitude": 43.223689,
+      "longitude": -89.243245,
+      "agent": {
+        "name": "Abby Marten",
+        "phone": "6082120435",
+        "email": "abbymmarten@gmail.com"
+      },
+      "office": {
+        "name": "Winterberry Realty, LLC.",
+        "phone": "6082120435"
+      },
+      "dateAdded": "2026-11-28T16:37:17.693723Z",
+      "owner": {
+        "owner1": null,
+        "owner2": null
+      }
+    },
+    {
+      "id": "482-Peterson-Trl,-Oregon,-WI-53575",
+      "addressLine1": "482 Peterson Trl",
+      "city": "Oregon",
+      "state": "WI",
+      "zipCode": "53575",
+      "price": 524900,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFootage": 2665,
+      "propertyType": "Single Family",
+      "yearBuilt": 2021,
+      "listedDate": "2026-11-24T00:00:00.000Z",
+      "daysOnMarket": 5,
+      "latitude": 42.93559,
+      "longitude": -89.408229,
+      "agent": {
+        "name": "Brenda Murphy",
+        "phone": "6082765221",
+        "email": "murphyb@firstweber.com"
+      },
+      "office": {
+        "name": "First Weber Real Estate Services",
+        "phone": "6082747500"
+      },
+      "dateAdded": "2026-11-28T16:37:17.693723Z",
       "owner": {
         "owner1": null,
         "owner2": null
